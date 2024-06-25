@@ -180,7 +180,7 @@ Sandpipers and allies;Charadriiformes;Scolopacidae;Common sandpiper;Actitis hypo
 Sandpipers and allies;Charadriiformes;Scolopacidae;Spotted sandpiper;Actitis macularius;chevalier grivelé;https://en.wikipedia.org/wiki/Spotted_sandpiper;https://fr.wikipedia.org/wiki/Chevalier_grivel%C3%A9
 Sandpipers and allies;Charadriiformes;Scolopacidae;Green sandpiper;Tringa ochropus;chevalier cul-blanc;https://en.wikipedia.org/wiki/Green_sandpiper;https://fr.wikipedia.org/wiki/Chevalier_cul-blanc
 Sandpipers and allies;Charadriiformes;Scolopacidae;Solitary sandpiper;Tringa solitaria;chevalier solitaire;https://en.wikipedia.org/wiki/Solitary_sandpiper;https://fr.wikipedia.org/wiki/Chevalier_solitaire
-Sandpipers and allies;Charadriiformes;Scolopacidae;Grey-tailed tattler;Tringa brevipes;;https://en.wikipedia.org/wiki/Grey-tailed_tattler;https://fr.wikipedia.org/wiki/Chevalier_solitaire
+Sandpipers and allies;Charadriiformes;Scolopacidae;Grey-tailed tattler;Tringa brevipes;;https://en.wikipedia.org/wiki/Grey-tailed_tattler;
 Sandpipers and allies;Charadriiformes;Scolopacidae;Spotted redshank;Tringa erythropus;chevalier arlequin;https://en.wikipedia.org/wiki/Spotted_redshank;https://fr.wikipedia.org/wiki/Chevalier_arlequin
 Sandpipers and allies;Charadriiformes;Scolopacidae;Greater yellowlegs;Tringa melanoleuca;chevalier criard;https://en.wikipedia.org/wiki/Greater_yellowlegs;https://fr.wikipedia.org/wiki/Grand_Chevalier
 Sandpipers and allies;Charadriiformes;Scolopacidae;Common greenshank;Tringa nebularia;chevalier aboyeur;https://en.wikipedia.org/wiki/Common_greenshank;https://fr.wikipedia.org/wiki/Chevalier_aboyeur
@@ -285,7 +285,7 @@ Pelicans;Pelecaniformes;Pelecanidae;Great white pelican;Pelecanus onocrotalus;p�
 Pelicans;Pelecaniformes;Pelecanidae;Dalmatian pelican;Pelecanus crispus;pélican frisé;https://en.wikipedia.org/wiki/Dalmatian_pelican;https://fr.wikipedia.org/wiki/P%C3%A9lican_fris%C3%A9
 Herons, egrets, and bitterns;Pelecaniformes;Ardeidae;Great bittern;Botaurus stellaris;butor étoilé;https://en.wikipedia.org/wiki/Great_bittern;https://fr.wikipedia.org/wiki/Butor_%C3%A9toil%C3%A9
 Herons, egrets, and bitterns;Pelecaniformes;Ardeidae;Little bittern;Ixobrychus minutus;blongios nain;https://en.wikipedia.org/wiki/Little_bittern;https://fr.wikipedia.org/wiki/Blongios_nain
-Herons, egrets, and bitterns;Pelecaniformes;Ardeidae;Dwarf bittern;Ixobrychus sturmii;;https://en.wikipedia.org/wiki/Dwarf_bittern;https://fr.wikipedia.org/wiki/Blongios_nain
+Herons, egrets, and bitterns;Pelecaniformes;Ardeidae;Dwarf bittern;Ixobrychus sturmii;;https://en.wikipedia.org/wiki/Dwarf_bittern;
 Herons, egrets, and bitterns;Pelecaniformes;Ardeidae;Great blue heron;Ardea herodias;grand Héron;https://en.wikipedia.org/wiki/Great_blue_heron;https://fr.wikipedia.org/wiki/Grand_H%C3%A9ron
 Herons, egrets, and bitterns;Pelecaniformes;Ardeidae;Gray heron;Ardea cinerea;héron cendré;https://en.wikipedia.org/wiki/Gray_heron;https://fr.wikipedia.org/wiki/H%C3%A9ron_cendr%C3%A9
 Herons, egrets, and bitterns;Pelecaniformes;Ardeidae;Black-headed heron;Ardea melanocephala;héron mélanocéphale;https://en.wikipedia.org/wiki/Black-headed_heron;https://fr.wikipedia.org/wiki/H%C3%A9ron_m%C3%A9lanoc%C3%A9phale
@@ -308,7 +308,7 @@ Hawks, eagles, and kites;Accipitriformes;Accipitridae;Black-winged kite;Elanus c
 Hawks, eagles, and kites;Accipitriformes;Accipitridae;Bearded vulture;Gypaetus barbatus;gypaète barbu;https://en.wikipedia.org/wiki/Bearded_vulture;https://fr.wikipedia.org/wiki/Gypa%C3%A8te_barbu
 Hawks, eagles, and kites;Accipitriformes;Accipitridae;Egyptian vulture;Neophron percnopterus;percnoptère d'Egypte;https://en.wikipedia.org/wiki/Egyptian_vulture;https://fr.wikipedia.org/wiki/Percnopt%C3%A8re
 Hawks, eagles, and kites;Accipitriformes;Accipitridae;European honey-buzzard;Pernis apivorus;bondrée apivore;https://en.wikipedia.org/wiki/European_honey-buzzard;https://fr.wikipedia.org/wiki/Bondr%C3%A9e_apivore
-Hawks, eagles, and kites;Accipitriformes;Accipitridae;Oriental honey-buzzard;Pernis ptilorhynchus;;https://en.wikipedia.org/wiki/Oriental_honey-buzzard;https://fr.wikipedia.org/wiki/Bondr%C3%A9e_apivore
+Hawks, eagles, and kites;Accipitriformes;Accipitridae;Oriental honey-buzzard;Pernis ptilorhynchus;;https://en.wikipedia.org/wiki/Oriental_honey-buzzard;
 Hawks, eagles, and kites;Accipitriformes;Accipitridae;Cinereous vulture;Aegypius monachus;vautour moine;https://en.wikipedia.org/wiki/Cinereous_vulture;https://fr.wikipedia.org/wiki/Vautour_moine
 Hawks, eagles, and kites;Accipitriformes;Accipitridae;Lappet-faced vulture;Torgos tracheliotos;vautour oricou;https://en.wikipedia.org/wiki/Lappet-faced_vulture;https://fr.wikipedia.org/wiki/Vautour_oricou
 Hawks, eagles, and kites;Accipitriformes;Accipitridae;Rüppell's griffon;Gyps rueppelli;vautour de Rüppell;https://en.wikipedia.org/wiki/R%C3%BCppell%27s_griffon;https://fr.wikipedia.org/wiki/Vautour_de_R%C3%BCppell
@@ -495,7 +495,7 @@ Thrushes and allies;Passeriformes;Turdidae;Scaly thrush;Zoothera dauma;grive dam
 Thrushes and allies;Passeriformes;Turdidae;Veery;Catharus fuscescens;grive fauve;https://en.wikipedia.org/wiki/Veery;https://fr.wikipedia.org/wiki/Grive_fauve
 Thrushes and allies;Passeriformes;Turdidae;Gray-cheeked thrush;Catharus minimus;grive à joues grises;https://en.wikipedia.org/wiki/Gray-cheeked_thrush;https://fr.wikipedia.org/wiki/Grive_%C3%A0_joues_grises
 Thrushes and allies;Passeriformes;Turdidae;Swainson's thrush;Catharus ustulatus;grive à dos olive;https://en.wikipedia.org/wiki/Swainson%27s_thrush;https://fr.wikipedia.org/wiki/Grive_%C3%A0_dos_olive
-Thrushes and allies;Passeriformes;Turdidae;Hermit thrush;Catharus guttatus;;https://en.wikipedia.org/wiki/Hermit_thrush;https://fr.wikipedia.org/wiki/Grive_%C3%A0_dos_olive
+Thrushes and allies;Passeriformes;Turdidae;Hermit thrush;Catharus guttatus;;https://en.wikipedia.org/wiki/Hermit_thrush;
 Thrushes and allies;Passeriformes;Turdidae;Siberian thrush;Geokichla sibirica;grive de Sibérie;https://en.wikipedia.org/wiki/Siberian_thrush;https://fr.wikipedia.org/wiki/Grive_de_Sib%C3%A9rie
 Thrushes and allies;Passeriformes;Turdidae;Mistle thrush;Turdus viscivorus;grive draine;https://en.wikipedia.org/wiki/Mistle_thrush;https://fr.wikipedia.org/wiki/Grive_draine
 Thrushes and allies;Passeriformes;Turdidae;Song thrush;Turdus philomelos;grive musicienne;https://en.wikipedia.org/wiki/Song_thrush;https://fr.wikipedia.org/wiki/Grive_musicienne
@@ -533,7 +533,7 @@ Old World flycatchers;Passeriformes;Muscicapidae;Northern wheatear;Oenanthe oena
 Old World flycatchers;Passeriformes;Muscicapidae;Isabelline wheatear;Oenanthe isabellina;traquet isabelle;https://en.wikipedia.org/wiki/Isabelline_wheatear;https://fr.wikipedia.org/wiki/Traquet_isabelle
 Old World flycatchers;Passeriformes;Muscicapidae;Desert wheatear;Oenanthe deserti;traquet du désert;https://en.wikipedia.org/wiki/Desert_wheatear;https://fr.wikipedia.org/wiki/Traquet_du_d%C3%A9sert
 Old World flycatchers;Passeriformes;Muscicapidae;Western black-eared wheatear;Oenanthe hispanica;traquet oreillard;https://en.wikipedia.org/wiki/Western_black-eared_wheatear;https://fr.wikipedia.org/wiki/Traquet_oreillard
-Old World flycatchers;Passeriformes;Muscicapidae;Eastern black-eared wheatear;Oenanthe melanoleuca;;https://en.wikipedia.org/wiki/Eastern_black-eared_wheatear;https://fr.wikipedia.org/wiki/Traquet_oreillard
+Old World flycatchers;Passeriformes;Muscicapidae;Eastern black-eared wheatear;Oenanthe melanoleuca;;https://en.wikipedia.org/wiki/Eastern_black-eared_wheatear;
 Old World flycatchers;Passeriformes;Muscicapidae;Pied wheatear;Oenanthe pleschanka;traquet pie;https://en.wikipedia.org/wiki/Pied_wheatear;https://fr.wikipedia.org/wiki/Traquet_pie
 Old World flycatchers;Passeriformes;Muscicapidae;Black wheatear;Oenanthe leucura;traquet rieur;https://en.wikipedia.org/wiki/Black_wheatear;https://fr.wikipedia.org/wiki/Traquet_rieur
 Old World flycatchers;Passeriformes;Muscicapidae;White-crowned wheatear;Oenanthe leucopyga;traquet à tête blanche;https://en.wikipedia.org/wiki/White-crowned_wheatear;https://fr.wikipedia.org/wiki/Traquet_%C3%A0_t%C3%AAte_blanche
@@ -595,7 +595,7 @@ Old World buntings;Passeriformes;Emberizidae;Rock bunting;Emberiza cia;bruant fo
 Old World buntings;Passeriformes;Emberizidae;Cirl bunting;Emberiza cirlus;bruant zizi;https://en.wikipedia.org/wiki/Cirl_bunting;https://fr.wikipedia.org/wiki/Bruant_zizi
 Old World buntings;Passeriformes;Emberizidae;Yellowhammer;Emberiza citrinella;bruant jaune;https://en.wikipedia.org/wiki/Yellowhammer;https://fr.wikipedia.org/wiki/Bruant_jaune
 Old World buntings;Passeriformes;Emberizidae;Pine bunting;Emberiza leucocephalos;bruant à calotte blanche;https://en.wikipedia.org/wiki/Pine_bunting;https://fr.wikipedia.org/wiki/Bruant_%C3%A0_calotte_blanche
-Old World buntings;Passeriformes;Emberizidae;Grey-necked bunting;Emberiza buchanani;;https://en.wikipedia.org/wiki/Grey-necked_bunting;https://fr.wikipedia.org/wiki/Bruant_%C3%A0_calotte_blanche
+Old World buntings;Passeriformes;Emberizidae;Grey-necked bunting;Emberiza buchanani;;https://en.wikipedia.org/wiki/Grey-necked_bunting;
 Old World buntings;Passeriformes;Emberizidae;Ortolan bunting;Emberiza hortulana;bruant ortolan;https://en.wikipedia.org/wiki/Ortolan_bunting;https://fr.wikipedia.org/wiki/Bruant_ortolan
 Old World buntings;Passeriformes;Emberizidae;Cretzschmar's bunting;Emberiza caesia;bruant cendrillard;https://en.wikipedia.org/wiki/Cretzschmar%27s_bunting;https://fr.wikipedia.org/wiki/Bruant_cendrillard
 Old World buntings;Passeriformes;Emberizidae;Pallas's bunting;Emberiza pallasi;bruant de Pallas;https://en.wikipedia.org/wiki/Pallas%27s_bunting;https://fr.wikipedia.org/wiki/Bruant_de_Pallas
