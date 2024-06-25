@@ -1,0 +1,501 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+greater_swamp_warbler,Greater Swamp Warbler,part_8,0. Greater Swamp Warbler,64
+greater_thornbird,Greater Thornbird,part_8,0. Greater Thornbird,385
+greater_vasa_parrot,Greater Vasa Parrot,part_8,0. Greater Vasa Parrot,312
+greater_wagtail_tyrant,Greater Wagtail-Tyrant,part_8,0. Greater Wagtail-Tyrant,252
+greater_white_fronted_goose,Greater White-fronted Goose,part_8,0. Greater White-fronted Goose,2613
+greater_yellow_finch,Greater Yellow Finch,part_8,0. Greater Yellow Finch,312
+greater_yellow_headed_vulture,Greater Yellow-headed Vulture,part_8,0. Greater Yellow-headed Vulture,549
+greater_yellowlegs,Greater Yellowlegs,part_8,0. Greater Yellowlegs,2700
+greater_yellownape,Greater Yellownape,part_8,0. Greater Yellownape,279
+great_winged_petrel,Great-winged Petrel,part_8,0. Great-winged Petrel,287
+green_aracari,Green Aracari,part_8,0. Green Aracari,612
+green_avadavat,Green Avadavat,part_8,0. Green Avadavat,247
+green_barbet,Green Barbet,part_8,0. Green Barbet,65
+green_broadbill,Green Broadbill,part_8,0. Green Broadbill,532
+green_catbird,Green Catbird,part_8,0. Green Catbird,435
+green_cochoa,Green Cochoa,part_8,0. Green Cochoa,130
+green_crombec,Green Crombec,part_8,0. Green Crombec,50
+green_figbird,Green Figbird,part_8,0. Green Figbird,433
+green_hermit,Green Hermit,part_8,0. Green Hermit,915
+green_heron,Green Heron,part_8,0. Green Heron,3031
+green_honeycreeper,Green Honeycreeper,part_8,0. Green Honeycreeper,2648
+green_ibis,Green Ibis,part_8,0. Green Ibis,1103
+green_imperial_pigeon,Green Imperial Pigeon,part_8,0. Green Imperial Pigeon,1081
+green_iora,Green Iora,part_8,0. Green Iora,174
+green_jay,Green Jay,part_8,0. Green Jay,771
+green_jery,Green Jery,part_8,0. Green Jery,34
+green_junglefowl,Green Junglefowl,part_8,0. Green Junglefowl,409
+green_kingfisher,Green Kingfisher,part_8,0. Green Kingfisher,2439
+green_longtail,Green Longtail,part_8,0. Green Longtail,8
+green_malkoha,Green Malkoha,part_8,0. Green Malkoha,36
+green_manakin,Green Manakin,part_8,0. Green Manakin,64
+green_mango,Green Mango,part_8,0. Green Mango,171
+green_oriole,Green Oriole,part_8,0. Green Oriole,362
+green_oropendola,Green Oropendola,part_8,0. Green Oropendola,217
+green_parakeet,Green Parakeet,part_8,0. Green Parakeet,451
+green_peafowl,Green Peafowl,part_8,0. Green Peafowl,980
+green_pheasant,Green Pheasant,part_8,0. Green Pheasant,428
+green_pygmy_goose,Green Pygmy Goose,part_8,0. Green Pygmy Goose,595
+green_rosella,Green Rosella,part_8,0. Green Rosella,522
+green_sandpiper,Green Sandpiper,part_8,0. Green Sandpiper,3011
+green_shrike_babbler,Green Shrike-babbler,part_8,0. Green Shrike-babbler,87
+green_shrike_vireo,Green Shrike-Vireo,part_8,0. Green Shrike-Vireo,91
+green_thorntail,Green Thorntail,part_8,0. Green Thorntail,1159
+green_tinkerbird,Green Tinkerbird,part_8,0. Green Tinkerbird,27
+green_warbler,Green Warbler,part_8,0. Green Warbler,240
+green_warbler_finch,Green Warbler-Finch,part_8,0. Green Warbler-Finch,199
+green_white_eye,Green White-eye,part_8,0. Green White-eye,27
+green_wood_hoopoe,Green Wood Hoopoe,part_8,0. Green Wood Hoopoe,901
+green_and_black_fruiteater,Green-and-black Fruiteater,part_8,0. Green-and-black Fruiteater,534
+green_and_gold_tanager,Green-and-gold Tanager,part_8,0. Green-and-gold Tanager,220
+green_and_rufous_kingfisher,Green-and-rufous Kingfisher,part_8,0. Green-and-rufous Kingfisher,386
+green_and_white_hummingbird,Green-and-white Hummingbird,part_8,0. Green-and-white Hummingbird,166
+green_backed_becard,Green-backed Becard,part_8,0. Green-backed Becard,326
+green_backed_camaroptera,Green-backed Camaroptera,part_8,0. Green-backed Camaroptera,376
+green_backed_eremomela,Green-backed Eremomela,part_8,0. Green-backed Eremomela,20
+green_backed_firecrown,Green-backed Firecrown,part_8,0. Green-backed Firecrown,726
+green_backed_flycatcher,Green-backed Flycatcher,part_8,0. Green-backed Flycatcher,209
+green_backed_gerygone,Green-backed Gerygone,part_8,0. Green-backed Gerygone,66
+green_backed_hillstar,Green-backed Hillstar,part_8,0. Green-backed Hillstar,79
+green_backed_honeyeater,Green-backed Honeyeater,part_8,0. Green-backed Honeyeater,41
+green_backed_kingfisher,Green-backed Kingfisher,part_8,0. Green-backed Kingfisher,289
+green_backed_robin,Green-backed Robin,part_8,0. Green-backed Robin,41
+green_backed_sparrow,Green-backed Sparrow,part_8,0. Green-backed Sparrow,126
+green_backed_tit,Green-backed Tit,part_8,0. Green-backed Tit,803
+green_backed_trogon,Green-backed Trogon,part_8,0. Green-backed Trogon,926
+green_backed_whistler,Green-backed Whistler,part_8,0. Green-backed Whistler,42
+green_backed_white_eye,Green-backed White-eye,part_8,0. Green-backed White-eye,96
+green_backed_woodpecker,Green-backed Woodpecker,part_8,0. Green-backed Woodpecker,71
+green_barred_woodpecker,Green-barred Woodpecker,part_8,0. Green-barred Woodpecker,2177
+green_bearded_helmetcrest,Green-bearded Helmetcrest,part_8,0. Green-bearded Helmetcrest,277
+green_bellied_hummingbird,Green-bellied Hummingbird,part_8,0. Green-bellied Hummingbird,136
+green_billed_coucal,Green-billed Coucal,part_8,0. Green-billed Coucal,95
+green_billed_malkoha,Green-billed Malkoha,part_8,0. Green-billed Malkoha,506
+green_breasted_bushshrike,Green-breasted Bushshrike,part_8,0. Green-breasted Bushshrike,9
+green_breasted_mango,Green-breasted Mango,part_8,0. Green-breasted Mango,1013
+green_breasted_mountaingem,Green-breasted Mountaingem,part_8,0. Green-breasted Mountaingem,129
+green_breasted_pitta,Green-breasted Pitta,part_8,0. Green-breasted Pitta,75
+green_capped_tanager,Green-capped Tanager,part_8,0. Green-capped Tanager,31
+green_cheeked_parakeet,Green-cheeked Parakeet,part_8,0. Green-cheeked Parakeet,356
+green_crowned_brilliant,Green-crowned Brilliant,part_8,0. Green-crowned Brilliant,2440
+green_crowned_warbler,Green-crowned Warbler,part_8,0. Green-crowned Warbler,25
+green_eared_barbet,Green-eared Barbet,part_8,0. Green-eared Barbet,189
+green_faced_parrotfinch,Green-faced Parrotfinch,part_8,0. Green-faced Parrotfinch,42
+green_fronted_hummingbird,Green-fronted Hummingbird,part_8,0. Green-fronted Hummingbird,69
+green_fronted_lancebill,Green-fronted Lancebill,part_8,0. Green-fronted Lancebill,302
+green_headed_hillstar,Green-headed Hillstar,part_8,0. Green-headed Hillstar,19
+green_headed_oriole,Green-headed Oriole,part_8,0. Green-headed Oriole,29
+green_headed_sunbird,Green-headed Sunbird,part_8,0. Green-headed Sunbird,188
+greenish_elaenia,Greenish Elaenia,part_8,0. Greenish Elaenia,421
+greenish_puffleg,Greenish Puffleg,part_8,0. Greenish Puffleg,232
+greenish_schiffornis,Greenish Schiffornis,part_8,0. Greenish Schiffornis,129
+greenish_tyrannulet,Greenish Tyrannulet,part_8,0. Greenish Tyrannulet,99
+greenish_warbler,Greenish Warbler,part_8,0. Greenish Warbler,884
+greenish_yellow_finch,Greenish Yellow Finch,part_8,0. Greenish Yellow Finch,365
+green_naped_tanager,Green-naped Tanager,part_8,0. Green-naped Tanager,12
+green_rumped_parrotlet,Green-rumped Parrotlet,part_8,0. Green-rumped Parrotlet,571
+green_striped_brushfinch,Green-striped Brushfinch,part_8,0. Green-striped Brushfinch,61
+green_tailed_bristlebill,Green-tailed Bristlebill,part_8,0. Green-tailed Bristlebill,8
+green_tailed_emerald,Green-tailed Emerald,part_8,0. Green-tailed Emerald,58
+green_tailed_goldenthroat,Green-tailed Goldenthroat,part_8,0. Green-tailed Goldenthroat,152
+green_tailed_jacamar,Green-tailed Jacamar,part_8,0. Green-tailed Jacamar,509
+green_tailed_sunbird,Green-tailed Sunbird,part_8,0. Green-tailed Sunbird,644
+green_tailed_towhee,Green-tailed Towhee,part_8,0. Green-tailed Towhee,1473
+green_tailed_trainbearer,Green-tailed Trainbearer,part_8,0. Green-tailed Trainbearer,306
+green_tailed_warbler,Green-tailed Warbler,part_8,0. Green-tailed Warbler,140
+green_throated_carib,Green-throated Carib,part_8,0. Green-throated Carib,660
+green_throated_mountaingem,Green-throated Mountaingem,part_8,0. Green-throated Mountaingem,132
+green_throated_sunbird,Green-throated Sunbird,part_8,0. Green-throated Sunbird,24
+green_winged_pytilia,Green-winged Pytilia,part_8,0. Green-winged Pytilia,607
+green_winged_teal,Green-winged Teal,part_8,0. Green-winged Teal,2030
+grenada_dove,Grenada Dove,part_8,0. Grenada Dove,58
+grenada_flycatcher,Grenada Flycatcher,part_8,0. Grenada Flycatcher,71
+grimwoods_longclaw,Grimwood's Longclaw,part_8,0. Grimwood's Longclaw,9
+groove_billed_ani,Groove-billed Ani,part_8,0. Groove-billed Ani,2051
+groove_billed_toucanet,Groove-billed Toucanet,part_8,0. Groove-billed Toucanet,168
+ground_cuckooshrike,Ground Cuckooshrike,part_8,0. Ground Cuckooshrike,164
+ground_tit,Ground Tit,part_8,0. Ground Tit,213
+ground_woodpecker,Ground Woodpecker,part_8,0. Ground Woodpecker,267
+groundscraper_thrush,Groundscraper Thrush,part_8,0. Groundscraper Thrush,695
+growling_riflebird,Growling Riflebird,part_8,0. Growling Riflebird,16
+guadalcanal_thrush,Guadalcanal Thrush,part_8,0. Guadalcanal Thrush,3
+guadalupe_caracara,Guadalupe Caracara,part_8,0. Guadalupe Caracara,12
+guadalupe_junco,Guadalupe Junco,part_8,0. Guadalupe Junco,18
+guadalupe_murrelet,Guadalupe Murrelet,part_8,0. Guadalupe Murrelet,214
+guadalupe_storm_petrel,Guadalupe Storm Petrel,part_8,0. Guadalupe Storm Petrel,19
+guadeloupe_woodpecker,Guadeloupe Woodpecker,part_8,0. Guadeloupe Woodpecker,49
+guaiabero,Guaiabero,part_8,0. Guaiabero,98
+guam_flycatcher,Guam Flycatcher,part_8,0. Guam Flycatcher,11
+guam_kingfisher,Guam Kingfisher,part_8,0. Guam Kingfisher,177
+guam_rail,Guam Rail,part_8,0. Guam Rail,105
+guanay_cormorant,Guanay Cormorant,part_8,0. Guanay Cormorant,658
+guayaquil_woodpecker,Guayaquil Woodpecker,part_8,0. Guayaquil Woodpecker,159
+guianan_cock_of_the_rock,Guianan Cock-of-the-rock,part_8,0. Guianan Cock-of-the-rock,732
+guianan_gnatcatcher,Guianan Gnatcatcher,part_8,0. Guianan Gnatcatcher,9
+guianan_puffbird,Guianan Puffbird,part_8,0. Guianan Puffbird,165
+guianan_red_cotinga,Guianan Red Cotinga,part_8,0. Guianan Red Cotinga,125
+guianan_toucanet,Guianan Toucanet,part_8,0. Guianan Toucanet,194
+guianan_trogon,Guianan Trogon,part_8,0. Guianan Trogon,495
+guianan_tyrannulet,Guianan Tyrannulet,part_8,0. Guianan Tyrannulet,91
+guianan_warbling_antbird,Guianan Warbling Antbird,part_8,0. Guianan Warbling Antbird,138
+guianan_woodcreeper,Guianan Woodcreeper,part_8,0. Guianan Woodcreeper,32
+guinea_turaco,Guinea Turaco,part_8,0. Guinea Turaco,431
+guira_cuckoo,Guira Cuckoo,part_8,0. Guira Cuckoo,2760
+guira_tanager,Guira Tanager,part_8,0. Guira Tanager,410
+gull_billed_tern,Gull-billed Tern,part_8,0. Gull-billed Tern,2189
+gundlachs_hawk,Gundlach's Hawk,part_8,0. Gundlach's Hawk,50
+gurneys_eagle,Gurney's Eagle,part_8,0. Gurney's Eagle,57
+gurneys_pitta,Gurney's Pitta,part_8,0. Gurney's Pitta,64
+gurneys_sugarbird,Gurney's Sugarbird,part_8,0. Gurney's Sugarbird,196
+guttulate_foliage_gleaner,Guttulate Foliage-gleaner,part_8,0. Guttulate Foliage-gleaner,21
+gyrfalcon,Gyrfalcon,part_8,0. Gyrfalcon,2607
+hadada_ibis,Hadada Ibis,part_8,0. Hadada Ibis,2217
+hainan_blue_flycatcher,Hainan Blue Flycatcher,part_8,0. Hainan Blue Flycatcher,412
+hainan_leaf_warbler,Hainan Leaf Warbler,part_8,0. Hainan Leaf Warbler,42
+hainan_partridge,Hainan Partridge,part_8,0. Hainan Partridge,14
+hainan_peacock_pheasant,Hainan Peacock-Pheasant,part_8,0. Hainan Peacock-Pheasant,7
+hair_crested_drongo,Hair-crested Drongo,part_8,0. Hair-crested Drongo,846
+hairy_woodpecker,Hairy Woodpecker,part_8,0. Hairy Woodpecker,1312
+hairy_backed_bulbul,Hairy-backed Bulbul,part_8,0. Hairy-backed Bulbul,299
+hairy_crested_antbird,Hairy-crested Antbird,part_8,0. Hairy-crested Antbird,57
+half_collared_kingfisher,Half-collared Kingfisher,part_8,0. Half-collared Kingfisher,188
+half_collared_sparrow,Half-collared Sparrow,part_8,0. Half-collared Sparrow,108
+halmahera_boobook,Halmahera Boobook,part_8,0. Halmahera Boobook,16
+halmahera_cuckooshrike,Halmahera Cuckooshrike,part_8,0. Halmahera Cuckooshrike,15
+halmahera_flowerpecker,Halmahera Flowerpecker,part_8,0. Halmahera Flowerpecker,39
+halmahera_swiftlet,Halmahera Swiftlet,part_8,0. Halmahera Swiftlet,7
+hamerkop,Hamerkop,part_8,0. Hamerkop,2836
+hammonds_flycatcher,Hammond's Flycatcher,part_8,0. Hammond's Flycatcher,1021
+handsome_flycatcher,Handsome Flycatcher,part_8,0. Handsome Flycatcher,55
+handsome_fruiteater,Handsome Fruiteater,part_8,0. Handsome Fruiteater,67
+handsome_sunbird,Handsome Sunbird,part_8,0. Handsome Sunbird,77
+hangnest_tody_tyrant,Hangnest Tody-Tyrant,part_8,0. Hangnest Tody-Tyrant,189
+happy_wren,Happy Wren,part_8,0. Happy Wren,102
+hardhead,Hardhead,part_8,0. Hardhead,1670
+harlequin_antbird,Harlequin Antbird,part_8,0. Harlequin Antbird,12
+harlequin_duck,Harlequin Duck,part_8,0. Harlequin Duck,2837
+harlequin_quail,Harlequin Quail,part_8,0. Harlequin Quail,266
+harpy_eagle,Harpy Eagle,part_8,0. Harpy Eagle,1699
+harriss_hawk,Harris's Hawk,part_8,0. Harris's Hawk,2776
+harriss_sparrow,Harris's Sparrow,part_8,0. Harris's Sparrow,1744
+harterts_camaroptera,Hartert's Camaroptera,part_8,0. Hartert's Camaroptera,10
+harterts_leaf_warbler,Hartert's Leaf Warbler,part_8,0. Hartert's Leaf Warbler,29
+hartlaubs_babbler,Hartlaub's Babbler,part_8,0. Hartlaub's Babbler,182
+hartlaubs_bustard,Hartlaub's Bustard,part_8,0. Hartlaub's Bustard,148
+hartlaubs_duck,Hartlaub's Duck,part_8,0. Hartlaub's Duck,115
+hartlaubs_gull,Hartlaub's Gull,part_8,0. Hartlaub's Gull,541
+hartlaubs_spurfowl,Hartlaub's Spurfowl,part_8,0. Hartlaub's Spurfowl,60
+hartlaubs_turaco,Hartlaub's Turaco,part_8,0. Hartlaub's Turaco,248
+hawaii_akepa,Hawaii Akepa,part_8,0. Hawaii Akepa,128
+hawaii_amakihi,Hawaii Amakihi,part_8,0. Hawaii Amakihi,307
+hawaii_creeper,Hawaii Creeper,part_8,0. Hawaii Creeper,75
+hawaii_elepaio,Hawaii Elepaio,part_8,0. Hawaii Elepaio,265
+hawaii_mamo,Hawaii Mamo,part_8,0. Hawaii Mamo,29
+hawaii_oo,Hawaii Oo,part_8,0. Hawaii Oo,18
+hawaiian_coot,Hawaiian Coot,part_8,0. Hawaiian Coot,695
+hawaiian_crow,Hawaiian Crow,part_8,0. Hawaiian Crow,72
+hawaiian_duck,Hawaiian Duck,part_8,0. Hawaiian Duck,360
+hawaiian_hawk,Hawaiian Hawk,part_8,0. Hawaiian Hawk,303
+hawaiian_petrel,Hawaiian Petrel,part_8,0. Hawaiian Petrel,188
+hawaiian_rail,Hawaiian Rail,part_8,0. Hawaiian Rail,28
+hawfinch,Hawfinch,part_8,0. Hawfinch,2721
+hawkinss_rail,Hawkins's Rail,part_8,0. Hawkins's Rail,4
+hazel_grouse,Hazel Grouse,part_8,0. Hazel Grouse,497
+hazel_fronted_pygmy_tyrant,Hazel-fronted Pygmy Tyrant,part_8,0. Hazel-fronted Pygmy Tyrant,10
+heard_island_shag,Heard Island Shag,part_8,0. Heard Island Shag,19
+heart_spotted_woodpecker,Heart-spotted Woodpecker,part_8,0. Heart-spotted Woodpecker,220
+heermanns_gull,Heermann's Gull,part_8,0. Heermann's Gull,2722
+heinroths_shearwater,Heinroth's Shearwater,part_8,0. Heinroth's Shearwater,16
+hellmayrs_pipit,Hellmayr's Pipit,part_8,0. Hellmayr's Pipit,303
+helmet_vanga,Helmet Vanga,part_8,0. Helmet Vanga,215
+helmeted_curassow,Helmeted Curassow,part_8,0. Helmeted Curassow,459
+helmeted_friarbird,Helmeted Friarbird,part_8,0. Helmeted Friarbird,525
+helmeted_guineafowl,Helmeted Guineafowl,part_8,0. Helmeted Guineafowl,2350
+helmeted_hornbill,Helmeted Hornbill,part_8,0. Helmeted Hornbill,194
+helmeted_manakin,Helmeted Manakin,part_8,0. Helmeted Manakin,449
+helmeted_myna,Helmeted Myna,part_8,0. Helmeted Myna,19
+helmeted_pygmy_tyrant,Helmeted Pygmy Tyrant,part_8,0. Helmeted Pygmy Tyrant,70
+helmeted_woodpecker,Helmeted Woodpecker,part_8,0. Helmeted Woodpecker,56
+hemprichs_hornbill,Hemprich's Hornbill,part_8,0. Hemprich's Hornbill,116
+hen_harrier,Hen Harrier,part_8,0. Hen Harrier,2730
+henderson_petrel,Henderson Petrel,part_8,0. Henderson Petrel,42
+henna_hooded_foliage_gleaner,Henna-hooded Foliage-gleaner,part_8,0. Henna-hooded Foliage-gleaner,23
+henslows_sparrow,Henslow's Sparrow,part_8,0. Henslow's Sparrow,913
+hensts_goshawk,Henst's Goshawk,part_8,0. Henst's Goshawk,52
+hepatic_tanager,Hepatic Tanager,part_8,0. Hepatic Tanager,612
+herald_petrel,Herald Petrel,part_8,0. Herald Petrel,72
+herero_chat,Herero Chat,part_8,0. Herero Chat,91
+hermit_thrush,Hermit Thrush,part_8,0. Hermit Thrush,2568
+hermit_warbler,Hermit Warbler,part_8,0. Hermit Warbler,822
+hermit_wood_wren,Hermit Wood Wren,part_8,0. Hermit Wood Wren,31
+heuglins_bustard,Heuglin's Bustard,part_8,0. Heuglin's Bustard,38
+heuglins_masked_weaver,Heuglin's Masked Weaver,part_8,0. Heuglin's Masked Weaver,38
+heuglins_wheatear,Heuglin's Wheatear,part_8,0. Heuglin's Wheatear,21
+heuglins_white_eye,Heuglin's White-eye,part_8,0. Heuglin's White-eye,84
+highland_elaenia,Highland Elaenia,part_8,0. Highland Elaenia,204
+highland_guan,Highland Guan,part_8,0. Highland Guan,113
+highland_rush_warbler,Highland Rush Warbler,part_8,0. Highland Rush Warbler,5
+highland_tinamou,Highland Tinamou,part_8,0. Highland Tinamou,52
+hill_blue_flycatcher,Hill Blue Flycatcher,part_8,0. Hill Blue Flycatcher,669
+hill_partridge,Hill Partridge,part_8,0. Hill Partridge,115
+hill_pigeon,Hill Pigeon,part_8,0. Hill Pigeon,261
+hill_prinia,Hill Prinia,part_8,0. Hill Prinia,167
+hill_swallow,Hill Swallow,part_8,0. Hill Swallow,189
+himalayan_beautiful_rosefinch,Himalayan Beautiful Rosefinch,part_8,0. Himalayan Beautiful Rosefinch,114
+himalayan_black_lored_tit,Himalayan Black-lored Tit,part_8,0. Himalayan Black-lored Tit,158
+himalayan_bluetail,Himalayan Bluetail,part_8,0. Himalayan Bluetail,654
+himalayan_bulbul,Himalayan Bulbul,part_8,0. Himalayan Bulbul,1100
+himalayan_buzzard,Himalayan Buzzard,part_8,0. Himalayan Buzzard,201
+himalayan_cuckoo,Himalayan Cuckoo,part_8,0. Himalayan Cuckoo,263
+himalayan_flameback,Himalayan Flameback,part_8,0. Himalayan Flameback,83
+himalayan_monal,Himalayan Monal,part_8,0. Himalayan Monal,916
+himalayan_owl,Himalayan Owl,part_8,0. Himalayan Owl,50
+himalayan_quail,Himalayan Quail,part_8,0. Himalayan Quail,36
+himalayan_rubythroat,Himalayan Rubythroat,part_8,0. Himalayan Rubythroat,124
+himalayan_shortwing,Himalayan Shortwing,part_8,0. Himalayan Shortwing,46
+himalayan_snowcock,Himalayan Snowcock,part_8,0. Himalayan Snowcock,191
+himalayan_swiftlet,Himalayan Swiftlet,part_8,0. Himalayan Swiftlet,147
+himalayan_white_browed_rosefinch,Himalayan White-browed Rosefinch,part_8,0. Himalayan White-browed Rosefinch,157
+himalayan_woodpecker,Himalayan Woodpecker,part_8,0. Himalayan Woodpecker,179
+hispaniolan_crossbill,Hispaniolan Crossbill,part_8,0. Hispaniolan Crossbill,179
+hispaniolan_emerald,Hispaniolan Emerald,part_8,0. Hispaniolan Emerald,333
+hispaniolan_lizard_cuckoo,Hispaniolan Lizard Cuckoo,part_8,0. Hispaniolan Lizard Cuckoo,288
+hispaniolan_nightjar,Hispaniolan Nightjar,part_8,0. Hispaniolan Nightjar,19
+hispaniolan_oriole,Hispaniolan Oriole,part_8,0. Hispaniolan Oriole,297
+hispaniolan_parakeet,Hispaniolan Parakeet,part_8,0. Hispaniolan Parakeet,207
+hispaniolan_pewee,Hispaniolan Pewee,part_8,0. Hispaniolan Pewee,177
+hispaniolan_spindalis,Hispaniolan Spindalis,part_8,0. Hispaniolan Spindalis,195
+hispaniolan_trogon,Hispaniolan Trogon,part_8,0. Hispaniolan Trogon,289
+hispaniolan_woodpecker,Hispaniolan Woodpecker,part_8,0. Hispaniolan Woodpecker,644
+hoary_puffleg,Hoary Puffleg,part_8,0. Hoary Puffleg,71
+hoary_headed_grebe,Hoary-headed Grebe,part_8,0. Hoary-headed Grebe,1194
+hoary_throated_barwing,Hoary-throated Barwing,part_8,0. Hoary-throated Barwing,103
+hoary_throated_spinetail,Hoary-throated Spinetail,part_8,0. Hoary-throated Spinetail,34
+hoatzin,Hoatzin,part_8,0. Hoatzin,1874
+hodgsons_frogmouth,Hodgson's Frogmouth,part_8,0. Hodgson's Frogmouth,80
+hodgsons_hawk_cuckoo,Hodgson's Hawk-Cuckoo,part_8,0. Hodgson's Hawk-Cuckoo,83
+hodgsons_redstart,Hodgson's Redstart,part_8,0. Hodgson's Redstart,136
+hodgsons_treecreeper,Hodgson's Treecreeper,part_8,0. Hodgson's Treecreeper,25
+hoffmanns_woodpecker,Hoffmann's Woodpecker,part_8,0. Hoffmann's Woodpecker,974
+hoffmannss_woodcreeper,Hoffmanns's Woodcreeper,part_8,0. Hoffmanns's Woodcreeper,7
+holubs_golden_weaver,Holub's Golden Weaver,part_8,0. Holub's Golden Weaver,332
+honduran_emerald,Honduran Emerald,part_8,0. Honduran Emerald,171
+honeyguide_greenbul,Honeyguide Greenbul,part_8,0. Honeyguide Greenbul,33
+hooded_antpitta,Hooded Antpitta,part_8,0. Hooded Antpitta,74
+hooded_berryeater,Hooded Berryeater,part_8,0. Hooded Berryeater,203
+hooded_butcherbird,Hooded Butcherbird,part_8,0. Hooded Butcherbird,87
+hooded_crane,Hooded Crane,part_8,0. Hooded Crane,560
+hooded_crow,Hooded Crow,part_8,0. Hooded Crow,2334
+hooded_cuckooshrike,Hooded Cuckooshrike,part_8,0. Hooded Cuckooshrike,35
+hooded_gnateater,Hooded Gnateater,part_8,0. Hooded Gnateater,40
+hooded_grebe,Hooded Grebe,part_8,0. Hooded Grebe,254
+hooded_grosbeak,Hooded Grosbeak,part_8,0. Hooded Grosbeak,141
+hooded_merganser,Hooded Merganser,part_8,0. Hooded Merganser,2723
+hooded_monarch,Hooded Monarch,part_8,0. Hooded Monarch,10
+hooded_mountain_tanager,Hooded Mountain Tanager,part_8,0. Hooded Mountain Tanager,430
+hooded_mountain_toucan,Hooded Mountain Toucan,part_8,0. Hooded Mountain Toucan,52
+hooded_oriole,Hooded Oriole,part_8,0. Hooded Oriole,2300
+hooded_parrot,Hooded Parrot,part_8,0. Hooded Parrot,565
+hooded_pitohui,Hooded Pitohui,part_8,0. Hooded Pitohui,85
+hooded_pitta,Hooded Pitta,part_8,0. Hooded Pitta,974
+hooded_robin,Hooded Robin,part_8,0. Hooded Robin,791
+hooded_siskin,Hooded Siskin,part_8,0. Hooded Siskin,781
+hooded_treepie,Hooded Treepie,part_8,0. Hooded Treepie,54
+hooded_visorbearer,Hooded Visorbearer,part_8,0. Hooded Visorbearer,186
+hooded_vulture,Hooded Vulture,part_8,0. Hooded Vulture,2427
+hooded_warbler,Hooded Warbler,part_8,0. Hooded Warbler,1363
+hooded_wheatear,Hooded Wheatear,part_8,0. Hooded Wheatear,301
+hooded_yellowthroat,Hooded Yellowthroat,part_8,0. Hooded Yellowthroat,58
+hook_billed_bulbul,Hook-billed Bulbul,part_8,0. Hook-billed Bulbul,37
+hook_billed_hermit,Hook-billed Hermit,part_8,0. Hook-billed Hermit,72
+hook_billed_kingfisher,Hook-billed Kingfisher,part_8,0. Hook-billed Kingfisher,45
+hook_billed_kite,Hook-billed Kite,part_8,0. Hook-billed Kite,890
+horned_coot,Horned Coot,part_8,0. Horned Coot,194
+horned_curassow,Horned Curassow,part_8,0. Horned Curassow,26
+horned_grebe,Horned Grebe,part_8,0. Horned Grebe,2830
+horned_guan,Horned Guan,part_8,0. Horned Guan,259
+horned_lark,Horned Lark,part_8,0. Horned Lark,2636
+horned_parakeet,Horned Parakeet,part_8,0. Horned Parakeet,199
+horned_puffin,Horned Puffin,part_8,0. Horned Puffin,1154
+horned_screamer,Horned Screamer,part_8,0. Horned Screamer,1166
+horned_sungem,Horned Sungem,part_8,0. Horned Sungem,278
+horsfields_babbler,Horsfield's Babbler,part_8,0. Horsfield's Babbler,136
+horsfields_bronze_cuckoo,Horsfield's Bronze Cuckoo,part_8,0. Horsfield's Bronze Cuckoo,780
+horsfields_bush_lark,Horsfield's Bush Lark,part_8,0. Horsfield's Bush Lark,395
+horus_swift,Horus Swift,part_8,0. Horus Swift,69
+hoses_broadbill,Hose's Broadbill,part_8,0. Hose's Broadbill,13
+houbara_bustard,Houbara Bustard,part_8,0. Houbara Bustard,710
+house_bunting,House Bunting,part_8,0. House Bunting,435
+house_crow,House Crow,part_8,0. House Crow,2250
+house_finch,House Finch,part_8,0. House Finch,2609
+house_sparrow,House Sparrow,part_8,0. House Sparrow,2913
+house_swift,House Swift,part_8,0. House Swift,359
+house_wren,House Wren,part_8,0. House Wren,2634
+huayco_tinamou,Huayco Tinamou,part_8,0. Huayco Tinamou,24
+hudsonian_godwit,Hudsonian Godwit,part_8,0. Hudsonian Godwit,2083
+hudsons_black_tyrant,Hudson's Black Tyrant,part_8,0. Hudson's Black Tyrant,88
+hudsons_canastero,Hudson's Canastero,part_8,0. Hudson's Canastero,70
+huets_fulvetta,Huet's Fulvetta,part_8,0. Huet's Fulvetta,25
+huia,Huia,part_8,0. Huia,182
+humaita_antbird,Humaita Antbird,part_8,0. Humaita Antbird,18
+humblots_heron,Humblot's Heron,part_8,0. Humblot's Heron,145
+humblots_sunbird,Humblot's Sunbird,part_8,0. Humblot's Sunbird,15
+humboldt_penguin,Humboldt Penguin,part_8,0. Humboldt Penguin,2166
+humboldts_sapphire,Humboldt's Sapphire,part_8,0. Humboldt's Sapphire,22
+humes_bush_warbler,Hume's Bush Warbler,part_8,0. Hume's Bush Warbler,24
+humes_treecreeper,Hume's Treecreeper,part_8,0. Hume's Treecreeper,45
+humes_wheatear,Hume's Wheatear,part_8,0. Hume's Wheatear,158
+humes_white_eye,Hume's White-eye,part_8,0. Hume's White-eye,24
+hunters_cisticola,Hunter's Cisticola,part_8,0. Hunter's Cisticola,129
+hunters_sunbird,Hunter's Sunbird,part_8,0. Hunter's Sunbird,85
+huon_astrapia,Huon Astrapia,part_8,0. Huon Astrapia,27
+huon_catbird,Huon Catbird,part_8,0. Huon Catbird,7
+huttons_shearwater,Hutton's Shearwater,part_8,0. Hutton's Shearwater,146
+huttons_vireo,Hutton's Vireo,part_8,0. Hutton's Vireo,845
+hyacinth_macaw,Hyacinth Macaw,part_8,0. Hyacinth Macaw,2087
+hyacinth_visorbearer,Hyacinth Visorbearer,part_8,0. Hyacinth Visorbearer,157
+hylocitrea,Hylocitrea,part_8,0. Hylocitrea,40
+ibadan_malimbe,Ibadan Malimbe,part_8,0. Ibadan Malimbe,12
+iberian_chiffchaff,Iberian Chiffchaff,part_8,0. Iberian Chiffchaff,658
+iberian_gray_shrike,Iberian Gray Shrike,part_8,0. Iberian Gray Shrike,2061
+iberian_green_woodpecker,Iberian Green Woodpecker,part_8,0. Iberian Green Woodpecker,355
+iberian_magpie,Iberian Magpie,part_8,0. Iberian Magpie,875
+ibisbill,Ibisbill,part_8,0. Ibisbill,461
+iceland_gull,Iceland Gull,part_8,0. Iceland Gull,2938
+icterine_greenbul,Icterine Greenbul,part_8,0. Icterine Greenbul,17
+icterine_warbler,Icterine Warbler,part_8,0. Icterine Warbler,928
+iherings_antwren,Ihering's Antwren,part_8,0. Ihering's Antwren,30
+iiwi,Iiwi,part_8,0. Iiwi,416
+ijimas_leaf_warbler,Ijima's Leaf Warbler,part_8,0. Ijima's Leaf Warbler,88
+imeri_warbling_antbird,Imeri Warbling Antbird,part_8,0. Imeri Warbling Antbird,22
+imperial_snipe,Imperial Snipe,part_8,0. Imperial Snipe,19
+imperial_woodpecker,Imperial Woodpecker,part_8,0. Imperial Woodpecker,66
+inaccessible_island_finch,Inaccessible Island Finch,part_8,0. Inaccessible Island Finch,30
+inaccessible_island_rail,Inaccessible Island Rail,part_8,0. Inaccessible Island Rail,28
+inagua_woodstar,Inagua Woodstar,part_8,0. Inagua Woodstar,33
+inambari_gnatcatcher,Inambari Gnatcatcher,part_8,0. Inambari Gnatcatcher,2
+inambari_woodcreeper,Inambari Woodcreeper,part_8,0. Inambari Woodcreeper,21
+inca_dove,Inca Dove,part_8,0. Inca Dove,2031
+inca_flycatcher,Inca Flycatcher,part_8,0. Inca Flycatcher,47
+inca_tern,Inca Tern,part_8,0. Inca Tern,2600
+inca_wren,Inca Wren,part_8,0. Inca Wren,57
+indian_blue_robin,Indian Blue Robin,part_8,0. Indian Blue Robin,279
+indian_bush_lark,Indian Bush Lark,part_8,0. Indian Bush Lark,369
+indian_courser,Indian Courser,part_8,0. Indian Courser,493
+indian_cuckoo,Indian Cuckoo,part_8,0. Indian Cuckoo,514
+indian_golden_oriole,Indian Golden Oriole,part_8,0. Indian Golden Oriole,938
+indian_grassbird,Indian Grassbird,part_8,0. Indian Grassbird,26
+indian_gray_hornbill,Indian Gray Hornbill,part_8,0. Indian Gray Hornbill,986
+indian_nightjar,Indian Nightjar,part_8,0. Indian Nightjar,268
+indian_nuthatch,Indian Nuthatch,part_8,0. Indian Nuthatch,147
+indian_paradise_flycatcher,Indian Paradise Flycatcher,part_8,0. Indian Paradise Flycatcher,1636
+indian_peafowl,Indian Peafowl,part_8,0. Indian Peafowl,2401
+indian_pitta,Indian Pitta,part_8,0. Indian Pitta,736
+indian_pond_heron,Indian Pond Heron,part_8,0. Indian Pond Heron,2980
+indian_robin,Indian Robin,part_8,0. Indian Robin,903
+indian_scimitar_babbler,Indian Scimitar Babbler,part_8,0. Indian Scimitar Babbler,198
+indian_scops_owl,Indian Scops Owl,part_8,0. Indian Scops Owl,421
+indian_skimmer,Indian Skimmer,part_8,0. Indian Skimmer,447
+indian_spot_billed_duck,Indian Spot-billed Duck,part_8,0. Indian Spot-billed Duck,2696
+indian_spotted_creeper,Indian Spotted Creeper,part_8,0. Indian Spotted Creeper,47
+indian_spotted_eagle,Indian Spotted Eagle,part_8,0. Indian Spotted Eagle,398
+indian_vulture,Indian Vulture,part_8,0. Indian Vulture,524
+indian_white_eye,Indian White-eye,part_8,0. Indian White-eye,1378
+indigo_bunting,Indigo Bunting,part_8,0. Indigo Bunting,2687
+indigo_flowerpiercer,Indigo Flowerpiercer,part_8,0. Indigo Flowerpiercer,88
+indigo_flycatcher,Indigo Flycatcher,part_8,0. Indigo Flycatcher,324
+indigo_capped_hummingbird,Indigo-capped Hummingbird,part_8,0. Indigo-capped Hummingbird,353
+indochinese_barbet,Indochinese Barbet,part_8,0. Indochinese Barbet,58
+indochinese_blue_flycatcher,Indochinese Blue Flycatcher,part_8,0. Indochinese Blue Flycatcher,160
+indochinese_bush_lark,Indochinese Bush Lark,part_8,0. Indochinese Bush Lark,183
+indochinese_cuckooshrike,Indochinese Cuckooshrike,part_8,0. Indochinese Cuckooshrike,45
+indochinese_fulvetta,Indochinese Fulvetta,part_8,0. Indochinese Fulvetta,25
+indochinese_roller,Indochinese Roller,part_8,0. Indochinese Roller,275
+indochinese_yuhina,Indochinese Yuhina,part_8,0. Indochinese Yuhina,61
+inland_dotterel,Inland Dotterel,part_8,0. Inland Dotterel,187
+inland_thornbill,Inland Thornbill,part_8,0. Inland Thornbill,377
+intermediate_egret,Intermediate Egret,part_8,0. Intermediate Egret,1844
+invisible_rail,Invisible Rail,part_8,0. Invisible Rail,37
+iphis_monarch,Iphis Monarch,part_8,0. Iphis Monarch,17
+iquitos_gnatcatcher,Iquitos Gnatcatcher,part_8,0. Iquitos Gnatcatcher,6
+iraq_babbler,Iraq Babbler,part_8,0. Iraq Babbler,146
+iringa_akalat,Iringa Akalat,part_8,0. Iringa Akalat,4
+iriomote_tit,Iriomote Tit,part_8,0. Iriomote Tit,6
+iris_lorikeet,Iris Lorikeet,part_8,0. Iris Lorikeet,152
+isabela_oriole,Isabela Oriole,part_8,0. Isabela Oriole,32
+isabelline_shrike,Isabelline Shrike,part_8,0. Isabelline Shrike,1192
+isabelline_wheatear,Isabelline Wheatear,part_8,0. Isabelline Wheatear,1672
+island_imperial_pigeon,Island Imperial Pigeon,part_8,0. Island Imperial Pigeon,78
+island_leaf_warbler,Island Leaf Warbler,part_8,0. Island Leaf Warbler,23
+island_monarch,Island Monarch,part_8,0. Island Monarch,64
+island_scrub_jay,Island Scrub Jay,part_8,0. Island Scrub Jay,443
+island_thrush,Island Thrush,part_8,0. Island Thrush,352
+island_whistler,Island Whistler,part_8,0. Island Whistler,27
+isthmian_wren,Isthmian Wren,part_8,0. Isthmian Wren,69
+italian_sparrow,Italian Sparrow,part_8,0. Italian Sparrow,861
+itatiaia_spinetail,Itatiaia Spinetail,part_8,0. Itatiaia Spinetail,84
+ituri_batis,Ituri Batis,part_8,0. Ituri Batis,13
+ivory_gull,Ivory Gull,part_8,0. Ivory Gull,1986
+ivory_backed_woodswallow,Ivory-backed Woodswallow,part_8,0. Ivory-backed Woodswallow,48
+ivory_billed_aracari,Ivory-billed Aracari,part_8,0. Ivory-billed Aracari,203
+ivory_billed_woodcreeper,Ivory-billed Woodcreeper,part_8,0. Ivory-billed Woodcreeper,342
+ivory_billed_woodpecker,Ivory-billed Woodpecker,part_8,0. Ivory-billed Woodpecker,162
+ivory_breasted_pitta,Ivory-breasted Pitta,part_8,0. Ivory-breasted Pitta,85
+jabiru,Jabiru,part_8,0. Jabiru,2757
+jack_snipe,Jack Snipe,part_8,0. Jack Snipe,936
+jackal_buzzard,Jackal Buzzard,part_8,0. Jackal Buzzard,679
+jacksons_hornbill,Jackson's Hornbill,part_8,0. Jackson's Hornbill,177
+jacksons_widowbird,Jackson's Widowbird,part_8,0. Jackson's Widowbird,109
+jacky_winter,Jacky Winter,part_8,0. Jacky Winter,1104
+jamaican_becard,Jamaican Becard,part_8,0. Jamaican Becard,108
+jamaican_blackbird,Jamaican Blackbird,part_8,0. Jamaican Blackbird,100
+jamaican_crow,Jamaican Crow,part_8,0. Jamaican Crow,78
+jamaican_elaenia,Jamaican Elaenia,part_8,0. Jamaican Elaenia,66
+jamaican_euphonia,Jamaican Euphonia,part_8,0. Jamaican Euphonia,115
+jamaican_lizard_cuckoo,Jamaican Lizard Cuckoo,part_8,0. Jamaican Lizard Cuckoo,91
+jamaican_mango,Jamaican Mango,part_8,0. Jamaican Mango,233
+jamaican_oriole,Jamaican Oriole,part_8,0. Jamaican Oriole,231
+jamaican_owl,Jamaican Owl,part_8,0. Jamaican Owl,131
+jamaican_pewee,Jamaican Pewee,part_8,0. Jamaican Pewee,114
+jamaican_spindalis,Jamaican Spindalis,part_8,0. Jamaican Spindalis,130
+jamaican_tody,Jamaican Tody,part_8,0. Jamaican Tody,366
+jamaican_vireo,Jamaican Vireo,part_8,0. Jamaican Vireo,71
+jamaican_woodpecker,Jamaican Woodpecker,part_8,0. Jamaican Woodpecker,211
+jambandu_indigobird,Jambandu Indigobird,part_8,0. Jambandu Indigobird,6
+jambu_fruit_dove,Jambu Fruit Dove,part_8,0. Jambu Fruit Dove,393
+jamesons_antpecker,Jameson's Antpecker,part_8,0. Jameson's Antpecker,16
+jamesons_snipe,Jameson's Snipe,part_8,0. Jameson's Snipe,28
+jamesons_wattle_eye,Jameson's Wattle-eye,part_8,0. Jameson's Wattle-eye,8
+jamess_flamingo,James's Flamingo,part_8,0. James's Flamingo,660
+jandaya_parakeet,Jandaya Parakeet,part_8,0. Jandaya Parakeet,412
+japanese_accentor,Japanese Accentor,part_8,0. Japanese Accentor,148
+japanese_bush_warbler,Japanese Bush Warbler,part_8,0. Japanese Bush Warbler,302
+japanese_cormorant,Japanese Cormorant,part_8,0. Japanese Cormorant,349
+japanese_grosbeak,Japanese Grosbeak,part_8,0. Japanese Grosbeak,323
+japanese_leaf_warbler,Japanese Leaf Warbler,part_8,0. Japanese Leaf Warbler,60
+japanese_murrelet,Japanese Murrelet,part_8,0. Japanese Murrelet,173
+japanese_night_heron,Japanese Night Heron,part_8,0. Japanese Night Heron,216
+japanese_paradise_flycatcher,Japanese Paradise Flycatcher,part_8,0. Japanese Paradise Flycatcher,517
+japanese_pygmy_woodpecker,Japanese Pygmy Woodpecker,part_8,0. Japanese Pygmy Woodpecker,201
+japanese_quail,Japanese Quail,part_8,0. Japanese Quail,352
+japanese_robin,Japanese Robin,part_8,0. Japanese Robin,225
+japanese_scops_owl,Japanese Scops Owl,part_8,0. Japanese Scops Owl,38
+japanese_sparrowhawk,Japanese Sparrowhawk,part_8,0. Japanese Sparrowhawk,883
+japanese_thrush,Japanese Thrush,part_8,0. Japanese Thrush,504
+japanese_tit,Japanese Tit,part_8,0. Japanese Tit,1879
+japanese_wagtail,Japanese Wagtail,part_8,0. Japanese Wagtail,554
+japanese_wood_pigeon,Japanese Wood Pigeon,part_8,0. Japanese Wood Pigeon,121
+java_sparrow,Java Sparrow,part_8,0. Java Sparrow,1236
+javan_banded_pitta,Javan Banded Pitta,part_8,0. Javan Banded Pitta,225
+javan_blue_flycatcher,Javan Blue Flycatcher,part_8,0. Javan Blue Flycatcher,481
+javan_bush_warbler,Javan Bush Warbler,part_8,0. Javan Bush Warbler,22
+javan_cochoa,Javan Cochoa,part_8,0. Javan Cochoa,57
+javan_cuckooshrike,Javan Cuckooshrike,part_8,0. Javan Cuckooshrike,100
+javan_flameback,Javan Flameback,part_8,0. Javan Flameback,24
+javan_frogmouth,Javan Frogmouth,part_8,0. Javan Frogmouth,128
+javan_fulvetta,Javan Fulvetta,part_8,0. Javan Fulvetta,40
+javan_green_magpie,Javan Green Magpie,part_8,0. Javan Green Magpie,107
+javan_hawk_eagle,Javan Hawk-Eagle,part_8,0. Javan Hawk-Eagle,161
+javan_kingfisher,Javan Kingfisher,part_8,0. Javan Kingfisher,263
+,,part_8,,0
