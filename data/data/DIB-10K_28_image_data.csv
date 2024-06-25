@@ -1,0 +1,209 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+asian_koel,Asian Koel,DIB-10K_28,2286.Asian Koel,1656
+black_billed_koel,Black-billed Koel,DIB-10K_28,2287.Black-billed Koel,41
+pacific_koel,Pacific Koel,DIB-10K_28,2288.Pacific Koel,489
+pacific_long_tailed_cuckoo,Pacific Long-tailed Cuckoo,DIB-10K_28,2289.Pacific Long-tailed Cuckoo,34
+channel_billed_cuckoo,Channel-billed Cuckoo,DIB-10K_28,2290.Channel-billed Cuckoo,676
+asian_emerald_cuckoo,Asian Emerald Cuckoo,DIB-10K_28,2291.Asian Emerald Cuckoo,342
+violet_cuckoo,Violet Cuckoo,DIB-10K_28,2292.Violet Cuckoo,416
+diederik_cuckoo,Diederik Cuckoo,DIB-10K_28,2293.Diederik Cuckoo,734
+klaass_cuckoo,Klaas's Cuckoo,DIB-10K_28,2294.Klaas's Cuckoo,357
+yellow_throated_cuckoo,Yellow-throated Cuckoo,DIB-10K_28,2295.Yellow-throated Cuckoo,49
+african_emerald_cuckoo,African Emerald Cuckoo,DIB-10K_28,2296.African Emerald Cuckoo,158
+long_billed_cuckoo,Long-billed Cuckoo,DIB-10K_28,2297.Long-billed Cuckoo,15
+horsfields_bronze_cuckoo,Horsfield's Bronze Cuckoo,DIB-10K_28,2298.Horsfield's Bronze Cuckoo,780
+black_eared_cuckoo,Black-eared Cuckoo,DIB-10K_28,2299.Black-eared Cuckoo,205
+rufous_throated_bronze_cuckoo,Rufous-throated Bronze Cuckoo,DIB-10K_28,2300.Rufous-throated Bronze Cuckoo,33
+shining_bronze_cuckoo,Shining Bronze Cuckoo,DIB-10K_28,2301.Shining Bronze Cuckoo,723
+white_eared_bronze_cuckoo,White-eared Bronze Cuckoo,DIB-10K_28,2302.White-eared Bronze Cuckoo,28
+little_bronze_cuckoo,Little Bronze Cuckoo,DIB-10K_28,2303.Little Bronze Cuckoo,464
+pallid_cuckoo,Pallid Cuckoo,DIB-10K_28,2304.Pallid Cuckoo,610
+white_crowned_cuckoo,White-crowned Cuckoo,DIB-10K_28,2305.White-crowned Cuckoo,10
+chestnut_breasted_cuckoo,Chestnut-breasted Cuckoo,DIB-10K_28,2306.Chestnut-breasted Cuckoo,76
+fan_tailed_cuckoo,Fan-tailed Cuckoo,DIB-10K_28,2307.Fan-tailed Cuckoo,1331
+banded_bay_cuckoo,Banded Bay Cuckoo,DIB-10K_28,2308.Banded Bay Cuckoo,414
+plaintive_cuckoo,Plaintive Cuckoo,DIB-10K_28,2309.Plaintive Cuckoo,986
+grey_bellied_cuckoo,Grey-bellied Cuckoo,DIB-10K_28,2310.Grey-bellied Cuckoo,528
+brush_cuckoo,Brush Cuckoo,DIB-10K_28,2311.Brush Cuckoo,552
+rusty_breasted_cuckoo,Rusty-breasted Cuckoo,DIB-10K_28,2312.Rusty-breasted Cuckoo,321
+moluccan_cuckoo,Moluccan Cuckoo,DIB-10K_28,2313.Moluccan Cuckoo,28
+dusky_long_tailed_cuckoo,Dusky Long-tailed Cuckoo,DIB-10K_28,2314.Dusky Long-tailed Cuckoo,20
+olive_long_tailed_cuckoo,Olive Long-tailed Cuckoo,DIB-10K_28,2315.Olive Long-tailed Cuckoo,18
+barred_long_tailed_cuckoo,Barred Long-tailed Cuckoo,DIB-10K_28,2316.Barred Long-tailed Cuckoo,31
+philippine_drongo_cuckoo,Philippine Drongo-Cuckoo,DIB-10K_28,2317.Philippine Drongo-Cuckoo,56
+square_tailed_drongo_cuckoo,Square-tailed Drongo-Cuckoo,DIB-10K_28,2318.Square-tailed Drongo-Cuckoo,482
+fork_tailed_drongo_cuckoo,Fork-tailed Drongo-Cuckoo,DIB-10K_28,2319.Fork-tailed Drongo-Cuckoo,182
+moluccan_drongo_cuckoo,Moluccan Drongo-Cuckoo,DIB-10K_28,2320.Moluccan Drongo-Cuckoo,39
+moustached_hawk_cuckoo,Moustached Hawk-Cuckoo,DIB-10K_28,2321.Moustached Hawk-Cuckoo,26
+large_hawk_cuckoo,Large Hawk-Cuckoo,DIB-10K_28,2322.Large Hawk-Cuckoo,317
+dark_hawk_cuckoo,Dark Hawk-Cuckoo,DIB-10K_28,2323.Dark Hawk-Cuckoo,51
+common_hawk_cuckoo,Common Hawk-Cuckoo,DIB-10K_28,2324.Common Hawk-Cuckoo,850
+rufous_hawk_cuckoo,Rufous Hawk-Cuckoo,DIB-10K_28,2325.Rufous Hawk-Cuckoo,29
+philippine_hawk_cuckoo,Philippine Hawk-Cuckoo,DIB-10K_28,2326.Philippine Hawk-Cuckoo,26
+malaysian_hawk_cuckoo,Malaysian Hawk-Cuckoo,DIB-10K_28,2327.Malaysian Hawk-Cuckoo,118
+hodgsons_hawk_cuckoo,Hodgson's Hawk-Cuckoo,DIB-10K_28,2328.Hodgson's Hawk-Cuckoo,83
+black_cuckoo,Black Cuckoo,DIB-10K_28,2329.Black Cuckoo,123
+red_chested_cuckoo,Red-chested Cuckoo,DIB-10K_28,2330.Red-chested Cuckoo,268
+lesser_cuckoo,Lesser Cuckoo,DIB-10K_28,2331.Lesser Cuckoo,243
+sulawesi_cuckoo,Sulawesi Cuckoo,DIB-10K_28,2332.Sulawesi Cuckoo,16
+indian_cuckoo,Indian Cuckoo,DIB-10K_28,2333.Indian Cuckoo,514
+madagascan_cuckoo,Madagascan Cuckoo,DIB-10K_28,2334.Madagascan Cuckoo,50
+african_cuckoo,African Cuckoo,DIB-10K_28,2335.African Cuckoo,172
+himalayan_cuckoo,Himalayan Cuckoo,DIB-10K_28,2336.Himalayan Cuckoo,263
+oriental_cuckoo,Oriental Cuckoo,DIB-10K_28,2337.Oriental Cuckoo,344
+sunda_cuckoo,Sunda Cuckoo,DIB-10K_28,2338.Sunda Cuckoo,67
+common_cuckoo,Common Cuckoo,DIB-10K_28,2339.Common Cuckoo,2600
+st._helena_cuckoo,St. Helena Cuckoo,DIB-10K_28,2340.St. Helena Cuckoo,1
+greater_sooty_owl,Greater Sooty Owl,DIB-10K_28,2341.Greater Sooty Owl,150
+lesser_sooty_owl,Lesser Sooty Owl,DIB-10K_28,2342.Lesser Sooty Owl,87
+minahassa_masked_owl,Minahassa Masked Owl,DIB-10K_28,2343.Minahassa Masked Owl,24
+taliabu_masked_owl,Taliabu Masked Owl,DIB-10K_28,2344.Taliabu Masked Owl,11
+moluccan_masked_owl,Moluccan Masked Owl,DIB-10K_28,2345.Moluccan Masked Owl,14
+manus_masked_owl,Manus Masked Owl,DIB-10K_28,2346.Manus Masked Owl,5
+golden_masked_owl,Golden Masked Owl,DIB-10K_28,2347.Golden Masked Owl,17
+australian_masked_owl,Australian Masked Owl,DIB-10K_28,2348.Australian Masked Owl,172
+sulawesi_masked_owl,Sulawesi Masked Owl,DIB-10K_28,2349.Sulawesi Masked Owl,37
+red_owl,Red Owl,DIB-10K_28,2350.Red Owl,58
+western_barn_owl,Western Barn Owl,DIB-10K_28,2351.Western Barn Owl,1670
+american_barn_owl,American Barn Owl,DIB-10K_28,2352.American Barn Owl,125
+eastern_barn_owl,Eastern Barn Owl,DIB-10K_28,2353.Eastern Barn Owl,162
+andaman_masked_owl,Andaman Masked Owl,DIB-10K_28,2354.Andaman Masked Owl,19
+ashy_faced_owl,Ashy-faced Owl,DIB-10K_28,2355.Ashy-faced Owl,155
+african_grass_owl,African Grass Owl,DIB-10K_28,2356.African Grass Owl,59
+eastern_grass_owl,Eastern Grass Owl,DIB-10K_28,2357.Eastern Grass Owl,146
+congo_bay_owl,Congo Bay Owl,DIB-10K_28,2358.Congo Bay Owl,5
+oriental_bay_owl,Oriental Bay Owl,DIB-10K_28,2359.Oriental Bay Owl,208
+sri_lanka_bay_owl,Sri Lanka Bay Owl,DIB-10K_28,2360.Sri Lanka Bay Owl,41
+giant_scops_owl,Giant Scops Owl,DIB-10K_28,2361.Giant Scops Owl,26
+white_fronted_scops_owl,White-fronted Scops Owl,DIB-10K_28,2362.White-fronted Scops Owl,144
+reddish_scops_owl,Reddish Scops Owl,DIB-10K_28,2363.Reddish Scops Owl,49
+serendib_scops_owl,Serendib Scops Owl,DIB-10K_28,2364.Serendib Scops Owl,94
+sandy_scops_owl,Sandy Scops Owl,DIB-10K_28,2365.Sandy Scops Owl,7
+sokoke_scops_owl,Sokoke Scops Owl,DIB-10K_28,2366.Sokoke Scops Owl,99
+andaman_scops_owl,Andaman Scops Owl,DIB-10K_28,2367.Andaman Scops Owl,72
+flores_scops_owl,Flores Scops Owl,DIB-10K_28,2368.Flores Scops Owl,31
+mountain_scops_owl,Mountain Scops Owl,DIB-10K_28,2369.Mountain Scops Owl,204
+rajah_scops_owl,Rajah Scops Owl,DIB-10K_28,2370.Rajah Scops Owl,29
+javan_scops_owl,Javan Scops Owl,DIB-10K_28,2371.Javan Scops Owl,39
+mentawai_scops_owl,Mentawai Scops Owl,DIB-10K_28,2372.Mentawai Scops Owl,30
+indian_scops_owl,Indian Scops Owl,DIB-10K_28,2373.Indian Scops Owl,421
+collared_scops_owl,Collared Scops Owl,DIB-10K_28,2374.Collared Scops Owl,385
+japanese_scops_owl,Japanese Scops Owl,DIB-10K_28,2375.Japanese Scops Owl,38
+sunda_scops_owl,Sunda Scops Owl,DIB-10K_28,2376.Sunda Scops Owl,269
+palawan_scops_owl,Palawan Scops Owl,DIB-10K_28,2377.Palawan Scops Owl,39
+philippine_scops_owl,Philippine Scops Owl,DIB-10K_28,2378.Philippine Scops Owl,79
+everetts_scops_owl,Everett's Scops Owl,DIB-10K_28,2379.Everett's Scops Owl,13
+negros_scops_owl,Negros Scops Owl,DIB-10K_28,2380.Negros Scops Owl,34
+wallaces_scops_owl,Wallace's Scops Owl,DIB-10K_28,2381.Wallace's Scops Owl,6
+mindanao_scops_owl,Mindanao Scops Owl,DIB-10K_28,2382.Mindanao Scops Owl,19
+luzon_scops_owl,Luzon Scops Owl,DIB-10K_28,2383.Luzon Scops Owl,25
+mindoro_scops_owl,Mindoro Scops Owl,DIB-10K_28,2384.Mindoro Scops Owl,25
+pallid_scops_owl,Pallid Scops Owl,DIB-10K_28,2385.Pallid Scops Owl,179
+african_scops_owl,African Scops Owl,DIB-10K_28,2386.African Scops Owl,330
+arabian_scops_owl,Arabian Scops Owl,DIB-10K_28,2387.Arabian Scops Owl,71
+eurasian_scops_owl,Eurasian Scops Owl,DIB-10K_28,2388.Eurasian Scops Owl,987
+cyprus_scops_owl,Cyprus Scops Owl,DIB-10K_28,2389.Cyprus Scops Owl,44
+oriental_scops_owl,Oriental Scops Owl,DIB-10K_28,2390.Oriental Scops Owl,453
+socotra_scops_owl,Socotra Scops Owl,DIB-10K_28,2391.Socotra Scops Owl,8
+moluccan_scops_owl,Moluccan Scops Owl,DIB-10K_28,2392.Moluccan Scops Owl,76
+rinjani_scops_owl,Rinjani Scops Owl,DIB-10K_28,2393.Rinjani Scops Owl,35
+sula_scops_owl,Sula Scops Owl,DIB-10K_28,2394.Sula Scops Owl,17
+siau_scops_owl,Siau Scops Owl,DIB-10K_28,2395.Siau Scops Owl,37
+mantanani_scops_owl,Mantanani Scops Owl,DIB-10K_28,2396.Mantanani Scops Owl,79
+ryukyu_scops_owl,Ryukyu Scops Owl,DIB-10K_28,2397.Ryukyu Scops Owl,107
+sulawesi_scops_owl,Sulawesi Scops Owl,DIB-10K_28,2398.Sulawesi Scops Owl,106
+sangihe_scops_owl,Sangihe Scops Owl,DIB-10K_28,2399.Sangihe Scops Owl,18
+biak_scops_owl,Biak Scops Owl,DIB-10K_28,2400.Biak Scops Owl,17
+seychelles_scops_owl,Seychelles Scops Owl,DIB-10K_28,2401.Seychelles Scops Owl,23
+simeulue_scops_owl,Simeulue Scops Owl,DIB-10K_28,2402.Simeulue Scops Owl,30
+enggano_scops_owl,Enggano Scops Owl,DIB-10K_28,2403.Enggano Scops Owl,25
+nicobar_scops_owl,Nicobar Scops Owl,DIB-10K_28,2404.Nicobar Scops Owl,21
+pemba_scops_owl,Pemba Scops Owl,DIB-10K_28,2405.Pemba Scops Owl,30
+karthala_scops_owl,Karthala Scops Owl,DIB-10K_28,2406.Karthala Scops Owl,16
+anjouan_scops_owl,Anjouan Scops Owl,DIB-10K_28,2407.Anjouan Scops Owl,27
+moheli_scops_owl,Moheli Scops Owl,DIB-10K_28,2408.Moheli Scops Owl,28
+mayotte_scops_owl,Mayotte Scops Owl,DIB-10K_28,2409.Mayotte Scops Owl,25
+torotoroka_scops_owl,Torotoroka Scops Owl,DIB-10K_28,2410.Torotoroka Scops Owl,66
+rainforest_scops_owl,Rainforest Scops Owl,DIB-10K_28,2411.Rainforest Scops Owl,156
+sao_tome_scops_owl,Sao Tome Scops Owl,DIB-10K_28,2412.Sao Tome Scops Owl,27
+reunion_owl,Reunion Owl,DIB-10K_28,2413.Reunion Owl,2
+mauritius_owl,Mauritius Owl,DIB-10K_28,2414.Mauritius Owl,6
+rodrigues_owl,Rodrigues Owl,DIB-10K_28,2415.Rodrigues Owl,3
+flammulated_owl,Flammulated Owl,DIB-10K_28,2416.Flammulated Owl,225
+eastern_screech_owl,Eastern Screech Owl,DIB-10K_28,2417.Eastern Screech Owl,1394
+western_screech_owl,Western Screech Owl,DIB-10K_28,2418.Western Screech Owl,758
+balsas_screech_owl,Balsas Screech Owl,DIB-10K_28,2419.Balsas Screech Owl,38
+pacific_screech_owl,Pacific Screech Owl,DIB-10K_28,2420.Pacific Screech Owl,235
+whiskered_screech_owl,Whiskered Screech Owl,DIB-10K_28,2421.Whiskered Screech Owl,263
+tropical_screech_owl,Tropical Screech Owl,DIB-10K_28,2422.Tropical Screech Owl,1396
+west_peruvian_screech_owl,West Peruvian Screech Owl,DIB-10K_28,2423.West Peruvian Screech Owl,55
+koepckes_screech_owl,Koepcke's Screech Owl,DIB-10K_28,2424.Koepcke's Screech Owl,69
+bare_shanked_screech_owl,Bare-shanked Screech Owl,DIB-10K_28,2425.Bare-shanked Screech Owl,159
+bearded_screech_owl,Bearded Screech Owl,DIB-10K_28,2426.Bearded Screech Owl,61
+rufescent_screech_owl,Rufescent Screech Owl,DIB-10K_28,2427.Rufescent Screech Owl,77
+cinnamon_screech_owl,Cinnamon Screech Owl,DIB-10K_28,2429.Cinnamon Screech Owl,81
+cloud_forest_screech_owl,Cloud-forest Screech Owl,DIB-10K_28,2430.Cloud-forest Screech Owl,22
+tawny_bellied_screech_owl,Tawny-bellied Screech Owl,DIB-10K_28,2431.Tawny-bellied Screech Owl,157
+middle_american_screech_owl,Middle American Screech Owl,DIB-10K_28,2432.Middle American Screech Owl,142
+vermiculated_screech_owl,Vermiculated Screech Owl,DIB-10K_28,2433.Vermiculated Screech Owl,56
+foothill_screech_owl,Foothill Screech Owl,DIB-10K_28,2434.Foothill Screech Owl,35
+choco_screech_owl,Choco Screech Owl,DIB-10K_28,2436.Choco Screech Owl,39
+yungas_screech_owl,Yungas Screech Owl,DIB-10K_28,2437.Yungas Screech Owl,44
+black_capped_screech_owl,Black-capped Screech Owl,DIB-10K_28,2438.Black-capped Screech Owl,91
+long_tufted_screech_owl,Long-tufted Screech Owl,DIB-10K_28,2439.Long-tufted Screech Owl,111
+puerto_rican_screech_owl,Puerto Rican Screech Owl,DIB-10K_28,2440.Puerto Rican Screech Owl,77
+white_throated_screech_owl,White-throated Screech Owl,DIB-10K_28,2441.White-throated Screech Owl,104
+palau_owl,Palau Owl,DIB-10K_28,2442.Palau Owl,30
+bare_legged_owl,Bare-legged Owl,DIB-10K_28,2443.Bare-legged Owl,157
+northern_white_faced_owl,Northern White-faced Owl,DIB-10K_28,2444.Northern White-faced Owl,396
+southern_white_faced_owl,Southern White-faced Owl,DIB-10K_28,2445.Southern White-faced Owl,410
+snowy_owl,Snowy Owl,DIB-10K_28,2446.Snowy Owl,2515
+great_horned_owl,Great Horned Owl,DIB-10K_28,2447.Great Horned Owl,2028
+lesser_horned_owl,Lesser Horned Owl,DIB-10K_28,2448.Lesser Horned Owl,383
+eurasian_eagle_owl,Eurasian Eagle-Owl,DIB-10K_28,2449.Eurasian Eagle-Owl,1969
+indian_eagle_owl,Indian Eagle-Owl,DIB-10K_28,2450.Indian Eagle-Owl,1065
+pharaoh_eagle_owl,Pharaoh Eagle-Owl,DIB-10K_28,2451.Pharaoh Eagle-Owl,287
+cape_eagle_owl,Cape Eagle-Owl,DIB-10K_28,2452.Cape Eagle-Owl,365
+spotted_eagle_owl,Spotted Eagle-Owl,DIB-10K_28,2453.Spotted Eagle-Owl,1291
+greyish_eagle_owl,Greyish Eagle-Owl,DIB-10K_28,2454.Greyish Eagle-Owl,202
+frasers_eagle_owl,Fraser's Eagle-Owl,DIB-10K_28,2455.Fraser's Eagle-Owl,53
+usambara_eagle_owl,Usambara Eagle-Owl,DIB-10K_28,2456.Usambara Eagle-Owl,24
+spot_bellied_eagle_owl,Spot-bellied Eagle-Owl,DIB-10K_28,2457.Spot-bellied Eagle-Owl,200
+barred_eagle_owl,Barred Eagle-Owl,DIB-10K_28,2458.Barred Eagle-Owl,476
+shelleys_eagle_owl,Shelley's Eagle-Owl,DIB-10K_28,2459.Shelley's Eagle-Owl,16
+verreauxs_eagle_owl,Verreaux's Eagle-Owl,DIB-10K_28,2460.Verreaux's Eagle-Owl,1062
+dusky_eagle_owl,Dusky Eagle-Owl,DIB-10K_28,2461.Dusky Eagle-Owl,190
+akun_eagle_owl,Akun Eagle-Owl,DIB-10K_28,2462.Akun Eagle-Owl,37
+philippine_eagle_owl,Philippine Eagle-Owl,DIB-10K_28,2463.Philippine Eagle-Owl,173
+blakistons_fish_owl,Blakiston's Fish Owl,DIB-10K_28,2464.Blakiston's Fish Owl,311
+brown_fish_owl,Brown Fish Owl,DIB-10K_28,2465.Brown Fish Owl,757
+tawny_fish_owl,Tawny Fish Owl,DIB-10K_28,2466.Tawny Fish Owl,337
+buffy_fish_owl,Buffy Fish Owl,DIB-10K_28,2467.Buffy Fish Owl,763
+pels_fishing_owl,Pel's Fishing Owl,DIB-10K_28,2468.Pel's Fishing Owl,196
+rufous_fishing_owl,Rufous Fishing Owl,DIB-10K_28,2469.Rufous Fishing Owl,22
+vermiculated_fishing_owl,Vermiculated Fishing Owl,DIB-10K_28,2470.Vermiculated Fishing Owl,40
+spotted_wood_owl,Spotted Wood Owl,DIB-10K_28,2471.Spotted Wood Owl,947
+mottled_wood_owl,Mottled Wood Owl,DIB-10K_28,2472.Mottled Wood Owl,250
+brown_wood_owl,Brown Wood Owl,DIB-10K_28,2473.Brown Wood Owl,742
+tawny_owl,Tawny Owl,DIB-10K_28,2474.Tawny Owl,1815
+himalayan_owl,Himalayan Owl,DIB-10K_28,2475.Himalayan Owl,50
+omani_owl,Omani Owl,DIB-10K_28,2476.Omani Owl,28
+desert_owl,Desert Owl,DIB-10K_28,2477.Desert Owl,54
+spotted_owl,Spotted Owl,DIB-10K_28,2478.Spotted Owl,815
+barred_owl,Barred Owl,DIB-10K_28,2479.Barred Owl,2090
+cinereous_owl,Cinereous Owl,DIB-10K_28,2480.Cinereous Owl,26
+fulvous_owl,Fulvous Owl,DIB-10K_28,2481.Fulvous Owl,171
+rusty_barred_owl,Rusty-barred Owl,DIB-10K_28,2482.Rusty-barred Owl,212
+chaco_owl,Chaco Owl,DIB-10K_28,2483.Chaco Owl,227
+rufous_legged_owl,Rufous-legged Owl,DIB-10K_28,2484.Rufous-legged Owl,253
+ural_owl,Ural Owl,DIB-10K_28,2485.Ural Owl,1767
+pere_davids_owl,Pere David's Owl,DIB-10K_28,2486.Pere David's Owl,14
+great_grey_owl,Great Grey Owl,DIB-10K_28,2487.Great Grey Owl,2477
+african_wood_owl,African Wood Owl,DIB-10K_28,2488.African Wood Owl,439
+mottled_owl,Mottled Owl,DIB-10K_28,2489.Mottled Owl,701
+rufous_banded_owl,Rufous-banded Owl,DIB-10K_28,2490.Rufous-banded Owl,158
+black_and_white_owl,Black-and-white Owl,DIB-10K_28,2491.Black-and-white Owl,548
+black_banded_owl,Black-banded Owl,DIB-10K_28,2492.Black-banded Owl,361
+maned_owl,Maned Owl,DIB-10K_28,2493.Maned Owl,24
+crested_owl,Crested Owl,DIB-10K_28,2494.Crested Owl,492
+,,DIB-10K_28,,0

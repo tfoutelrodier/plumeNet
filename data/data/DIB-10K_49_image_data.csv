@@ -1,0 +1,175 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+black_robin,Black Robin,DIB-10K_49,6970.Black Robin,159
+papuan_scrub_robin,Papuan Scrub Robin,DIB-10K_49,6971.Papuan Scrub Robin,6
+northern_scrub_robin,Northern Scrub Robin,DIB-10K_49,6972.Northern Scrub Robin,35
+southern_scrub_robin,Southern Scrub Robin,DIB-10K_49,6973.Southern Scrub Robin,180
+greater_ground_robin,Greater Ground Robin,DIB-10K_49,6974.Greater Ground Robin,14
+lesser_ground_robin,Lesser Ground Robin,DIB-10K_49,6975.Lesser Ground Robin,15
+white_necked_rockfowl,White-necked Rockfowl,DIB-10K_49,6976.White-necked Rockfowl,157
+grey_necked_rockfowl,Grey-necked Rockfowl,DIB-10K_49,6977.Grey-necked Rockfowl,42
+cape_rockjumper,Cape Rockjumper,DIB-10K_49,6978.Cape Rockjumper,297
+drakensberg_rockjumper,Drakensberg Rockjumper,DIB-10K_49,6979.Drakensberg Rockjumper,239
+rail_babbler,Rail-babbler,DIB-10K_49,6980.Rail-babbler,209
+bohemian_waxwing,Bohemian Waxwing,DIB-10K_49,6981.Bohemian Waxwing,2456
+japanese_waxwing,Japanese Waxwing,DIB-10K_49,6982.Japanese Waxwing,359
+cedar_waxwing,Cedar Waxwing,DIB-10K_49,6983.Cedar Waxwing,2659
+black_and_yellow_phainoptila,Black-and-yellow Phainoptila,DIB-10K_49,6984.Black-and-yellow Phainoptila,247
+grey_silky_flycatcher,Grey Silky-flycatcher,DIB-10K_49,6985.Grey Silky-flycatcher,309
+long_tailed_silky_flycatcher,Long-tailed Silky-flycatcher,DIB-10K_49,6986.Long-tailed Silky-flycatcher,527
+phainopepla,Phainopepla,DIB-10K_49,6987.Phainopepla,1750
+grey_hypocolius,Grey Hypocolius,DIB-10K_49,6988.Grey Hypocolius,338
+palmchat,Palmchat,DIB-10K_49,6989.Palmchat,567
+kioea,Kioea,DIB-10K_49,6990.Kioea,25
+kauai_oo,Kauai Oo,DIB-10K_49,6991.Kauai Oo,21
+oahu_oo,Oahu Oo,DIB-10K_49,6992.Oahu Oo,12
+bishops_oo,Bishop's Oo,DIB-10K_49,6993.Bishop's Oo,4
+hawaii_oo,Hawaii Oo,DIB-10K_49,6994.Hawaii Oo,18
+hylocitrea,Hylocitrea,DIB-10K_49,6995.Hylocitrea,40
+yellow_bellied_fantail,Yellow-bellied Fantail,DIB-10K_49,6996.Yellow-bellied Fantail,188
+fairy_flycatcher,Fairy Flycatcher,DIB-10K_49,6997.Fairy Flycatcher,136
+grey_headed_canary_flycatcher,Grey-headed Canary-flycatcher,DIB-10K_49,6998.Grey-headed Canary-flycatcher,930
+citrine_canary_flycatcher,Citrine Canary-flycatcher,DIB-10K_49,6999.Citrine Canary-flycatcher,149
+african_blue_flycatcher,African Blue Flycatcher,DIB-10K_49,7000.African Blue Flycatcher,183
+white_tailed_blue_flycatcher,White-tailed Blue Flycatcher,DIB-10K_49,7001.White-tailed Blue Flycatcher,145
+dusky_crested_flycatcher,Dusky Crested Flycatcher,DIB-10K_49,7002.Dusky Crested Flycatcher,11
+white_bellied_crested_flycatcher,White-bellied Crested Flycatcher,DIB-10K_49,7003.White-bellied Crested Flycatcher,29
+white_tailed_crested_flycatcher,White-tailed Crested Flycatcher,DIB-10K_49,7004.White-tailed Crested Flycatcher,47
+fire_capped_tit,Fire-capped Tit,DIB-10K_49,7005.Fire-capped Tit,91
+yellow_browed_tit,Yellow-browed Tit,DIB-10K_49,7006.Yellow-browed Tit,156
+sultan_tit,Sultan Tit,DIB-10K_49,7007.Sultan Tit,369
+rufous_naped_tit,Rufous-naped Tit,DIB-10K_49,7008.Rufous-naped Tit,127
+rufous_vented_tit,Rufous-vented Tit,DIB-10K_49,7009.Rufous-vented Tit,163
+coal_tit,Coal Tit,DIB-10K_49,7010.Coal Tit,2608
+yellow_bellied_tit,Yellow-bellied Tit,DIB-10K_49,7011.Yellow-bellied Tit,259
+elegant_tit,Elegant Tit,DIB-10K_49,7012.Elegant Tit,98
+palawan_tit,Palawan Tit,DIB-10K_49,7013.Palawan Tit,41
+european_crested_tit,European Crested Tit,DIB-10K_49,7014.European Crested Tit,2138
+grey_crested_tit,Grey Crested Tit,DIB-10K_49,7015.Grey Crested Tit,117
+bridled_titmouse,Bridled Titmouse,DIB-10K_49,7016.Bridled Titmouse,866
+oak_titmouse,Oak Titmouse,DIB-10K_49,7017.Oak Titmouse,1528
+juniper_titmouse,Juniper Titmouse,DIB-10K_49,7018.Juniper Titmouse,749
+tufted_titmouse,Tufted Titmouse,DIB-10K_49,7019.Tufted Titmouse,2717
+black_crested_titmouse,Black-crested Titmouse,DIB-10K_49,7020.Black-crested Titmouse,1252
+varied_tit,Varied Tit,DIB-10K_49,7021.Varied Tit,431
+owstons_tit,Owston's Tit,DIB-10K_49,7022.Owston's Tit,36
+iriomote_tit,Iriomote Tit,DIB-10K_49,7023.Iriomote Tit,6
+chestnut_bellied_tit,Chestnut-bellied Tit,DIB-10K_49,7024.Chestnut-bellied Tit,84
+white_fronted_tit,White-fronted Tit,DIB-10K_49,7025.White-fronted Tit,13
+white_browed_tit,White-browed Tit,DIB-10K_49,7026.White-browed Tit,76
+sombre_tit,Sombre Tit,DIB-10K_49,7027.Sombre Tit,304
+pere_davids_tit,Pere David's Tit,DIB-10K_49,7028.Pere David's Tit,22
+marsh_tit,Marsh Tit,DIB-10K_49,7029.Marsh Tit,2349
+caspian_tit,Caspian Tit,DIB-10K_49,7030.Caspian Tit,17
+black_bibbed_tit,Black-bibbed Tit,DIB-10K_49,7031.Black-bibbed Tit,14
+willow_tit,Willow Tit,DIB-10K_49,7032.Willow Tit,2014
+sichuan_tit,Sichuan Tit,DIB-10K_49,7033.Sichuan Tit,34
+carolina_chickadee,Carolina Chickadee,DIB-10K_49,7034.Carolina Chickadee,2489
+black_capped_chickadee,Black-capped Chickadee,DIB-10K_49,7035.Black-capped Chickadee,2488
+mountain_chickadee,Mountain Chickadee,DIB-10K_49,7036.Mountain Chickadee,2167
+mexican_chickadee,Mexican Chickadee,DIB-10K_49,7037.Mexican Chickadee,281
+grey_headed_chickadee,Grey-headed Chickadee,DIB-10K_49,7038.Grey-headed Chickadee,248
+boreal_chickadee,Boreal Chickadee,DIB-10K_49,7039.Boreal Chickadee,1303
+chestnut_backed_chickadee,Chestnut-backed Chickadee,DIB-10K_49,7040.Chestnut-backed Chickadee,2580
+african_blue_tit,African Blue Tit,DIB-10K_49,7041.African Blue Tit,560
+eurasian_blue_tit,Eurasian Blue Tit,DIB-10K_49,7042.Eurasian Blue Tit,2329
+azure_tit,Azure Tit,DIB-10K_49,7043.Azure Tit,438
+ground_tit,Ground Tit,DIB-10K_49,7044.Ground Tit,213
+great_tit,Great Tit,DIB-10K_49,7045.Great Tit,2509
+japanese_tit,Japanese Tit,DIB-10K_49,7046.Japanese Tit,1879
+cinereous_tit,Cinereous Tit,DIB-10K_49,7047.Cinereous Tit,972
+green_backed_tit,Green-backed Tit,DIB-10K_49,7048.Green-backed Tit,803
+white_naped_tit,White-naped Tit,DIB-10K_49,7049.White-naped Tit,95
+yellow_tit,Yellow Tit,DIB-10K_49,7050.Yellow Tit,74
+himalayan_black_lored_tit,Himalayan Black-lored Tit,DIB-10K_49,7051.Himalayan Black-lored Tit,158
+indian_black_lored_tit,Indian Black-lored Tit,DIB-10K_49,7052.Indian Black-lored Tit,188
+yellow_cheeked_tit,Yellow-cheeked Tit,DIB-10K_49,7053.Yellow-cheeked Tit,193
+white_shouldered_black_tit,White-shouldered Black Tit,DIB-10K_49,7054.White-shouldered Black Tit,33
+white_winged_black_tit,White-winged Black Tit,DIB-10K_49,7055.White-winged Black Tit,59
+southern_black_tit,Southern Black Tit,DIB-10K_49,7056.Southern Black Tit,146
+carps_tit,Carp's Tit,DIB-10K_49,7057.Carp's Tit,52
+white_bellied_tit,White-bellied Tit,DIB-10K_49,7058.White-bellied Tit,59
+white_backed_black_tit,White-backed Black Tit,DIB-10K_49,7059.White-backed Black Tit,56
+dusky_tit,Dusky Tit,DIB-10K_49,7060.Dusky Tit,28
+rufous_bellied_tit,Rufous-bellied Tit,DIB-10K_49,7061.Rufous-bellied Tit,29
+cinnamon_breasted_tit,Cinnamon-breasted Tit,DIB-10K_49,7062.Cinnamon-breasted Tit,10
+red_throated_tit,Red-throated Tit,DIB-10K_49,7063.Red-throated Tit,65
+stripe_breasted_tit,Stripe-breasted Tit,DIB-10K_49,7064.Stripe-breasted Tit,42
+acacia_tit,Acacia Tit,DIB-10K_49,7065.Acacia Tit,50
+miombo_tit,Miombo Tit,DIB-10K_49,7066.Miombo Tit,36
+ashy_tit,Ashy Tit,DIB-10K_49,7067.Ashy Tit,67
+grey_tit,Grey Tit,DIB-10K_49,7068.Grey Tit,93
+eurasian_penduline_tit,Eurasian Penduline Tit,DIB-10K_49,7069.Eurasian Penduline Tit,2027
+black_headed_penduline_tit,Black-headed Penduline Tit,DIB-10K_49,7070.Black-headed Penduline Tit,70
+white_crowned_penduline_tit,White-crowned Penduline Tit,DIB-10K_49,7071.White-crowned Penduline Tit,145
+chinese_penduline_tit,Chinese Penduline Tit,DIB-10K_49,7072.Chinese Penduline Tit,192
+sennar_penduline_tit,Sennar Penduline Tit,DIB-10K_49,7073.Sennar Penduline Tit,34
+yellow_penduline_tit,Yellow Penduline Tit,DIB-10K_49,7074.Yellow Penduline Tit,33
+mouse_colored_penduline_tit,Mouse-colored Penduline Tit,DIB-10K_49,7075.Mouse-colored Penduline Tit,64
+forest_penduline_tit,Forest Penduline Tit,DIB-10K_49,7076.Forest Penduline Tit,8
+grey_penduline_tit,Grey Penduline Tit,DIB-10K_49,7077.Grey Penduline Tit,65
+cape_penduline_tit,Cape Penduline Tit,DIB-10K_49,7078.Cape Penduline Tit,92
+verdin,Verdin,DIB-10K_49,7079.Verdin,1772
+western_nicator,Western Nicator,DIB-10K_49,7080.Western Nicator,57
+eastern_nicator,Eastern Nicator,DIB-10K_49,7081.Eastern Nicator,73
+yellow_throated_nicator,Yellow-throated Nicator,DIB-10K_49,7082.Yellow-throated Nicator,19
+bearded_reedling,Bearded Reedling,DIB-10K_49,7083.Bearded Reedling,2215
+greater_hoopoe_lark,Greater Hoopoe-Lark,DIB-10K_49,7084.Greater Hoopoe-Lark,594
+lesser_hoopoe_lark,Lesser Hoopoe-Lark,DIB-10K_49,7085.Lesser Hoopoe-Lark,13
+beesleys_lark,Beesley's Lark,DIB-10K_49,7086.Beesley's Lark,48
+spike_heeled_lark,Spike-heeled Lark,DIB-10K_49,7087.Spike-heeled Lark,386
+grays_lark,Gray's Lark,DIB-10K_49,7088.Gray's Lark,73
+short_clawed_lark,Short-clawed Lark,DIB-10K_49,7089.Short-clawed Lark,67
+karoo_long_billed_lark,Karoo Long-billed Lark,DIB-10K_49,7090.Karoo Long-billed Lark,148
+benguela_long_billed_lark,Benguela Long-billed Lark,DIB-10K_49,7091.Benguela Long-billed Lark,67
+eastern_long_billed_lark,Eastern Long-billed Lark,DIB-10K_49,7092.Eastern Long-billed Lark,84
+cape_long_billed_lark,Cape Long-billed Lark,DIB-10K_49,7093.Cape Long-billed Lark,75
+agulhas_long_billed_lark,Agulhas Long-billed Lark,DIB-10K_49,7094.Agulhas Long-billed Lark,74
+dusky_lark,Dusky Lark,DIB-10K_49,7095.Dusky Lark,114
+rufous_rumped_lark,Rufous-rumped Lark,DIB-10K_49,7096.Rufous-rumped Lark,28
+thick_billed_lark,Thick-billed Lark,DIB-10K_49,7097.Thick-billed Lark,225
+desert_lark,Desert Lark,DIB-10K_49,7098.Desert Lark,713
+bar_tailed_lark,Bar-tailed Lark,DIB-10K_49,7099.Bar-tailed Lark,267
+rufous_tailed_lark,Rufous-tailed Lark,DIB-10K_49,7100.Rufous-tailed Lark,468
+black_eared_sparrow_lark,Black-eared Sparrow-Lark,DIB-10K_49,7101.Black-eared Sparrow-Lark,32
+madagascan_lark,Madagascan Lark,DIB-10K_49,7102.Madagascan Lark,63
+black_crowned_sparrow_lark,Black-crowned Sparrow-Lark,DIB-10K_49,7103.Black-crowned Sparrow-Lark,405
+chestnut_backed_sparrow_lark,Chestnut-backed Sparrow-Lark,DIB-10K_49,7104.Chestnut-backed Sparrow-Lark,286
+ashy_crowned_sparrow_lark,Ashy-crowned Sparrow-Lark,DIB-10K_49,7105.Ashy-crowned Sparrow-Lark,817
+chestnut_headed_sparrow_lark,Chestnut-headed Sparrow-Lark,DIB-10K_49,7106.Chestnut-headed Sparrow-Lark,89
+grey_backed_sparrow_lark,Grey-backed Sparrow-Lark,DIB-10K_49,7107.Grey-backed Sparrow-Lark,147
+fischers_sparrow_lark,Fischer's Sparrow-Lark,DIB-10K_49,7108.Fischer's Sparrow-Lark,258
+sabota_lark,Sabota Lark,DIB-10K_49,7109.Sabota Lark,383
+pink_breasted_lark,Pink-breasted Lark,DIB-10K_49,7110.Pink-breasted Lark,87
+foxy_lark,Foxy Lark,DIB-10K_49,7111.Foxy Lark,143
+fawn_colored_lark,Fawn-colored Lark,DIB-10K_49,7112.Fawn-colored Lark,134
+karoo_lark,Karoo Lark,DIB-10K_49,7113.Karoo Lark,97
+red_lark,Red Lark,DIB-10K_49,7114.Red Lark,48
+dune_lark,Dune Lark,DIB-10K_49,7115.Dune Lark,159
+barlows_lark,Barlow's Lark,DIB-10K_49,7116.Barlow's Lark,41
+rudds_lark,Rudd's Lark,DIB-10K_49,7117.Rudd's Lark,49
+archers_lark,Archer's Lark,DIB-10K_49,7118.Archer's Lark,55
+eastern_clapper_lark,Eastern Clapper Lark,DIB-10K_49,7119.Eastern Clapper Lark,85
+cape_clapper_lark,Cape Clapper Lark,DIB-10K_49,7120.Cape Clapper Lark,61
+red_winged_lark,Red-winged Lark,DIB-10K_49,7121.Red-winged Lark,132
+rufous_naped_lark,Rufous-naped Lark,DIB-10K_49,7122.Rufous-naped Lark,808
+flappet_lark,Flappet Lark,DIB-10K_49,7123.Flappet Lark,157
+angolan_lark,Angolan Lark,DIB-10K_49,7124.Angolan Lark,23
+williamss_lark,Williams's Lark,DIB-10K_49,7125.Williams's Lark,21
+monotonous_lark,Monotonous Lark,DIB-10K_49,7126.Monotonous Lark,81
+melodious_lark,Melodious Lark,DIB-10K_49,7127.Melodious Lark,28
+horsfields_bush_lark,Horsfield's Bush Lark,DIB-10K_49,7128.Horsfield's Bush Lark,395
+singing_bush_lark,Singing Bush Lark,DIB-10K_49,7129.Singing Bush Lark,166
+burmese_bush_lark,Burmese Bush Lark,DIB-10K_49,7130.Burmese Bush Lark,50
+bengal_bush_lark,Bengal Bush Lark,DIB-10K_49,7131.Bengal Bush Lark,256
+indochinese_bush_lark,Indochinese Bush Lark,DIB-10K_49,7132.Indochinese Bush Lark,183
+indian_bush_lark,Indian Bush Lark,DIB-10K_49,7133.Indian Bush Lark,369
+jerdons_bush_lark,Jerdon's Bush Lark,DIB-10K_49,7134.Jerdon's Bush Lark,647
+gilletts_lark,Gillett's Lark,DIB-10K_49,7135.Gillett's Lark,61
+rusty_bush_lark,Rusty Bush Lark,DIB-10K_49,7136.Rusty Bush Lark,2
+collared_lark,Collared Lark,DIB-10K_49,7137.Collared Lark,5
+ashs_lark,Ash's Lark,DIB-10K_49,7138.Ash's Lark,2
+somali_lark,Somali Lark,DIB-10K_49,7139.Somali Lark,17
+friedmanns_lark,Friedmann's Lark,DIB-10K_49,7140.Friedmann's Lark,17
+kordofan_lark,Kordofan Lark,DIB-10K_49,7141.Kordofan Lark,38
+white_tailed_lark,White-tailed Lark,DIB-10K_49,7142.White-tailed Lark,57
+,,DIB-10K_49,,0

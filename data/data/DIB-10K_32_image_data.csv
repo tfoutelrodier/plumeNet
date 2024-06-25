@@ -1,0 +1,147 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+volcano_hummingbird,Volcano Hummingbird,DIB-10K_32,3183.Volcano Hummingbird,1224
+glow_throated_hummingbird,Glow-throated Hummingbird,DIB-10K_32,3184.Glow-throated Hummingbird,35
+scintillant_hummingbird,Scintillant Hummingbird,DIB-10K_32,3185.Scintillant Hummingbird,913
+calliope_hummingbird,Calliope Hummingbird,DIB-10K_32,3186.Calliope Hummingbird,1253
+speckled_mousebird,Speckled Mousebird,DIB-10K_32,3187.Speckled Mousebird,1282
+white_headed_mousebird,White-headed Mousebird,DIB-10K_32,3188.White-headed Mousebird,110
+red_backed_mousebird,Red-backed Mousebird,DIB-10K_32,3189.Red-backed Mousebird,20
+white_backed_mousebird,White-backed Mousebird,DIB-10K_32,3190.White-backed Mousebird,429
+blue_naped_mousebird,Blue-naped Mousebird,DIB-10K_32,3191.Blue-naped Mousebird,291
+red_faced_mousebird,Red-faced Mousebird,DIB-10K_32,3192.Red-faced Mousebird,265
+eared_quetzal,Eared Quetzal,DIB-10K_32,3193.Eared Quetzal,53
+pavonine_quetzal,Pavonine Quetzal,DIB-10K_32,3194.Pavonine Quetzal,119
+golden_headed_quetzal,Golden-headed Quetzal,DIB-10K_32,3195.Golden-headed Quetzal,791
+white_tipped_quetzal,White-tipped Quetzal,DIB-10K_32,3196.White-tipped Quetzal,213
+resplendent_quetzal,Resplendent Quetzal,DIB-10K_32,3197.Resplendent Quetzal,2145
+crested_quetzal,Crested Quetzal,DIB-10K_32,3198.Crested Quetzal,214
+cuban_trogon,Cuban Trogon,DIB-10K_32,3199.Cuban Trogon,576
+hispaniolan_trogon,Hispaniolan Trogon,DIB-10K_32,3200.Hispaniolan Trogon,289
+lattice_tailed_trogon,Lattice-tailed Trogon,DIB-10K_32,3201.Lattice-tailed Trogon,83
+slaty_tailed_trogon,Slaty-tailed Trogon,DIB-10K_32,3202.Slaty-tailed Trogon,1265
+choco_trogon,Choco Trogon,DIB-10K_32,3203.Choco Trogon,167
+ecuadorian_trogon,Ecuadorian Trogon,DIB-10K_32,3204.Ecuadorian Trogon,91
+black_tailed_trogon,Black-tailed Trogon,DIB-10K_32,3205.Black-tailed Trogon,391
+black_headed_trogon,Black-headed Trogon,DIB-10K_32,3206.Black-headed Trogon,871
+citreoline_trogon,Citreoline Trogon,DIB-10K_32,3207.Citreoline Trogon,311
+white_tailed_trogon,White-tailed Trogon,DIB-10K_32,3208.White-tailed Trogon,383
+bairds_trogon,Baird's Trogon,DIB-10K_32,3209.Baird's Trogon,215
+green_backed_trogon,Green-backed Trogon,DIB-10K_32,3210.Green-backed Trogon,926
+gartered_trogon,Gartered Trogon,DIB-10K_32,3211.Gartered Trogon,858
+amazonian_trogon,Amazonian Trogon,DIB-10K_32,3212.Amazonian Trogon,125
+guianan_trogon,Guianan Trogon,DIB-10K_32,3213.Guianan Trogon,495
+blue_crowned_trogon,Blue-crowned Trogon,DIB-10K_32,3214.Blue-crowned Trogon,544
+surucua_trogon,Surucua Trogon,DIB-10K_32,3215.Surucua Trogon,1028
+black_throated_trogon,Black-throated Trogon,DIB-10K_32,3216.Black-throated Trogon,1200
+elegant_trogon,Elegant Trogon,DIB-10K_32,3217.Elegant Trogon,957
+mountain_trogon,Mountain Trogon,DIB-10K_32,3218.Mountain Trogon,172
+collared_trogon,Collared Trogon,DIB-10K_32,3219.Collared Trogon,981
+masked_trogon,Masked Trogon,DIB-10K_32,3220.Masked Trogon,1387
+narina_trogon,Narina Trogon,DIB-10K_32,3221.Narina Trogon,278
+bare_cheeked_trogon,Bare-cheeked Trogon,DIB-10K_32,3222.Bare-cheeked Trogon,14
+bar_tailed_trogon,Bar-tailed Trogon,DIB-10K_32,3223.Bar-tailed Trogon,89
+javan_trogon,Javan Trogon,DIB-10K_32,3224.Javan Trogon,92
+sumatran_trogon,Sumatran Trogon,DIB-10K_32,3225.Sumatran Trogon,144
+malabar_trogon,Malabar Trogon,DIB-10K_32,3226.Malabar Trogon,513
+red_naped_trogon,Red-naped Trogon,DIB-10K_32,3227.Red-naped Trogon,250
+diards_trogon,Diard's Trogon,DIB-10K_32,3228.Diard's Trogon,198
+philippine_trogon,Philippine Trogon,DIB-10K_32,3229.Philippine Trogon,109
+whiteheads_trogon,Whitehead's Trogon,DIB-10K_32,3230.Whitehead's Trogon,153
+cinnamon_rumped_trogon,Cinnamon-rumped Trogon,DIB-10K_32,3231.Cinnamon-rumped Trogon,46
+scarlet_rumped_trogon,Scarlet-rumped Trogon,DIB-10K_32,3232.Scarlet-rumped Trogon,439
+orange_breasted_trogon,Orange-breasted Trogon,DIB-10K_32,3233.Orange-breasted Trogon,521
+red_headed_trogon,Red-headed Trogon,DIB-10K_32,3234.Red-headed Trogon,541
+wards_trogon,Ward's Trogon,DIB-10K_32,3235.Ward's Trogon,140
+cuckoo_roller,Cuckoo Roller,DIB-10K_32,3236.Cuckoo Roller,271
+purple_roller,Purple Roller,DIB-10K_32,3237.Purple Roller,524
+indian_roller,Indian Roller,DIB-10K_32,3238.Indian Roller,2834
+purple_winged_roller,Purple-winged Roller,DIB-10K_32,3239.Purple-winged Roller,95
+racket_tailed_roller,Racket-tailed Roller,DIB-10K_32,3240.Racket-tailed Roller,276
+lilac_breasted_roller,Lilac-breasted Roller,DIB-10K_32,3241.Lilac-breasted Roller,2680
+abyssinian_roller,Abyssinian Roller,DIB-10K_32,3242.Abyssinian Roller,704
+european_roller,European Roller,DIB-10K_32,3243.European Roller,2758
+blue_bellied_roller,Blue-bellied Roller,DIB-10K_32,3244.Blue-bellied Roller,1047
+blue_throated_roller,Blue-throated Roller,DIB-10K_32,3245.Blue-throated Roller,115
+broad_billed_roller,Broad-billed Roller,DIB-10K_32,3246.Broad-billed Roller,754
+oriental_dollarbird,Oriental Dollarbird,DIB-10K_32,3247.Oriental Dollarbird,1874
+azure_dollarbird,Azure Dollarbird,DIB-10K_32,3248.Azure Dollarbird,37
+short_legged_ground_roller,Short-legged Ground Roller,DIB-10K_32,3249.Short-legged Ground Roller,177
+scaly_ground_roller,Scaly Ground Roller,DIB-10K_32,3250.Scaly Ground Roller,158
+pitta_like_ground_roller,Pitta-like Ground Roller,DIB-10K_32,3251.Pitta-like Ground Roller,159
+rufous_headed_ground_roller,Rufous-headed Ground Roller,DIB-10K_32,3252.Rufous-headed Ground Roller,90
+long_tailed_ground_roller,Long-tailed Ground Roller,DIB-10K_32,3253.Long-tailed Ground Roller,272
+green_backed_kingfisher,Green-backed Kingfisher,DIB-10K_32,3254.Green-backed Kingfisher,289
+scaly_breasted_kingfisher,Scaly-breasted Kingfisher,DIB-10K_32,3255.Scaly-breasted Kingfisher,107
+moustached_kingfisher,Moustached Kingfisher,DIB-10K_32,3256.Moustached Kingfisher,32
+spotted_wood_kingfisher,Spotted Wood Kingfisher,DIB-10K_32,3257.Spotted Wood Kingfisher,217
+hombrons_kingfisher,Hombron's Kingfisher,DIB-10K_32,3258.Hombron's Kingfisher,31
+rufous_collared_kingfisher,Rufous-collared Kingfisher,DIB-10K_32,3259.Rufous-collared Kingfisher,531
+hook_billed_kingfisher,Hook-billed Kingfisher,DIB-10K_32,3260.Hook-billed Kingfisher,45
+banded_kingfisher,Banded Kingfisher,DIB-10K_32,3261.Banded Kingfisher,750
+common_paradise_kingfisher,Common Paradise Kingfisher,DIB-10K_32,3262.Common Paradise Kingfisher,152
+kofiau_paradise_kingfisher,Kofiau Paradise Kingfisher,DIB-10K_32,3263.Kofiau Paradise Kingfisher,28
+biak_paradise_kingfisher,Biak Paradise Kingfisher,DIB-10K_32,3264.Biak Paradise Kingfisher,37
+numfor_paradise_kingfisher,Numfor Paradise Kingfisher,DIB-10K_32,3265.Numfor Paradise Kingfisher,31
+little_paradise_kingfisher,Little Paradise Kingfisher,DIB-10K_32,3266.Little Paradise Kingfisher,32
+buff_breasted_paradise_kingfisher,Buff-breasted Paradise Kingfisher,DIB-10K_32,3267.Buff-breasted Paradise Kingfisher,243
+black_capped_paradise_kingfisher,Black-capped Paradise Kingfisher,DIB-10K_32,3268.Black-capped Paradise Kingfisher,14
+red_breasted_paradise_kingfisher,Red-breasted Paradise Kingfisher,DIB-10K_32,3269.Red-breasted Paradise Kingfisher,25
+brown_headed_paradise_kingfisher,Brown-headed Paradise Kingfisher,DIB-10K_32,3270.Brown-headed Paradise Kingfisher,92
+lilac_kingfisher,Lilac Kingfisher,DIB-10K_32,3271.Lilac Kingfisher,249
+shovel_billed_kookaburra,Shovel-billed Kookaburra,DIB-10K_32,3272.Shovel-billed Kookaburra,41
+laughing_kookaburra,Laughing Kookaburra,DIB-10K_32,3273.Laughing Kookaburra,2986
+blue_winged_kookaburra,Blue-winged Kookaburra,DIB-10K_32,3274.Blue-winged Kookaburra,1590
+spangled_kookaburra,Spangled Kookaburra,DIB-10K_32,3275.Spangled Kookaburra,53
+rufous_bellied_kookaburra,Rufous-bellied Kookaburra,DIB-10K_32,3276.Rufous-bellied Kookaburra,172
+glittering_kingfisher,Glittering Kingfisher,DIB-10K_32,3277.Glittering Kingfisher,47
+stork_billed_kingfisher,Stork-billed Kingfisher,DIB-10K_32,3278.Stork-billed Kingfisher,1963
+great_billed_kingfisher,Great-billed Kingfisher,DIB-10K_32,3279.Great-billed Kingfisher,140
+brown_winged_kingfisher,Brown-winged Kingfisher,DIB-10K_32,3280.Brown-winged Kingfisher,458
+ruddy_kingfisher,Ruddy Kingfisher,DIB-10K_32,3281.Ruddy Kingfisher,845
+white_throated_kingfisher,White-throated Kingfisher,DIB-10K_32,3282.White-throated Kingfisher,2798
+javan_kingfisher,Javan Kingfisher,DIB-10K_32,3283.Javan Kingfisher,263
+chocolate_backed_kingfisher,Chocolate-backed Kingfisher,DIB-10K_32,3284.Chocolate-backed Kingfisher,89
+black_capped_kingfisher,Black-capped Kingfisher,DIB-10K_32,3285.Black-capped Kingfisher,1052
+grey_headed_kingfisher,Grey-headed Kingfisher,DIB-10K_32,3286.Grey-headed Kingfisher,1305
+brown_hooded_kingfisher,Brown-hooded Kingfisher,DIB-10K_32,3287.Brown-hooded Kingfisher,1154
+striped_kingfisher,Striped Kingfisher,DIB-10K_32,3288.Striped Kingfisher,727
+blue_breasted_kingfisher,Blue-breasted Kingfisher,DIB-10K_32,3289.Blue-breasted Kingfisher,650
+woodland_kingfisher,Woodland Kingfisher,DIB-10K_32,3290.Woodland Kingfisher,1459
+mangrove_kingfisher,Mangrove Kingfisher,DIB-10K_32,3291.Mangrove Kingfisher,150
+blue_black_kingfisher,Blue-black Kingfisher,DIB-10K_32,3292.Blue-black Kingfisher,25
+winchells_kingfisher,Winchell's Kingfisher,DIB-10K_32,3293.Winchell's Kingfisher,39
+blue_and_white_kingfisher,Blue-and-white Kingfisher,DIB-10K_32,3294.Blue-and-white Kingfisher,162
+lazuli_kingfisher,Lazuli Kingfisher,DIB-10K_32,3295.Lazuli Kingfisher,48
+forest_kingfisher,Forest Kingfisher,DIB-10K_32,3296.Forest Kingfisher,1131
+white_mantled_kingfisher,White-mantled Kingfisher,DIB-10K_32,3297.White-mantled Kingfisher,16
+ultramarine_kingfisher,Ultramarine Kingfisher,DIB-10K_32,3298.Ultramarine Kingfisher,71
+vanuatu_kingfisher,Vanuatu Kingfisher,DIB-10K_32,3299.Vanuatu Kingfisher,26
+sombre_kingfisher,Sombre Kingfisher,DIB-10K_32,3300.Sombre Kingfisher,82
+collared_kingfisher,Collared Kingfisher,DIB-10K_32,3301.Collared Kingfisher,2338
+torresian_kingfisher,Torresian Kingfisher,DIB-10K_32,3302.Torresian Kingfisher,220
+islet_kingfisher,Islet Kingfisher,DIB-10K_32,3303.Islet Kingfisher,6
+mariana_kingfisher,Mariana Kingfisher,DIB-10K_32,3304.Mariana Kingfisher,64
+melanesian_kingfisher,Melanesian Kingfisher,DIB-10K_32,3305.Melanesian Kingfisher,21
+pacific_kingfisher,Pacific Kingfisher,DIB-10K_32,3306.Pacific Kingfisher,82
+talaud_kingfisher,Talaud Kingfisher,DIB-10K_32,3307.Talaud Kingfisher,27
+guam_kingfisher,Guam Kingfisher,DIB-10K_32,3308.Guam Kingfisher,177
+rusty_capped_kingfisher,Rusty-capped Kingfisher,DIB-10K_32,3309.Rusty-capped Kingfisher,38
+pohnpei_kingfisher,Pohnpei Kingfisher,DIB-10K_32,3310.Pohnpei Kingfisher,11
+beach_kingfisher,Beach Kingfisher,DIB-10K_32,3311.Beach Kingfisher,100
+sacred_kingfisher,Sacred Kingfisher,DIB-10K_32,3312.Sacred Kingfisher,2620
+flat_billed_kingfisher,Flat-billed Kingfisher,DIB-10K_32,3313.Flat-billed Kingfisher,45
+cinnamon_banded_kingfisher,Cinnamon-banded Kingfisher,DIB-10K_32,3314.Cinnamon-banded Kingfisher,69
+chattering_kingfisher,Chattering Kingfisher,DIB-10K_32,3315.Chattering Kingfisher,56
+mewing_kingfisher,Mewing Kingfisher,DIB-10K_32,3316.Mewing Kingfisher,8
+society_kingfisher,Society Kingfisher,DIB-10K_32,3317.Society Kingfisher,24
+mangareva_kingfisher,Mangareva Kingfisher,DIB-10K_32,3318.Mangareva Kingfisher,14
+niau_kingfisher,Niau Kingfisher,DIB-10K_32,3319.Niau Kingfisher,32
+marquesan_kingfisher,Marquesan Kingfisher,DIB-10K_32,3320.Marquesan Kingfisher,34
+red_backed_kingfisher,Red-backed Kingfisher,DIB-10K_32,3321.Red-backed Kingfisher,451
+yellow_billed_kingfisher,Yellow-billed Kingfisher,DIB-10K_32,3322.Yellow-billed Kingfisher,191
+mountain_kingfisher,Mountain Kingfisher,DIB-10K_32,3323.Mountain Kingfisher,21
+african_dwarf_kingfisher,African Dwarf Kingfisher,DIB-10K_32,3324.African Dwarf Kingfisher,96
+african_pygmy_kingfisher,African Pygmy Kingfisher,DIB-10K_32,3325.African Pygmy Kingfisher,506
+madagascan_pygmy_kingfisher,Madagascan Pygmy Kingfisher,DIB-10K_32,3326.Madagascan Pygmy Kingfisher,188
+white_bellied_kingfisher,White-bellied Kingfisher,DIB-10K_32,3327.White-bellied Kingfisher,65
+,,DIB-10K_32,,0

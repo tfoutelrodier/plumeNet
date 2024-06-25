@@ -1,0 +1,85 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+scrub_blackbird,Scrub Blackbird,DIB-10K_66,10266.Scrub Blackbird,226
+melodious_blackbird,Melodious Blackbird,DIB-10K_66,10267.Melodious Blackbird,562
+cuban_blackbird,Cuban Blackbird,DIB-10K_66,10268.Cuban Blackbird,145
+rusty_blackbird,Rusty Blackbird,DIB-10K_66,10269.Rusty Blackbird,2114
+brewers_blackbird,Brewer's Blackbird,DIB-10K_66,10270.Brewer's Blackbird,2566
+common_grackle,Common Grackle,DIB-10K_66,10271.Common Grackle,2893
+nicaraguan_grackle,Nicaraguan Grackle,DIB-10K_66,10272.Nicaraguan Grackle,221
+carib_grackle,Carib Grackle,DIB-10K_66,10273.Carib Grackle,1227
+greater_antillean_grackle,Greater Antillean Grackle,DIB-10K_66,10274.Greater Antillean Grackle,1046
+boat_tailed_grackle,Boat-tailed Grackle,DIB-10K_66,10275.Boat-tailed Grackle,1974
+great_tailed_grackle,Great-tailed Grackle,DIB-10K_66,10276.Great-tailed Grackle,2689
+slender_billed_grackle,Slender-billed Grackle,DIB-10K_66,10277.Slender-billed Grackle,5
+red_bellied_grackle,Red-bellied Grackle,DIB-10K_66,10278.Red-bellied Grackle,470
+velvet_fronted_grackle,Velvet-fronted Grackle,DIB-10K_66,10279.Velvet-fronted Grackle,78
+oriole_blackbird,Oriole Blackbird,DIB-10K_66,10280.Oriole Blackbird,476
+colombian_mountain_grackle,Colombian Mountain Grackle,DIB-10K_66,10281.Colombian Mountain Grackle,56
+golden_tufted_mountain_grackle,Golden-tufted Mountain Grackle,DIB-10K_66,10282.Golden-tufted Mountain Grackle,37
+austral_blackbird,Austral Blackbird,DIB-10K_66,10283.Austral Blackbird,628
+scarlet_headed_blackbird,Scarlet-headed Blackbird,DIB-10K_66,10284.Scarlet-headed Blackbird,898
+forbess_blackbird,Forbes's Blackbird,DIB-10K_66,10285.Forbes's Blackbird,30
+chopi_blackbird,Chopi Blackbird,DIB-10K_66,10286.Chopi Blackbird,601
+bolivian_blackbird,Bolivian Blackbird,DIB-10K_66,10287.Bolivian Blackbird,71
+greyish_baywing,Greyish Baywing,DIB-10K_66,10288.Greyish Baywing,1034
+pale_baywing,Pale Baywing,DIB-10K_66,10289.Pale Baywing,124
+yellow_winged_blackbird,Yellow-winged Blackbird,DIB-10K_66,10290.Yellow-winged Blackbird,857
+pale_eyed_blackbird,Pale-eyed Blackbird,DIB-10K_66,10291.Pale-eyed Blackbird,59
+unicolored_blackbird,Unicolored Blackbird,DIB-10K_66,10292.Unicolored Blackbird,390
+chestnut_capped_blackbird,Chestnut-capped Blackbird,DIB-10K_66,10293.Chestnut-capped Blackbird,1472
+yellow_hooded_blackbird,Yellow-hooded Blackbird,DIB-10K_66,10294.Yellow-hooded Blackbird,715
+saffron_cowled_blackbird,Saffron-cowled Blackbird,DIB-10K_66,10295.Saffron-cowled Blackbird,253
+brown_and_yellow_marshbird,Brown-and-yellow Marshbird,DIB-10K_66,10296.Brown-and-yellow Marshbird,535
+yellow_rumped_marshbird,Yellow-rumped Marshbird,DIB-10K_66,10297.Yellow-rumped Marshbird,692
+ovenbird,Ovenbird,DIB-10K_66,10298.Ovenbird,1722
+worm_eating_warbler,Worm-eating Warbler,DIB-10K_66,10299.Worm-eating Warbler,782
+louisiana_waterthrush,Louisiana Waterthrush,DIB-10K_66,10300.Louisiana Waterthrush,1136
+northern_waterthrush,Northern Waterthrush,DIB-10K_66,10301.Northern Waterthrush,1623
+bachmans_warbler,Bachman's Warbler,DIB-10K_66,10302.Bachman's Warbler,19
+golden_winged_warbler,Golden-winged Warbler,DIB-10K_66,10303.Golden-winged Warbler,1188
+blue_winged_warbler,Blue-winged Warbler,DIB-10K_66,10304.Blue-winged Warbler,1100
+black_and_white_warbler,Black-and-white Warbler,DIB-10K_66,10305.Black-and-white Warbler,2240
+prothonotary_warbler,Prothonotary Warbler,DIB-10K_66,10306.Prothonotary Warbler,2377
+swainsons_warbler,Swainson's Warbler,DIB-10K_66,10307.Swainson's Warbler,565
+crescent_chested_warbler,Crescent-chested Warbler,DIB-10K_66,10308.Crescent-chested Warbler,177
+flame_throated_warbler,Flame-throated Warbler,DIB-10K_66,10309.Flame-throated Warbler,254
+tennessee_warbler,Tennessee Warbler,DIB-10K_66,10310.Tennessee Warbler,744
+orange_crowned_warbler,Orange-crowned Warbler,DIB-10K_66,10311.Orange-crowned Warbler,673
+colima_warbler,Colima Warbler,DIB-10K_66,10312.Colima Warbler,140
+lucys_warbler,Lucy's Warbler,DIB-10K_66,10313.Lucy's Warbler,476
+nashville_warbler,Nashville Warbler,DIB-10K_66,10314.Nashville Warbler,662
+virginias_warbler,Virginia's Warbler,DIB-10K_66,10315.Virginia's Warbler,400
+sempers_warbler,Semper's Warbler,DIB-10K_66,10316.Semper's Warbler,4
+connecticut_warbler,Connecticut Warbler,DIB-10K_66,10317.Connecticut Warbler,678
+grey_crowned_yellowthroat,Grey-crowned Yellowthroat,DIB-10K_66,10318.Grey-crowned Yellowthroat,546
+masked_yellowthroat,Masked Yellowthroat,DIB-10K_66,10319.Masked Yellowthroat,940
+chiriqui_yellowthroat,Chiriqui Yellowthroat,DIB-10K_66,10320.Chiriqui Yellowthroat,12
+black_lored_yellowthroat,Black-lored Yellowthroat,DIB-10K_66,10321.Black-lored Yellowthroat,30
+southern_yellowthroat,Southern Yellowthroat,DIB-10K_66,10322.Southern Yellowthroat,50
+macgillivrays_warbler,MacGillivray's Warbler,DIB-10K_66,10323.MacGillivray's Warbler,780
+mourning_warbler,Mourning Warbler,DIB-10K_66,10324.Mourning Warbler,901
+kentucky_warbler,Kentucky Warbler,DIB-10K_66,10325.Kentucky Warbler,828
+olive_crowned_yellowthroat,Olive-crowned Yellowthroat,DIB-10K_66,10326.Olive-crowned Yellowthroat,186
+black_polled_yellowthroat,Black-polled Yellowthroat,DIB-10K_66,10327.Black-polled Yellowthroat,77
+beldings_yellowthroat,Belding's Yellowthroat,DIB-10K_66,10328.Belding's Yellowthroat,152
+bahama_yellowthroat,Bahama Yellowthroat,DIB-10K_66,10329.Bahama Yellowthroat,104
+altamira_yellowthroat,Altamira Yellowthroat,DIB-10K_66,10330.Altamira Yellowthroat,24
+common_yellowthroat,Common Yellowthroat,DIB-10K_66,10331.Common Yellowthroat,2334
+hooded_yellowthroat,Hooded Yellowthroat,DIB-10K_66,10332.Hooded Yellowthroat,58
+whistling_warbler,Whistling Warbler,DIB-10K_66,10333.Whistling Warbler,19
+plumbeous_warbler,Plumbeous Warbler,DIB-10K_66,10334.Plumbeous Warbler,56
+elfin_woods_warbler,Elfin Woods Warbler,DIB-10K_66,10335.Elfin Woods Warbler,108
+arrowhead_warbler,Arrowhead Warbler,DIB-10K_66,10336.Arrowhead Warbler,48
+hooded_warbler,Hooded Warbler,DIB-10K_66,10337.Hooded Warbler,1363
+american_redstart,American Redstart,DIB-10K_66,10338.American Redstart,2435
+kirtlands_warbler,Kirtland's Warbler,DIB-10K_66,10339.Kirtland's Warbler,773
+cape_may_warbler,Cape May Warbler,DIB-10K_66,10340.Cape May Warbler,2059
+cerulean_warbler,Cerulean Warbler,DIB-10K_66,10341.Cerulean Warbler,819
+northern_parula,Northern Parula,DIB-10K_66,10342.Northern Parula,2000
+tropical_parula,Tropical Parula,DIB-10K_66,10343.Tropical Parula,983
+magnolia_warbler,Magnolia Warbler,DIB-10K_66,10344.Magnolia Warbler,1772
+bay_breasted_warbler,Bay-breasted Warbler,DIB-10K_66,10345.Bay-breasted Warbler,1432
+blackburnian_warbler,Blackburnian Warbler,DIB-10K_66,10346.Blackburnian Warbler,1746
+american_yellow_warbler,American Yellow Warbler,DIB-10K_66,10347.American Yellow Warbler,521
+mangrove_warbler,Mangrove Warbler,DIB-10K_66,10348.Mangrove Warbler,1578
+,,DIB-10K_66,,0

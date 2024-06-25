@@ -1,0 +1,37 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+black_tailed_godwit,Black-tailed Godwit,DIB-10K_21,1573.Black-tailed Godwit,2893
+hudsonian_godwit,Hudsonian Godwit,DIB-10K_21,1574.Hudsonian Godwit,2083
+marbled_godwit,Marbled Godwit,DIB-10K_21,1575.Marbled Godwit,2690
+ruddy_turnstone,Ruddy Turnstone,DIB-10K_21,1576.Ruddy Turnstone,2873
+black_turnstone,Black Turnstone,DIB-10K_21,1577.Black Turnstone,2391
+tuamotu_sandpiper,Tuamotu Sandpiper,DIB-10K_21,1578.Tuamotu Sandpiper,127
+kiritimati_sandpiper,Kiritimati Sandpiper,DIB-10K_21,1579.Kiritimati Sandpiper,7
+tahiti_sandpiper,Tahiti Sandpiper,DIB-10K_21,1580.Tahiti Sandpiper,15
+moorea_sandpiper,Moorea Sandpiper,DIB-10K_21,1581.Moorea Sandpiper,6
+great_knot,Great Knot,DIB-10K_21,1582.Great Knot,1063
+red_knot,Red Knot,DIB-10K_21,1583.Red Knot,2599
+surfbird,Surfbird,DIB-10K_21,1584.Surfbird,1189
+ruff,Ruff,DIB-10K_21,1585.Ruff,2452
+broad_billed_sandpiper,Broad-billed Sandpiper,DIB-10K_21,1586.Broad-billed Sandpiper,643
+sharp_tailed_sandpiper,Sharp-tailed Sandpiper,DIB-10K_21,1587.Sharp-tailed Sandpiper,2009
+stilt_sandpiper,Stilt Sandpiper,DIB-10K_21,1588.Stilt Sandpiper,1984
+curlew_sandpiper,Curlew Sandpiper,DIB-10K_21,1589.Curlew Sandpiper,3019
+temmincks_stint,Temminck's Stint,DIB-10K_21,1590.Temminck's Stint,2091
+long_toed_stint,Long-toed Stint,DIB-10K_21,1591.Long-toed Stint,1059
+spoon_billed_sandpiper,Spoon-billed Sandpiper,DIB-10K_21,1592.Spoon-billed Sandpiper,391
+red_necked_stint,Red-necked Stint,DIB-10K_21,1593.Red-necked Stint,1944
+sanderling,Sanderling,DIB-10K_21,1594.Sanderling,2692
+dunlin,Dunlin,DIB-10K_21,1595.Dunlin,2802
+rock_sandpiper,Rock Sandpiper,DIB-10K_21,1596.Rock Sandpiper,1040
+purple_sandpiper,Purple Sandpiper,DIB-10K_21,1597.Purple Sandpiper,2722
+bairds_sandpiper,Baird's Sandpiper,DIB-10K_21,1598.Baird's Sandpiper,2243
+little_stint,Little Stint,DIB-10K_21,1599.Little Stint,2913
+least_sandpiper,Least Sandpiper,DIB-10K_21,1600.Least Sandpiper,2760
+white_rumped_sandpiper,White-rumped Sandpiper,DIB-10K_21,1601.White-rumped Sandpiper,2448
+buff_breasted_sandpiper,Buff-breasted Sandpiper,DIB-10K_21,1602.Buff-breasted Sandpiper,1130
+pectoral_sandpiper,Pectoral Sandpiper,DIB-10K_21,1603.Pectoral Sandpiper,2886
+semipalmated_sandpiper,Semipalmated Sandpiper,DIB-10K_21,1604.Semipalmated Sandpiper,2774
+western_sandpiper,Western Sandpiper,DIB-10K_21,1605.Western Sandpiper,2701
+asian_dowitcher,Asian Dowitcher,DIB-10K_21,1606.Asian Dowitcher,460
+long_billed_dowitcher,Long-billed Dowitcher,DIB-10K_21,1607.Long-billed Dowitcher,2744
+,,DIB-10K_21,,0

@@ -1,0 +1,47 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+ibisbill,Ibisbill,DIB-10K_19,1468.Ibisbill,461
+black_winged_stilt,Black-winged Stilt,DIB-10K_19,1469.Black-winged Stilt,2934
+pied_stilt,Pied Stilt,DIB-10K_19,1470.Pied Stilt,1842
+black_necked_stilt,Black-necked Stilt,DIB-10K_19,1471.Black-necked Stilt,2825
+white_backed_stilt,White-backed Stilt,DIB-10K_19,1472.White-backed Stilt,892
+black_stilt,Black Stilt,DIB-10K_19,1473.Black Stilt,694
+banded_stilt,Banded Stilt,DIB-10K_19,1474.Banded Stilt,441
+pied_avocet,Pied Avocet,DIB-10K_19,1475.Pied Avocet,2805
+american_avocet,American Avocet,DIB-10K_19,1476.American Avocet,2800
+red_necked_avocet,Red-necked Avocet,DIB-10K_19,1477.Red-necked Avocet,1072
+andean_avocet,Andean Avocet,DIB-10K_19,1478.Andean Avocet,423
+northern_lapwing,Northern Lapwing,DIB-10K_19,1479.Northern Lapwing,2922
+long_toed_lapwing,Long-toed Lapwing,DIB-10K_19,1480.Long-toed Lapwing,585
+blacksmith_lapwing,Blacksmith Lapwing,DIB-10K_19,1481.Blacksmith Lapwing,1952
+spur_winged_lapwing,Spur-winged Lapwing,DIB-10K_19,1482.Spur-winged Lapwing,2195
+river_lapwing,River Lapwing,DIB-10K_19,1483.River Lapwing,722
+black_headed_lapwing,Black-headed Lapwing,DIB-10K_19,1484.Black-headed Lapwing,298
+yellow_wattled_lapwing,Yellow-wattled Lapwing,DIB-10K_19,1485.Yellow-wattled Lapwing,1353
+white_crowned_lapwing,White-crowned Lapwing,DIB-10K_19,1486.White-crowned Lapwing,633
+senegal_lapwing,Senegal Lapwing,DIB-10K_19,1487.Senegal Lapwing,309
+black_winged_lapwing,Black-winged Lapwing,DIB-10K_19,1488.Black-winged Lapwing,289
+crowned_lapwing,Crowned Lapwing,DIB-10K_19,1489.Crowned Lapwing,1408
+african_wattled_lapwing,African Wattled Lapwing,DIB-10K_19,1490.African Wattled Lapwing,1117
+spot_breasted_lapwing,Spot-breasted Lapwing,DIB-10K_19,1491.Spot-breasted Lapwing,192
+brown_chested_lapwing,Brown-chested Lapwing,DIB-10K_19,1492.Brown-chested Lapwing,108
+grey_headed_lapwing,Grey-headed Lapwing,DIB-10K_19,1493.Grey-headed Lapwing,996
+red_wattled_lapwing,Red-wattled Lapwing,DIB-10K_19,1494.Red-wattled Lapwing,2725
+javan_lapwing,Javan Lapwing,DIB-10K_19,1495.Javan Lapwing,40
+banded_lapwing,Banded Lapwing,DIB-10K_19,1496.Banded Lapwing,656
+masked_lapwing,Masked Lapwing,DIB-10K_19,1497.Masked Lapwing,2924
+sociable_lapwing,Sociable Lapwing,DIB-10K_19,1498.Sociable Lapwing,549
+white_tailed_lapwing,White-tailed Lapwing,DIB-10K_19,1499.White-tailed Lapwing,636
+southern_lapwing,Southern Lapwing,DIB-10K_19,1500.Southern Lapwing,3040
+andean_lapwing,Andean Lapwing,DIB-10K_19,1501.Andean Lapwing,614
+red_kneed_dotterel,Red-kneed Dotterel,DIB-10K_19,1502.Red-kneed Dotterel,1163
+inland_dotterel,Inland Dotterel,DIB-10K_19,1503.Inland Dotterel,187
+wrybill,Wrybill,DIB-10K_19,1504.Wrybill,1612
+european_golden_plover,European Golden Plover,DIB-10K_19,1505.European Golden Plover,2526
+pacific_golden_plover,Pacific Golden Plover,DIB-10K_19,1506.Pacific Golden Plover,2840
+american_golden_plover,American Golden Plover,DIB-10K_19,1507.American Golden Plover,2519
+grey_plover,Grey Plover,DIB-10K_19,1508.Grey Plover,2803
+new_zealand_plover,New Zealand Plover,DIB-10K_19,1509.New Zealand Plover,739
+common_ringed_plover,Common Ringed Plover,DIB-10K_19,1510.Common Ringed Plover,2691
+semipalmated_plover,Semipalmated Plover,DIB-10K_19,1511.Semipalmated Plover,2875
+long_billed_plover,Long-billed Plover,DIB-10K_19,1512.Long-billed Plover,348
+,,DIB-10K_19,,0

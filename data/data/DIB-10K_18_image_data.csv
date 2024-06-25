@@ -1,0 +1,69 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+white_winged_coot,White-winged Coot,DIB-10K_18,1400.White-winged Coot,674
+andean_coot,Andean Coot,DIB-10K_18,1401.Andean Coot,628
+red_gartered_coot,Red-gartered Coot,DIB-10K_18,1402.Red-gartered Coot,1093
+red_fronted_coot,Red-fronted Coot,DIB-10K_18,1403.Red-fronted Coot,565
+giant_coot,Giant Coot,DIB-10K_18,1404.Giant Coot,551
+horned_coot,Horned Coot,DIB-10K_18,1405.Horned Coot,194
+grey_winged_trumpeter,Grey-winged Trumpeter,DIB-10K_18,1406.Grey-winged Trumpeter,1313
+pale_winged_trumpeter,Pale-winged Trumpeter,DIB-10K_18,1407.Pale-winged Trumpeter,177
+dark_winged_trumpeter,Dark-winged Trumpeter,DIB-10K_18,1408.Dark-winged Trumpeter,68
+grey_crowned_crane,Grey Crowned Crane,DIB-10K_18,1409.Grey Crowned Crane,2781
+black_crowned_crane,Black Crowned Crane,DIB-10K_18,1410.Black Crowned Crane,1815
+siberian_crane,Siberian Crane,DIB-10K_18,1411.Siberian Crane,410
+sandhill_crane,Sandhill Crane,DIB-10K_18,1412.Sandhill Crane,2635
+white_naped_crane,White-naped Crane,DIB-10K_18,1413.White-naped Crane,386
+sarus_crane,Sarus Crane,DIB-10K_18,1414.Sarus Crane,839
+brolga,Brolga,DIB-10K_18,1415.Brolga,820
+wattled_crane,Wattled Crane,DIB-10K_18,1416.Wattled Crane,1105
+blue_crane,Blue Crane,DIB-10K_18,1417.Blue Crane,1454
+demoiselle_crane,Demoiselle Crane,DIB-10K_18,1418.Demoiselle Crane,2479
+red_crowned_crane,Red-crowned Crane,DIB-10K_18,1419.Red-crowned Crane,2508
+whooping_crane,Whooping Crane,DIB-10K_18,1420.Whooping Crane,2444
+common_crane,Common Crane,DIB-10K_18,1421.Common Crane,2246
+hooded_crane,Hooded Crane,DIB-10K_18,1422.Hooded Crane,560
+black_necked_crane,Black-necked Crane,DIB-10K_18,1423.Black-necked Crane,612
+limpkin,Limpkin,DIB-10K_18,1424.Limpkin,2999
+common_buttonquail,Common Buttonquail,DIB-10K_18,1425.Common Buttonquail,144
+red_backed_buttonquail,Red-backed Buttonquail,DIB-10K_18,1426.Red-backed Buttonquail,51
+hottentot_buttonquail,Hottentot Buttonquail,DIB-10K_18,1427.Hottentot Buttonquail,16
+black_rumped_buttonquail,Black-rumped Buttonquail,DIB-10K_18,1428.Black-rumped Buttonquail,13
+yellow_legged_buttonquail,Yellow-legged Buttonquail,DIB-10K_18,1429.Yellow-legged Buttonquail,107
+spotted_buttonquail,Spotted Buttonquail,DIB-10K_18,1430.Spotted Buttonquail,27
+barred_buttonquail,Barred Buttonquail,DIB-10K_18,1431.Barred Buttonquail,795
+madagascan_buttonquail,Madagascan Buttonquail,DIB-10K_18,1432.Madagascan Buttonquail,100
+black_breasted_buttonquail,Black-breasted Buttonquail,DIB-10K_18,1433.Black-breasted Buttonquail,83
+chestnut_backed_buttonquail,Chestnut-backed Buttonquail,DIB-10K_18,1434.Chestnut-backed Buttonquail,30
+buff_breasted_buttonquail,Buff-breasted Buttonquail,DIB-10K_18,1435.Buff-breasted Buttonquail,14
+painted_buttonquail,Painted Buttonquail,DIB-10K_18,1436.Painted Buttonquail,232
+worcesters_buttonquail,Worcester's Buttonquail,DIB-10K_18,1437.Worcester's Buttonquail,3
+sumba_buttonquail,Sumba Buttonquail,DIB-10K_18,1438.Sumba Buttonquail,7
+red_chested_buttonquail,Red-chested Buttonquail,DIB-10K_18,1439.Red-chested Buttonquail,45
+little_buttonquail,Little Buttonquail,DIB-10K_18,1440.Little Buttonquail,84
+quail_plover,Quail-plover,DIB-10K_18,1441.Quail-plover,43
+eurasian_stone_curlew,Eurasian Stone-curlew,DIB-10K_18,1442.Eurasian Stone-curlew,2392
+indian_stone_curlew,Indian Stone-curlew,DIB-10K_18,1443.Indian Stone-curlew,520
+senegal_thick_knee,Senegal Thick-knee,DIB-10K_18,1444.Senegal Thick-knee,715
+water_thick_knee,Water Thick-knee,DIB-10K_18,1445.Water Thick-knee,1114
+spotted_thick_knee,Spotted Thick-knee,DIB-10K_18,1446.Spotted Thick-knee,1345
+double_striped_thick_knee,Double-striped Thick-knee,DIB-10K_18,1447.Double-striped Thick-knee,1119
+peruvian_thick_knee,Peruvian Thick-knee,DIB-10K_18,1448.Peruvian Thick-knee,548
+bush_stone_curlew,Bush Stone-curlew,DIB-10K_18,1449.Bush Stone-curlew,2224
+great_stone_curlew,Great Stone-curlew,DIB-10K_18,1450.Great Stone-curlew,773
+beach_stone_curlew,Beach Stone-curlew,DIB-10K_18,1451.Beach Stone-curlew,893
+snowy_sheathbill,Snowy Sheathbill,DIB-10K_18,1452.Snowy Sheathbill,625
+black_faced_sheathbill,Black-faced Sheathbill,DIB-10K_18,1453.Black-faced Sheathbill,50
+magellanic_plover,Magellanic Plover,DIB-10K_18,1454.Magellanic Plover,454
+magellanic_oystercatcher,Magellanic Oystercatcher,DIB-10K_18,1455.Magellanic Oystercatcher,871
+blackish_oystercatcher,Blackish Oystercatcher,DIB-10K_18,1456.Blackish Oystercatcher,1198
+black_oystercatcher,Black Oystercatcher,DIB-10K_18,1457.Black Oystercatcher,2706
+american_oystercatcher,American Oystercatcher,DIB-10K_18,1458.American Oystercatcher,2936
+canary_islands_oystercatcher,Canary Islands Oystercatcher,DIB-10K_18,1459.Canary Islands Oystercatcher,17
+african_oystercatcher,African Oystercatcher,DIB-10K_18,1460.African Oystercatcher,733
+eurasian_oystercatcher,Eurasian Oystercatcher,DIB-10K_18,1461.Eurasian Oystercatcher,2786
+south_island_oystercatcher,South Island Oystercatcher,DIB-10K_18,1462.South Island Oystercatcher,495
+pied_oystercatcher,Pied Oystercatcher,DIB-10K_18,1463.Pied Oystercatcher,2005
+variable_oystercatcher,Variable Oystercatcher,DIB-10K_18,1464.Variable Oystercatcher,1662
+chatham_oystercatcher,Chatham Oystercatcher,DIB-10K_18,1465.Chatham Oystercatcher,74
+sooty_oystercatcher,Sooty Oystercatcher,DIB-10K_18,1466.Sooty Oystercatcher,1226
+,,DIB-10K_18,,0

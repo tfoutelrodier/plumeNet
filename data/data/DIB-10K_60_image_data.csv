@@ -1,0 +1,236 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+principe_weaver,Principe Weaver,DIB-10K_60,9432.Principe Weaver,55
+northern_brown_throated_weaver,Northern Brown-throated Weaver,DIB-10K_60,9433.Northern Brown-throated Weaver,147
+southern_brown_throated_weaver,Southern Brown-throated Weaver,DIB-10K_60,9434.Southern Brown-throated Weaver,186
+kilombero_weaver,Kilombero Weaver,DIB-10K_60,9435.Kilombero Weaver,33
+rüppells_weaver,Rüppell's Weaver,DIB-10K_60,9436.Rüppell's Weaver,350
+northern_masked_weaver,Northern Masked Weaver,DIB-10K_60,9437.Northern Masked Weaver,143
+lesser_masked_weaver,Lesser Masked Weaver,DIB-10K_60,9438.Lesser Masked Weaver,669
+southern_masked_weaver,Southern Masked Weaver,DIB-10K_60,9439.Southern Masked Weaver,1677
+katanga_masked_weaver,Katanga Masked Weaver,DIB-10K_60,9440.Katanga Masked Weaver,19
+lufira_masked_weaver,Lufira Masked Weaver,DIB-10K_60,9441.Lufira Masked Weaver,2
+tanzanian_masked_weaver,Tanzanian Masked Weaver,DIB-10K_60,9442.Tanzanian Masked Weaver,10
+vitelline_masked_weaver,Vitelline Masked Weaver,DIB-10K_60,9443.Vitelline Masked Weaver,295
+spekes_weaver,Speke's Weaver,DIB-10K_60,9444.Speke's Weaver,405
+foxs_weaver,Fox's Weaver,DIB-10K_60,9445.Fox's Weaver,6
+village_weaver,Village Weaver,DIB-10K_60,9446.Village Weaver,2380
+giant_weaver,Giant Weaver,DIB-10K_60,9447.Giant Weaver,30
+vieillots_black_weaver,Vieillot's Black Weaver,DIB-10K_60,9448.Vieillot's Black Weaver,241
+weynss_weaver,Weyns's Weaver,DIB-10K_60,9449.Weyns's Weaver,47
+clarkes_weaver,Clarke's Weaver,DIB-10K_60,9450.Clarke's Weaver,12
+juba_weaver,Juba Weaver,DIB-10K_60,9451.Juba Weaver,44
+black_headed_weaver,Black-headed Weaver,DIB-10K_60,9452.Black-headed Weaver,1005
+golden_backed_weaver,Golden-backed Weaver,DIB-10K_60,9453.Golden-backed Weaver,1040
+cinnamon_weaver,Cinnamon Weaver,DIB-10K_60,9454.Cinnamon Weaver,19
+chestnut_weaver,Chestnut Weaver,DIB-10K_60,9455.Chestnut Weaver,165
+golden_naped_weaver,Golden-naped Weaver,DIB-10K_60,9456.Golden-naped Weaver,8
+yellow_mantled_weaver,Yellow-mantled Weaver,DIB-10K_60,9457.Yellow-mantled Weaver,74
+maxwells_black_weaver,Maxwell's Black Weaver,DIB-10K_60,9458.Maxwell's Black Weaver,12
+nelicourvi_weaver,Nelicourvi Weaver,DIB-10K_60,9459.Nelicourvi Weaver,114
+sakalava_weaver,Sakalava Weaver,DIB-10K_60,9460.Sakalava Weaver,285
+asian_golden_weaver,Asian Golden Weaver,DIB-10K_60,9461.Asian Golden Weaver,587
+compact_weaver,Compact Weaver,DIB-10K_60,9462.Compact Weaver,82
+black_breasted_weaver,Black-breasted Weaver,DIB-10K_60,9463.Black-breasted Weaver,292
+streaked_weaver,Streaked Weaver,DIB-10K_60,9464.Streaked Weaver,607
+baya_weaver,Baya Weaver,DIB-10K_60,9465.Baya Weaver,1930
+finns_weaver,Finn's Weaver,DIB-10K_60,9466.Finn's Weaver,36
+dark_backed_weaver,Dark-backed Weaver,DIB-10K_60,9467.Dark-backed Weaver,140
+preusss_weaver,Preuss's Weaver,DIB-10K_60,9468.Preuss's Weaver,9
+yellow_capped_weaver,Yellow-capped Weaver,DIB-10K_60,9469.Yellow-capped Weaver,4
+olive_headed_weaver,Olive-headed Weaver,DIB-10K_60,9470.Olive-headed Weaver,20
+usambara_weaver,Usambara Weaver,DIB-10K_60,9471.Usambara Weaver,11
+brown_capped_weaver,Brown-capped Weaver,DIB-10K_60,9472.Brown-capped Weaver,83
+bar_winged_weaver,Bar-winged Weaver,DIB-10K_60,9473.Bar-winged Weaver,10
+sao_tome_weaver,Sao Tome Weaver,DIB-10K_60,9474.Sao Tome Weaver,20
+yellow_legged_weaver,Yellow-legged Weaver,DIB-10K_60,9475.Yellow-legged Weaver,3
+red_crowned_malimbe,Red-crowned Malimbe,DIB-10K_60,9476.Red-crowned Malimbe,16
+cassins_malimbe,Cassin's Malimbe,DIB-10K_60,9477.Cassin's Malimbe,18
+rachels_malimbe,Rachel's Malimbe,DIB-10K_60,9478.Rachel's Malimbe,6
+gola_malimbe,Gola Malimbe,DIB-10K_60,9479.Gola Malimbe,3
+red_vented_malimbe,Red-vented Malimbe,DIB-10K_60,9480.Red-vented Malimbe,62
+ibadan_malimbe,Ibadan Malimbe,DIB-10K_60,9481.Ibadan Malimbe,12
+blue_billed_malimbe,Blue-billed Malimbe,DIB-10K_60,9482.Blue-billed Malimbe,52
+red_headed_malimbe,Red-headed Malimbe,DIB-10K_60,9483.Red-headed Malimbe,87
+red_bellied_malimbe,Red-bellied Malimbe,DIB-10K_60,9484.Red-bellied Malimbe,5
+crested_malimbe,Crested Malimbe,DIB-10K_60,9485.Crested Malimbe,44
+red_headed_weaver,Red-headed Weaver,DIB-10K_60,9486.Red-headed Weaver,543
+cardinal_quelea,Cardinal Quelea,DIB-10K_60,9487.Cardinal Quelea,60
+red_headed_quelea,Red-headed Quelea,DIB-10K_60,9488.Red-headed Quelea,122
+red_billed_quelea,Red-billed Quelea,DIB-10K_60,9489.Red-billed Quelea,1089
+red_fody,Red Fody,DIB-10K_60,9490.Red Fody,1462
+comoros_fody,Comoros Fody,DIB-10K_60,9491.Comoros Fody,20
+aldabra_fody,Aldabra Fody,DIB-10K_60,9492.Aldabra Fody,30
+forest_fody,Forest Fody,DIB-10K_60,9493.Forest Fody,79
+mauritius_fody,Mauritius Fody,DIB-10K_60,9494.Mauritius Fody,216
+seychelles_fody,Seychelles Fody,DIB-10K_60,9495.Seychelles Fody,147
+rodrigues_fody,Rodrigues Fody,DIB-10K_60,9496.Rodrigues Fody,61
+bob_tailed_weaver,Bob-tailed Weaver,DIB-10K_60,9497.Bob-tailed Weaver,18
+yellow_crowned_bishop,Yellow-crowned Bishop,DIB-10K_60,9498.Yellow-crowned Bishop,1426
+fire_fronted_bishop,Fire-fronted Bishop,DIB-10K_60,9499.Fire-fronted Bishop,30
+black_bishop,Black Bishop,DIB-10K_60,9500.Black Bishop,106
+zanzibar_red_bishop,Zanzibar Red Bishop,DIB-10K_60,9501.Zanzibar Red Bishop,78
+black_winged_red_bishop,Black-winged Red Bishop,DIB-10K_60,9502.Black-winged Red Bishop,242
+southern_red_bishop,Southern Red Bishop,DIB-10K_60,9503.Southern Red Bishop,1195
+northern_red_bishop,Northern Red Bishop,DIB-10K_60,9504.Northern Red Bishop,1043
+golden_backed_bishop,Golden-backed Bishop,DIB-10K_60,9505.Golden-backed Bishop,47
+yellow_bishop,Yellow Bishop,DIB-10K_60,9506.Yellow Bishop,354
+fan_tailed_widowbird,Fan-tailed Widowbird,DIB-10K_60,9507.Fan-tailed Widowbird,277
+yellow_mantled_widowbird,Yellow-mantled Widowbird,DIB-10K_60,9508.Yellow-mantled Widowbird,133
+marsh_widowbird,Marsh Widowbird,DIB-10K_60,9509.Marsh Widowbird,33
+montane_widowbird,Montane Widowbird,DIB-10K_60,9510.Montane Widowbird,26
+white_winged_widowbird,White-winged Widowbird,DIB-10K_60,9511.White-winged Widowbird,273
+red_collared_widowbird,Red-collared Widowbird,DIB-10K_60,9512.Red-collared Widowbird,279
+long_tailed_widowbird,Long-tailed Widowbird,DIB-10K_60,9513.Long-tailed Widowbird,392
+jacksons_widowbird,Jackson's Widowbird,DIB-10K_60,9514.Jackson's Widowbird,109
+woodhouses_antpecker,Woodhouse's Antpecker,DIB-10K_60,9515.Woodhouse's Antpecker,11
+red_fronted_antpecker,Red-fronted Antpecker,DIB-10K_60,9516.Red-fronted Antpecker,17
+jamesons_antpecker,Jameson's Antpecker,DIB-10K_60,9517.Jameson's Antpecker,16
+white_breasted_nigrita,White-breasted Nigrita,DIB-10K_60,9518.White-breasted Nigrita,39
+chestnut_breasted_nigrita,Chestnut-breasted Nigrita,DIB-10K_60,9519.Chestnut-breasted Nigrita,55
+pale_fronted_nigrita,Pale-fronted Nigrita,DIB-10K_60,9520.Pale-fronted Nigrita,10
+grey_headed_nigrita,Grey-headed Nigrita,DIB-10K_60,9521.Grey-headed Nigrita,96
+shelleys_oliveback,Shelley's Oliveback,DIB-10K_60,9522.Shelley's Oliveback,26
+white_collared_oliveback,White-collared Oliveback,DIB-10K_60,9523.White-collared Oliveback,18
+grey_headed_oliveback,Grey-headed Oliveback,DIB-10K_60,9524.Grey-headed Oliveback,21
+red_billed_pytilia,Red-billed Pytilia,DIB-10K_60,9525.Red-billed Pytilia,28
+red_winged_pytilia,Red-winged Pytilia,DIB-10K_60,9526.Red-winged Pytilia,58
+yellow_winged_pytilia,Yellow-winged Pytilia,DIB-10K_60,9527.Yellow-winged Pytilia,29
+orange_winged_pytilia,Orange-winged Pytilia,DIB-10K_60,9528.Orange-winged Pytilia,68
+green_winged_pytilia,Green-winged Pytilia,DIB-10K_60,9529.Green-winged Pytilia,607
+red_headed_finch,Red-headed Finch,DIB-10K_60,9530.Red-headed Finch,611
+cut_throat_finch,Cut-throat Finch,DIB-10K_60,9531.Cut-throat Finch,668
+green_twinspot,Green Twinspot,DIB-10K_60,9532.Green Twinspot,94
+red_faced_crimsonwing,Red-faced Crimsonwing,DIB-10K_60,9533.Red-faced Crimsonwing,38
+abyssinian_crimsonwing,Abyssinian Crimsonwing,DIB-10K_60,9534.Abyssinian Crimsonwing,42
+dusky_crimsonwing,Dusky Crimsonwing,DIB-10K_60,9535.Dusky Crimsonwing,39
+shelleys_crimsonwing,Shelley's Crimsonwing,DIB-10K_60,9536.Shelley's Crimsonwing,7
+black_bellied_seedcracker,Black-bellied Seedcracker,DIB-10K_60,9537.Black-bellied Seedcracker,74
+crimson_seedcracker,Crimson Seedcracker,DIB-10K_60,9538.Crimson Seedcracker,25
+lesser_seedcracker,Lesser Seedcracker,DIB-10K_60,9539.Lesser Seedcracker,18
+grants_bluebill,Grant's Bluebill,DIB-10K_60,9540.Grant's Bluebill,4
+western_bluebill,Western Bluebill,DIB-10K_60,9541.Western Bluebill,129
+red_headed_bluebill,Red-headed Bluebill,DIB-10K_60,9542.Red-headed Bluebill,54
+brown_twinspot,Brown Twinspot,DIB-10K_60,9543.Brown Twinspot,35
+pink_throated_twinspot,Pink-throated Twinspot,DIB-10K_60,9544.Pink-throated Twinspot,98
+red_throated_twinspot,Red-throated Twinspot,DIB-10K_60,9545.Red-throated Twinspot,197
+dybowskis_twinspot,Dybowski's Twinspot,DIB-10K_60,9546.Dybowski's Twinspot,23
+dusky_twinspot,Dusky Twinspot,DIB-10K_60,9547.Dusky Twinspot,35
+black_bellied_firefinch,Black-bellied Firefinch,DIB-10K_60,9548.Black-bellied Firefinch,50
+bar_breasted_firefinch,Bar-breasted Firefinch,DIB-10K_60,9549.Bar-breasted Firefinch,106
+brown_firefinch,Brown Firefinch,DIB-10K_60,9550.Brown Firefinch,106
+red_billed_firefinch,Red-billed Firefinch,DIB-10K_60,9551.Red-billed Firefinch,1534
+rock_firefinch,Rock Firefinch,DIB-10K_60,9552.Rock Firefinch,23
+chad_firefinch,Chad Firefinch,DIB-10K_60,9553.Chad Firefinch,24
+mali_firefinch,Mali Firefinch,DIB-10K_60,9554.Mali Firefinch,18
+african_firefinch,African Firefinch,DIB-10K_60,9555.African Firefinch,221
+landana_firefinch,Landana Firefinch,DIB-10K_60,9556.Landana Firefinch,14
+jamesons_firefinch,Jameson's Firefinch,DIB-10K_60,9557.Jameson's Firefinch,162
+black_faced_firefinch,Black-faced Firefinch,DIB-10K_60,9558.Black-faced Firefinch,55
+blue_waxbill,Blue Waxbill,DIB-10K_60,9559.Blue Waxbill,1084
+red_cheeked_cordon_bleu,Red-cheeked Cordon-bleu,DIB-10K_60,9560.Red-cheeked Cordon-bleu,1210
+blue_capped_cordon_bleu,Blue-capped Cordon-bleu,DIB-10K_60,9561.Blue-capped Cordon-bleu,348
+violet_eared_waxbill,Violet-eared Waxbill,DIB-10K_60,9562.Violet-eared Waxbill,446
+purple_grenadier,Purple Grenadier,DIB-10K_60,9563.Purple Grenadier,537
+yellow_bellied_waxbill,Yellow-bellied Waxbill,DIB-10K_60,9564.Yellow-bellied Waxbill,160
+swee_waxbill,Swee Waxbill,DIB-10K_60,9565.Swee Waxbill,284
+angolan_waxbill,Angolan Waxbill,DIB-10K_60,9566.Angolan Waxbill,8
+lavender_waxbill,Lavender Waxbill,DIB-10K_60,9567.Lavender Waxbill,327
+grey_waxbill,Grey Waxbill,DIB-10K_60,9568.Grey Waxbill,50
+cinderella_waxbill,Cinderella Waxbill,DIB-10K_60,9569.Cinderella Waxbill,26
+anambra_waxbill,Anambra Waxbill,DIB-10K_60,9570.Anambra Waxbill,24
+fawn_breasted_waxbill,Fawn-breasted Waxbill,DIB-10K_60,9571.Fawn-breasted Waxbill,89
+abyssinian_waxbill,Abyssinian Waxbill,DIB-10K_60,9572.Abyssinian Waxbill,29
+orange_cheeked_waxbill,Orange-cheeked Waxbill,DIB-10K_60,9573.Orange-cheeked Waxbill,798
+crimson_rumped_waxbill,Crimson-rumped Waxbill,DIB-10K_60,9574.Crimson-rumped Waxbill,386
+arabian_waxbill,Arabian Waxbill,DIB-10K_60,9575.Arabian Waxbill,21
+black_rumped_waxbill,Black-rumped Waxbill,DIB-10K_60,9576.Black-rumped Waxbill,267
+common_waxbill,Common Waxbill,DIB-10K_60,9577.Common Waxbill,2648
+black_lored_waxbill,Black-lored Waxbill,DIB-10K_60,9578.Black-lored Waxbill,13
+black_crowned_waxbill,Black-crowned Waxbill,DIB-10K_60,9579.Black-crowned Waxbill,125
+black_headed_waxbill,Black-headed Waxbill,DIB-10K_60,9580.Black-headed Waxbill,69
+kandts_waxbill,Kandt's Waxbill,DIB-10K_60,9581.Kandt's Waxbill,38
+black_faced_waxbill,Black-faced Waxbill,DIB-10K_60,9582.Black-faced Waxbill,198
+black_cheeked_waxbill,Black-cheeked Waxbill,DIB-10K_60,9583.Black-cheeked Waxbill,69
+red_avadavat,Red Avadavat,DIB-10K_60,9584.Red Avadavat,1723
+green_avadavat,Green Avadavat,DIB-10K_60,9585.Green Avadavat,247
+orange_breasted_waxbill,Orange-breasted Waxbill,DIB-10K_60,9586.Orange-breasted Waxbill,253
+quailfinch,Quailfinch,DIB-10K_60,9587.Quailfinch,173
+locust_finch,Locust Finch,DIB-10K_60,9588.Locust Finch,7
+painted_finch,Painted Finch,DIB-10K_60,9589.Painted Finch,324
+beautiful_firetail,Beautiful Firetail,DIB-10K_60,9590.Beautiful Firetail,380
+red_eared_firetail,Red-eared Firetail,DIB-10K_60,9591.Red-eared Firetail,247
+diamond_firetail,Diamond Firetail,DIB-10K_60,9592.Diamond Firetail,651
+mountain_firetail,Mountain Firetail,DIB-10K_60,9593.Mountain Firetail,65
+red_browed_finch,Red-browed Finch,DIB-10K_60,9594.Red-browed Finch,1959
+crimson_finch,Crimson Finch,DIB-10K_60,9595.Crimson Finch,1011
+star_finch,Star Finch,DIB-10K_60,9596.Star Finch,444
+plum_headed_finch,Plum-headed Finch,DIB-10K_60,9597.Plum-headed Finch,385
+masked_finch,Masked Finch,DIB-10K_60,9598.Masked Finch,298
+long_tailed_finch,Long-tailed Finch,DIB-10K_60,9599.Long-tailed Finch,674
+black_throated_finch,Black-throated Finch,DIB-10K_60,9600.Black-throated Finch,280
+zebra_finch,Zebra Finch,DIB-10K_60,9601.Zebra Finch,2466
+double_barred_finch,Double-barred Finch,DIB-10K_60,9602.Double-barred Finch,1731
+tawny_breasted_parrotfinch,Tawny-breasted Parrotfinch,DIB-10K_60,9603.Tawny-breasted Parrotfinch,46
+pin_tailed_parrotfinch,Pin-tailed Parrotfinch,DIB-10K_60,9604.Pin-tailed Parrotfinch,258
+green_faced_parrotfinch,Green-faced Parrotfinch,DIB-10K_60,9605.Green-faced Parrotfinch,42
+tricolored_parrotfinch,Tricolored Parrotfinch,DIB-10K_60,9606.Tricolored Parrotfinch,89
+red_eared_parrotfinch,Red-eared Parrotfinch,DIB-10K_60,9607.Red-eared Parrotfinch,30
+blue_faced_parrotfinch,Blue-faced Parrotfinch,DIB-10K_60,9608.Blue-faced Parrotfinch,181
+papuan_parrotfinch,Papuan Parrotfinch,DIB-10K_60,9609.Papuan Parrotfinch,10
+red_throated_parrotfinch,Red-throated Parrotfinch,DIB-10K_60,9610.Red-throated Parrotfinch,148
+red_headed_parrotfinch,Red-headed Parrotfinch,DIB-10K_60,9611.Red-headed Parrotfinch,37
+royal_parrotfinch,Royal Parrotfinch,DIB-10K_60,9612.Royal Parrotfinch,4
+fiji_parrotfinch,Fiji Parrotfinch,DIB-10K_60,9613.Fiji Parrotfinch,132
+pink_billed_parrotfinch,Pink-billed Parrotfinch,DIB-10K_60,9614.Pink-billed Parrotfinch,9
+gouldian_finch,Gouldian Finch,DIB-10K_60,9615.Gouldian Finch,1208
+madagascan_mannikin,Madagascan Mannikin,DIB-10K_60,9616.Madagascan Mannikin,85
+african_silverbill,African Silverbill,DIB-10K_60,9617.African Silverbill,441
+indian_silverbill,Indian Silverbill,DIB-10K_60,9618.Indian Silverbill,1097
+grey_headed_silverbill,Grey-headed Silverbill,DIB-10K_60,9619.Grey-headed Silverbill,66
+bronze_mannikin,Bronze Mannikin,DIB-10K_60,9620.Bronze Mannikin,1050
+black_and_white_mannikin,Black-and-white Mannikin,DIB-10K_60,9621.Black-and-white Mannikin,321
+red_backed_mannikin,Red-backed Mannikin,DIB-10K_60,9622.Red-backed Mannikin,99
+magpie_mannikin,Magpie Mannikin,DIB-10K_60,9623.Magpie Mannikin,130
+white_rumped_munia,White-rumped Munia,DIB-10K_60,9624.White-rumped Munia,1780
+javan_munia,Javan Munia,DIB-10K_60,9625.Javan Munia,389
+dusky_munia,Dusky Munia,DIB-10K_60,9626.Dusky Munia,136
+black_faced_munia,Black-faced Munia,DIB-10K_60,9627.Black-faced Munia,108
+scaly_breasted_munia,Scaly-breasted Munia,DIB-10K_60,9628.Scaly-breasted Munia,2898
+black_throated_munia,Black-throated Munia,DIB-10K_60,9629.Black-throated Munia,201
+white_bellied_munia,White-bellied Munia,DIB-10K_60,9630.White-bellied Munia,96
+streak_headed_mannikin,Streak-headed Mannikin,DIB-10K_60,9631.Streak-headed Mannikin,29
+white_spotted_mannikin,White-spotted Mannikin,DIB-10K_60,9632.White-spotted Mannikin,12
+five_colored_munia,Five-colored Munia,DIB-10K_60,9633.Five-colored Munia,54
+tricolored_munia,Tricolored Munia,DIB-10K_60,9634.Tricolored Munia,1056
+white_capped_munia,White-capped Munia,DIB-10K_60,9635.White-capped Munia,22
+chestnut_munia,Chestnut Munia,DIB-10K_60,9636.Chestnut Munia,1096
+white_headed_munia,White-headed Munia,DIB-10K_60,9637.White-headed Munia,359
+pale_headed_munia,Pale-headed Munia,DIB-10K_60,9638.Pale-headed Munia,102
+great_billed_mannikin,Great-billed Mannikin,DIB-10K_60,9639.Great-billed Mannikin,58
+grey_banded_mannikin,Grey-banded Mannikin,DIB-10K_60,9640.Grey-banded Mannikin,33
+grey_headed_mannikin,Grey-headed Mannikin,DIB-10K_60,9641.Grey-headed Mannikin,37
+grey_crowned_mannikin,Grey-crowned Mannikin,DIB-10K_60,9642.Grey-crowned Mannikin,25
+hooded_mannikin,Hooded Mannikin,DIB-10K_60,9643.Hooded Mannikin,59
+forbess_mannikin,Forbes's Mannikin,DIB-10K_60,9644.Forbes's Mannikin,5
+hunsteins_mannikin,Hunstein's Mannikin,DIB-10K_60,9645.Hunstein's Mannikin,17
+yellow_rumped_mannikin,Yellow-rumped Mannikin,DIB-10K_60,9646.Yellow-rumped Mannikin,98
+chestnut_breasted_mannikin,Chestnut-breasted Mannikin,DIB-10K_60,9647.Chestnut-breasted Mannikin,1101
+black_mannikin,Black Mannikin,DIB-10K_60,9648.Black Mannikin,107
+black_breasted_mannikin,Black-breasted Mannikin,DIB-10K_60,9649.Black-breasted Mannikin,71
+eastern_alpine_mannikin,Eastern Alpine Mannikin,DIB-10K_60,9650.Eastern Alpine Mannikin,2
+western_alpine_mannikin,Western Alpine Mannikin,DIB-10K_60,9651.Western Alpine Mannikin,18
+buff_bellied_mannikin,Buff-bellied Mannikin,DIB-10K_60,9652.Buff-bellied Mannikin,30
+timor_sparrow,Timor Sparrow,DIB-10K_60,9653.Timor Sparrow,85
+java_sparrow,Java Sparrow,DIB-10K_60,9654.Java Sparrow,1236
+pictorella_mannikin,Pictorella Mannikin,DIB-10K_60,9655.Pictorella Mannikin,128
+village_indigobird,Village Indigobird,DIB-10K_60,9656.Village Indigobird,441
+purple_indigobird,Purple Indigobird,DIB-10K_60,9657.Purple Indigobird,79
+jambandu_indigobird,Jambandu Indigobird,DIB-10K_60,9658.Jambandu Indigobird,6
+barka_indigobird,Barka Indigobird,DIB-10K_60,9659.Barka Indigobird,15
+dusky_indigobird,Dusky Indigobird,DIB-10K_60,9660.Dusky Indigobird,76
+zambezi_indigobird,Zambezi Indigobird,DIB-10K_60,9661.Zambezi Indigobird,9
+wilsons_indigobird,Wilson's Indigobird,DIB-10K_60,9662.Wilson's Indigobird,45
+quailfinch_indigobird,Quailfinch Indigobird,DIB-10K_60,9663.Quailfinch Indigobird,16
+jos_plateau_indigobird,Jos Plateau Indigobird,DIB-10K_60,9664.Jos Plateau Indigobird,9
+cameroon_indigobird,Cameroon Indigobird,DIB-10K_60,9665.Cameroon Indigobird,7
+,,DIB-10K_60,,0

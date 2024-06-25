@@ -1,0 +1,135 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+white_rumped_hawk,White-rumped Hawk,DIB-10K_16,1163.White-rumped Hawk,132
+white_tailed_hawk,White-tailed Hawk,DIB-10K_16,1164.White-tailed Hawk,682
+variable_hawk,Variable Hawk,DIB-10K_16,1165.Variable Hawk,1502
+black_chested_buzzard_eagle,Black-chested Buzzard-Eagle,DIB-10K_16,1166.Black-chested Buzzard-Eagle,2559
+mantled_hawk,Mantled Hawk,DIB-10K_16,1167.Mantled Hawk,92
+white_hawk,White Hawk,DIB-10K_16,1168.White Hawk,660
+grey_backed_hawk,Grey-backed Hawk,DIB-10K_16,1169.Grey-backed Hawk,66
+semiplumbeous_hawk,Semiplumbeous Hawk,DIB-10K_16,1170.Semiplumbeous Hawk,218
+black_faced_hawk,Black-faced Hawk,DIB-10K_16,1171.Black-faced Hawk,97
+white_browed_hawk,White-browed Hawk,DIB-10K_16,1172.White-browed Hawk,50
+bermuda_hawk,Bermuda Hawk,DIB-10K_16,1173.Bermuda Hawk,1
+grey_hawk,Grey Hawk,DIB-10K_16,1174.Grey Hawk,1215
+grey_lined_hawk,Grey-lined Hawk,DIB-10K_16,1175.Grey-lined Hawk,855
+red_shouldered_hawk,Red-shouldered Hawk,DIB-10K_16,1176.Red-shouldered Hawk,2790
+ridgways_hawk,Ridgway's Hawk,DIB-10K_16,1177.Ridgway's Hawk,286
+broad_winged_hawk,Broad-winged Hawk,DIB-10K_16,1178.Broad-winged Hawk,2559
+white_throated_hawk,White-throated Hawk,DIB-10K_16,1179.White-throated Hawk,230
+short_tailed_hawk,Short-tailed Hawk,DIB-10K_16,1180.Short-tailed Hawk,1212
+hawaiian_hawk,Hawaiian Hawk,DIB-10K_16,1181.Hawaiian Hawk,303
+swainsons_hawk,Swainson's Hawk,DIB-10K_16,1182.Swainson's Hawk,2593
+galapagos_hawk,Galapagos Hawk,DIB-10K_16,1183.Galapagos Hawk,1144
+zone_tailed_hawk,Zone-tailed Hawk,DIB-10K_16,1184.Zone-tailed Hawk,1135
+red_tailed_hawk,Red-tailed Hawk,DIB-10K_16,1185.Red-tailed Hawk,2762
+rufous_tailed_hawk,Rufous-tailed Hawk,DIB-10K_16,1186.Rufous-tailed Hawk,209
+ferruginous_hawk,Ferruginous Hawk,DIB-10K_16,1187.Ferruginous Hawk,2763
+rough_legged_buzzard,Rough-legged Buzzard,DIB-10K_16,1188.Rough-legged Buzzard,2588
+upland_buzzard,Upland Buzzard,DIB-10K_16,1189.Upland Buzzard,530
+eastern_buzzard,Eastern Buzzard,DIB-10K_16,1190.Eastern Buzzard,1289
+himalayan_buzzard,Himalayan Buzzard,DIB-10K_16,1191.Himalayan Buzzard,201
+long_legged_buzzard,Long-legged Buzzard,DIB-10K_16,1192.Long-legged Buzzard,2141
+cape_verde_buzzard,Cape Verde Buzzard,DIB-10K_16,1193.Cape Verde Buzzard,29
+socotra_buzzard,Socotra Buzzard,DIB-10K_16,1194.Socotra Buzzard,17
+common_buzzard,Common Buzzard,DIB-10K_16,1195.Common Buzzard,2897
+forest_buzzard,Forest Buzzard,DIB-10K_16,1196.Forest Buzzard,94
+mountain_buzzard,Mountain Buzzard,DIB-10K_16,1197.Mountain Buzzard,94
+archers_buzzard,Archer's Buzzard,DIB-10K_16,1198.Archer's Buzzard,12
+red_necked_buzzard,Red-necked Buzzard,DIB-10K_16,1199.Red-necked Buzzard,111
+madagascan_buzzard,Madagascan Buzzard,DIB-10K_16,1200.Madagascan Buzzard,158
+augur_buzzard,Augur Buzzard,DIB-10K_16,1201.Augur Buzzard,924
+jackal_buzzard,Jackal Buzzard,DIB-10K_16,1202.Jackal Buzzard,679
+great_bustard,Great Bustard,DIB-10K_16,1203.Great Bustard,2390
+arabian_bustard,Arabian Bustard,DIB-10K_16,1204.Arabian Bustard,220
+kori_bustard,Kori Bustard,DIB-10K_16,1205.Kori Bustard,2693
+great_indian_bustard,Great Indian Bustard,DIB-10K_16,1206.Great Indian Bustard,292
+australian_bustard,Australian Bustard,DIB-10K_16,1207.Australian Bustard,878
+houbara_bustard,Houbara Bustard,DIB-10K_16,1208.Houbara Bustard,710
+macqueens_bustard,Macqueen's Bustard,DIB-10K_16,1209.Macqueen's Bustard,237
+ludwigs_bustard,Ludwig's Bustard,DIB-10K_16,1210.Ludwig's Bustard,153
+denhams_bustard,Denham's Bustard,DIB-10K_16,1211.Denham's Bustard,253
+heuglins_bustard,Heuglin's Bustard,DIB-10K_16,1212.Heuglin's Bustard,38
+nubian_bustard,Nubian Bustard,DIB-10K_16,1213.Nubian Bustard,39
+white_bellied_bustard,White-bellied Bustard,DIB-10K_16,1214.White-bellied Bustard,726
+blue_korhaan,Blue Korhaan,DIB-10K_16,1215.Blue Korhaan,84
+karoo_korhaan,Karoo Korhaan,DIB-10K_16,1216.Karoo Korhaan,159
+rüppells_korhaan,Rüppell's Korhaan,DIB-10K_16,1217.Rüppell's Korhaan,134
+little_brown_bustard,Little Brown Bustard,DIB-10K_16,1218.Little Brown Bustard,33
+saviles_bustard,Savile's Bustard,DIB-10K_16,1219.Savile's Bustard,32
+buff_crested_bustard,Buff-crested Bustard,DIB-10K_16,1220.Buff-crested Bustard,387
+red_crested_korhaan,Red-crested Korhaan,DIB-10K_16,1221.Red-crested Korhaan,782
+southern_black_korhaan,Southern Black Korhaan,DIB-10K_16,1222.Southern Black Korhaan,295
+northern_black_korhaan,Northern Black Korhaan,DIB-10K_16,1223.Northern Black Korhaan,722
+black_bellied_bustard,Black-bellied Bustard,DIB-10K_16,1224.Black-bellied Bustard,683
+hartlaubs_bustard,Hartlaub's Bustard,DIB-10K_16,1225.Hartlaub's Bustard,148
+bengal_florican,Bengal Florican,DIB-10K_16,1226.Bengal Florican,145
+lesser_florican,Lesser Florican,DIB-10K_16,1227.Lesser Florican,141
+little_bustard,Little Bustard,DIB-10K_16,1228.Little Bustard,1586
+white_breasted_mesite,White-breasted Mesite,DIB-10K_16,1229.White-breasted Mesite,91
+brown_mesite,Brown Mesite,DIB-10K_16,1230.Brown Mesite,79
+subdesert_mesite,Subdesert Mesite,DIB-10K_16,1231.Subdesert Mesite,158
+red_legged_seriema,Red-legged Seriema,DIB-10K_16,1232.Red-legged Seriema,1802
+black_legged_seriema,Black-legged Seriema,DIB-10K_16,1233.Black-legged Seriema,134
+kagu,Kagu,DIB-10K_16,1234.Kagu,556
+sunbittern,Sunbittern,DIB-10K_16,1235.Sunbittern,2201
+grey_throated_rail,Grey-throated Rail,DIB-10K_16,1236.Grey-throated Rail,16
+madagascan_wood_rail,Madagascan Wood Rail,DIB-10K_16,1237.Madagascan Wood Rail,29
+tsingy_wood_rail,Tsingy Wood Rail,DIB-10K_16,1238.Tsingy Wood Rail,10
+white_spotted_flufftail,White-spotted Flufftail,DIB-10K_16,1239.White-spotted Flufftail,68
+buff_spotted_flufftail,Buff-spotted Flufftail,DIB-10K_16,1240.Buff-spotted Flufftail,41
+red_chested_flufftail,Red-chested Flufftail,DIB-10K_16,1241.Red-chested Flufftail,33
+chestnut_headed_flufftail,Chestnut-headed Flufftail,DIB-10K_16,1242.Chestnut-headed Flufftail,4
+streaky_breasted_flufftail,Streaky-breasted Flufftail,DIB-10K_16,1243.Streaky-breasted Flufftail,6
+striped_flufftail,Striped Flufftail,DIB-10K_16,1244.Striped Flufftail,11
+madagascan_flufftail,Madagascan Flufftail,DIB-10K_16,1245.Madagascan Flufftail,35
+white_winged_flufftail,White-winged Flufftail,DIB-10K_16,1246.White-winged Flufftail,55
+slender_billed_flufftail,Slender-billed Flufftail,DIB-10K_16,1247.Slender-billed Flufftail,15
+african_finfoot,African Finfoot,DIB-10K_16,1248.African Finfoot,362
+masked_finfoot,Masked Finfoot,DIB-10K_16,1249.Masked Finfoot,57
+sungrebe,Sungrebe,DIB-10K_16,1250.Sungrebe,604
+nkulengu_rail,Nkulengu Rail,DIB-10K_16,1251.Nkulengu Rail,41
+swinhoes_rail,Swinhoe's Rail,DIB-10K_16,1252.Swinhoe's Rail,28
+yellow_rail,Yellow Rail,DIB-10K_16,1253.Yellow Rail,277
+speckled_rail,Speckled Rail,DIB-10K_16,1254.Speckled Rail,38
+ocellated_crake,Ocellated Crake,DIB-10K_16,1255.Ocellated Crake,102
+chestnut_forest_rail,Chestnut Forest Rail,DIB-10K_16,1256.Chestnut Forest Rail,30
+white_striped_forest_rail,White-striped Forest Rail,DIB-10K_16,1257.White-striped Forest Rail,25
+forbess_forest_rail,Forbes's Forest Rail,DIB-10K_16,1258.Forbes's Forest Rail,5
+mayrs_forest_rail,Mayr's Forest Rail,DIB-10K_16,1259.Mayr's Forest Rail,3
+red_necked_crake,Red-necked Crake,DIB-10K_16,1260.Red-necked Crake,108
+andaman_crake,Andaman Crake,DIB-10K_16,1261.Andaman Crake,43
+red_legged_crake,Red-legged Crake,DIB-10K_16,1262.Red-legged Crake,283
+slaty_legged_crake,Slaty-legged Crake,DIB-10K_16,1263.Slaty-legged Crake,312
+chestnut_headed_crake,Chestnut-headed Crake,DIB-10K_16,1264.Chestnut-headed Crake,19
+russet_crowned_crake,Russet-crowned Crake,DIB-10K_16,1265.Russet-crowned Crake,145
+black_banded_crake,Black-banded Crake,DIB-10K_16,1266.Black-banded Crake,17
+rufous_sided_crake,Rufous-sided Crake,DIB-10K_16,1267.Rufous-sided Crake,417
+rusty_flanked_crake,Rusty-flanked Crake,DIB-10K_16,1268.Rusty-flanked Crake,16
+ruddy_crake,Ruddy Crake,DIB-10K_16,1269.Ruddy Crake,169
+white_throated_crake,White-throated Crake,DIB-10K_16,1270.White-throated Crake,313
+grey_breasted_crake,Grey-breasted Crake,DIB-10K_16,1271.Grey-breasted Crake,119
+black_rail,Black Rail,DIB-10K_16,1272.Black Rail,183
+galapagos_crake,Galapagos Crake,DIB-10K_16,1273.Galapagos Crake,20
+red_and_white_crake,Red-and-white Crake,DIB-10K_16,1274.Red-and-white Crake,190
+rufous_faced_crake,Rufous-faced Crake,DIB-10K_16,1275.Rufous-faced Crake,38
+bar_winged_rail,Bar-winged Rail,DIB-10K_16,1276.Bar-winged Rail,11
+woodfords_rail,Woodford's Rail,DIB-10K_16,1277.Woodford's Rail,11
+weka,Weka,DIB-10K_16,1278.Weka,1165
+calayan_rail,Calayan Rail,DIB-10K_16,1279.Calayan Rail,24
+new_caledonian_rail,New Caledonian Rail,DIB-10K_16,1280.New Caledonian Rail,9
+lord_howe_woodhen,Lord Howe Woodhen,DIB-10K_16,1281.Lord Howe Woodhen,154
+okinawa_rail,Okinawa Rail,DIB-10K_16,1282.Okinawa Rail,232
+barred_rail,Barred Rail,DIB-10K_16,1283.Barred Rail,201
+pink_legged_rail,Pink-legged Rail,DIB-10K_16,1284.Pink-legged Rail,16
+tahiti_rail,Tahiti Rail,DIB-10K_16,1285.Tahiti Rail,9
+buff_banded_rail,Buff-banded Rail,DIB-10K_16,1286.Buff-banded Rail,1561
+guam_rail,Guam Rail,DIB-10K_16,1287.Guam Rail,105
+wake_island_rail,Wake Island Rail,DIB-10K_16,1288.Wake Island Rail,13
+roviana_rail,Roviana Rail,DIB-10K_16,1289.Roviana Rail,25
+dieffenbachs_rail,Dieffenbach's Rail,DIB-10K_16,1290.Dieffenbach's Rail,8
+chatham_rail,Chatham Rail,DIB-10K_16,1291.Chatham Rail,6
+slaty_breasted_rail,Slaty-breasted Rail,DIB-10K_16,1292.Slaty-breasted Rail,632
+hawkinss_rail,Hawkins's Rail,DIB-10K_16,1293.Hawkins's Rail,4
+mangrove_rail,Mangrove Rail,DIB-10K_16,1294.Mangrove Rail,1377
+clapper_rail,Clapper Rail,DIB-10K_16,1295.Clapper Rail,1004
+,,DIB-10K_16,,0

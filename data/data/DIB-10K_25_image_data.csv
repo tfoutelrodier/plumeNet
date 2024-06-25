@@ -1,0 +1,110 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+little_auk,Little Auk,DIB-10K_25,1783.Little Auk,1009
+thick_billed_murre,Thick-billed Murre,DIB-10K_25,1784.Thick-billed Murre,1826
+common_murre,Common Murre,DIB-10K_25,1785.Common Murre,2688
+razorbill,Razorbill,DIB-10K_25,1786.Razorbill,2864
+great_auk,Great Auk,DIB-10K_25,1787.Great Auk,409
+black_guillemot,Black Guillemot,DIB-10K_25,1788.Black Guillemot,2826
+pigeon_guillemot,Pigeon Guillemot,DIB-10K_25,1789.Pigeon Guillemot,2461
+spectacled_guillemot,Spectacled Guillemot,DIB-10K_25,1790.Spectacled Guillemot,211
+marbled_murrelet,Marbled Murrelet,DIB-10K_25,1791.Marbled Murrelet,867
+long_billed_murrelet,Long-billed Murrelet,DIB-10K_25,1792.Long-billed Murrelet,145
+kittlitzs_murrelet,Kittlitz's Murrelet,DIB-10K_25,1793.Kittlitz's Murrelet,244
+guadalupe_murrelet,Guadalupe Murrelet,DIB-10K_25,1794.Guadalupe Murrelet,214
+scrippss_murrelet,Scripps's Murrelet,DIB-10K_25,1795.Scripps's Murrelet,380
+craveris_murrelet,Craveri's Murrelet,DIB-10K_25,1796.Craveri's Murrelet,265
+ancient_murrelet,Ancient Murrelet,DIB-10K_25,1797.Ancient Murrelet,554
+japanese_murrelet,Japanese Murrelet,DIB-10K_25,1798.Japanese Murrelet,173
+cassins_auklet,Cassin's Auklet,DIB-10K_25,1799.Cassin's Auklet,384
+parakeet_auklet,Parakeet Auklet,DIB-10K_25,1800.Parakeet Auklet,604
+least_auklet,Least Auklet,DIB-10K_25,1801.Least Auklet,435
+whiskered_auklet,Whiskered Auklet,DIB-10K_25,1802.Whiskered Auklet,199
+crested_auklet,Crested Auklet,DIB-10K_25,1803.Crested Auklet,574
+rhinoceros_auklet,Rhinoceros Auklet,DIB-10K_25,1804.Rhinoceros Auklet,1205
+atlantic_puffin,Atlantic Puffin,DIB-10K_25,1805.Atlantic Puffin,2772
+horned_puffin,Horned Puffin,DIB-10K_25,1806.Horned Puffin,1154
+tufted_puffin,Tufted Puffin,DIB-10K_25,1807.Tufted Puffin,1655
+tibetan_sandgrouse,Tibetan Sandgrouse,DIB-10K_25,1808.Tibetan Sandgrouse,170
+pallass_sandgrouse,Pallas's Sandgrouse,DIB-10K_25,1809.Pallas's Sandgrouse,256
+pin_tailed_sandgrouse,Pin-tailed Sandgrouse,DIB-10K_25,1810.Pin-tailed Sandgrouse,1956
+namaqua_sandgrouse,Namaqua Sandgrouse,DIB-10K_25,1811.Namaqua Sandgrouse,595
+chestnut_bellied_sandgrouse,Chestnut-bellied Sandgrouse,DIB-10K_25,1812.Chestnut-bellied Sandgrouse,945
+spotted_sandgrouse,Spotted Sandgrouse,DIB-10K_25,1813.Spotted Sandgrouse,340
+black_bellied_sandgrouse,Black-bellied Sandgrouse,DIB-10K_25,1814.Black-bellied Sandgrouse,1176
+yellow_throated_sandgrouse,Yellow-throated Sandgrouse,DIB-10K_25,1815.Yellow-throated Sandgrouse,440
+crowned_sandgrouse,Crowned Sandgrouse,DIB-10K_25,1816.Crowned Sandgrouse,365
+black_faced_sandgrouse,Black-faced Sandgrouse,DIB-10K_25,1817.Black-faced Sandgrouse,426
+madagascan_sandgrouse,Madagascan Sandgrouse,DIB-10K_25,1818.Madagascan Sandgrouse,82
+lichtensteins_sandgrouse,Lichtenstein's Sandgrouse,DIB-10K_25,1819.Lichtenstein's Sandgrouse,192
+painted_sandgrouse,Painted Sandgrouse,DIB-10K_25,1820.Painted Sandgrouse,396
+four_banded_sandgrouse,Four-banded Sandgrouse,DIB-10K_25,1821.Four-banded Sandgrouse,162
+double_banded_sandgrouse,Double-banded Sandgrouse,DIB-10K_25,1822.Double-banded Sandgrouse,539
+burchells_sandgrouse,Burchell's Sandgrouse,DIB-10K_25,1823.Burchell's Sandgrouse,344
+rock_dove,Rock Dove,DIB-10K_25,1824.Rock Dove,3071
+hill_pigeon,Hill Pigeon,DIB-10K_25,1825.Hill Pigeon,261
+snow_pigeon,Snow Pigeon,DIB-10K_25,1826.Snow Pigeon,250
+speckled_pigeon,Speckled Pigeon,DIB-10K_25,1827.Speckled Pigeon,1519
+white_collared_pigeon,White-collared Pigeon,DIB-10K_25,1828.White-collared Pigeon,228
+stock_dove,Stock Dove,DIB-10K_25,1829.Stock Dove,2220
+yellow_eyed_pigeon,Yellow-eyed Pigeon,DIB-10K_25,1830.Yellow-eyed Pigeon,200
+somali_pigeon,Somali Pigeon,DIB-10K_25,1831.Somali Pigeon,12
+common_wood_pigeon,Common Wood Pigeon,DIB-10K_25,1832.Common Wood Pigeon,2930
+trocaz_pigeon,Trocaz Pigeon,DIB-10K_25,1833.Trocaz Pigeon,135
+bolles_pigeon,Bolle's Pigeon,DIB-10K_25,1834.Bolle's Pigeon,114
+laurel_pigeon,Laurel Pigeon,DIB-10K_25,1835.Laurel Pigeon,102
+afep_pigeon,Afep Pigeon,DIB-10K_25,1836.Afep Pigeon,32
+african_olive_pigeon,African Olive Pigeon,DIB-10K_25,1837.African Olive Pigeon,367
+cameroon_olive_pigeon,Cameroon Olive Pigeon,DIB-10K_25,1838.Cameroon Olive Pigeon,20
+sao_tome_olive_pigeon,Sao Tome Olive Pigeon,DIB-10K_25,1839.Sao Tome Olive Pigeon,30
+comoros_olive_pigeon,Comoros Olive Pigeon,DIB-10K_25,1840.Comoros Olive Pigeon,15
+speckled_wood_pigeon,Speckled Wood Pigeon,DIB-10K_25,1841.Speckled Wood Pigeon,139
+white_naped_pigeon,White-naped Pigeon,DIB-10K_25,1842.White-naped Pigeon,14
+ashy_wood_pigeon,Ashy Wood Pigeon,DIB-10K_25,1843.Ashy Wood Pigeon,136
+nilgiri_wood_pigeon,Nilgiri Wood Pigeon,DIB-10K_25,1844.Nilgiri Wood Pigeon,262
+sri_lanka_wood_pigeon,Sri Lanka Wood Pigeon,DIB-10K_25,1845.Sri Lanka Wood Pigeon,93
+pale_capped_pigeon,Pale-capped Pigeon,DIB-10K_25,1846.Pale-capped Pigeon,85
+silvery_pigeon,Silvery Pigeon,DIB-10K_25,1847.Silvery Pigeon,48
+andaman_wood_pigeon,Andaman Wood Pigeon,DIB-10K_25,1848.Andaman Wood Pigeon,37
+japanese_wood_pigeon,Japanese Wood Pigeon,DIB-10K_25,1849.Japanese Wood Pigeon,121
+bonin_wood_pigeon,Bonin Wood Pigeon,DIB-10K_25,1850.Bonin Wood Pigeon,22
+ryukyu_wood_pigeon,Ryukyu Wood Pigeon,DIB-10K_25,1851.Ryukyu Wood Pigeon,11
+metallic_pigeon,Metallic Pigeon,DIB-10K_25,1852.Metallic Pigeon,196
+white_headed_pigeon,White-headed Pigeon,DIB-10K_25,1853.White-headed Pigeon,633
+yellow_legged_pigeon,Yellow-legged Pigeon,DIB-10K_25,1854.Yellow-legged Pigeon,17
+eastern_bronze_naped_pigeon,Eastern Bronze-naped Pigeon,DIB-10K_25,1855.Eastern Bronze-naped Pigeon,33
+western_bronze_naped_pigeon,Western Bronze-naped Pigeon,DIB-10K_25,1856.Western Bronze-naped Pigeon,27
+island_bronze_naped_pigeon,Island Bronze-naped Pigeon,DIB-10K_25,1857.Island Bronze-naped Pigeon,32
+lemon_dove,Lemon Dove,DIB-10K_25,1858.Lemon Dove,155
+white_crowned_pigeon,White-crowned Pigeon,DIB-10K_25,1859.White-crowned Pigeon,983
+scaly_naped_pigeon,Scaly-naped Pigeon,DIB-10K_25,1860.Scaly-naped Pigeon,489
+scaled_pigeon,Scaled Pigeon,DIB-10K_25,1861.Scaled Pigeon,384
+picazuro_pigeon,Picazuro Pigeon,DIB-10K_25,1862.Picazuro Pigeon,1232
+bare_eyed_pigeon,Bare-eyed Pigeon,DIB-10K_25,1863.Bare-eyed Pigeon,366
+spot_winged_pigeon,Spot-winged Pigeon,DIB-10K_25,1864.Spot-winged Pigeon,683
+band_tailed_pigeon,Band-tailed Pigeon,DIB-10K_25,1865.Band-tailed Pigeon,1503
+chilean_pigeon,Chilean Pigeon,DIB-10K_25,1866.Chilean Pigeon,218
+ring_tailed_pigeon,Ring-tailed Pigeon,DIB-10K_25,1867.Ring-tailed Pigeon,136
+pale_vented_pigeon,Pale-vented Pigeon,DIB-10K_25,1868.Pale-vented Pigeon,1122
+red_billed_pigeon,Red-billed Pigeon,DIB-10K_25,1869.Red-billed Pigeon,905
+maranon_pigeon,Maranon Pigeon,DIB-10K_25,1870.Maranon Pigeon,93
+plain_pigeon,Plain Pigeon,DIB-10K_25,1871.Plain Pigeon,134
+plumbeous_pigeon,Plumbeous Pigeon,DIB-10K_25,1872.Plumbeous Pigeon,287
+ruddy_pigeon,Ruddy Pigeon,DIB-10K_25,1873.Ruddy Pigeon,353
+short_billed_pigeon,Short-billed Pigeon,DIB-10K_25,1874.Short-billed Pigeon,283
+dusky_pigeon,Dusky Pigeon,DIB-10K_25,1875.Dusky Pigeon,58
+malagasy_turtle_dove,Malagasy Turtle Dove,DIB-10K_25,1876.Malagasy Turtle Dove,282
+rodrigues_pigeon,Rodrigues Pigeon,DIB-10K_25,1877.Rodrigues Pigeon,1
+pink_pigeon,Pink Pigeon,DIB-10K_25,1878.Pink Pigeon,339
+european_turtle_dove,European Turtle Dove,DIB-10K_25,1879.European Turtle Dove,2755
+dusky_turtle_dove,Dusky Turtle Dove,DIB-10K_25,1880.Dusky Turtle Dove,248
+adamawa_turtle_dove,Adamawa Turtle Dove,DIB-10K_25,1881.Adamawa Turtle Dove,93
+oriental_turtle_dove,Oriental Turtle Dove,DIB-10K_25,1882.Oriental Turtle Dove,2057
+island_collared_dove,Island Collared Dove,DIB-10K_25,1883.Island Collared Dove,133
+eurasian_collared_dove,Eurasian Collared Dove,DIB-10K_25,1884.Eurasian Collared Dove,3080
+african_collared_dove,African Collared Dove,DIB-10K_25,1885.African Collared Dove,392
+white_winged_collared_dove,White-winged Collared Dove,DIB-10K_25,1886.White-winged Collared Dove,69
+mourning_collared_dove,Mourning Collared Dove,DIB-10K_25,1887.Mourning Collared Dove,538
+red_eyed_dove,Red-eyed Dove,DIB-10K_25,1888.Red-eyed Dove,1033
+ring_necked_dove,Ring-necked Dove,DIB-10K_25,1889.Ring-necked Dove,1136
+vinaceous_dove,Vinaceous Dove,DIB-10K_25,1890.Vinaceous Dove,220
+,,DIB-10K_25,,0

@@ -1,0 +1,107 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+antillean_siskin,Antillean Siskin,DIB-10K_63,9940.Antillean Siskin,119
+pine_siskin,Pine Siskin,DIB-10K_63,9941.Pine Siskin,2351
+black_capped_siskin,Black-capped Siskin,DIB-10K_63,9942.Black-capped Siskin,51
+black_headed_siskin,Black-headed Siskin,DIB-10K_63,9943.Black-headed Siskin,226
+black_chinned_siskin,Black-chinned Siskin,DIB-10K_63,9944.Black-chinned Siskin,481
+yellow_bellied_siskin,Yellow-bellied Siskin,DIB-10K_63,9945.Yellow-bellied Siskin,281
+olivaceous_siskin,Olivaceous Siskin,DIB-10K_63,9946.Olivaceous Siskin,58
+hooded_siskin,Hooded Siskin,DIB-10K_63,9947.Hooded Siskin,781
+saffron_siskin,Saffron Siskin,DIB-10K_63,9948.Saffron Siskin,29
+yellow_faced_siskin,Yellow-faced Siskin,DIB-10K_63,9949.Yellow-faced Siskin,23
+red_siskin,Red Siskin,DIB-10K_63,9950.Red Siskin,118
+black_siskin,Black Siskin,DIB-10K_63,9951.Black Siskin,174
+yellow_rumped_siskin,Yellow-rumped Siskin,DIB-10K_63,9952.Yellow-rumped Siskin,133
+thick_billed_siskin,Thick-billed Siskin,DIB-10K_63,9953.Thick-billed Siskin,95
+andean_siskin,Andean Siskin,DIB-10K_63,9954.Andean Siskin,119
+jamaican_euphonia,Jamaican Euphonia,DIB-10K_63,9955.Jamaican Euphonia,115
+plumbeous_euphonia,Plumbeous Euphonia,DIB-10K_63,9956.Plumbeous Euphonia,60
+scrub_euphonia,Scrub Euphonia,DIB-10K_63,9957.Scrub Euphonia,526
+yellow_crowned_euphonia,Yellow-crowned Euphonia,DIB-10K_63,9958.Yellow-crowned Euphonia,379
+purple_throated_euphonia,Purple-throated Euphonia,DIB-10K_63,9959.Purple-throated Euphonia,1269
+trinidad_euphonia,Trinidad Euphonia,DIB-10K_63,9960.Trinidad Euphonia,145
+velvet_fronted_euphonia,Velvet-fronted Euphonia,DIB-10K_63,9961.Velvet-fronted Euphonia,89
+orange_crowned_euphonia,Orange-crowned Euphonia,DIB-10K_63,9962.Orange-crowned Euphonia,79
+finschs_euphonia,Finsch's Euphonia,DIB-10K_63,9963.Finsch's Euphonia,70
+violaceous_euphonia,Violaceous Euphonia,DIB-10K_63,9964.Violaceous Euphonia,1793
+thick_billed_euphonia,Thick-billed Euphonia,DIB-10K_63,9965.Thick-billed Euphonia,1644
+yellow_throated_euphonia,Yellow-throated Euphonia,DIB-10K_63,9966.Yellow-throated Euphonia,1043
+green_chinned_euphonia,Green-chinned Euphonia,DIB-10K_63,9967.Green-chinned Euphonia,103
+elegant_euphonia,Elegant Euphonia,DIB-10K_63,9968.Elegant Euphonia,415
+golden_rumped_euphonia,Golden-rumped Euphonia,DIB-10K_63,9969.Golden-rumped Euphonia,388
+antillean_euphonia,Antillean Euphonia,DIB-10K_63,9970.Antillean Euphonia,293
+fulvous_vented_euphonia,Fulvous-vented Euphonia,DIB-10K_63,9971.Fulvous-vented Euphonia,136
+spot_crowned_euphonia,Spot-crowned Euphonia,DIB-10K_63,9972.Spot-crowned Euphonia,252
+olive_backed_euphonia,Olive-backed Euphonia,DIB-10K_63,9973.Olive-backed Euphonia,789
+white_lored_euphonia,White-lored Euphonia,DIB-10K_63,9974.White-lored Euphonia,210
+bronze_green_euphonia,Bronze-green Euphonia,DIB-10K_63,9975.Bronze-green Euphonia,107
+white_vented_euphonia,White-vented Euphonia,DIB-10K_63,9976.White-vented Euphonia,154
+tawny_capped_euphonia,Tawny-capped Euphonia,DIB-10K_63,9977.Tawny-capped Euphonia,228
+orange_bellied_euphonia,Orange-bellied Euphonia,DIB-10K_63,9978.Orange-bellied Euphonia,848
+rufous_bellied_euphonia,Rufous-bellied Euphonia,DIB-10K_63,9979.Rufous-bellied Euphonia,138
+chestnut_bellied_euphonia,Chestnut-bellied Euphonia,DIB-10K_63,9980.Chestnut-bellied Euphonia,892
+golden_sided_euphonia,Golden-sided Euphonia,DIB-10K_63,9981.Golden-sided Euphonia,74
+yellow_collared_chlorophonia,Yellow-collared Chlorophonia,DIB-10K_63,9982.Yellow-collared Chlorophonia,54
+blue_naped_chlorophonia,Blue-naped Chlorophonia,DIB-10K_63,9983.Blue-naped Chlorophonia,935
+chestnut_breasted_chlorophonia,Chestnut-breasted Chlorophonia,DIB-10K_63,9984.Chestnut-breasted Chlorophonia,140
+blue_crowned_chlorophonia,Blue-crowned Chlorophonia,DIB-10K_63,9985.Blue-crowned Chlorophonia,127
+golden_browed_chlorophonia,Golden-browed Chlorophonia,DIB-10K_63,9986.Golden-browed Chlorophonia,455
+mccowns_longspur,McCown's Longspur,DIB-10K_63,9987.McCown's Longspur,702
+lapland_longspur,Lapland Longspur,DIB-10K_63,9988.Lapland Longspur,2625
+smiths_longspur,Smith's Longspur,DIB-10K_63,9989.Smith's Longspur,669
+chestnut_collared_longspur,Chestnut-collared Longspur,DIB-10K_63,9990.Chestnut-collared Longspur,959
+snow_bunting,Snow Bunting,DIB-10K_63,9991.Snow Bunting,2782
+mckays_bunting,McKay's Bunting,DIB-10K_63,9992.McKay's Bunting,162
+rosy_thrush_tanager,Rosy Thrush-tanager,DIB-10K_63,9993.Rosy Thrush-tanager,114
+crested_bunting,Crested Bunting,DIB-10K_63,9994.Crested Bunting,260
+slaty_bunting,Slaty Bunting,DIB-10K_63,9995.Slaty Bunting,53
+corn_bunting,Corn Bunting,DIB-10K_63,9996.Corn Bunting,2555
+yellowhammer,Yellowhammer,DIB-10K_63,9997.Yellowhammer,2724
+pine_bunting,Pine Bunting,DIB-10K_63,9998.Pine Bunting,388
+rock_bunting,Rock Bunting,DIB-10K_63,9999.Rock Bunting,2506
+godlewskis_bunting,Godlewski's Bunting,DIB-10K_63,10000.Godlewski's Bunting,201
+meadow_bunting,Meadow Bunting,DIB-10K_63,10001.Meadow Bunting,817
+white_capped_bunting,White-capped Bunting,DIB-10K_63,10002.White-capped Bunting,269
+jankowskis_bunting,Jankowski's Bunting,DIB-10K_63,10003.Jankowski's Bunting,42
+grey_necked_bunting,Grey-necked Bunting,DIB-10K_63,10004.Grey-necked Bunting,487
+cinereous_bunting,Cinereous Bunting,DIB-10K_63,10005.Cinereous Bunting,283
+ortolan_bunting,Ortolan Bunting,DIB-10K_63,10006.Ortolan Bunting,1853
+cretzschmars_bunting,Cretzschmar's Bunting,DIB-10K_63,10007.Cretzschmar's Bunting,616
+cirl_bunting,Cirl Bunting,DIB-10K_63,10008.Cirl Bunting,2704
+striolated_bunting,Striolated Bunting,DIB-10K_63,10009.Striolated Bunting,293
+house_bunting,House Bunting,DIB-10K_63,10010.House Bunting,435
+lark_like_bunting,Lark-like Bunting,DIB-10K_63,10011.Lark-like Bunting,244
+cinnamon_breasted_bunting,Cinnamon-breasted Bunting,DIB-10K_63,10012.Cinnamon-breasted Bunting,495
+goslings_bunting,Gosling's Bunting,DIB-10K_63,10013.Gosling's Bunting,51
+socotra_bunting,Socotra Bunting,DIB-10K_63,10014.Socotra Bunting,18
+cape_bunting,Cape Bunting,DIB-10K_63,10015.Cape Bunting,479
+vincents_bunting,Vincent's Bunting,DIB-10K_63,10016.Vincent's Bunting,7
+tristrams_bunting,Tristram's Bunting,DIB-10K_63,10017.Tristram's Bunting,311
+chestnut_eared_bunting,Chestnut-eared Bunting,DIB-10K_63,10018.Chestnut-eared Bunting,438
+little_bunting,Little Bunting,DIB-10K_63,10019.Little Bunting,1222
+yellow_browed_bunting,Yellow-browed Bunting,DIB-10K_63,10020.Yellow-browed Bunting,255
+rustic_bunting,Rustic Bunting,DIB-10K_63,10021.Rustic Bunting,770
+yellow_throated_bunting,Yellow-throated Bunting,DIB-10K_63,10022.Yellow-throated Bunting,725
+yellow_breasted_bunting,Yellow-breasted Bunting,DIB-10K_63,10023.Yellow-breasted Bunting,568
+somali_bunting,Somali Bunting,DIB-10K_63,10024.Somali Bunting,104
+golden_breasted_bunting,Golden-breasted Bunting,DIB-10K_63,10025.Golden-breasted Bunting,542
+brown_rumped_bunting,Brown-rumped Bunting,DIB-10K_63,10026.Brown-rumped Bunting,68
+cabaniss_bunting,Cabanis's Bunting,DIB-10K_63,10027.Cabanis's Bunting,55
+chestnut_bunting,Chestnut Bunting,DIB-10K_63,10028.Chestnut Bunting,270
+tibetan_bunting,Tibetan Bunting,DIB-10K_63,10029.Tibetan Bunting,89
+black_headed_bunting,Black-headed Bunting,DIB-10K_63,10030.Black-headed Bunting,1340
+red_headed_bunting,Red-headed Bunting,DIB-10K_63,10031.Red-headed Bunting,643
+yellow_bunting,Yellow Bunting,DIB-10K_63,10032.Yellow Bunting,245
+black_faced_bunting,Black-faced Bunting,DIB-10K_63,10033.Black-faced Bunting,1147
+grey_bunting,Grey Bunting,DIB-10K_63,10034.Grey Bunting,190
+pallass_reed_bunting,Pallas's Reed Bunting,DIB-10K_63,10035.Pallas's Reed Bunting,126
+japanese_reed_bunting,Japanese Reed Bunting,DIB-10K_63,10036.Japanese Reed Bunting,190
+common_reed_bunting,Common Reed Bunting,DIB-10K_63,10037.Common Reed Bunting,2409
+lark_bunting,Lark Bunting,DIB-10K_63,10038.Lark Bunting,1316
+red_fox_sparrow,Red Fox Sparrow,DIB-10K_63,10039.Red Fox Sparrow,2394
+sooty_fox_sparrow,Sooty Fox Sparrow,DIB-10K_63,10040.Sooty Fox Sparrow,611
+slate_colored_fox_sparrow,Slate-colored Fox Sparrow,DIB-10K_63,10041.Slate-colored Fox Sparrow,384
+thick_billed_fox_sparrow,Thick-billed Fox Sparrow,DIB-10K_63,10042.Thick-billed Fox Sparrow,331
+song_sparrow,Song Sparrow,DIB-10K_63,10043.Song Sparrow,2545
+lincolns_sparrow,Lincoln's Sparrow,DIB-10K_63,10044.Lincoln's Sparrow,2337
+,,DIB-10K_63,,0

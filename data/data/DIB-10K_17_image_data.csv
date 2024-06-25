@@ -1,0 +1,104 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+king_rail,King Rail,DIB-10K_17,1297.King Rail,1291
+aztec_rail,Aztec Rail,DIB-10K_17,1298.Aztec Rail,46
+plain_flanked_rail,Plain-flanked Rail,DIB-10K_17,1299.Plain-flanked Rail,45
+virginia_rail,Virginia Rail,DIB-10K_17,1300.Virginia Rail,2341
+ecuadorian_rail,Ecuadorian Rail,DIB-10K_17,1301.Ecuadorian Rail,20
+bogota_rail,Bogota Rail,DIB-10K_17,1302.Bogota Rail,175
+austral_rail,Austral Rail,DIB-10K_17,1303.Austral Rail,55
+water_rail,Water Rail,DIB-10K_17,1304.Water Rail,2620
+brown_cheeked_rail,Brown-cheeked Rail,DIB-10K_17,1305.Brown-cheeked Rail,227
+african_rail,African Rail,DIB-10K_17,1306.African Rail,176
+madagascan_rail,Madagascan Rail,DIB-10K_17,1307.Madagascan Rail,49
+brown_banded_rail,Brown-banded Rail,DIB-10K_17,1308.Brown-banded Rail,13
+lewins_rail,Lewin's Rail,DIB-10K_17,1309.Lewin's Rail,199
+auckland_rail,Auckland Rail,DIB-10K_17,1310.Auckland Rail,10
+white_throated_rail,White-throated Rail,DIB-10K_17,1311.White-throated Rail,217
+reunion_rail,Reunion Rail,DIB-10K_17,1312.Reunion Rail,2
+red_rail,Red Rail,DIB-10K_17,1313.Red Rail,26
+rodrigues_rail,Rodrigues Rail,DIB-10K_17,1314.Rodrigues Rail,3
+african_crake,African Crake,DIB-10K_17,1315.African Crake,155
+corn_crake,Corn Crake,DIB-10K_17,1316.Corn Crake,1045
+rougets_rail,Rouget's Rail,DIB-10K_17,1317.Rouget's Rail,178
+snoring_rail,Snoring Rail,DIB-10K_17,1318.Snoring Rail,14
+ascension_crake,Ascension Crake,DIB-10K_17,1319.Ascension Crake,1
+st._helena_rail,St. Helena Rail,DIB-10K_17,1320.St. Helena Rail,1
+inaccessible_island_rail,Inaccessible Island Rail,DIB-10K_17,1321.Inaccessible Island Rail,28
+little_wood_rail,Little Wood Rail,DIB-10K_17,1322.Little Wood Rail,84
+rufous_necked_wood_rail,Rufous-necked Wood Rail,DIB-10K_17,1323.Rufous-necked Wood Rail,242
+grey_necked_wood_rail,Grey-necked Wood Rail,DIB-10K_17,1324.Grey-necked Wood Rail,1172
+rufous_naped_wood_rail,Rufous-naped Wood Rail,DIB-10K_17,1325.Rufous-naped Wood Rail,530
+brown_wood_rail,Brown Wood Rail,DIB-10K_17,1326.Brown Wood Rail,51
+giant_wood_rail,Giant Wood Rail,DIB-10K_17,1327.Giant Wood Rail,866
+slaty_breasted_wood_rail,Slaty-breasted Wood Rail,DIB-10K_17,1328.Slaty-breasted Wood Rail,766
+red_winged_wood_rail,Red-winged Wood Rail,DIB-10K_17,1329.Red-winged Wood Rail,12
+uniform_crake,Uniform Crake,DIB-10K_17,1330.Uniform Crake,86
+blue_faced_rail,Blue-faced Rail,DIB-10K_17,1331.Blue-faced Rail,25
+talaud_rail,Talaud Rail,DIB-10K_17,1332.Talaud Rail,15
+bare_eyed_rail,Bare-eyed Rail,DIB-10K_17,1333.Bare-eyed Rail,6
+brown_crake,Brown Crake,DIB-10K_17,1334.Brown Crake,234
+isabelline_bush_hen,Isabelline Bush-hen,DIB-10K_17,1335.Isabelline Bush-hen,42
+plain_bush_hen,Plain Bush-hen,DIB-10K_17,1336.Plain Bush-hen,45
+pale_vented_bush_hen,Pale-vented Bush-hen,DIB-10K_17,1337.Pale-vented Bush-hen,160
+talaud_bush_hen,Talaud Bush-hen,DIB-10K_17,1338.Talaud Bush-hen,6
+white_breasted_waterhen,White-breasted Waterhen,DIB-10K_17,1339.White-breasted Waterhen,2733
+black_crake,Black Crake,DIB-10K_17,1340.Black Crake,836
+sakalava_rail,Sakalava Rail,DIB-10K_17,1341.Sakalava Rail,63
+st._helena_crake,St. Helena Crake,DIB-10K_17,1342.St. Helena Crake,2
+black_tailed_crake,Black-tailed Crake,DIB-10K_17,1343.Black-tailed Crake,205
+little_crake,Little Crake,DIB-10K_17,1344.Little Crake,1105
+baillons_crake,Baillon's Crake,DIB-10K_17,1345.Baillon's Crake,1447
+spotted_crake,Spotted Crake,DIB-10K_17,1346.Spotted Crake,2305
+australian_crake,Australian Crake,DIB-10K_17,1347.Australian Crake,861
+sora,Sora,DIB-10K_17,1348.Sora,2644
+dot_winged_crake,Dot-winged Crake,DIB-10K_17,1349.Dot-winged Crake,51
+ash_throated_crake,Ash-throated Crake,DIB-10K_17,1350.Ash-throated Crake,254
+ruddy_breasted_crake,Ruddy-breasted Crake,DIB-10K_17,1351.Ruddy-breasted Crake,1118
+band_bellied_crake,Band-bellied Crake,DIB-10K_17,1352.Band-bellied Crake,153
+spotless_crake,Spotless Crake,DIB-10K_17,1353.Spotless Crake,667
+tahiti_crake,Tahiti Crake,DIB-10K_17,1354.Tahiti Crake,3
+kosrae_crake,Kosrae Crake,DIB-10K_17,1355.Kosrae Crake,6
+henderson_crake,Henderson Crake,DIB-10K_17,1356.Henderson Crake,28
+hawaiian_rail,Hawaiian Rail,DIB-10K_17,1357.Hawaiian Rail,28
+laysan_rail,Laysan Rail,DIB-10K_17,1358.Laysan Rail,8
+yellow_breasted_crake,Yellow-breasted Crake,DIB-10K_17,1359.Yellow-breasted Crake,244
+white_browed_crake,White-browed Crake,DIB-10K_17,1360.White-browed Crake,685
+striped_crake,Striped Crake,DIB-10K_17,1361.Striped Crake,28
+zapata_rail,Zapata Rail,DIB-10K_17,1362.Zapata Rail,15
+colombian_crake,Colombian Crake,DIB-10K_17,1363.Colombian Crake,20
+paint_billed_crake,Paint-billed Crake,DIB-10K_17,1364.Paint-billed Crake,132
+spotted_rail,Spotted Rail,DIB-10K_17,1365.Spotted Rail,296
+blackish_rail,Blackish Rail,DIB-10K_17,1366.Blackish Rail,411
+plumbeous_rail,Plumbeous Rail,DIB-10K_17,1367.Plumbeous Rail,1044
+chestnut_rail,Chestnut Rail,DIB-10K_17,1368.Chestnut Rail,62
+invisible_rail,Invisible Rail,DIB-10K_17,1369.Invisible Rail,37
+new_guinea_flightless_rail,New Guinea Flightless Rail,DIB-10K_17,1370.New Guinea Flightless Rail,37
+watercock,Watercock,DIB-10K_17,1371.Watercock,577
+western_swamphen,Western Swamphen,DIB-10K_17,1372.Western Swamphen,2244
+african_swamphen,African Swamphen,DIB-10K_17,1373.African Swamphen,391
+grey_headed_swamphen,Grey-headed Swamphen,DIB-10K_17,1374.Grey-headed Swamphen,1194
+black_backed_swamphen,Black-backed Swamphen,DIB-10K_17,1375.Black-backed Swamphen,167
+philippine_swamphen,Philippine Swamphen,DIB-10K_17,1376.Philippine Swamphen,45
+australasian_swamphen,Australasian Swamphen,DIB-10K_17,1377.Australasian Swamphen,1553
+white_swamphen,White Swamphen,DIB-10K_17,1378.White Swamphen,12
+north_island_takahe,North Island Takahe,DIB-10K_17,1379.North Island Takahe,255
+south_island_takahe,South Island Takahe,DIB-10K_17,1380.South Island Takahe,650
+allens_gallinule,Allen's Gallinule,DIB-10K_17,1381.Allen's Gallinule,198
+purple_gallinule,Purple Gallinule,DIB-10K_17,1382.Purple Gallinule,1997
+azure_gallinule,Azure Gallinule,DIB-10K_17,1383.Azure Gallinule,139
+samoan_woodhen,Samoan Woodhen,DIB-10K_17,1384.Samoan Woodhen,4
+makira_woodhen,Makira Woodhen,DIB-10K_17,1385.Makira Woodhen,9
+tristan_moorhen,Tristan Moorhen,DIB-10K_17,1386.Tristan Moorhen,15
+gough_moorhen,Gough Moorhen,DIB-10K_17,1387.Gough Moorhen,44
+common_moorhen,Common Moorhen,DIB-10K_17,1388.Common Moorhen,2514
+common_gallinule,Common Gallinule,DIB-10K_17,1389.Common Gallinule,2848
+dusky_moorhen,Dusky Moorhen,DIB-10K_17,1390.Dusky Moorhen,2219
+lesser_moorhen,Lesser Moorhen,DIB-10K_17,1391.Lesser Moorhen,80
+spot_flanked_gallinule,Spot-flanked Gallinule,DIB-10K_17,1392.Spot-flanked Gallinule,483
+black_tailed_nativehen,Black-tailed Nativehen,DIB-10K_17,1393.Black-tailed Nativehen,735
+tasmanian_nativehen,Tasmanian Nativehen,DIB-10K_17,1394.Tasmanian Nativehen,357
+red_knobbed_coot,Red-knobbed Coot,DIB-10K_17,1395.Red-knobbed Coot,1609
+mascarene_coot,Mascarene Coot,DIB-10K_17,1396.Mascarene Coot,3
+eurasian_coot,Eurasian Coot,DIB-10K_17,1397.Eurasian Coot,2965
+hawaiian_coot,Hawaiian Coot,DIB-10K_17,1398.Hawaiian Coot,695
+,,DIB-10K_17,,0

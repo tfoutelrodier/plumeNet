@@ -1,0 +1,119 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+blackpoll_warbler,Blackpoll Warbler,DIB-10K_67,10350.Blackpoll Warbler,1629
+black_throated_blue_warbler,Black-throated Blue Warbler,DIB-10K_67,10351.Black-throated Blue Warbler,1899
+palm_warbler,Palm Warbler,DIB-10K_67,10352.Palm Warbler,2486
+olive_capped_warbler,Olive-capped Warbler,DIB-10K_67,10353.Olive-capped Warbler,174
+pine_warbler,Pine Warbler,DIB-10K_67,10354.Pine Warbler,2002
+myrtle_warbler,Myrtle Warbler,DIB-10K_67,10355.Myrtle Warbler,2359
+audubons_warbler,Audubon's Warbler,DIB-10K_67,10356.Audubon's Warbler,797
+goldmans_warbler,Goldman's Warbler,DIB-10K_67,10357.Goldman's Warbler,75
+yellow_throated_warbler,Yellow-throated Warbler,DIB-10K_67,10358.Yellow-throated Warbler,1154
+bahama_warbler,Bahama Warbler,DIB-10K_67,10359.Bahama Warbler,84
+vitelline_warbler,Vitelline Warbler,DIB-10K_67,10360.Vitelline Warbler,75
+prairie_warbler,Prairie Warbler,DIB-10K_67,10361.Prairie Warbler,1763
+adelaides_warbler,Adelaide's Warbler,DIB-10K_67,10362.Adelaide's Warbler,213
+barbuda_warbler,Barbuda Warbler,DIB-10K_67,10363.Barbuda Warbler,54
+st._lucia_warbler,St. Lucia Warbler,DIB-10K_67,10364.St. Lucia Warbler,79
+graces_warbler,Grace's Warbler,DIB-10K_67,10365.Grace's Warbler,572
+black_throated_grey_warbler,Black-throated Grey Warbler,DIB-10K_67,10366.Black-throated Grey Warbler,1083
+townsends_warbler,Townsend's Warbler,DIB-10K_67,10367.Townsend's Warbler,1510
+hermit_warbler,Hermit Warbler,DIB-10K_67,10368.Hermit Warbler,822
+golden_cheeked_warbler,Golden-cheeked Warbler,DIB-10K_67,10369.Golden-cheeked Warbler,738
+black_throated_green_warbler,Black-throated Green Warbler,DIB-10K_67,10370.Black-throated Green Warbler,2100
+citrine_warbler,Citrine Warbler,DIB-10K_67,10371.Citrine Warbler,75
+santa_marta_warbler,Santa Marta Warbler,DIB-10K_67,10372.Santa Marta Warbler,56
+white_striped_warbler,White-striped Warbler,DIB-10K_67,10373.White-striped Warbler,53
+flavescent_warbler,Flavescent Warbler,DIB-10K_67,10374.Flavescent Warbler,145
+white_rimmed_warbler,White-rimmed Warbler,DIB-10K_67,10375.White-rimmed Warbler,233
+pale_legged_warbler,Pale-legged Warbler,DIB-10K_67,10376.Pale-legged Warbler,62
+black_crested_warbler,Black-crested Warbler,DIB-10K_67,10377.Black-crested Warbler,186
+buff_rumped_warbler,Buff-rumped Warbler,DIB-10K_67,10378.Buff-rumped Warbler,418
+riverbank_warbler,Riverbank Warbler,DIB-10K_67,10379.Riverbank Warbler,146
+two_banded_warbler,Two-banded Warbler,DIB-10K_67,10380.Two-banded Warbler,83
+roraiman_warbler,Roraiman Warbler,DIB-10K_67,10381.Roraiman Warbler,8
+cuzco_warbler,Cuzco Warbler,DIB-10K_67,10382.Cuzco Warbler,52
+choco_warbler,Choco Warbler,DIB-10K_67,10383.Choco Warbler,40
+white_lored_warbler,White-lored Warbler,DIB-10K_67,10384.White-lored Warbler,53
+grey_throated_warbler,Grey-throated Warbler,DIB-10K_67,10385.Grey-throated Warbler,15
+grey_and_gold_warbler,Grey-and-gold Warbler,DIB-10K_67,10386.Grey-and-gold Warbler,43
+russet_crowned_warbler,Russet-crowned Warbler,DIB-10K_67,10387.Russet-crowned Warbler,181
+grey_headed_warbler,Grey-headed Warbler,DIB-10K_67,10388.Grey-headed Warbler,17
+fan_tailed_warbler,Fan-tailed Warbler,DIB-10K_67,10389.Fan-tailed Warbler,156
+rufous_capped_warbler,Rufous-capped Warbler,DIB-10K_67,10390.Rufous-capped Warbler,647
+black_cheeked_warbler,Black-cheeked Warbler,DIB-10K_67,10391.Black-cheeked Warbler,171
+pirre_warbler,Pirre Warbler,DIB-10K_67,10392.Pirre Warbler,21
+golden_browed_warbler,Golden-browed Warbler,DIB-10K_67,10393.Golden-browed Warbler,128
+golden_crowned_warbler,Golden-crowned Warbler,DIB-10K_67,10394.Golden-crowned Warbler,941
+black_eared_warbler,Black-eared Warbler,DIB-10K_67,10395.Black-eared Warbler,100
+three_banded_warbler,Three-banded Warbler,DIB-10K_67,10397.Three-banded Warbler,51
+yungas_warbler,Yungas Warbler,DIB-10K_67,10398.Yungas Warbler,6
+three_striped_warbler,Three-striped Warbler,DIB-10K_67,10399.Three-striped Warbler,268
+canada_warbler,Canada Warbler,DIB-10K_67,10400.Canada Warbler,1108
+wilsons_warbler,Wilson's Warbler,DIB-10K_67,10401.Wilson's Warbler,1731
+red_faced_warbler,Red-faced Warbler,DIB-10K_67,10402.Red-faced Warbler,327
+red_warbler,Red Warbler,DIB-10K_67,10403.Red Warbler,207
+pink_headed_warbler,Pink-headed Warbler,DIB-10K_67,10404.Pink-headed Warbler,194
+painted_whitestart,Painted Whitestart,DIB-10K_67,10405.Painted Whitestart,969
+slate_throated_whitestart,Slate-throated Whitestart,DIB-10K_67,10406.Slate-throated Whitestart,1092
+brown_capped_whitestart,Brown-capped Whitestart,DIB-10K_67,10407.Brown-capped Whitestart,191
+yellow_crowned_whitestart,Yellow-crowned Whitestart,DIB-10K_67,10408.Yellow-crowned Whitestart,141
+white_fronted_whitestart,White-fronted Whitestart,DIB-10K_67,10409.White-fronted Whitestart,30
+golden_fronted_whitestart,Golden-fronted Whitestart,DIB-10K_67,10410.Golden-fronted Whitestart,434
+spectacled_whitestart,Spectacled Whitestart,DIB-10K_67,10411.Spectacled Whitestart,342
+collared_whitestart,Collared Whitestart,DIB-10K_67,10412.Collared Whitestart,733
+paria_whitestart,Paria Whitestart,DIB-10K_67,10413.Paria Whitestart,16
+white_faced_whitestart,White-faced Whitestart,DIB-10K_67,10414.White-faced Whitestart,3
+guaiquinima_whitestart,Guaiquinima Whitestart,DIB-10K_67,10415.Guaiquinima Whitestart,10
+tepui_whitestart,Tepui Whitestart,DIB-10K_67,10416.Tepui Whitestart,23
+dusky_faced_tanager,Dusky-faced Tanager,DIB-10K_67,10417.Dusky-faced Tanager,334
+olive_backed_tanager,Olive-backed Tanager,DIB-10K_67,10418.Olive-backed Tanager,19
+olive_green_tanager,Olive-green Tanager,DIB-10K_67,10419.Olive-green Tanager,439
+red_billed_pied_tanager,Red-billed Pied Tanager,DIB-10K_67,10420.Red-billed Pied Tanager,64
+flame_colored_tanager,Flame-colored Tanager,DIB-10K_67,10421.Flame-colored Tanager,1364
+tooth_billed_tanager,Tooth-billed Tanager,DIB-10K_67,10422.Tooth-billed Tanager,132
+red_tanager,Red Tanager,DIB-10K_67,10423.Red Tanager,1076
+hepatic_tanager,Hepatic Tanager,DIB-10K_67,10424.Hepatic Tanager,612
+summer_tanager,Summer Tanager,DIB-10K_67,10425.Summer Tanager,2523
+rose_throated_tanager,Rose-throated Tanager,DIB-10K_67,10426.Rose-throated Tanager,158
+scarlet_tanager,Scarlet Tanager,DIB-10K_67,10427.Scarlet Tanager,2358
+western_tanager,Western Tanager,DIB-10K_67,10428.Western Tanager,2102
+white_winged_tanager,White-winged Tanager,DIB-10K_67,10429.White-winged Tanager,311
+red_headed_tanager,Red-headed Tanager,DIB-10K_67,10430.Red-headed Tanager,98
+red_hooded_tanager,Red-hooded Tanager,DIB-10K_67,10431.Red-hooded Tanager,89
+red_crowned_ant_tanager,Red-crowned Ant Tanager,DIB-10K_67,10432.Red-crowned Ant Tanager,420
+red_throated_ant_tanager,Red-throated Ant Tanager,DIB-10K_67,10433.Red-throated Ant Tanager,416
+black_cheeked_ant_tanager,Black-cheeked Ant Tanager,DIB-10K_67,10434.Black-cheeked Ant Tanager,107
+sooty_ant_tanager,Sooty Ant Tanager,DIB-10K_67,10435.Sooty Ant Tanager,79
+crested_ant_tanager,Crested Ant Tanager,DIB-10K_67,10436.Crested Ant Tanager,191
+carmiols_tanager,Carmiol's Tanager,DIB-10K_67,10437.Carmiol's Tanager,101
+olive_tanager,Olive Tanager,DIB-10K_67,10438.Olive Tanager,15
+lemon_spectacled_tanager,Lemon-spectacled Tanager,DIB-10K_67,10439.Lemon-spectacled Tanager,40
+ochre_breasted_tanager,Ochre-breasted Tanager,DIB-10K_67,10440.Ochre-breasted Tanager,70
+yellow_grosbeak,Yellow Grosbeak,DIB-10K_67,10441.Yellow Grosbeak,455
+black_thighed_grosbeak,Black-thighed Grosbeak,DIB-10K_67,10442.Black-thighed Grosbeak,178
+golden_grosbeak,Golden Grosbeak,DIB-10K_67,10443.Golden Grosbeak,462
+black_backed_grosbeak,Black-backed Grosbeak,DIB-10K_67,10444.Black-backed Grosbeak,280
+rose_breasted_grosbeak,Rose-breasted Grosbeak,DIB-10K_67,10445.Rose-breasted Grosbeak,2643
+black_headed_grosbeak,Black-headed Grosbeak,DIB-10K_67,10446.Black-headed Grosbeak,2575
+red_breasted_chat,Red-breasted Chat,DIB-10K_67,10447.Red-breasted Chat,149
+grey_throated_chat,Grey-throated Chat,DIB-10K_67,10448.Grey-throated Chat,120
+rose_breasted_chat,Rose-breasted Chat,DIB-10K_67,10449.Rose-breasted Chat,67
+northern_cardinal,Northern Cardinal,DIB-10K_67,10450.Northern Cardinal,2830
+vermilion_cardinal,Vermilion Cardinal,DIB-10K_67,10451.Vermilion Cardinal,238
+pyrrhuloxia,Pyrrhuloxia,DIB-10K_67,10452.Pyrrhuloxia,1937
+black_faced_grosbeak,Black-faced Grosbeak,DIB-10K_67,10453.Black-faced Grosbeak,245
+yellow_green_grosbeak,Yellow-green Grosbeak,DIB-10K_67,10454.Yellow-green Grosbeak,142
+crimson_collared_grosbeak,Crimson-collared Grosbeak,DIB-10K_67,10455.Crimson-collared Grosbeak,251
+red_and_black_grosbeak,Red-and-black Grosbeak,DIB-10K_67,10456.Red-and-black Grosbeak,29
+cabaniss_seedeater,Cabanis's Seedeater,DIB-10K_67,10457.Cabanis's Seedeater,64
+ecuadorian_seedeater,Ecuadorian Seedeater,DIB-10K_67,10458.Ecuadorian Seedeater,5
+blackish_blue_seedeater,Blackish-blue Seedeater,DIB-10K_67,10459.Blackish-blue Seedeater,78
+carrizal_seedeater,Carrizal Seedeater,DIB-10K_67,10460.Carrizal Seedeater,6
+dickcissel,Dickcissel,DIB-10K_67,10461.Dickcissel,2135
+glaucous_blue_grosbeak,Glaucous-blue Grosbeak,DIB-10K_67,10462.Glaucous-blue Grosbeak,295
+blue_black_grosbeak,Blue-black Grosbeak,DIB-10K_67,10463.Blue-black Grosbeak,411
+rothschilds_grosbeak,Rothschild's Grosbeak,DIB-10K_67,10464.Rothschild's Grosbeak,32
+ultramarine_grosbeak,Ultramarine Grosbeak,DIB-10K_67,10465.Ultramarine Grosbeak,828
+blue_bunting,Blue Bunting,DIB-10K_67,10466.Blue Bunting,424
+blue_grosbeak,Blue Grosbeak,DIB-10K_67,10467.Blue Grosbeak,2625
+,,DIB-10K_67,,0

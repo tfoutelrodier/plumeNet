@@ -1,0 +1,135 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+tropical_pewee,Tropical Pewee,DIB-10K_42,5412.Tropical Pewee,1062
+tumbes_pewee,Tumbes Pewee,DIB-10K_42,5413.Tumbes Pewee,45
+white_throated_pewee,White-throated Pewee,DIB-10K_42,5414.White-throated Pewee,13
+blackish_pewee,Blackish Pewee,DIB-10K_42,5415.Blackish Pewee,56
+cuban_pewee,Cuban Pewee,DIB-10K_42,5416.Cuban Pewee,546
+hispaniolan_pewee,Hispaniolan Pewee,DIB-10K_42,5417.Hispaniolan Pewee,177
+jamaican_pewee,Jamaican Pewee,DIB-10K_42,5418.Jamaican Pewee,114
+lesser_antillean_pewee,Lesser Antillean Pewee,DIB-10K_42,5419.Lesser Antillean Pewee,193
+yellow_bellied_flycatcher,Yellow-bellied Flycatcher,DIB-10K_42,5420.Yellow-bellied Flycatcher,1167
+acadian_flycatcher,Acadian Flycatcher,DIB-10K_42,5421.Acadian Flycatcher,1081
+willow_flycatcher,Willow Flycatcher,DIB-10K_42,5422.Willow Flycatcher,1851
+alder_flycatcher,Alder Flycatcher,DIB-10K_42,5423.Alder Flycatcher,1072
+white_throated_flycatcher,White-throated Flycatcher,DIB-10K_42,5424.White-throated Flycatcher,219
+least_flycatcher,Least Flycatcher,DIB-10K_42,5425.Least Flycatcher,1210
+hammonds_flycatcher,Hammond's Flycatcher,DIB-10K_42,5426.Hammond's Flycatcher,1021
+american_dusky_flycatcher,American Dusky Flycatcher,DIB-10K_42,5427.American Dusky Flycatcher,880
+american_grey_flycatcher,American Grey Flycatcher,DIB-10K_42,5428.American Grey Flycatcher,1010
+pine_flycatcher,Pine Flycatcher,DIB-10K_42,5429.Pine Flycatcher,208
+pacific_slope_flycatcher,Pacific-slope Flycatcher,DIB-10K_42,5430.Pacific-slope Flycatcher,1485
+cordilleran_flycatcher,Cordilleran Flycatcher,DIB-10K_42,5431.Cordilleran Flycatcher,910
+yellowish_flycatcher,Yellowish Flycatcher,DIB-10K_42,5432.Yellowish Flycatcher,660
+buff_breasted_flycatcher,Buff-breasted Flycatcher,DIB-10K_42,5433.Buff-breasted Flycatcher,633
+black_capped_flycatcher,Black-capped Flycatcher,DIB-10K_42,5434.Black-capped Flycatcher,339
+scarlet_flycatcher,Scarlet Flycatcher,DIB-10K_42,5435.Scarlet Flycatcher,2325
+vermilion_flycatcher,Vermilion Flycatcher,DIB-10K_42,5436.Vermilion Flycatcher,773
+darwins_flycatcher,Darwin's Flycatcher,DIB-10K_42,5437.Darwin's Flycatcher,50
+san_cristobal_flycatcher,San Cristobal Flycatcher,DIB-10K_42,5438.San Cristobal Flycatcher,4
+austral_negrito,Austral Negrito,DIB-10K_42,5439.Austral Negrito,1013
+andean_negrito,Andean Negrito,DIB-10K_42,5440.Andean Negrito,248
+cinereous_tyrant,Cinereous Tyrant,DIB-10K_42,5441.Cinereous Tyrant,126
+hudsons_black_tyrant,Hudson's Black Tyrant,DIB-10K_42,5442.Hudson's Black Tyrant,88
+amazonian_black_tyrant,Amazonian Black Tyrant,DIB-10K_42,5443.Amazonian Black Tyrant,119
+jelskis_black_tyrant,Jelski's Black Tyrant,DIB-10K_42,5444.Jelski's Black Tyrant,33
+plumbeous_tyrant,Plumbeous Tyrant,DIB-10K_42,5445.Plumbeous Tyrant,44
+blue_billed_black_tyrant,Blue-billed Black Tyrant,DIB-10K_42,5446.Blue-billed Black Tyrant,394
+rufous_tailed_tyrant,Rufous-tailed Tyrant,DIB-10K_42,5447.Rufous-tailed Tyrant,187
+riverside_tyrant,Riverside Tyrant,DIB-10K_42,5448.Riverside Tyrant,49
+white_winged_black_tyrant,White-winged Black Tyrant,DIB-10K_42,5449.White-winged Black Tyrant,199
+sao_francisco_black_tyrant,Sao Francisco Black Tyrant,DIB-10K_42,5450.Sao Francisco Black Tyrant,32
+crested_black_tyrant,Crested Black Tyrant,DIB-10K_42,5451.Crested Black Tyrant,413
+velvety_black_tyrant,Velvety Black Tyrant,DIB-10K_42,5452.Velvety Black Tyrant,334
+spectacled_tyrant,Spectacled Tyrant,DIB-10K_42,5453.Spectacled Tyrant,664
+drab_water_tyrant,Drab Water Tyrant,DIB-10K_42,5454.Drab Water Tyrant,221
+yellow_browed_tyrant,Yellow-browed Tyrant,DIB-10K_42,5455.Yellow-browed Tyrant,618
+little_ground_tyrant,Little Ground Tyrant,DIB-10K_42,5456.Little Ground Tyrant,62
+spot_billed_ground_tyrant,Spot-billed Ground Tyrant,DIB-10K_42,5457.Spot-billed Ground Tyrant,256
+taczanowskis_ground_tyrant,Taczanowski's Ground Tyrant,DIB-10K_42,5458.Taczanowski's Ground Tyrant,84
+puna_ground_tyrant,Puna Ground Tyrant,DIB-10K_42,5459.Puna Ground Tyrant,169
+cinereous_ground_tyrant,Cinereous Ground Tyrant,DIB-10K_42,5460.Cinereous Ground Tyrant,166
+white_fronted_ground_tyrant,White-fronted Ground Tyrant,DIB-10K_42,5461.White-fronted Ground Tyrant,160
+ochre_naped_ground_tyrant,Ochre-naped Ground Tyrant,DIB-10K_42,5462.Ochre-naped Ground Tyrant,272
+rufous_naped_ground_tyrant,Rufous-naped Ground Tyrant,DIB-10K_42,5463.Rufous-naped Ground Tyrant,325
+dark_faced_ground_tyrant,Dark-faced Ground Tyrant,DIB-10K_42,5464.Dark-faced Ground Tyrant,469
+white_browed_ground_tyrant,White-browed Ground Tyrant,DIB-10K_42,5465.White-browed Ground Tyrant,294
+paramo_ground_tyrant,Paramo Ground Tyrant,DIB-10K_42,5466.Paramo Ground Tyrant,183
+cinnamon_bellied_ground_tyrant,Cinnamon-bellied Ground Tyrant,DIB-10K_42,5467.Cinnamon-bellied Ground Tyrant,126
+black_fronted_ground_tyrant,Black-fronted Ground Tyrant,DIB-10K_42,5468.Black-fronted Ground Tyrant,130
+black_billed_shrike_tyrant,Black-billed Shrike-Tyrant,DIB-10K_42,5469.Black-billed Shrike-Tyrant,431
+white_tailed_shrike_tyrant,White-tailed Shrike-Tyrant,DIB-10K_42,5470.White-tailed Shrike-Tyrant,91
+great_shrike_tyrant,Great Shrike-Tyrant,DIB-10K_42,5471.Great Shrike-Tyrant,180
+grey_bellied_shrike_tyrant,Grey-bellied Shrike-Tyrant,DIB-10K_42,5472.Grey-bellied Shrike-Tyrant,122
+lesser_shrike_tyrant,Lesser Shrike-Tyrant,DIB-10K_42,5473.Lesser Shrike-Tyrant,119
+fire_eyed_diucon,Fire-eyed Diucon,DIB-10K_42,5474.Fire-eyed Diucon,1268
+grey_monjita,Grey Monjita,DIB-10K_42,5475.Grey Monjita,646
+black_crowned_monjita,Black-crowned Monjita,DIB-10K_42,5476.Black-crowned Monjita,158
+white_rumped_monjita,White-rumped Monjita,DIB-10K_42,5477.White-rumped Monjita,442
+white_monjita,White Monjita,DIB-10K_42,5478.White Monjita,873
+rusty_backed_monjita,Rusty-backed Monjita,DIB-10K_42,5479.Rusty-backed Monjita,63
+salinas_monjita,Salinas Monjita,DIB-10K_42,5480.Salinas Monjita,100
+black_and_white_monjita,Black-and-white Monjita,DIB-10K_42,5481.Black-and-white Monjita,274
+streak_throated_bush_tyrant,Streak-throated Bush Tyrant,DIB-10K_42,5482.Streak-throated Bush Tyrant,282
+santa_marta_bush_tyrant,Santa Marta Bush Tyrant,DIB-10K_42,5483.Santa Marta Bush Tyrant,96
+smoky_bush_tyrant,Smoky Bush Tyrant,DIB-10K_42,5484.Smoky Bush Tyrant,141
+rufous_bellied_bush_tyrant,Rufous-bellied Bush Tyrant,DIB-10K_42,5485.Rufous-bellied Bush Tyrant,50
+red_rumped_bush_tyrant,Red-rumped Bush Tyrant,DIB-10K_42,5486.Red-rumped Bush Tyrant,93
+rufous_webbed_bush_tyrant,Rufous-webbed Bush Tyrant,DIB-10K_42,5487.Rufous-webbed Bush Tyrant,95
+chocolate_vented_tyrant,Chocolate-vented Tyrant,DIB-10K_42,5488.Chocolate-vented Tyrant,148
+streamer_tailed_tyrant,Streamer-tailed Tyrant,DIB-10K_42,5489.Streamer-tailed Tyrant,830
+shear_tailed_grey_tyrant,Shear-tailed Grey Tyrant,DIB-10K_42,5490.Shear-tailed Grey Tyrant,175
+pied_water_tyrant,Pied Water Tyrant,DIB-10K_42,5491.Pied Water Tyrant,776
+black_backed_water_tyrant,Black-backed Water Tyrant,DIB-10K_42,5492.Black-backed Water Tyrant,436
+masked_water_tyrant,Masked Water Tyrant,DIB-10K_42,5493.Masked Water Tyrant,2404
+white_headed_marsh_tyrant,White-headed Marsh Tyrant,DIB-10K_42,5494.White-headed Marsh Tyrant,1633
+cock_tailed_tyrant,Cock-tailed Tyrant,DIB-10K_42,5495.Cock-tailed Tyrant,264
+strange_tailed_tyrant,Strange-tailed Tyrant,DIB-10K_42,5496.Strange-tailed Tyrant,398
+tumbes_tyrant,Tumbes Tyrant,DIB-10K_42,5497.Tumbes Tyrant,79
+crowned_chat_tyrant,Crowned Chat-Tyrant,DIB-10K_42,5498.Crowned Chat-Tyrant,99
+kalinowskis_chat_tyrant,Kalinowski's Chat-Tyrant,DIB-10K_42,5499.Kalinowski's Chat-Tyrant,3
+golden_browed_chat_tyrant,Golden-browed Chat-Tyrant,DIB-10K_42,5500.Golden-browed Chat-Tyrant,25
+yellow_bellied_chat_tyrant,Yellow-bellied Chat-Tyrant,DIB-10K_42,5501.Yellow-bellied Chat-Tyrant,156
+jelskis_chat_tyrant,Jelski's Chat-Tyrant,DIB-10K_42,5502.Jelski's Chat-Tyrant,43
+slaty_backed_chat_tyrant,Slaty-backed Chat-Tyrant,DIB-10K_42,5503.Slaty-backed Chat-Tyrant,336
+blackish_chat_tyrant,Blackish Chat-Tyrant,DIB-10K_42,5504.Blackish Chat-Tyrant,28
+maroon_belted_chat_tyrant,Maroon-belted Chat-Tyrant,DIB-10K_42,5505.Maroon-belted Chat-Tyrant,27
+rufous_breasted_chat_tyrant,Rufous-breasted Chat-Tyrant,DIB-10K_42,5506.Rufous-breasted Chat-Tyrant,352
+brown_backed_chat_tyrant,Brown-backed Chat-Tyrant,DIB-10K_42,5507.Brown-backed Chat-Tyrant,406
+dorbignys_chat_tyrant,D'Orbigny's Chat-Tyrant,DIB-10K_42,5508.D'Orbigny's Chat-Tyrant,158
+white_browed_chat_tyrant,White-browed Chat-Tyrant,DIB-10K_42,5509.White-browed Chat-Tyrant,206
+piura_chat_tyrant,Piura Chat-Tyrant,DIB-10K_42,5510.Piura Chat-Tyrant,52
+patagonian_tyrant,Patagonian Tyrant,DIB-10K_42,5511.Patagonian Tyrant,355
+long_tailed_tyrant,Long-tailed Tyrant,DIB-10K_42,5512.Long-tailed Tyrant,1223
+short_tailed_field_tyrant,Short-tailed Field Tyrant,DIB-10K_42,5513.Short-tailed Field Tyrant,108
+cattle_tyrant,Cattle Tyrant,DIB-10K_42,5514.Cattle Tyrant,1863
+piratic_flycatcher,Piratic Flycatcher,DIB-10K_42,5515.Piratic Flycatcher,809
+white_bearded_flycatcher,White-bearded Flycatcher,DIB-10K_42,5516.White-bearded Flycatcher,162
+rusty_margined_flycatcher,Rusty-margined Flycatcher,DIB-10K_42,5517.Rusty-margined Flycatcher,1337
+social_flycatcher,Social Flycatcher,DIB-10K_42,5518.Social Flycatcher,2143
+grey_capped_flycatcher,Grey-capped Flycatcher,DIB-10K_42,5519.Grey-capped Flycatcher,689
+dusky_chested_flycatcher,Dusky-chested Flycatcher,DIB-10K_42,5520.Dusky-chested Flycatcher,103
+great_kiskadee,Great Kiskadee,DIB-10K_42,5521.Great Kiskadee,2760
+lesser_kiskadee,Lesser Kiskadee,DIB-10K_42,5522.Lesser Kiskadee,857
+white_ringed_flycatcher,White-ringed Flycatcher,DIB-10K_42,5523.White-ringed Flycatcher,188
+yellow_throated_flycatcher,Yellow-throated Flycatcher,DIB-10K_42,5524.Yellow-throated Flycatcher,100
+three_striped_flycatcher,Three-striped Flycatcher,DIB-10K_42,5525.Three-striped Flycatcher,124
+lemon_browed_flycatcher,Lemon-browed Flycatcher,DIB-10K_42,5526.Lemon-browed Flycatcher,134
+golden_bellied_flycatcher,Golden-bellied Flycatcher,DIB-10K_42,5527.Golden-bellied Flycatcher,135
+golden_crowned_flycatcher,Golden-crowned Flycatcher,DIB-10K_42,5528.Golden-crowned Flycatcher,615
+bairds_flycatcher,Baird's Flycatcher,DIB-10K_42,5529.Baird's Flycatcher,118
+sulphur_bellied_flycatcher,Sulphur-bellied Flycatcher,DIB-10K_42,5530.Sulphur-bellied Flycatcher,819
+streaked_flycatcher,Streaked Flycatcher,DIB-10K_42,5531.Streaked Flycatcher,1768
+boat_billed_flycatcher,Boat-billed Flycatcher,DIB-10K_42,5532.Boat-billed Flycatcher,1282
+sulphury_flycatcher,Sulphury Flycatcher,DIB-10K_42,5533.Sulphury Flycatcher,194
+variegated_flycatcher,Variegated Flycatcher,DIB-10K_42,5534.Variegated Flycatcher,812
+crowned_slaty_flycatcher,Crowned Slaty Flycatcher,DIB-10K_42,5535.Crowned Slaty Flycatcher,570
+snowy_throated_kingbird,Snowy-throated Kingbird,DIB-10K_42,5536.Snowy-throated Kingbird,123
+white_throated_kingbird,White-throated Kingbird,DIB-10K_42,5537.White-throated Kingbird,315
+tropical_kingbird,Tropical Kingbird,DIB-10K_42,5538.Tropical Kingbird,2652
+couchs_kingbird,Couch's Kingbird,DIB-10K_42,5539.Couch's Kingbird,1008
+cassins_kingbird,Cassin's Kingbird,DIB-10K_42,5540.Cassin's Kingbird,1487
+thick_billed_kingbird,Thick-billed Kingbird,DIB-10K_42,5541.Thick-billed Kingbird,782
+western_kingbird,Western Kingbird,DIB-10K_42,5542.Western Kingbird,2664
+scissor_tailed_flycatcher,Scissor-tailed Flycatcher,DIB-10K_42,5543.Scissor-tailed Flycatcher,2514
+fork_tailed_flycatcher,Fork-tailed Flycatcher,DIB-10K_42,5544.Fork-tailed Flycatcher,2335
+,,DIB-10K_42,,0

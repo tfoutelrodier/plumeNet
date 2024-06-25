@@ -1,0 +1,445 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+bananal_antbird,Bananal Antbird,DIB-10K_41,4968.Bananal Antbird,22
+jet_antbird,Jet Antbird,DIB-10K_41,4969.Jet Antbird,132
+rio_branco_antbird,Rio Branco Antbird,DIB-10K_41,4970.Rio Branco Antbird,34
+ferruginous_backed_antbird,Ferruginous-backed Antbird,DIB-10K_41,4971.Ferruginous-backed Antbird,89
+cordillera_azul_antbird,Cordillera Azul Antbird,DIB-10K_41,4972.Cordillera Azul Antbird,34
+scalloped_antbird,Scalloped Antbird,DIB-10K_41,4973.Scalloped Antbird,21
+white_bibbed_antbird,White-bibbed Antbird,DIB-10K_41,4974.White-bibbed Antbird,55
+squamate_antbird,Squamate Antbird,DIB-10K_41,4975.Squamate Antbird,92
+black_chinned_antbird,Black-chinned Antbird,DIB-10K_41,4976.Black-chinned Antbird,122
+band_tailed_antbird,Band-tailed Antbird,DIB-10K_41,4977.Band-tailed Antbird,138
+spotted_antbird,Spotted Antbird,DIB-10K_41,4978.Spotted Antbird,454
+spot_backed_antbird,Spot-backed Antbird,DIB-10K_41,4979.Spot-backed Antbird,118
+dot_backed_antbird,Dot-backed Antbird,DIB-10K_41,4980.Dot-backed Antbird,108
+silvered_antbird,Silvered Antbird,DIB-10K_41,4981.Silvered Antbird,187
+plumbeous_antbird,Plumbeous Antbird,DIB-10K_41,4982.Plumbeous Antbird,103
+slate_colored_antbird,Slate-colored Antbird,DIB-10K_41,4983.Slate-colored Antbird,28
+spot_winged_antbird,Spot-winged Antbird,DIB-10K_41,4984.Spot-winged Antbird,66
+humaita_antbird,Humaita Antbird,DIB-10K_41,4985.Humaita Antbird,18
+brownish_headed_antbird,Brownish-headed Antbird,DIB-10K_41,4986.Brownish-headed Antbird,8
+rufous_faced_antbird,Rufous-faced Antbird,DIB-10K_41,4987.Rufous-faced Antbird,14
+roraiman_antbird,Roraiman Antbird,DIB-10K_41,4988.Roraiman Antbird,9
+caura_antbird,Caura Antbird,DIB-10K_41,4989.Caura Antbird,11
+chestnut_backed_antbird,Chestnut-backed Antbird,DIB-10K_41,4990.Chestnut-backed Antbird,320
+grey_headed_antbird,Grey-headed Antbird,DIB-10K_41,4991.Grey-headed Antbird,14
+stub_tailed_antbird,Stub-tailed Antbird,DIB-10K_41,4992.Stub-tailed Antbird,24
+esmeraldas_antbird,Esmeraldas Antbird,DIB-10K_41,4993.Esmeraldas Antbird,22
+magdalena_antbird,Magdalena Antbird,DIB-10K_41,4994.Magdalena Antbird,36
+dull_mantled_antbird,Dull-mantled Antbird,DIB-10K_41,4995.Dull-mantled Antbird,73
+white_bellied_antbird,White-bellied Antbird,DIB-10K_41,4996.White-bellied Antbird,203
+black_tailed_antbird,Black-tailed Antbird,DIB-10K_41,4997.Black-tailed Antbird,66
+white_lined_antbird,White-lined Antbird,DIB-10K_41,4998.White-lined Antbird,17
+black_faced_antbird,Black-faced Antbird,DIB-10K_41,4999.Black-faced Antbird,201
+white_browed_antbird,White-browed Antbird,DIB-10K_41,5000.White-browed Antbird,172
+ash_breasted_antbird,Ash-breasted Antbird,DIB-10K_41,5001.Ash-breasted Antbird,60
+bare_crowned_antbird,Bare-crowned Antbird,DIB-10K_41,5002.Bare-crowned Antbird,95
+white_backed_fire_eye,White-backed Fire-eye,DIB-10K_41,5003.White-backed Fire-eye,89
+fringe_backed_fire_eye,Fringe-backed Fire-eye,DIB-10K_41,5004.Fringe-backed Fire-eye,42
+white_shouldered_fire_eye,White-shouldered Fire-eye,DIB-10K_41,5005.White-shouldered Fire-eye,259
+slender_antbird,Slender Antbird,DIB-10K_41,5006.Slender Antbird,124
+black_headed_antbird,Black-headed Antbird,DIB-10K_41,5007.Black-headed Antbird,102
+allpahuayo_antbird,Allpahuayo Antbird,DIB-10K_41,5008.Allpahuayo Antbird,22
+white_shouldered_antbird,White-shouldered Antbird,DIB-10K_41,5009.White-shouldered Antbird,53
+goeldis_antbird,Goeldi's Antbird,DIB-10K_41,5010.Goeldi's Antbird,26
+sooty_antbird,Sooty Antbird,DIB-10K_41,5011.Sooty Antbird,33
+blue_lored_antbird,Blue-lored Antbird,DIB-10K_41,5012.Blue-lored Antbird,35
+zeledons_antbird,Zeledon's Antbird,DIB-10K_41,5013.Zeledon's Antbird,137
+rufous_capped_antthrush,Rufous-capped Antthrush,DIB-10K_41,5014.Rufous-capped Antthrush,171
+black_faced_antthrush,Black-faced Antthrush,DIB-10K_41,5015.Black-faced Antthrush,254
+mayan_antthrush,Mayan Antthrush,DIB-10K_41,5016.Mayan Antthrush,30
+rufous_fronted_antthrush,Rufous-fronted Antthrush,DIB-10K_41,5017.Rufous-fronted Antthrush,20
+black_headed_antthrush,Black-headed Antthrush,DIB-10K_41,5018.Black-headed Antthrush,31
+rufous_breasted_antthrush,Rufous-breasted Antthrush,DIB-10K_41,5019.Rufous-breasted Antthrush,122
+short_tailed_antthrush,Short-tailed Antthrush,DIB-10K_41,5020.Short-tailed Antthrush,123
+striated_antthrush,Striated Antthrush,DIB-10K_41,5021.Striated Antthrush,27
+cryptic_antthrush,Cryptic Antthrush,DIB-10K_41,5022.Cryptic Antthrush,43
+rufous_tailed_antthrush,Rufous-tailed Antthrush,DIB-10K_41,5023.Rufous-tailed Antthrush,48
+schwartzs_antthrush,Schwartz's Antthrush,DIB-10K_41,5024.Schwartz's Antthrush,7
+barred_antthrush,Barred Antthrush,DIB-10K_41,5025.Barred Antthrush,13
+undulated_antpitta,Undulated Antpitta,DIB-10K_41,5026.Undulated Antpitta,109
+giant_antpitta,Giant Antpitta,DIB-10K_41,5027.Giant Antpitta,307
+great_antpitta,Great Antpitta,DIB-10K_41,5028.Great Antpitta,13
+variegated_antpitta,Variegated Antpitta,DIB-10K_41,5029.Variegated Antpitta,167
+moustached_antpitta,Moustached Antpitta,DIB-10K_41,5030.Moustached Antpitta,163
+scaled_antpitta,Scaled Antpitta,DIB-10K_41,5031.Scaled Antpitta,127
+tachira_antpitta,Tachira Antpitta,DIB-10K_41,5032.Tachira Antpitta,4
+plain_backed_antpitta,Plain-backed Antpitta,DIB-10K_41,5033.Plain-backed Antpitta,80
+ochre_striped_antpitta,Ochre-striped Antpitta,DIB-10K_41,5034.Ochre-striped Antpitta,28
+elusive_antpitta,Elusive Antpitta,DIB-10K_41,5035.Elusive Antpitta,12
+chestnut_crowned_antpitta,Chestnut-crowned Antpitta,DIB-10K_41,5036.Chestnut-crowned Antpitta,595
+watkinss_antpitta,Watkins's Antpitta,DIB-10K_41,5037.Watkins's Antpitta,43
+santa_marta_antpitta,Santa Marta Antpitta,DIB-10K_41,5038.Santa Marta Antpitta,103
+cundinamarca_antpitta,Cundinamarca Antpitta,DIB-10K_41,5039.Cundinamarca Antpitta,43
+stripe_headed_antpitta,Stripe-headed Antpitta,DIB-10K_41,5040.Stripe-headed Antpitta,94
+grey_naped_antpitta,Grey-naped Antpitta,DIB-10K_41,5041.Grey-naped Antpitta,2
+bicolored_antpitta,Bicolored Antpitta,DIB-10K_41,5042.Bicolored Antpitta,204
+jocotoco_antpitta,Jocotoco Antpitta,DIB-10K_41,5043.Jocotoco Antpitta,264
+chestnut_naped_antpitta,Chestnut-naped Antpitta,DIB-10K_41,5044.Chestnut-naped Antpitta,252
+pale_billed_antpitta,Pale-billed Antpitta,DIB-10K_41,5045.Pale-billed Antpitta,53
+white_throated_antpitta,White-throated Antpitta,DIB-10K_41,5046.White-throated Antpitta,18
+yellow_breasted_antpitta,Yellow-breasted Antpitta,DIB-10K_41,5047.Yellow-breasted Antpitta,302
+white_bellied_antpitta,White-bellied Antpitta,DIB-10K_41,5048.White-bellied Antpitta,174
+rusty_tinged_antpitta,Rusty-tinged Antpitta,DIB-10K_41,5049.Rusty-tinged Antpitta,88
+bay_antpitta,Bay Antpitta,DIB-10K_41,5050.Bay Antpitta,10
+red_and_white_antpitta,Red-and-white Antpitta,DIB-10K_41,5051.Red-and-white Antpitta,39
+rufous_antpitta,Rufous Antpitta,DIB-10K_41,5052.Rufous Antpitta,255
+chestnut_antpitta,Chestnut Antpitta,DIB-10K_41,5053.Chestnut Antpitta,50
+tawny_antpitta,Tawny Antpitta,DIB-10K_41,5054.Tawny Antpitta,528
+brown_banded_antpitta,Brown-banded Antpitta,DIB-10K_41,5055.Brown-banded Antpitta,342
+urrao_antpitta,Urrao Antpitta,DIB-10K_41,5056.Urrao Antpitta,76
+rufous_faced_antpitta,Rufous-faced Antpitta,DIB-10K_41,5057.Rufous-faced Antpitta,13
+streak_chested_antpitta,Streak-chested Antpitta,DIB-10K_41,5058.Streak-chested Antpitta,266
+spotted_antpitta,Spotted Antpitta,DIB-10K_41,5059.Spotted Antpitta,99
+snethlages_antpitta,Snethlage's Antpitta,DIB-10K_41,5060.Snethlage's Antpitta,15
+alta_floresta_antpitta,Alta Floresta Antpitta,DIB-10K_41,5061.Alta Floresta Antpitta,26
+masked_antpitta,Masked Antpitta,DIB-10K_41,5062.Masked Antpitta,16
+thicket_antpitta,Thicket Antpitta,DIB-10K_41,5063.Thicket Antpitta,88
+white_lored_antpitta,White-lored Antpitta,DIB-10K_41,5064.White-lored Antpitta,36
+amazonian_antpitta,Amazonian Antpitta,DIB-10K_41,5065.Amazonian Antpitta,39
+white_browed_antpitta,White-browed Antpitta,DIB-10K_41,5066.White-browed Antpitta,95
+speckle_breasted_antpitta,Speckle-breasted Antpitta,DIB-10K_41,5067.Speckle-breasted Antpitta,67
+thrush_like_antpitta,Thrush-like Antpitta,DIB-10K_41,5068.Thrush-like Antpitta,64
+tepui_antpitta,Tepui Antpitta,DIB-10K_41,5069.Tepui Antpitta,10
+ochre_breasted_antpitta,Ochre-breasted Antpitta,DIB-10K_41,5070.Ochre-breasted Antpitta,356
+scallop_breasted_antpitta,Scallop-breasted Antpitta,DIB-10K_41,5071.Scallop-breasted Antpitta,24
+hooded_antpitta,Hooded Antpitta,DIB-10K_41,5072.Hooded Antpitta,74
+peruvian_antpitta,Peruvian Antpitta,DIB-10K_41,5073.Peruvian Antpitta,43
+ochre_fronted_antpitta,Ochre-fronted Antpitta,DIB-10K_41,5074.Ochre-fronted Antpitta,144
+rusty_breasted_antpitta,Rusty-breasted Antpitta,DIB-10K_41,5075.Rusty-breasted Antpitta,88
+slaty_crowned_antpitta,Slaty-crowned Antpitta,DIB-10K_41,5076.Slaty-crowned Antpitta,216
+sucre_antpitta,Sucre Antpitta,DIB-10K_41,5077.Sucre Antpitta,14
+crescent_faced_antpitta,Crescent-faced Antpitta,DIB-10K_41,5078.Crescent-faced Antpitta,113
+rufous_gnateater,Rufous Gnateater,DIB-10K_41,5079.Rufous Gnateater,301
+chestnut_belted_gnateater,Chestnut-belted Gnateater,DIB-10K_41,5080.Chestnut-belted Gnateater,72
+hooded_gnateater,Hooded Gnateater,DIB-10K_41,5081.Hooded Gnateater,40
+ash_throated_gnateater,Ash-throated Gnateater,DIB-10K_41,5082.Ash-throated Gnateater,37
+ceara_gnateater,Ceara Gnateater,DIB-10K_41,5083.Ceara Gnateater,56
+slaty_gnateater,Slaty Gnateater,DIB-10K_41,5084.Slaty Gnateater,15
+chestnut_crowned_gnateater,Chestnut-crowned Gnateater,DIB-10K_41,5085.Chestnut-crowned Gnateater,84
+black_cheeked_gnateater,Black-cheeked Gnateater,DIB-10K_41,5086.Black-cheeked Gnateater,348
+black_bellied_gnateater,Black-bellied Gnateater,DIB-10K_41,5087.Black-bellied Gnateater,22
+black_crowned_antpitta,Black-crowned Antpitta,DIB-10K_41,5088.Black-crowned Antpitta,68
+rufous_crowned_antpitta,Rufous-crowned Antpitta,DIB-10K_41,5089.Rufous-crowned Antpitta,54
+ocellated_tapaculo,Ocellated Tapaculo,DIB-10K_41,5090.Ocellated Tapaculo,120
+chestnut_throated_huet_huet,Chestnut-throated Huet-huet,DIB-10K_41,5091.Chestnut-throated Huet-huet,66
+black_throated_huet_huet,Black-throated Huet-huet,DIB-10K_41,5092.Black-throated Huet-huet,152
+moustached_turca,Moustached Turca,DIB-10K_41,5093.Moustached Turca,520
+white_throated_tapaculo,White-throated Tapaculo,DIB-10K_41,5094.White-throated Tapaculo,149
+chucao_tapaculo,Chucao Tapaculo,DIB-10K_41,5095.Chucao Tapaculo,300
+crested_gallito,Crested Gallito,DIB-10K_41,5096.Crested Gallito,98
+sandy_gallito,Sandy Gallito,DIB-10K_41,5097.Sandy Gallito,60
+rusty_belted_tapaculo,Rusty-belted Tapaculo,DIB-10K_41,5098.Rusty-belted Tapaculo,61
+spotted_bamboowren,Spotted Bamboowren,DIB-10K_41,5099.Spotted Bamboowren,61
+slaty_bristlefront,Slaty Bristlefront,DIB-10K_41,5100.Slaty Bristlefront,138
+stresemanns_bristlefront,Stresemann's Bristlefront,DIB-10K_41,5101.Stresemann's Bristlefront,22
+ochre_flanked_tapaculo,Ochre-flanked Tapaculo,DIB-10K_41,5102.Ochre-flanked Tapaculo,43
+ash_colored_tapaculo,Ash-colored Tapaculo,DIB-10K_41,5103.Ash-colored Tapaculo,9
+white_breasted_tapaculo,White-breasted Tapaculo,DIB-10K_41,5104.White-breasted Tapaculo,85
+bahia_tapaculo,Bahia Tapaculo,DIB-10K_41,5105.Bahia Tapaculo,17
+marsh_tapaculo,Marsh Tapaculo,DIB-10K_41,5106.Marsh Tapaculo,12
+mouse_colored_tapaculo,Mouse-colored Tapaculo,DIB-10K_41,5107.Mouse-colored Tapaculo,106
+boa_nova_tapaculo,Boa Nova Tapaculo,DIB-10K_41,5108.Boa Nova Tapaculo,4
+rock_tapaculo,Rock Tapaculo,DIB-10K_41,5109.Rock Tapaculo,53
+planalto_tapaculo,Planalto Tapaculo,DIB-10K_41,5110.Planalto Tapaculo,56
+brasilia_tapaculo,Brasilia Tapaculo,DIB-10K_41,5111.Brasilia Tapaculo,45
+bolivian_white_crowned_tapaculo,Bolivian White-crowned Tapaculo,DIB-10K_41,5112.Bolivian White-crowned Tapaculo,15
+northern_white_crowned_tapaculo,Northern White-crowned Tapaculo,DIB-10K_41,5113.Northern White-crowned Tapaculo,29
+santa_marta_tapaculo,Santa Marta Tapaculo,DIB-10K_41,5114.Santa Marta Tapaculo,27
+rufous_vented_tapaculo,Rufous-vented Tapaculo,DIB-10K_41,5115.Rufous-vented Tapaculo,7
+long_tailed_tapaculo,Long-tailed Tapaculo,DIB-10K_41,5116.Long-tailed Tapaculo,23
+narino_tapaculo,Narino Tapaculo,DIB-10K_41,5117.Narino Tapaculo,17
+el_oro_tapaculo,El Oro Tapaculo,DIB-10K_41,5118.El Oro Tapaculo,8
+tatama_tapaculo,Tatama Tapaculo,DIB-10K_41,5119.Tatama Tapaculo,26
+choco_tapaculo,Choco Tapaculo,DIB-10K_41,5120.Choco Tapaculo,9
+magdalena_tapaculo,Magdalena Tapaculo,DIB-10K_41,5121.Magdalena Tapaculo,12
+stiless_tapaculo,Stiles's Tapaculo,DIB-10K_41,5122.Stiles's Tapaculo,18
+tacarcuna_tapaculo,Tacarcuna Tapaculo,DIB-10K_41,5123.Tacarcuna Tapaculo,4
+silvery_fronted_tapaculo,Silvery-fronted Tapaculo,DIB-10K_41,5124.Silvery-fronted Tapaculo,49
+caracas_tapaculo,Caracas Tapaculo,DIB-10K_41,5125.Caracas Tapaculo,20
+merida_tapaculo,Merida Tapaculo,DIB-10K_41,5126.Merida Tapaculo,7
+brown_rumped_tapaculo,Brown-rumped Tapaculo,DIB-10K_41,5127.Brown-rumped Tapaculo,14
+perija_tapaculo,Perija Tapaculo,DIB-10K_41,5128.Perija Tapaculo,34
+spillmanns_tapaculo,Spillmann's Tapaculo,DIB-10K_41,5129.Spillmann's Tapaculo,21
+chusquea_tapaculo,Chusquea Tapaculo,DIB-10K_41,5130.Chusquea Tapaculo,11
+trilling_tapaculo,Trilling Tapaculo,DIB-10K_41,5131.Trilling Tapaculo,30
+tschudis_tapaculo,Tschudi's Tapaculo,DIB-10K_41,5132.Tschudi's Tapaculo,22
+unicolored_tapaculo,Unicolored Tapaculo,DIB-10K_41,5133.Unicolored Tapaculo,10
+pale_bellied_tapaculo,Pale-bellied Tapaculo,DIB-10K_41,5134.Pale-bellied Tapaculo,28
+paramillo_tapaculo,Paramillo Tapaculo,DIB-10K_41,5135.Paramillo Tapaculo,26
+paramo_tapaculo,Paramo Tapaculo,DIB-10K_41,5136.Paramo Tapaculo,38
+ancash_tapaculo,Ancash Tapaculo,DIB-10K_41,5137.Ancash Tapaculo,24
+neblina_tapaculo,Neblina Tapaculo,DIB-10K_41,5138.Neblina Tapaculo,27
+vilcabamba_tapaculo,Vilcabamba Tapaculo,DIB-10K_41,5139.Vilcabamba Tapaculo,35
+diademed_tapaculo,Diademed Tapaculo,DIB-10K_41,5140.Diademed Tapaculo,13
+puna_tapaculo,Puna Tapaculo,DIB-10K_41,5141.Puna Tapaculo,37
+zimmers_tapaculo,Zimmer's Tapaculo,DIB-10K_41,5142.Zimmer's Tapaculo,7
+white_browed_tapaculo,White-browed Tapaculo,DIB-10K_41,5143.White-browed Tapaculo,37
+magellanic_tapaculo,Magellanic Tapaculo,DIB-10K_41,5144.Magellanic Tapaculo,145
+dusky_tapaculo,Dusky Tapaculo,DIB-10K_41,5145.Dusky Tapaculo,103
+blackish_tapaculo,Blackish Tapaculo,DIB-10K_41,5146.Blackish Tapaculo,44
+junin_tapaculo,Junin Tapaculo,DIB-10K_41,5147.Junin Tapaculo,10
+large_footed_tapaculo,Large-footed Tapaculo,DIB-10K_41,5148.Large-footed Tapaculo,3
+diamantina_tapaculo,Diamantina Tapaculo,DIB-10K_41,5149.Diamantina Tapaculo,24
+collared_crescentchest,Collared Crescentchest,DIB-10K_41,5150.Collared Crescentchest,206
+double_collared_crescentchest,Double-collared Crescentchest,DIB-10K_41,5151.Double-collared Crescentchest,1
+olive_crowned_crescentchest,Olive-crowned Crescentchest,DIB-10K_41,5152.Olive-crowned Crescentchest,83
+maranon_crescentchest,Maranon Crescentchest,DIB-10K_41,5153.Maranon Crescentchest,41
+elegant_crescentchest,Elegant Crescentchest,DIB-10K_41,5154.Elegant Crescentchest,77
+grey_headed_piprites,Grey-headed Piprites,DIB-10K_41,5155.Grey-headed Piprites,22
+wing_barred_piprites,Wing-barred Piprites,DIB-10K_41,5156.Wing-barred Piprites,152
+black_capped_piprites,Black-capped Piprites,DIB-10K_41,5157.Black-capped Piprites,126
+planalto_tyrannulet,Planalto Tyrannulet,DIB-10K_41,5158.Planalto Tyrannulet,300
+yungas_tyrannulet,Yungas Tyrannulet,DIB-10K_41,5159.Yungas Tyrannulet,19
+rough_legged_tyrannulet,Rough-legged Tyrannulet,DIB-10K_41,5160.Rough-legged Tyrannulet,120
+white_fronted_tyrannulet,White-fronted Tyrannulet,DIB-10K_41,5161.White-fronted Tyrannulet,21
+greenish_tyrannulet,Greenish Tyrannulet,DIB-10K_41,5162.Greenish Tyrannulet,99
+reisers_tyrannulet,Reiser's Tyrannulet,DIB-10K_41,5163.Reiser's Tyrannulet,24
+urichs_tyrannulet,Urich's Tyrannulet,DIB-10K_41,5164.Urich's Tyrannulet,2
+sclaters_tyrannulet,Sclater's Tyrannulet,DIB-10K_41,5165.Sclater's Tyrannulet,62
+grey_capped_tyrannulet,Grey-capped Tyrannulet,DIB-10K_41,5166.Grey-capped Tyrannulet,158
+sooty_headed_tyrannulet,Sooty-headed Tyrannulet,DIB-10K_41,5167.Sooty-headed Tyrannulet,211
+plumbeous_crowned_tyrannulet,Plumbeous-crowned Tyrannulet,DIB-10K_41,5168.Plumbeous-crowned Tyrannulet,35
+black_capped_tyrannulet,Black-capped Tyrannulet,DIB-10K_41,5169.Black-capped Tyrannulet,101
+ashy_headed_tyrannulet,Ashy-headed Tyrannulet,DIB-10K_41,5170.Ashy-headed Tyrannulet,56
+tawny_rumped_tyrannulet,Tawny-rumped Tyrannulet,DIB-10K_41,5171.Tawny-rumped Tyrannulet,53
+yellow_crowned_tyrannulet,Yellow-crowned Tyrannulet,DIB-10K_41,5172.Yellow-crowned Tyrannulet,363
+forest_elaenia,Forest Elaenia,DIB-10K_41,5173.Forest Elaenia,228
+grey_elaenia,Grey Elaenia,DIB-10K_41,5174.Grey Elaenia,203
+foothill_elaenia,Foothill Elaenia,DIB-10K_41,5175.Foothill Elaenia,32
+pacific_elaenia,Pacific Elaenia,DIB-10K_41,5176.Pacific Elaenia,54
+yellow_crowned_elaenia,Yellow-crowned Elaenia,DIB-10K_41,5177.Yellow-crowned Elaenia,71
+greenish_elaenia,Greenish Elaenia,DIB-10K_41,5178.Greenish Elaenia,421
+jamaican_elaenia,Jamaican Elaenia,DIB-10K_41,5179.Jamaican Elaenia,66
+yellow_bellied_elaenia,Yellow-bellied Elaenia,DIB-10K_41,5180.Yellow-bellied Elaenia,1501
+caribbean_elaenia,Caribbean Elaenia,DIB-10K_41,5181.Caribbean Elaenia,427
+large_elaenia,Large Elaenia,DIB-10K_41,5182.Large Elaenia,219
+noronha_elaenia,Noronha Elaenia,DIB-10K_41,5183.Noronha Elaenia,44
+white_crested_elaenia,White-crested Elaenia,DIB-10K_41,5184.White-crested Elaenia,845
+chilean_elaenia,Chilean Elaenia,DIB-10K_41,5185.Chilean Elaenia,80
+small_billed_elaenia,Small-billed Elaenia,DIB-10K_41,5186.Small-billed Elaenia,460
+olivaceous_elaenia,Olivaceous Elaenia,DIB-10K_41,5187.Olivaceous Elaenia,141
+slaty_elaenia,Slaty Elaenia,DIB-10K_41,5188.Slaty Elaenia,59
+mottle_backed_elaenia,Mottle-backed Elaenia,DIB-10K_41,5189.Mottle-backed Elaenia,71
+brownish_elaenia,Brownish Elaenia,DIB-10K_41,5190.Brownish Elaenia,29
+plain_crested_elaenia,Plain-crested Elaenia,DIB-10K_41,5191.Plain-crested Elaenia,266
+lesser_elaenia,Lesser Elaenia,DIB-10K_41,5192.Lesser Elaenia,334
+coopmanss_elaenia,Coopmans's Elaenia,DIB-10K_41,5193.Coopmans's Elaenia,14
+rufous_crowned_elaenia,Rufous-crowned Elaenia,DIB-10K_41,5194.Rufous-crowned Elaenia,62
+mountain_elaenia,Mountain Elaenia,DIB-10K_41,5195.Mountain Elaenia,498
+highland_elaenia,Highland Elaenia,DIB-10K_41,5196.Highland Elaenia,204
+great_elaenia,Great Elaenia,DIB-10K_41,5197.Great Elaenia,20
+sierran_elaenia,Sierran Elaenia,DIB-10K_41,5198.Sierran Elaenia,129
+tepui_elaenia,Tepui Elaenia,DIB-10K_41,5199.Tepui Elaenia,15
+greater_antillean_elaenia,Greater Antillean Elaenia,DIB-10K_41,5200.Greater Antillean Elaenia,76
+yellow_bellied_tyrannulet,Yellow-bellied Tyrannulet,DIB-10K_41,5201.Yellow-bellied Tyrannulet,55
+brown_capped_tyrannulet,Brown-capped Tyrannulet,DIB-10K_41,5202.Brown-capped Tyrannulet,100
+white_lored_tyrannulet,White-lored Tyrannulet,DIB-10K_41,5203.White-lored Tyrannulet,111
+northern_beardless_tyrannulet,Northern Beardless Tyrannulet,DIB-10K_41,5204.Northern Beardless Tyrannulet,734
+southern_beardless_tyrannulet,Southern Beardless Tyrannulet,DIB-10K_41,5205.Southern Beardless Tyrannulet,995
+suiriri_flycatcher,Suiriri Flycatcher,DIB-10K_41,5206.Suiriri Flycatcher,732
+chapada_flycatcher,Chapada Flycatcher,DIB-10K_41,5207.Chapada Flycatcher,106
+white_throated_tyrannulet,White-throated Tyrannulet,DIB-10K_41,5208.White-throated Tyrannulet,495
+white_tailed_tyrannulet,White-tailed Tyrannulet,DIB-10K_41,5209.White-tailed Tyrannulet,86
+buff_banded_tyrannulet,Buff-banded Tyrannulet,DIB-10K_41,5210.Buff-banded Tyrannulet,48
+rufous_winged_tyrannulet,Rufous-winged Tyrannulet,DIB-10K_41,5211.Rufous-winged Tyrannulet,45
+sulphur_bellied_tyrannulet,Sulphur-bellied Tyrannulet,DIB-10K_41,5212.Sulphur-bellied Tyrannulet,42
+white_banded_tyrannulet,White-banded Tyrannulet,DIB-10K_41,5213.White-banded Tyrannulet,146
+black_crested_tit_tyrant,Black-crested Tit-Tyrant,DIB-10K_41,5214.Black-crested Tit-Tyrant,81
+pied_crested_tit_tyrant,Pied-crested Tit-Tyrant,DIB-10K_41,5215.Pied-crested Tit-Tyrant,117
+ash_breasted_tit_tyrant,Ash-breasted Tit-Tyrant,DIB-10K_41,5216.Ash-breasted Tit-Tyrant,60
+yellow_billed_tit_tyrant,Yellow-billed Tit-Tyrant,DIB-10K_41,5217.Yellow-billed Tit-Tyrant,215
+tufted_tit_tyrant,Tufted Tit-Tyrant,DIB-10K_41,5218.Tufted Tit-Tyrant,1176
+juan_fernandez_tit_tyrant,Juan Fernandez Tit-Tyrant,DIB-10K_41,5219.Juan Fernandez Tit-Tyrant,30
+agile_tit_tyrant,Agile Tit-Tyrant,DIB-10K_41,5220.Agile Tit-Tyrant,103
+unstreaked_tit_tyrant,Unstreaked Tit-Tyrant,DIB-10K_41,5221.Unstreaked Tit-Tyrant,60
+torrent_tyrannulet,Torrent Tyrannulet,DIB-10K_41,5222.Torrent Tyrannulet,743
+river_tyrannulet,River Tyrannulet,DIB-10K_41,5223.River Tyrannulet,62
+sooty_tyrannulet,Sooty Tyrannulet,DIB-10K_41,5224.Sooty Tyrannulet,505
+white_crested_tyrannulet,White-crested Tyrannulet,DIB-10K_41,5225.White-crested Tyrannulet,715
+white_bellied_tyrannulet,White-bellied Tyrannulet,DIB-10K_41,5226.White-bellied Tyrannulet,82
+stranecks_tyrannulet,Straneck's Tyrannulet,DIB-10K_41,5227.Straneck's Tyrannulet,138
+mouse_colored_tyrannulet,Mouse-colored Tyrannulet,DIB-10K_41,5228.Mouse-colored Tyrannulet,524
+tumbesian_tyrannulet,Tumbesian Tyrannulet,DIB-10K_41,5229.Tumbesian Tyrannulet,27
+yellow_tyrannulet,Yellow Tyrannulet,DIB-10K_41,5230.Yellow Tyrannulet,453
+bearded_tachuri,Bearded Tachuri,DIB-10K_41,5231.Bearded Tachuri,314
+grey_backed_tachuri,Grey-backed Tachuri,DIB-10K_41,5232.Grey-backed Tachuri,173
+cocos_flycatcher,Cocos Flycatcher,DIB-10K_41,5233.Cocos Flycatcher,11
+dinellis_doradito,Dinelli's Doradito,DIB-10K_41,5234.Dinelli's Doradito,44
+crested_doradito,Crested Doradito,DIB-10K_41,5235.Crested Doradito,142
+subtropical_doradito,Subtropical Doradito,DIB-10K_41,5236.Subtropical Doradito,158
+warbling_doradito,Warbling Doradito,DIB-10K_41,5237.Warbling Doradito,222
+ticking_doradito,Ticking Doradito,DIB-10K_41,5238.Ticking Doradito,117
+bronze_olive_pygmy_tyrant,Bronze-olive Pygmy Tyrant,DIB-10K_41,5239.Bronze-olive Pygmy Tyrant,51
+hazel_fronted_pygmy_tyrant,Hazel-fronted Pygmy Tyrant,DIB-10K_41,5240.Hazel-fronted Pygmy Tyrant,10
+rufous_headed_pygmy_tyrant,Rufous-headed Pygmy Tyrant,DIB-10K_41,5241.Rufous-headed Pygmy Tyrant,76
+ringed_antpipit,Ringed Antpipit,DIB-10K_41,5242.Ringed Antpipit,67
+southern_antpipit,Southern Antpipit,DIB-10K_41,5243.Southern Antpipit,190
+tawny_crowned_pygmy_tyrant,Tawny-crowned Pygmy Tyrant,DIB-10K_41,5244.Tawny-crowned Pygmy Tyrant,299
+rufous_sided_pygmy_tyrant,Rufous-sided Pygmy Tyrant,DIB-10K_41,5245.Rufous-sided Pygmy Tyrant,84
+grey_and_white_tyrannulet,Grey-and-white Tyrannulet,DIB-10K_41,5246.Grey-and-white Tyrannulet,73
+lesser_wagtail_tyrant,Lesser Wagtail-Tyrant,DIB-10K_41,5247.Lesser Wagtail-Tyrant,95
+greater_wagtail_tyrant,Greater Wagtail-Tyrant,DIB-10K_41,5248.Greater Wagtail-Tyrant,252
+paltry_tyrannulet,Paltry Tyrannulet,DIB-10K_41,5249.Paltry Tyrannulet,167
+mistletoe_tyrannulet,Mistletoe Tyrannulet,DIB-10K_41,5250.Mistletoe Tyrannulet,217
+spectacled_tyrannulet,Spectacled Tyrannulet,DIB-10K_41,5251.Spectacled Tyrannulet,44
+venezuelan_tyrannulet,Venezuelan Tyrannulet,DIB-10K_41,5252.Venezuelan Tyrannulet,37
+bolivian_tyrannulet,Bolivian Tyrannulet,DIB-10K_41,5253.Bolivian Tyrannulet,63
+red_billed_tyrannulet,Red-billed Tyrannulet,DIB-10K_41,5254.Red-billed Tyrannulet,43
+mishana_tyrannulet,Mishana Tyrannulet,DIB-10K_41,5255.Mishana Tyrannulet,50
+chicos_tyrannulet,Chico's Tyrannulet,DIB-10K_41,5256.Chico's Tyrannulet,10
+slender_footed_tyrannulet,Slender-footed Tyrannulet,DIB-10K_41,5257.Slender-footed Tyrannulet,160
+guianan_tyrannulet,Guianan Tyrannulet,DIB-10K_41,5258.Guianan Tyrannulet,91
+golden_faced_tyrannulet,Golden-faced Tyrannulet,DIB-10K_41,5259.Golden-faced Tyrannulet,450
+coopmanss_tyrannulet,Coopmans's Tyrannulet,DIB-10K_41,5260.Coopmans's Tyrannulet,13
+choco_tyrannulet,Choco Tyrannulet,DIB-10K_41,5261.Choco Tyrannulet,98
+loja_tyrannulet,Loja Tyrannulet,DIB-10K_41,5262.Loja Tyrannulet,26
+peruvian_tyrannulet,Peruvian Tyrannulet,DIB-10K_41,5263.Peruvian Tyrannulet,100
+variegated_bristle_tyrant,Variegated Bristle Tyrant,DIB-10K_41,5264.Variegated Bristle Tyrant,61
+chapmans_bristle_tyrant,Chapman's Bristle Tyrant,DIB-10K_41,5265.Chapman's Bristle Tyrant,5
+marble_faced_bristle_tyrant,Marble-faced Bristle Tyrant,DIB-10K_41,5266.Marble-faced Bristle Tyrant,133
+spectacled_bristle_tyrant,Spectacled Bristle Tyrant,DIB-10K_41,5267.Spectacled Bristle Tyrant,15
+venezuelan_bristle_tyrant,Venezuelan Bristle Tyrant,DIB-10K_41,5268.Venezuelan Bristle Tyrant,8
+antioquia_bristle_tyrant,Antioquia Bristle Tyrant,DIB-10K_41,5269.Antioquia Bristle Tyrant,70
+southern_bristle_tyrant,Southern Bristle Tyrant,DIB-10K_41,5270.Southern Bristle Tyrant,80
+mottle_cheeked_tyrannulet,Mottle-cheeked Tyrannulet,DIB-10K_41,5271.Mottle-cheeked Tyrannulet,330
+alagoas_tyrannulet,Alagoas Tyrannulet,DIB-10K_41,5272.Alagoas Tyrannulet,42
+restinga_tyrannulet,Restinga Tyrannulet,DIB-10K_41,5273.Restinga Tyrannulet,77
+bahia_tyrannulet,Bahia Tyrannulet,DIB-10K_41,5274.Bahia Tyrannulet,37
+panamanian_tyrannulet,Panamanian Tyrannulet,DIB-10K_41,5275.Panamanian Tyrannulet,18
+olive_green_tyrannulet,Olive-green Tyrannulet,DIB-10K_41,5276.Olive-green Tyrannulet,8
+ecuadorian_tyrannulet,Ecuadorian Tyrannulet,DIB-10K_41,5277.Ecuadorian Tyrannulet,37
+black_fronted_tyrannulet,Black-fronted Tyrannulet,DIB-10K_41,5278.Black-fronted Tyrannulet,4
+rufous_browed_tyrannulet,Rufous-browed Tyrannulet,DIB-10K_41,5279.Rufous-browed Tyrannulet,19
+rufous_lored_tyrannulet,Rufous-lored Tyrannulet,DIB-10K_41,5280.Rufous-lored Tyrannulet,14
+cinnamon_faced_tyrannulet,Cinnamon-faced Tyrannulet,DIB-10K_41,5281.Cinnamon-faced Tyrannulet,35
+minas_gerais_tyrannulet,Minas Gerais Tyrannulet,DIB-10K_41,5282.Minas Gerais Tyrannulet,45
+sao_paulo_tyrannulet,Sao Paulo Tyrannulet,DIB-10K_41,5283.Sao Paulo Tyrannulet,79
+oustalets_tyrannulet,Oustalet's Tyrannulet,DIB-10K_41,5284.Oustalet's Tyrannulet,46
+serra_do_mar_tyrannulet,Serra do Mar Tyrannulet,DIB-10K_41,5285.Serra do Mar Tyrannulet,84
+bay_ringed_tyrannulet,Bay-ringed Tyrannulet,DIB-10K_41,5286.Bay-ringed Tyrannulet,35
+streak_necked_flycatcher,Streak-necked Flycatcher,DIB-10K_41,5287.Streak-necked Flycatcher,112
+olive_striped_flycatcher,Olive-striped Flycatcher,DIB-10K_41,5288.Olive-striped Flycatcher,208
+ochre_bellied_flycatcher,Ochre-bellied Flycatcher,DIB-10K_41,5289.Ochre-bellied Flycatcher,541
+mcconnells_flycatcher,McConnell's Flycatcher,DIB-10K_41,5290.McConnell's Flycatcher,49
+tepui_flycatcher,Tepui Flycatcher,DIB-10K_41,5291.Tepui Flycatcher,11
+grey_hooded_flycatcher,Grey-hooded Flycatcher,DIB-10K_41,5292.Grey-hooded Flycatcher,199
+sepia_capped_flycatcher,Sepia-capped Flycatcher,DIB-10K_41,5293.Sepia-capped Flycatcher,492
+slaty_capped_flycatcher,Slaty-capped Flycatcher,DIB-10K_41,5294.Slaty-capped Flycatcher,295
+rufous_breasted_flycatcher,Rufous-breasted Flycatcher,DIB-10K_41,5295.Rufous-breasted Flycatcher,131
+inca_flycatcher,Inca Flycatcher,DIB-10K_41,5296.Inca Flycatcher,47
+northern_scrub_flycatcher,Northern Scrub Flycatcher,DIB-10K_41,5297.Northern Scrub Flycatcher,358
+amazonian_scrub_flycatcher,Amazonian Scrub Flycatcher,DIB-10K_41,5298.Amazonian Scrub Flycatcher,42
+southern_scrub_flycatcher,Southern Scrub Flycatcher,DIB-10K_41,5299.Southern Scrub Flycatcher,205
+slender_billed_inezia,Slender-billed Inezia,DIB-10K_41,5300.Slender-billed Inezia,85
+plain_inezia,Plain Inezia,DIB-10K_41,5301.Plain Inezia,77
+amazonian_inezia,Amazonian Inezia,DIB-10K_41,5302.Amazonian Inezia,68
+pale_tipped_inezia,Pale-tipped Inezia,DIB-10K_41,5303.Pale-tipped Inezia,108
+flavescent_flycatcher,Flavescent Flycatcher,DIB-10K_41,5304.Flavescent Flycatcher,128
+orange_crested_flycatcher,Orange-crested Flycatcher,DIB-10K_41,5305.Orange-crested Flycatcher,17
+unadorned_flycatcher,Unadorned Flycatcher,DIB-10K_41,5306.Unadorned Flycatcher,10
+roraiman_flycatcher,Roraiman Flycatcher,DIB-10K_41,5307.Roraiman Flycatcher,13
+olive_chested_flycatcher,Olive-chested Flycatcher,DIB-10K_41,5308.Olive-chested Flycatcher,58
+bran_colored_flycatcher,Bran-colored Flycatcher,DIB-10K_41,5309.Bran-colored Flycatcher,937
+handsome_flycatcher,Handsome Flycatcher,DIB-10K_41,5310.Handsome Flycatcher,55
+orange_banded_flycatcher,Orange-banded Flycatcher,DIB-10K_41,5311.Orange-banded Flycatcher,27
+ochraceous_breasted_flycatcher,Ochraceous-breasted Flycatcher,DIB-10K_41,5312.Ochraceous-breasted Flycatcher,44
+ornate_flycatcher,Ornate Flycatcher,DIB-10K_41,5313.Ornate Flycatcher,482
+many_colored_rush_tyrant,Many-colored Rush Tyrant,DIB-10K_41,5314.Many-colored Rush Tyrant,950
+sharp_tailed_grass_tyrant,Sharp-tailed Grass Tyrant,DIB-10K_41,5315.Sharp-tailed Grass Tyrant,217
+drab_breasted_bamboo_tyrant,Drab-breasted Bamboo Tyrant,DIB-10K_41,5316.Drab-breasted Bamboo Tyrant,115
+brown_breasted_bamboo_tyrant,Brown-breasted Bamboo Tyrant,DIB-10K_41,5317.Brown-breasted Bamboo Tyrant,61
+flammulated_bamboo_tyrant,Flammulated Bamboo Tyrant,DIB-10K_41,5318.Flammulated Bamboo Tyrant,23
+snethlages_tody_tyrant,Snethlage's Tody-Tyrant,DIB-10K_41,5319.Snethlage's Tody-Tyrant,29
+yungas_tody_tyrant,Yungas Tody-Tyrant,DIB-10K_41,5320.Yungas Tody-Tyrant,26
+acre_tody_tyrant,Acre Tody-Tyrant,DIB-10K_41,5321.Acre Tody-Tyrant,20
+boat_billed_tody_tyrant,Boat-billed Tody-Tyrant,DIB-10K_41,5322.Boat-billed Tody-Tyrant,4
+white_eyed_tody_tyrant,White-eyed Tody-Tyrant,DIB-10K_41,5323.White-eyed Tody-Tyrant,44
+white_bellied_tody_tyrant,White-bellied Tody-Tyrant,DIB-10K_41,5324.White-bellied Tody-Tyrant,64
+zimmers_tody_tyrant,Zimmer's Tody-Tyrant,DIB-10K_41,5325.Zimmer's Tody-Tyrant,23
+eye_ringed_tody_tyrant,Eye-ringed Tody-Tyrant,DIB-10K_41,5326.Eye-ringed Tody-Tyrant,93
+johanness_tody_tyrant,Johannes's Tody-Tyrant,DIB-10K_41,5327.Johannes's Tody-Tyrant,24
+stripe_necked_tody_tyrant,Stripe-necked Tody-Tyrant,DIB-10K_41,5328.Stripe-necked Tody-Tyrant,83
+hangnest_tody_tyrant,Hangnest Tody-Tyrant,DIB-10K_41,5329.Hangnest Tody-Tyrant,189
+pearly_vented_tody_tyrant,Pearly-vented Tody-Tyrant,DIB-10K_41,5330.Pearly-vented Tody-Tyrant,461
+pelzelns_tody_tyrant,Pelzeln's Tody-Tyrant,DIB-10K_41,5331.Pelzeln's Tody-Tyrant,9
+black_throated_tody_tyrant,Black-throated Tody-Tyrant,DIB-10K_41,5332.Black-throated Tody-Tyrant,137
+buff_breasted_tody_tyrant,Buff-breasted Tody-Tyrant,DIB-10K_41,5333.Buff-breasted Tody-Tyrant,55
+cinnamon_breasted_tody_tyrant,Cinnamon-breasted Tody-Tyrant,DIB-10K_41,5334.Cinnamon-breasted Tody-Tyrant,36
+kaempfers_tody_tyrant,Kaempfer's Tody-Tyrant,DIB-10K_41,5335.Kaempfer's Tody-Tyrant,36
+buff_throated_tody_tyrant,Buff-throated Tody-Tyrant,DIB-10K_41,5336.Buff-throated Tody-Tyrant,9
+fork_tailed_tody_tyrant,Fork-tailed Tody-Tyrant,DIB-10K_41,5337.Fork-tailed Tody-Tyrant,83
+eared_pygmy_tyrant,Eared Pygmy Tyrant,DIB-10K_41,5338.Eared Pygmy Tyrant,319
+white_bellied_pygmy_tyrant,White-bellied Pygmy Tyrant,DIB-10K_41,5339.White-bellied Pygmy Tyrant,38
+black_capped_pygmy_tyrant,Black-capped Pygmy Tyrant,DIB-10K_41,5340.Black-capped Pygmy Tyrant,187
+short_tailed_pygmy_tyrant,Short-tailed Pygmy Tyrant,DIB-10K_41,5341.Short-tailed Pygmy Tyrant,153
+northern_bentbill,Northern Bentbill,DIB-10K_41,5342.Northern Bentbill,184
+southern_bentbill,Southern Bentbill,DIB-10K_41,5343.Southern Bentbill,107
+scale_crested_pygmy_tyrant,Scale-crested Pygmy Tyrant,DIB-10K_41,5344.Scale-crested Pygmy Tyrant,365
+long_crested_pygmy_tyrant,Long-crested Pygmy Tyrant,DIB-10K_41,5345.Long-crested Pygmy Tyrant,32
+double_banded_pygmy_tyrant,Double-banded Pygmy Tyrant,DIB-10K_41,5346.Double-banded Pygmy Tyrant,53
+helmeted_pygmy_tyrant,Helmeted Pygmy Tyrant,DIB-10K_41,5347.Helmeted Pygmy Tyrant,70
+pale_eyed_pygmy_tyrant,Pale-eyed Pygmy Tyrant,DIB-10K_41,5348.Pale-eyed Pygmy Tyrant,142
+rufous_crowned_tody_flycatcher,Rufous-crowned Tody-Flycatcher,DIB-10K_41,5349.Rufous-crowned Tody-Flycatcher,224
+lulus_tody_flycatcher,Lulu's Tody-Flycatcher,DIB-10K_41,5350.Lulu's Tody-Flycatcher,82
+white_cheeked_tody_flycatcher,White-cheeked Tody-Flycatcher,DIB-10K_41,5351.White-cheeked Tody-Flycatcher,17
+black_and_white_tody_flycatcher,Black-and-white Tody-Flycatcher,DIB-10K_41,5352.Black-and-white Tody-Flycatcher,57
+buff_cheeked_tody_flycatcher,Buff-cheeked Tody-Flycatcher,DIB-10K_41,5353.Buff-cheeked Tody-Flycatcher,8
+ruddy_tody_flycatcher,Ruddy Tody-Flycatcher,DIB-10K_41,5354.Ruddy Tody-Flycatcher,18
+ochre_faced_tody_flycatcher,Ochre-faced Tody-Flycatcher,DIB-10K_41,5355.Ochre-faced Tody-Flycatcher,327
+smoky_fronted_tody_flycatcher,Smoky-fronted Tody-Flycatcher,DIB-10K_41,5356.Smoky-fronted Tody-Flycatcher,51
+rusty_fronted_tody_flycatcher,Rusty-fronted Tody-Flycatcher,DIB-10K_41,5357.Rusty-fronted Tody-Flycatcher,117
+slaty_headed_tody_flycatcher,Slaty-headed Tody-Flycatcher,DIB-10K_41,5358.Slaty-headed Tody-Flycatcher,192
+golden_winged_tody_flycatcher,Golden-winged Tody-Flycatcher,DIB-10K_41,5359.Golden-winged Tody-Flycatcher,38
+black_backed_tody_flycatcher,Black-backed Tody-Flycatcher,DIB-10K_41,5360.Black-backed Tody-Flycatcher,36
+black_chested_tyrant,Black-chested Tyrant,DIB-10K_41,5361.Black-chested Tyrant,42
+spotted_tody_flycatcher,Spotted Tody-Flycatcher,DIB-10K_41,5362.Spotted Tody-Flycatcher,395
+yellow_lored_tody_flycatcher,Yellow-lored Tody-Flycatcher,DIB-10K_41,5363.Yellow-lored Tody-Flycatcher,531
+common_tody_flycatcher,Common Tody-Flycatcher,DIB-10K_41,5364.Common Tody-Flycatcher,2274
+maracaibo_tody_flycatcher,Maracaibo Tody-Flycatcher,DIB-10K_41,5365.Maracaibo Tody-Flycatcher,23
+painted_tody_flycatcher,Painted Tody-Flycatcher,DIB-10K_41,5366.Painted Tody-Flycatcher,65
+yellow_browed_tody_flycatcher,Yellow-browed Tody-Flycatcher,DIB-10K_41,5367.Yellow-browed Tody-Flycatcher,192
+black_headed_tody_flycatcher,Black-headed Tody-Flycatcher,DIB-10K_41,5368.Black-headed Tody-Flycatcher,149
+brownish_twistwing,Brownish Twistwing,DIB-10K_41,5369.Brownish Twistwing,65
+rufous_twistwing,Rufous Twistwing,DIB-10K_41,5370.Rufous Twistwing,26
+eye_ringed_flatbill,Eye-ringed Flatbill,DIB-10K_41,5371.Eye-ringed Flatbill,232
+olivaceous_flatbill,Olivaceous Flatbill,DIB-10K_41,5372.Olivaceous Flatbill,245
+pacific_flatbill,Pacific Flatbill,DIB-10K_41,5373.Pacific Flatbill,45
+fulvous_breasted_flatbill,Fulvous-breasted Flatbill,DIB-10K_41,5374.Fulvous-breasted Flatbill,56
+yellow_olive_flatbill,Yellow-olive Flatbill,DIB-10K_41,5375.Yellow-olive Flatbill,1025
+orange_eyed_flatbill,Orange-eyed Flatbill,DIB-10K_41,5376.Orange-eyed Flatbill,31
+zimmers_flatbill,Zimmer's Flatbill,DIB-10K_41,5377.Zimmer's Flatbill,143
+yellow_margined_flatbill,Yellow-margined Flatbill,DIB-10K_41,5378.Yellow-margined Flatbill,22
+grey_crowned_flatbill,Grey-crowned Flatbill,DIB-10K_41,5379.Grey-crowned Flatbill,124
+ochre_lored_flatbill,Ochre-lored Flatbill,DIB-10K_41,5380.Ochre-lored Flatbill,263
+olive_faced_flatbill,Olive-faced Flatbill,DIB-10K_41,5381.Olive-faced Flatbill,27
+kinglet_calyptura,Kinglet Calyptura,DIB-10K_41,5382.Kinglet Calyptura,17
+cinnamon_crested_spadebill,Cinnamon-crested Spadebill,DIB-10K_41,5383.Cinnamon-crested Spadebill,38
+stub_tailed_spadebill,Stub-tailed Spadebill,DIB-10K_41,5384.Stub-tailed Spadebill,83
+white_throated_spadebill,White-throated Spadebill,DIB-10K_41,5385.White-throated Spadebill,362
+golden_crowned_spadebill,Golden-crowned Spadebill,DIB-10K_41,5386.Golden-crowned Spadebill,147
+yellow_throated_spadebill,Yellow-throated Spadebill,DIB-10K_41,5387.Yellow-throated Spadebill,41
+white_crested_spadebill,White-crested Spadebill,DIB-10K_41,5388.White-crested Spadebill,73
+russet_winged_spadebill,Russet-winged Spadebill,DIB-10K_41,5389.Russet-winged Spadebill,62
+cinnamon_neopipo,Cinnamon Neopipo,DIB-10K_41,5390.Cinnamon Neopipo,33
+cinnamon_flycatcher,Cinnamon Flycatcher,DIB-10K_41,5391.Cinnamon Flycatcher,915
+cliff_flycatcher,Cliff Flycatcher,DIB-10K_41,5392.Cliff Flycatcher,910
+eulers_flycatcher,Euler's Flycatcher,DIB-10K_41,5393.Euler's Flycatcher,328
+grey_breasted_flycatcher,Grey-breasted Flycatcher,DIB-10K_41,5394.Grey-breasted Flycatcher,43
+tawny_chested_flycatcher,Tawny-chested Flycatcher,DIB-10K_41,5395.Tawny-chested Flycatcher,69
+black_billed_flycatcher,Black-billed Flycatcher,DIB-10K_41,5396.Black-billed Flycatcher,57
+fuscous_flycatcher,Fuscous Flycatcher,DIB-10K_41,5397.Fuscous Flycatcher,406
+belted_flycatcher,Belted Flycatcher,DIB-10K_41,5398.Belted Flycatcher,95
+pileated_flycatcher,Pileated Flycatcher,DIB-10K_41,5399.Pileated Flycatcher,51
+eastern_phoebe,Eastern Phoebe,DIB-10K_41,5400.Eastern Phoebe,2748
+black_phoebe,Black Phoebe,DIB-10K_41,5401.Black Phoebe,2711
+says_phoebe,Say's Phoebe,DIB-10K_41,5402.Say's Phoebe,2565
+northern_tufted_flycatcher,Northern Tufted Flycatcher,DIB-10K_41,5403.Northern Tufted Flycatcher,942
+olive_tufted_flycatcher,Olive Tufted Flycatcher,DIB-10K_41,5404.Olive Tufted Flycatcher,34
+olive_sided_flycatcher,Olive-sided Flycatcher,DIB-10K_41,5405.Olive-sided Flycatcher,1441
+greater_pewee,Greater Pewee,DIB-10K_41,5406.Greater Pewee,822
+dark_pewee,Dark Pewee,DIB-10K_41,5407.Dark Pewee,159
+smoke_colored_pewee,Smoke-colored Pewee,DIB-10K_41,5408.Smoke-colored Pewee,316
+ochraceous_pewee,Ochraceous Pewee,DIB-10K_41,5409.Ochraceous Pewee,73
+western_wood_pewee,Western Wood Pewee,DIB-10K_41,5410.Western Wood Pewee,2015
+,,DIB-10K_41,,0

@@ -1,0 +1,133 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+atlas_pied_flycatcher,Atlas Pied Flycatcher,DIB-10K_58,9026.Atlas Pied Flycatcher,39
+collared_flycatcher,Collared Flycatcher,DIB-10K_58,9027.Collared Flycatcher,1251
+semicollared_flycatcher,Semicollared Flycatcher,DIB-10K_58,9028.Semicollared Flycatcher,196
+yellow_rumped_flycatcher,Yellow-rumped Flycatcher,DIB-10K_58,9029.Yellow-rumped Flycatcher,598
+narcissus_flycatcher,Narcissus Flycatcher,DIB-10K_58,9030.Narcissus Flycatcher,1285
+green_backed_flycatcher,Green-backed Flycatcher,DIB-10K_58,9031.Green-backed Flycatcher,209
+mugimaki_flycatcher,Mugimaki Flycatcher,DIB-10K_58,9032.Mugimaki Flycatcher,880
+slaty_backed_flycatcher,Slaty-backed Flycatcher,DIB-10K_58,9033.Slaty-backed Flycatcher,185
+rufous_chested_flycatcher,Rufous-chested Flycatcher,DIB-10K_58,9034.Rufous-chested Flycatcher,155
+tanimbar_flycatcher,Tanimbar Flycatcher,DIB-10K_58,9035.Tanimbar Flycatcher,15
+rufous_gorgeted_flycatcher,Rufous-gorgeted Flycatcher,DIB-10K_58,9036.Rufous-gorgeted Flycatcher,558
+red_breasted_flycatcher,Red-breasted Flycatcher,DIB-10K_58,9037.Red-breasted Flycatcher,2179
+taiga_flycatcher,Taiga Flycatcher,DIB-10K_58,9038.Taiga Flycatcher,1082
+kashmir_flycatcher,Kashmir Flycatcher,DIB-10K_58,9039.Kashmir Flycatcher,180
+snowy_browed_flycatcher,Snowy-browed Flycatcher,DIB-10K_58,9040.Snowy-browed Flycatcher,847
+little_slaty_flycatcher,Little Slaty Flycatcher,DIB-10K_58,9041.Little Slaty Flycatcher,18
+rufous_throated_flycatcher,Rufous-throated Flycatcher,DIB-10K_58,9042.Rufous-throated Flycatcher,16
+cinnamon_chested_flycatcher,Cinnamon-chested Flycatcher,DIB-10K_58,9043.Cinnamon-chested Flycatcher,23
+damar_flycatcher,Damar Flycatcher,DIB-10K_58,9044.Damar Flycatcher,33
+sumba_flycatcher,Sumba Flycatcher,DIB-10K_58,9045.Sumba Flycatcher,21
+palawan_flycatcher,Palawan Flycatcher,DIB-10K_58,9046.Palawan Flycatcher,58
+cryptic_flycatcher,Cryptic Flycatcher,DIB-10K_58,9047.Cryptic Flycatcher,46
+bundok_flycatcher,Bundok Flycatcher,DIB-10K_58,9048.Bundok Flycatcher,28
+furtive_flycatcher,Furtive Flycatcher,DIB-10K_58,9049.Furtive Flycatcher,11
+lompobattang_flycatcher,Lompobattang Flycatcher,DIB-10K_58,9050.Lompobattang Flycatcher,15
+little_pied_flycatcher,Little Pied Flycatcher,DIB-10K_58,9051.Little Pied Flycatcher,810
+ultramarine_flycatcher,Ultramarine Flycatcher,DIB-10K_58,9052.Ultramarine Flycatcher,753
+slaty_blue_flycatcher,Slaty-blue Flycatcher,DIB-10K_58,9053.Slaty-blue Flycatcher,365
+sapphire_flycatcher,Sapphire Flycatcher,DIB-10K_58,9054.Sapphire Flycatcher,104
+black_and_orange_flycatcher,Black-and-orange Flycatcher,DIB-10K_58,9055.Black-and-orange Flycatcher,312
+black_banded_flycatcher,Black-banded Flycatcher,DIB-10K_58,9056.Black-banded Flycatcher,40
+pygmy_flycatcher,Pygmy Flycatcher,DIB-10K_58,9057.Pygmy Flycatcher,39
+przevalskis_redstart,Przevalski's Redstart,DIB-10K_58,9058.Przevalski's Redstart,40
+eversmanns_redstart,Eversmann's Redstart,DIB-10K_58,9059.Eversmann's Redstart,274
+blue_capped_redstart,Blue-capped Redstart,DIB-10K_58,9060.Blue-capped Redstart,164
+black_redstart,Black Redstart,DIB-10K_58,9061.Black Redstart,2780
+common_redstart,Common Redstart,DIB-10K_58,9062.Common Redstart,2635
+hodgsons_redstart,Hodgson's Redstart,DIB-10K_58,9063.Hodgson's Redstart,136
+white_throated_redstart,White-throated Redstart,DIB-10K_58,9064.White-throated Redstart,167
+daurian_redstart,Daurian Redstart,DIB-10K_58,9065.Daurian Redstart,2713
+moussiers_redstart,Moussier's Redstart,DIB-10K_58,9066.Moussier's Redstart,346
+güldenstädts_redstart,Güldenstädt's Redstart,DIB-10K_58,9067.Güldenstädt's Redstart,241
+blue_fronted_redstart,Blue-fronted Redstart,DIB-10K_58,9068.Blue-fronted Redstart,645
+plumbeous_water_redstart,Plumbeous Water Redstart,DIB-10K_58,9069.Plumbeous Water Redstart,886
+luzon_water_redstart,Luzon Water Redstart,DIB-10K_58,9070.Luzon Water Redstart,45
+white_capped_redstart,White-capped Redstart,DIB-10K_58,9071.White-capped Redstart,461
+white_winged_cliff_chat,White-winged Cliff Chat,DIB-10K_58,9072.White-winged Cliff Chat,122
+cape_rock_thrush,Cape Rock Thrush,DIB-10K_58,9073.Cape Rock Thrush,394
+sentinel_rock_thrush,Sentinel Rock Thrush,DIB-10K_58,9074.Sentinel Rock Thrush,204
+short_toed_rock_thrush,Short-toed Rock Thrush,DIB-10K_58,9075.Short-toed Rock Thrush,209
+miombo_rock_thrush,Miombo Rock Thrush,DIB-10K_58,9076.Miombo Rock Thrush,84
+common_rock_thrush,Common Rock Thrush,DIB-10K_58,9077.Common Rock Thrush,1679
+little_rock_thrush,Little Rock Thrush,DIB-10K_58,9078.Little Rock Thrush,198
+blue_rock_thrush,Blue Rock Thrush,DIB-10K_58,9079.Blue Rock Thrush,2799
+chestnut_bellied_rock_thrush,Chestnut-bellied Rock Thrush,DIB-10K_58,9080.Chestnut-bellied Rock Thrush,547
+blue_capped_rock_thrush,Blue-capped Rock Thrush,DIB-10K_58,9081.Blue-capped Rock Thrush,507
+white_throated_rock_thrush,White-throated Rock Thrush,DIB-10K_58,9082.White-throated Rock Thrush,442
+littoral_rock_thrush,Littoral Rock Thrush,DIB-10K_58,9083.Littoral Rock Thrush,106
+forest_rock_thrush,Forest Rock Thrush,DIB-10K_58,9084.Forest Rock Thrush,250
+whinchat,Whinchat,DIB-10K_58,9085.Whinchat,2723
+white_browed_bush_chat,White-browed Bush Chat,DIB-10K_58,9086.White-browed Bush Chat,181
+white_throated_bush_chat,White-throated Bush Chat,DIB-10K_58,9087.White-throated Bush Chat,45
+canary_islands_stonechat,Canary Islands Stonechat,DIB-10K_58,9088.Canary Islands Stonechat,442
+european_stonechat,European Stonechat,DIB-10K_58,9089.European Stonechat,2660
+siberian_stonechat,Siberian Stonechat,DIB-10K_58,9090.Siberian Stonechat,1669
+stejnegers_stonechat,Stejneger's Stonechat,DIB-10K_58,9091.Stejneger's Stonechat,381
+african_stonechat,African Stonechat,DIB-10K_58,9092.African Stonechat,2159
+madagascan_stonechat,Madagascan Stonechat,DIB-10K_58,9093.Madagascan Stonechat,74
+reunion_stonechat,Reunion Stonechat,DIB-10K_58,9094.Reunion Stonechat,282
+white_tailed_stonechat,White-tailed Stonechat,DIB-10K_58,9095.White-tailed Stonechat,162
+pied_bush_chat,Pied Bush Chat,DIB-10K_58,9096.Pied Bush Chat,2108
+jerdons_bush_chat,Jerdon's Bush Chat,DIB-10K_58,9097.Jerdon's Bush Chat,48
+grey_bush_chat,Grey Bush Chat,DIB-10K_58,9098.Grey Bush Chat,1048
+white_bellied_bush_chat,White-bellied Bush Chat,DIB-10K_58,9099.White-bellied Bush Chat,91
+buff_streaked_chat,Buff-streaked Chat,DIB-10K_58,9100.Buff-streaked Chat,131
+sickle_winged_chat,Sickle-winged Chat,DIB-10K_58,9101.Sickle-winged Chat,83
+karoo_chat,Karoo Chat,DIB-10K_58,9102.Karoo Chat,81
+tractrac_chat,Tractrac Chat,DIB-10K_58,9103.Tractrac Chat,179
+moorland_chat,Moorland Chat,DIB-10K_58,9104.Moorland Chat,186
+mocking_cliff_chat,Mocking Cliff Chat,DIB-10K_58,9105.Mocking Cliff Chat,481
+white_crowned_cliff_chat,White-crowned Cliff Chat,DIB-10K_58,9106.White-crowned Cliff Chat,12
+sooty_chat,Sooty Chat,DIB-10K_58,9107.Sooty Chat,278
+anteater_chat,Anteater Chat,DIB-10K_58,9108.Anteater Chat,249
+congo_moor_chat,Congo Moor Chat,DIB-10K_58,9109.Congo Moor Chat,19
+ant_eating_chat,Ant-eating Chat,DIB-10K_58,9110.Ant-eating Chat,457
+rüppells_black_chat,Rüppell's Black Chat,DIB-10K_58,9111.Rüppell's Black Chat,89
+mountain_wheatear,Mountain Wheatear,DIB-10K_58,9112.Mountain Wheatear,257
+arnots_chat,Arnot's Chat,DIB-10K_58,9113.Arnot's Chat,139
+ruaha_chat,Ruaha Chat,DIB-10K_58,9114.Ruaha Chat,46
+northern_wheatear,Northern Wheatear,DIB-10K_58,9115.Northern Wheatear,2849
+capped_wheatear,Capped Wheatear,DIB-10K_58,9116.Capped Wheatear,507
+red_breasted_wheatear,Red-breasted Wheatear,DIB-10K_58,9117.Red-breasted Wheatear,91
+heuglins_wheatear,Heuglin's Wheatear,DIB-10K_58,9118.Heuglin's Wheatear,21
+isabelline_wheatear,Isabelline Wheatear,DIB-10K_58,9119.Isabelline Wheatear,1672
+hooded_wheatear,Hooded Wheatear,DIB-10K_58,9120.Hooded Wheatear,301
+desert_wheatear,Desert Wheatear,DIB-10K_58,9121.Desert Wheatear,2171
+black_eared_wheatear,Black-eared Wheatear,DIB-10K_58,9122.Black-eared Wheatear,2228
+cyprus_wheatear,Cyprus Wheatear,DIB-10K_58,9123.Cyprus Wheatear,271
+pied_wheatear,Pied Wheatear,DIB-10K_58,9124.Pied Wheatear,1375
+white_fronted_black_chat,White-fronted Black Chat,DIB-10K_58,9125.White-fronted Black Chat,58
+somali_wheatear,Somali Wheatear,DIB-10K_58,9126.Somali Wheatear,9
+red_rumped_wheatear,Red-rumped Wheatear,DIB-10K_58,9127.Red-rumped Wheatear,276
+blackstart,Blackstart,DIB-10K_58,9128.Blackstart,279
+familiar_chat,Familiar Chat,DIB-10K_58,9129.Familiar Chat,377
+brown_tailed_rock_chat,Brown-tailed Rock Chat,DIB-10K_58,9130.Brown-tailed Rock Chat,56
+sombre_rock_chat,Sombre Rock Chat,DIB-10K_58,9131.Sombre Rock Chat,53
+brown_rock_chat,Brown Rock Chat,DIB-10K_58,9132.Brown Rock Chat,489
+variable_wheatear,Variable Wheatear,DIB-10K_58,9133.Variable Wheatear,434
+black_wheatear,Black Wheatear,DIB-10K_58,9134.Black Wheatear,1150
+abyssinian_wheatear,Abyssinian Wheatear,DIB-10K_58,9135.Abyssinian Wheatear,161
+white_crowned_wheatear,White-crowned Wheatear,DIB-10K_58,9136.White-crowned Wheatear,712
+humes_wheatear,Hume's Wheatear,DIB-10K_58,9137.Hume's Wheatear,158
+finschs_wheatear,Finsch's Wheatear,DIB-10K_58,9138.Finsch's Wheatear,283
+mourning_wheatear,Mourning Wheatear,DIB-10K_58,9139.Mourning Wheatear,487
+arabian_wheatear,Arabian Wheatear,DIB-10K_58,9140.Arabian Wheatear,204
+kurdish_wheatear,Kurdish Wheatear,DIB-10K_58,9141.Kurdish Wheatear,190
+red_tailed_wheatear,Red-tailed Wheatear,DIB-10K_58,9142.Red-tailed Wheatear,221
+boulder_chat,Boulder Chat,DIB-10K_58,9143.Boulder Chat,103
+herero_chat,Herero Chat,DIB-10K_58,9144.Herero Chat,91
+humblots_flycatcher,Humblot's Flycatcher,DIB-10K_58,9145.Humblot's Flycatcher,17
+white_throated_dipper,White-throated Dipper,DIB-10K_58,9146.White-throated Dipper,2844
+brown_dipper,Brown Dipper,DIB-10K_58,9147.Brown Dipper,828
+american_dipper,American Dipper,DIB-10K_58,9148.American Dipper,2689
+white_capped_dipper,White-capped Dipper,DIB-10K_58,9149.White-capped Dipper,577
+rufous_throated_dipper,Rufous-throated Dipper,DIB-10K_58,9150.Rufous-throated Dipper,88
+philippine_leafbird,Philippine Leafbird,DIB-10K_58,9151.Philippine Leafbird,18
+yellow_throated_leafbird,Yellow-throated Leafbird,DIB-10K_58,9152.Yellow-throated Leafbird,63
+greater_green_leafbird,Greater Green Leafbird,DIB-10K_58,9153.Greater Green Leafbird,333
+lesser_green_leafbird,Lesser Green Leafbird,DIB-10K_58,9154.Lesser Green Leafbird,257
+blue_winged_leafbird,Blue-winged Leafbird,DIB-10K_58,9155.Blue-winged Leafbird,569
+bornean_leafbird,Bornean Leafbird,DIB-10K_58,9156.Bornean Leafbird,45
+,,DIB-10K_58,,0

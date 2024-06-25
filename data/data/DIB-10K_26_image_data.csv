@@ -1,0 +1,143 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+spotted_dove,Spotted Dove,DIB-10K_26,1892.Spotted Dove,3953
+laughing_dove,Laughing Dove,DIB-10K_26,1893.Laughing Dove,3685
+barred_cuckoo_dove,Barred Cuckoo-Dove,DIB-10K_26,1894.Barred Cuckoo-Dove,212
+amboyna_cuckoo_dove,Amboyna Cuckoo-Dove,DIB-10K_26,1895.Amboyna Cuckoo-Dove,353
+sultans_cuckoo_dove,Sultan's Cuckoo-Dove,DIB-10K_26,1896.Sultan's Cuckoo-Dove,43
+ruddy_cuckoo_dove,Ruddy Cuckoo-Dove,DIB-10K_26,1897.Ruddy Cuckoo-Dove,55
+enggano_cuckoo_dove,Enggano Cuckoo-Dove,DIB-10K_26,1898.Enggano Cuckoo-Dove,3
+barusan_cuckoo_dove,Barusan Cuckoo-Dove,DIB-10K_26,1899.Barusan Cuckoo-Dove,34
+timor_cuckoo_dove,Timor Cuckoo-Dove,DIB-10K_26,1900.Timor Cuckoo-Dove,26
+tanimbar_cuckoo_dove,Tanimbar Cuckoo-Dove,DIB-10K_26,1901.Tanimbar Cuckoo-Dove,5
+philippine_cuckoo_dove,Philippine Cuckoo-Dove,DIB-10K_26,1903.Philippine Cuckoo-Dove,108
+brown_cuckoo_dove,Brown Cuckoo-Dove,DIB-10K_26,1904.Brown Cuckoo-Dove,607
+andaman_cuckoo_dove,Andaman Cuckoo-Dove,DIB-10K_26,1905.Andaman Cuckoo-Dove,86
+bar_tailed_cuckoo_dove,Bar-tailed Cuckoo-Dove,DIB-10K_26,1906.Bar-tailed Cuckoo-Dove,24
+mackinlays_cuckoo_dove,MacKinlay's Cuckoo-Dove,DIB-10K_26,1907.MacKinlay's Cuckoo-Dove,25
+little_cuckoo_dove,Little Cuckoo-Dove,DIB-10K_26,1908.Little Cuckoo-Dove,240
+great_cuckoo_dove,Great Cuckoo-Dove,DIB-10K_26,1909.Great Cuckoo-Dove,64
+pied_cuckoo_dove,Pied Cuckoo-Dove,DIB-10K_26,1910.Pied Cuckoo-Dove,10
+crested_cuckoo_dove,Crested Cuckoo-Dove,DIB-10K_26,1911.Crested Cuckoo-Dove,11
+white_faced_cuckoo_dove,White-faced Cuckoo-Dove,DIB-10K_26,1912.White-faced Cuckoo-Dove,75
+sula_cuckoo_dove,Sula Cuckoo-Dove,DIB-10K_26,1913.Sula Cuckoo-Dove,6
+black_cuckoo_dove,Black Cuckoo-Dove,DIB-10K_26,1914.Black Cuckoo-Dove,39
+emerald_spotted_wood_dove,Emerald-spotted Wood Dove,DIB-10K_26,1915.Emerald-spotted Wood Dove,648
+black_billed_wood_dove,Black-billed Wood Dove,DIB-10K_26,1916.Black-billed Wood Dove,250
+blue_spotted_wood_dove,Blue-spotted Wood Dove,DIB-10K_26,1917.Blue-spotted Wood Dove,235
+tambourine_dove,Tambourine Dove,DIB-10K_26,1918.Tambourine Dove,204
+blue_headed_wood_dove,Blue-headed Wood Dove,DIB-10K_26,1919.Blue-headed Wood Dove,70
+namaqua_dove,Namaqua Dove,DIB-10K_26,1920.Namaqua Dove,1343
+common_emerald_dove,Common Emerald Dove,DIB-10K_26,1921.Common Emerald Dove,1636
+pacific_emerald_dove,Pacific Emerald Dove,DIB-10K_26,1922.Pacific Emerald Dove,320
+stephans_emerald_dove,Stephan's Emerald Dove,DIB-10K_26,1923.Stephan's Emerald Dove,41
+new_guinea_bronzewing,New Guinea Bronzewing,DIB-10K_26,1924.New Guinea Bronzewing,31
+new_britain_bronzewing,New Britain Bronzewing,DIB-10K_26,1925.New Britain Bronzewing,4
+common_bronzewing,Common Bronzewing,DIB-10K_26,1926.Common Bronzewing,1656
+brush_bronzewing,Brush Bronzewing,DIB-10K_26,1927.Brush Bronzewing,348
+flock_bronzewing,Flock Bronzewing,DIB-10K_26,1928.Flock Bronzewing,140
+crested_pigeon,Crested Pigeon,DIB-10K_26,1929.Crested Pigeon,3005
+spinifex_pigeon,Spinifex Pigeon,DIB-10K_26,1930.Spinifex Pigeon,685
+squatter_pigeon,Squatter Pigeon,DIB-10K_26,1931.Squatter Pigeon,531
+partridge_pigeon,Partridge Pigeon,DIB-10K_26,1932.Partridge Pigeon,215
+thick_billed_ground_pigeon,Thick-billed Ground Pigeon,DIB-10K_26,1933.Thick-billed Ground Pigeon,22
+wonga_pigeon,Wonga Pigeon,DIB-10K_26,1934.Wonga Pigeon,645
+chestnut_quilled_rock_pigeon,Chestnut-quilled Rock Pigeon,DIB-10K_26,1935.Chestnut-quilled Rock Pigeon,131
+white_quilled_rock_pigeon,White-quilled Rock Pigeon,DIB-10K_26,1936.White-quilled Rock Pigeon,142
+diamond_dove,Diamond Dove,DIB-10K_26,1937.Diamond Dove,990
+zebra_dove,Zebra Dove,DIB-10K_26,1938.Zebra Dove,2897
+peaceful_dove,Peaceful Dove,DIB-10K_26,1939.Peaceful Dove,1180
+barred_dove,Barred Dove,DIB-10K_26,1940.Barred Dove,136
+bar_shouldered_dove,Bar-shouldered Dove,DIB-10K_26,1941.Bar-shouldered Dove,1251
+inca_dove,Inca Dove,DIB-10K_26,1942.Inca Dove,2031
+scaled_dove,Scaled Dove,DIB-10K_26,1943.Scaled Dove,992
+common_ground_dove,Common Ground Dove,DIB-10K_26,1944.Common Ground Dove,2123
+plain_breasted_ground_dove,Plain-breasted Ground Dove,DIB-10K_26,1945.Plain-breasted Ground Dove,500
+ecuadorian_ground_dove,Ecuadorian Ground Dove,DIB-10K_26,1946.Ecuadorian Ground Dove,137
+ruddy_ground_dove,Ruddy Ground Dove,DIB-10K_26,1947.Ruddy Ground Dove,2780
+picui_ground_dove,Picui Ground Dove,DIB-10K_26,1948.Picui Ground Dove,964
+croaking_ground_dove,Croaking Ground Dove,DIB-10K_26,1949.Croaking Ground Dove,558
+blue_eyed_ground_dove,Blue-eyed Ground Dove,DIB-10K_26,1950.Blue-eyed Ground Dove,103
+blue_ground_dove,Blue Ground Dove,DIB-10K_26,1951.Blue Ground Dove,508
+purple_winged_ground_dove,Purple-winged Ground Dove,DIB-10K_26,1952.Purple-winged Ground Dove,15
+maroon_chested_ground_dove,Maroon-chested Ground Dove,DIB-10K_26,1953.Maroon-chested Ground Dove,39
+bare_faced_ground_dove,Bare-faced Ground Dove,DIB-10K_26,1954.Bare-faced Ground Dove,318
+morenos_ground_dove,Moreno's Ground Dove,DIB-10K_26,1955.Moreno's Ground Dove,80
+black_winged_ground_dove,Black-winged Ground Dove,DIB-10K_26,1956.Black-winged Ground Dove,450
+golden_spotted_ground_dove,Golden-spotted Ground Dove,DIB-10K_26,1957.Golden-spotted Ground Dove,142
+long_tailed_ground_dove,Long-tailed Ground Dove,DIB-10K_26,1958.Long-tailed Ground Dove,187
+blue_headed_quail_dove,Blue-headed Quail-Dove,DIB-10K_26,1959.Blue-headed Quail-Dove,387
+purple_quail_dove,Purple Quail-Dove,DIB-10K_26,1960.Purple Quail-Dove,58
+sapphire_quail_dove,Sapphire Quail-Dove,DIB-10K_26,1961.Sapphire Quail-Dove,59
+crested_quail_dove,Crested Quail-Dove,DIB-10K_26,1962.Crested Quail-Dove,175
+ruddy_quail_dove,Ruddy Quail-Dove,DIB-10K_26,1963.Ruddy Quail-Dove,498
+violaceous_quail_dove,Violaceous Quail-Dove,DIB-10K_26,1964.Violaceous Quail-Dove,72
+grey_fronted_quail_dove,Grey-fronted Quail-Dove,DIB-10K_26,1965.Grey-fronted Quail-Dove,149
+white_fronted_quail_dove,White-fronted Quail-Dove,DIB-10K_26,1966.White-fronted Quail-Dove,83
+key_west_quail_dove,Key West Quail-Dove,DIB-10K_26,1967.Key West Quail-Dove,362
+bridled_quail_dove,Bridled Quail-Dove,DIB-10K_26,1968.Bridled Quail-Dove,99
+olive_backed_quail_dove,Olive-backed Quail-Dove,DIB-10K_26,1969.Olive-backed Quail-Dove,52
+white_tipped_dove,White-tipped Dove,DIB-10K_26,1970.White-tipped Dove,1829
+yungas_dove,Yungas Dove,DIB-10K_26,1971.Yungas Dove,52
+grey_fronted_dove,Grey-fronted Dove,DIB-10K_26,1972.Grey-fronted Dove,296
+grey_headed_dove,Grey-headed Dove,DIB-10K_26,1973.Grey-headed Dove,145
+pallid_dove,Pallid Dove,DIB-10K_26,1974.Pallid Dove,71
+azuero_dove,Azuero Dove,DIB-10K_26,1975.Azuero Dove,10
+grenada_dove,Grenada Dove,DIB-10K_26,1976.Grenada Dove,58
+caribbean_dove,Caribbean Dove,DIB-10K_26,1977.Caribbean Dove,211
+grey_chested_dove,Grey-chested Dove,DIB-10K_26,1978.Grey-chested Dove,168
+ochre_bellied_dove,Ochre-bellied Dove,DIB-10K_26,1979.Ochre-bellied Dove,39
+tolima_dove,Tolima Dove,DIB-10K_26,1980.Tolima Dove,66
+tuxtla_quail_dove,Tuxtla Quail-Dove,DIB-10K_26,1981.Tuxtla Quail-Dove,29
+buff_fronted_quail_dove,Buff-fronted Quail-Dove,DIB-10K_26,1982.Buff-fronted Quail-Dove,113
+purplish_backed_quail_dove,Purplish-backed Quail-Dove,DIB-10K_26,1983.Purplish-backed Quail-Dove,29
+white_faced_quail_dove,White-faced Quail-Dove,DIB-10K_26,1984.White-faced Quail-Dove,53
+white_throated_quail_dove,White-throated Quail-Dove,DIB-10K_26,1985.White-throated Quail-Dove,177
+lined_quail_dove,Lined Quail-Dove,DIB-10K_26,1986.Lined Quail-Dove,53
+chiriqui_quail_dove,Chiriqui Quail-Dove,DIB-10K_26,1987.Chiriqui Quail-Dove,51
+russet_crowned_quail_dove,Russet-crowned Quail-Dove,DIB-10K_26,1988.Russet-crowned Quail-Dove,8
+passenger_pigeon,Passenger Pigeon,DIB-10K_26,1989.Passenger Pigeon,324
+mourning_dove,Mourning Dove,DIB-10K_26,1990.Mourning Dove,2664
+socorro_dove,Socorro Dove,DIB-10K_26,1991.Socorro Dove,194
+eared_dove,Eared Dove,DIB-10K_26,1992.Eared Dove,2903
+zenaida_dove,Zenaida Dove,DIB-10K_26,1993.Zenaida Dove,1149
+galapagos_dove,Galapagos Dove,DIB-10K_26,1994.Galapagos Dove,679
+white_winged_dove,White-winged Dove,DIB-10K_26,1995.White-winged Dove,2402
+west_peruvian_dove,West Peruvian Dove,DIB-10K_26,1996.West Peruvian Dove,652
+nicobar_pigeon,Nicobar Pigeon,DIB-10K_26,1997.Nicobar Pigeon,1624
+spotted_green_pigeon,Spotted Green Pigeon,DIB-10K_26,1998.Spotted Green Pigeon,6
+sulawesi_ground_dove,Sulawesi Ground Dove,DIB-10K_26,1999.Sulawesi Ground Dove,137
+cinnamon_ground_dove,Cinnamon Ground Dove,DIB-10K_26,2000.Cinnamon Ground Dove,101
+luzon_bleeding_heart,Luzon Bleeding-heart,DIB-10K_26,2001.Luzon Bleeding-heart,397
+mindanao_bleeding_heart,Mindanao Bleeding-heart,DIB-10K_26,2002.Mindanao Bleeding-heart,267
+mindoro_bleeding_heart,Mindoro Bleeding-heart,DIB-10K_26,2003.Mindoro Bleeding-heart,15
+negros_bleeding_heart,Negros Bleeding-heart,DIB-10K_26,2004.Negros Bleeding-heart,36
+sulu_bleeding_heart,Sulu Bleeding-heart,DIB-10K_26,2005.Sulu Bleeding-heart,18
+wetar_ground_dove,Wetar Ground Dove,DIB-10K_26,2006.Wetar Ground Dove,31
+white_breasted_ground_dove,White-breasted Ground Dove,DIB-10K_26,2007.White-breasted Ground Dove,9
+white_fronted_ground_dove,White-fronted Ground Dove,DIB-10K_26,2008.White-fronted Ground Dove,7
+polynesian_ground_dove,Polynesian Ground Dove,DIB-10K_26,2009.Polynesian Ground Dove,36
+white_throated_ground_dove,White-throated Ground Dove,DIB-10K_26,2010.White-throated Ground Dove,45
+norfolk_ground_dove,Norfolk Ground Dove,DIB-10K_26,2011.Norfolk Ground Dove,13
+tongan_ground_dove,Tongan Ground Dove,DIB-10K_26,2012.Tongan Ground Dove,7
+santa_cruz_ground_dove,Santa Cruz Ground Dove,DIB-10K_26,2013.Santa Cruz Ground Dove,9
+tanna_ground_dove,Tanna Ground Dove,DIB-10K_26,2014.Tanna Ground Dove,5
+thick_billed_ground_dove,Thick-billed Ground Dove,DIB-10K_26,2015.Thick-billed Ground Dove,1
+marquesan_ground_dove,Marquesan Ground Dove,DIB-10K_26,2016.Marquesan Ground Dove,19
+bronze_ground_dove,Bronze Ground Dove,DIB-10K_26,2017.Bronze Ground Dove,36
+palau_ground_dove,Palau Ground Dove,DIB-10K_26,2018.Palau Ground Dove,9
+choiseul_pigeon,Choiseul Pigeon,DIB-10K_26,2019.Choiseul Pigeon,18
+pheasant_pigeon,Pheasant Pigeon,DIB-10K_26,2020.Pheasant Pigeon,310
+western_crowned_pigeon,Western Crowned Pigeon,DIB-10K_26,2021.Western Crowned Pigeon,645
+scheepmakers_crowned_pigeon,Scheepmaker's Crowned Pigeon,DIB-10K_26,2022.Scheepmaker's Crowned Pigeon,297
+sclaters_crowned_pigeon,Sclater's Crowned Pigeon,DIB-10K_26,2023.Sclater's Crowned Pigeon,76
+victoria_crowned_pigeon,Victoria Crowned Pigeon,DIB-10K_26,2024.Victoria Crowned Pigeon,1503
+dodo,Dodo,DIB-10K_26,2025.Dodo,437
+rodrigues_solitaire,Rodrigues Solitaire,DIB-10K_26,2026.Rodrigues Solitaire,27
+tooth_billed_pigeon,Tooth-billed Pigeon,DIB-10K_26,2027.Tooth-billed Pigeon,36
+white_eared_brown_dove,White-eared Brown Dove,DIB-10K_26,2028.White-eared Brown Dove,123
+amethyst_brown_dove,Amethyst Brown Dove,DIB-10K_26,2029.Amethyst Brown Dove,73
+tawitawi_brown_dove,Tawitawi Brown Dove,DIB-10K_26,2030.Tawitawi Brown Dove,11
+mindanao_brown_dove,Mindanao Brown Dove,DIB-10K_26,2031.Mindanao Brown Dove,18
+cinnamon_headed_green_pigeon,Cinnamon-headed Green Pigeon,DIB-10K_26,2032.Cinnamon-headed Green Pigeon,101
+little_green_pigeon,Little Green Pigeon,DIB-10K_26,2033.Little Green Pigeon,221
+,,DIB-10K_26,,0

@@ -1,0 +1,60 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+wilsons_plover,Wilson's Plover,DIB-10K_20,1514.Wilson's Plover,1748
+killdeer,Killdeer,DIB-10K_20,1515.Killdeer,2829
+piping_plover,Piping Plover,DIB-10K_20,1516.Piping Plover,2790
+madagascan_plover,Madagascan Plover,DIB-10K_20,1517.Madagascan Plover,117
+kittlitzs_plover,Kittlitz's Plover,DIB-10K_20,1518.Kittlitz's Plover,746
+st._helena_plover,St. Helena Plover,DIB-10K_20,1519.St. Helena Plover,67
+three_banded_plover,Three-banded Plover,DIB-10K_20,1520.Three-banded Plover,1173
+forbess_plover,Forbes's Plover,DIB-10K_20,1521.Forbes's Plover,93
+white_fronted_plover,White-fronted Plover,DIB-10K_20,1522.White-fronted Plover,606
+kentish_plover,Kentish Plover,DIB-10K_20,1523.Kentish Plover,2896
+snowy_plover,Snowy Plover,DIB-10K_20,1524.Snowy Plover,2153
+javan_plover,Javan Plover,DIB-10K_20,1525.Javan Plover,258
+red_capped_plover,Red-capped Plover,DIB-10K_20,1526.Red-capped Plover,1624
+malaysian_plover,Malaysian Plover,DIB-10K_20,1527.Malaysian Plover,633
+chestnut_banded_plover,Chestnut-banded Plover,DIB-10K_20,1528.Chestnut-banded Plover,289
+collared_plover,Collared Plover,DIB-10K_20,1529.Collared Plover,1347
+puna_plover,Puna Plover,DIB-10K_20,1530.Puna Plover,364
+two_banded_plover,Two-banded Plover,DIB-10K_20,1531.Two-banded Plover,709
+double_banded_plover,Double-banded Plover,DIB-10K_20,1532.Double-banded Plover,1578
+lesser_sand_plover,Lesser Sand Plover,DIB-10K_20,1533.Lesser Sand Plover,1809
+greater_sand_plover,Greater Sand Plover,DIB-10K_20,1534.Greater Sand Plover,1603
+caspian_plover,Caspian Plover,DIB-10K_20,1535.Caspian Plover,364
+oriental_plover,Oriental Plover,DIB-10K_20,1536.Oriental Plover,557
+eurasian_dotterel,Eurasian Dotterel,DIB-10K_20,1537.Eurasian Dotterel,1704
+rufous_chested_plover,Rufous-chested Plover,DIB-10K_20,1538.Rufous-chested Plover,880
+mountain_plover,Mountain Plover,DIB-10K_20,1539.Mountain Plover,965
+hooded_dotterel,Hooded Dotterel,DIB-10K_20,1540.Hooded Dotterel,546
+shore_dotterel,Shore Dotterel,DIB-10K_20,1541.Shore Dotterel,304
+black_fronted_dotterel,Black-fronted Dotterel,DIB-10K_20,1542.Black-fronted Dotterel,1572
+tawny_throated_dotterel,Tawny-throated Dotterel,DIB-10K_20,1543.Tawny-throated Dotterel,297
+diademed_sandpiper_plover,Diademed Sandpiper-Plover,DIB-10K_20,1544.Diademed Sandpiper-Plover,488
+pied_plover,Pied Plover,DIB-10K_20,1545.Pied Plover,742
+egyptian_plover,Egyptian Plover,DIB-10K_20,1546.Egyptian Plover,670
+greater_painted_snipe,Greater Painted-snipe,DIB-10K_20,1547.Greater Painted-snipe,2058
+australian_painted_snipe,Australian Painted-snipe,DIB-10K_20,1548.Australian Painted-snipe,247
+south_american_painted_snipe,South American Painted-snipe,DIB-10K_20,1549.South American Painted-snipe,128
+lesser_jacana,Lesser Jacana,DIB-10K_20,1550.Lesser Jacana,242
+african_jacana,African Jacana,DIB-10K_20,1551.African Jacana,2110
+madagascan_jacana,Madagascan Jacana,DIB-10K_20,1552.Madagascan Jacana,76
+comb_crested_jacana,Comb-crested Jacana,DIB-10K_20,1553.Comb-crested Jacana,1480
+pheasant_tailed_jacana,Pheasant-tailed Jacana,DIB-10K_20,1554.Pheasant-tailed Jacana,2112
+bronze_winged_jacana,Bronze-winged Jacana,DIB-10K_20,1555.Bronze-winged Jacana,1561
+northern_jacana,Northern Jacana,DIB-10K_20,1556.Northern Jacana,1881
+wattled_jacana,Wattled Jacana,DIB-10K_20,1557.Wattled Jacana,2862
+plains_wanderer,Plains-wanderer,DIB-10K_20,1558.Plains-wanderer,246
+rufous_bellied_seedsnipe,Rufous-bellied Seedsnipe,DIB-10K_20,1559.Rufous-bellied Seedsnipe,387
+white_bellied_seedsnipe,White-bellied Seedsnipe,DIB-10K_20,1560.White-bellied Seedsnipe,176
+grey_breasted_seedsnipe,Grey-breasted Seedsnipe,DIB-10K_20,1561.Grey-breasted Seedsnipe,454
+least_seedsnipe,Least Seedsnipe,DIB-10K_20,1562.Least Seedsnipe,452
+upland_sandpiper,Upland Sandpiper,DIB-10K_20,1563.Upland Sandpiper,1659
+bristle_thighed_curlew,Bristle-thighed Curlew,DIB-10K_20,1564.Bristle-thighed Curlew,635
+whimbrel,Whimbrel,DIB-10K_20,1565.Whimbrel,2835
+little_curlew,Little Curlew,DIB-10K_20,1566.Little Curlew,386
+eskimo_curlew,Eskimo Curlew,DIB-10K_20,1567.Eskimo Curlew,147
+long_billed_curlew,Long-billed Curlew,DIB-10K_20,1568.Long-billed Curlew,2765
+far_eastern_curlew,Far Eastern Curlew,DIB-10K_20,1569.Far Eastern Curlew,1141
+slender_billed_curlew,Slender-billed Curlew,DIB-10K_20,1570.Slender-billed Curlew,101
+eurasian_curlew,Eurasian Curlew,DIB-10K_20,1571.Eurasian Curlew,2667
+,,DIB-10K_20,,0

@@ -1,0 +1,155 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+pectoral_sparrow,Pectoral Sparrow,DIB-10K_65,10112.Pectoral Sparrow,287
+half_collared_sparrow,Half-collared Sparrow,DIB-10K_65,10113.Half-collared Sparrow,108
+sao_francisco_sparrow,Sao Francisco Sparrow,DIB-10K_65,10114.Sao Francisco Sparrow,59
+saffron_billed_sparrow,Saffron-billed Sparrow,DIB-10K_65,10115.Saffron-billed Sparrow,339
+orange_billed_sparrow,Orange-billed Sparrow,DIB-10K_65,10116.Orange-billed Sparrow,442
+golden_winged_sparrow,Golden-winged Sparrow,DIB-10K_65,10117.Golden-winged Sparrow,148
+black_capped_sparrow,Black-capped Sparrow,DIB-10K_65,10118.Black-capped Sparrow,57
+chestnut_capped_brushfinch,Chestnut-capped Brushfinch,DIB-10K_65,10119.Chestnut-capped Brushfinch,368
+green_striped_brushfinch,Green-striped Brushfinch,DIB-10K_65,10120.Green-striped Brushfinch,61
+black_headed_brushfinch,Black-headed Brushfinch,DIB-10K_65,10121.Black-headed Brushfinch,21
+costa_rican_brushfinch,Costa Rican Brushfinch,DIB-10K_65,10122.Costa Rican Brushfinch,38
+white_browed_brushfinch,White-browed Brushfinch,DIB-10K_65,10123.White-browed Brushfinch,60
+sierra_nevada_brushfinch,Sierra Nevada Brushfinch,DIB-10K_65,10124.Sierra Nevada Brushfinch,43
+perija_brushfinch,Perija Brushfinch,DIB-10K_65,10125.Perija Brushfinch,13
+grey_browed_brushfinch,Grey-browed Brushfinch,DIB-10K_65,10126.Grey-browed Brushfinch,213
+caracas_brushfinch,Caracas Brushfinch,DIB-10K_65,10127.Caracas Brushfinch,3
+paria_brushfinch,Paria Brushfinch,DIB-10K_65,10128.Paria Brushfinch,2
+sooty_faced_finch,Sooty-faced Finch,DIB-10K_65,10129.Sooty-faced Finch,93
+olive_finch,Olive Finch,DIB-10K_65,10130.Olive Finch,106
+large_footed_finch,Large-footed Finch,DIB-10K_65,10131.Large-footed Finch,378
+rufous_capped_brushfinch,Rufous-capped Brushfinch,DIB-10K_65,10132.Rufous-capped Brushfinch,108
+moustached_brushfinch,Moustached Brushfinch,DIB-10K_65,10133.Moustached Brushfinch,74
+merida_brushfinch,Merida Brushfinch,DIB-10K_65,10134.Merida Brushfinch,6
+ochre_breasted_brushfinch,Ochre-breasted Brushfinch,DIB-10K_65,10135.Ochre-breasted Brushfinch,82
+tepui_brushfinch,Tepui Brushfinch,DIB-10K_65,10136.Tepui Brushfinch,52
+white_naped_brushfinch,White-naped Brushfinch,DIB-10K_65,10137.White-naped Brushfinch,437
+santa_marta_brushfinch,Santa Marta Brushfinch,DIB-10K_65,10138.Santa Marta Brushfinch,172
+pale_naped_brushfinch,Pale-naped Brushfinch,DIB-10K_65,10139.Pale-naped Brushfinch,276
+yellow_headed_brushfinch,Yellow-headed Brushfinch,DIB-10K_65,10140.Yellow-headed Brushfinch,80
+dusky_headed_brushfinch,Dusky-headed Brushfinch,DIB-10K_65,10141.Dusky-headed Brushfinch,22
+choco_brushfinch,Choco Brushfinch,DIB-10K_65,10142.Choco Brushfinch,40
+tricolored_brushfinch,Tricolored Brushfinch,DIB-10K_65,10143.Tricolored Brushfinch,188
+white_rimmed_brushfinch,White-rimmed Brushfinch,DIB-10K_65,10144.White-rimmed Brushfinch,53
+yellow_breasted_brushfinch,Yellow-breasted Brushfinch,DIB-10K_65,10145.Yellow-breasted Brushfinch,328
+black_fronted_brushfinch,Black-fronted Brushfinch,DIB-10K_65,10146.Black-fronted Brushfinch,45
+antioquia_brushfinch,Antioquia Brushfinch,DIB-10K_65,10147.Antioquia Brushfinch,29
+rufous_eared_brushfinch,Rufous-eared Brushfinch,DIB-10K_65,10148.Rufous-eared Brushfinch,56
+apurimac_brushfinch,Apurimac Brushfinch,DIB-10K_65,10149.Apurimac Brushfinch,22
+black_spectacled_brushfinch,Black-spectacled Brushfinch,DIB-10K_65,10150.Black-spectacled Brushfinch,23
+slaty_brushfinch,Slaty Brushfinch,DIB-10K_65,10151.Slaty Brushfinch,237
+white_winged_brushfinch,White-winged Brushfinch,DIB-10K_65,10152.White-winged Brushfinch,137
+white_headed_brushfinch,White-headed Brushfinch,DIB-10K_65,10153.White-headed Brushfinch,53
+pale_headed_brushfinch,Pale-headed Brushfinch,DIB-10K_65,10154.Pale-headed Brushfinch,31
+bay_crowned_brushfinch,Bay-crowned Brushfinch,DIB-10K_65,10155.Bay-crowned Brushfinch,26
+rusty_bellied_brushfinch,Rusty-bellied Brushfinch,DIB-10K_65,10156.Rusty-bellied Brushfinch,68
+cuzco_brushfinch,Cuzco Brushfinch,DIB-10K_65,10157.Cuzco Brushfinch,32
+vilcabamba_brushfinch,Vilcabamba Brushfinch,DIB-10K_65,10158.Vilcabamba Brushfinch,1
+grey_eared_brushfinch,Grey-eared Brushfinch,DIB-10K_65,10159.Grey-eared Brushfinch,66
+bolivian_brushfinch,Bolivian Brushfinch,DIB-10K_65,10160.Bolivian Brushfinch,77
+fulvous_headed_brushfinch,Fulvous-headed Brushfinch,DIB-10K_65,10161.Fulvous-headed Brushfinch,76
+yellow_striped_brushfinch,Yellow-striped Brushfinch,DIB-10K_65,10162.Yellow-striped Brushfinch,50
+yellow_thighed_finch,Yellow-thighed Finch,DIB-10K_65,10163.Yellow-thighed Finch,549
+yellow_green_finch,Yellow-green Finch,DIB-10K_65,10164.Yellow-green Finch,146
+tanager_finch,Tanager Finch,DIB-10K_65,10165.Tanager Finch,149
+common_bush_tanager,Common Bush Tanager,DIB-10K_65,10166.Common Bush Tanager,707
+tacarcuna_bush_tanager,Tacarcuna Bush Tanager,DIB-10K_65,10167.Tacarcuna Bush Tanager,6
+pirre_bush_tanager,Pirre Bush Tanager,DIB-10K_65,10168.Pirre Bush Tanager,14
+dusky_bush_tanager,Dusky Bush Tanager,DIB-10K_65,10169.Dusky Bush Tanager,187
+sooty_capped_bush_tanager,Sooty-capped Bush Tanager,DIB-10K_65,10170.Sooty-capped Bush Tanager,489
+yellow_whiskered_bush_tanager,Yellow-whiskered Bush Tanager,DIB-10K_65,10171.Yellow-whiskered Bush Tanager,43
+yellow_throated_bush_tanager,Yellow-throated Bush Tanager,DIB-10K_65,10172.Yellow-throated Bush Tanager,156
+ashy_throated_bush_tanager,Ashy-throated Bush Tanager,DIB-10K_65,10173.Ashy-throated Bush Tanager,57
+western_chat_tanager,Western Chat-Tanager,DIB-10K_65,10174.Western Chat-Tanager,90
+eastern_chat_tanager,Eastern Chat-Tanager,DIB-10K_65,10175.Eastern Chat-Tanager,56
+black_crowned_tanager,Black-crowned Tanager,DIB-10K_65,10176.Black-crowned Tanager,372
+grey_crowned_tanager,Grey-crowned Tanager,DIB-10K_65,10177.Grey-crowned Tanager,34
+green_tailed_warbler,Green-tailed Warbler,DIB-10K_65,10178.Green-tailed Warbler,140
+white_winged_warbler,White-winged Warbler,DIB-10K_65,10179.White-winged Warbler,73
+puerto_rican_tanager,Puerto Rican Tanager,DIB-10K_65,10180.Puerto Rican Tanager,180
+western_spindalis,Western Spindalis,DIB-10K_65,10181.Western Spindalis,890
+hispaniolan_spindalis,Hispaniolan Spindalis,DIB-10K_65,10182.Hispaniolan Spindalis,195
+puerto_rican_spindalis,Puerto Rican Spindalis,DIB-10K_65,10183.Puerto Rican Spindalis,251
+jamaican_spindalis,Jamaican Spindalis,DIB-10K_65,10184.Jamaican Spindalis,130
+wrenthrush,Wrenthrush,DIB-10K_65,10185.Wrenthrush,94
+yellow_headed_warbler,Yellow-headed Warbler,DIB-10K_65,10186.Yellow-headed Warbler,206
+oriente_warbler,Oriente Warbler,DIB-10K_65,10187.Oriente Warbler,259
+yellow_breasted_chat,Yellow-breasted Chat,DIB-10K_65,10188.Yellow-breasted Chat,1667
+yellow_headed_blackbird,Yellow-headed Blackbird,DIB-10K_65,10189.Yellow-headed Blackbird,2486
+bobolink,Bobolink,DIB-10K_65,10190.Bobolink,2614
+western_meadowlark,Western Meadowlark,DIB-10K_65,10191.Western Meadowlark,2587
+eastern_meadowlark,Eastern Meadowlark,DIB-10K_65,10192.Eastern Meadowlark,2403
+red_breasted_blackbird,Red-breasted Blackbird,DIB-10K_65,10193.Red-breasted Blackbird,408
+white_browed_blackbird,White-browed Blackbird,DIB-10K_65,10194.White-browed Blackbird,404
+peruvian_meadowlark,Peruvian Meadowlark,DIB-10K_65,10195.Peruvian Meadowlark,186
+long_tailed_meadowlark,Long-tailed Meadowlark,DIB-10K_65,10196.Long-tailed Meadowlark,642
+pampas_meadowlark,Pampas Meadowlark,DIB-10K_65,10197.Pampas Meadowlark,50
+yellow_billed_cacique,Yellow-billed Cacique,DIB-10K_65,10198.Yellow-billed Cacique,184
+mexican_cacique,Mexican Cacique,DIB-10K_65,10199.Mexican Cacique,312
+chestnut_headed_oropendola,Chestnut-headed Oropendola,DIB-10K_65,10200.Chestnut-headed Oropendola,696
+russet_backed_oropendola,Russet-backed Oropendola,DIB-10K_65,10201.Russet-backed Oropendola,654
+dusky_green_oropendola,Dusky-green Oropendola,DIB-10K_65,10202.Dusky-green Oropendola,130
+crested_oropendola,Crested Oropendola,DIB-10K_65,10203.Crested Oropendola,1384
+green_oropendola,Green Oropendola,DIB-10K_65,10204.Green Oropendola,217
+olive_oropendola,Olive Oropendola,DIB-10K_65,10205.Olive Oropendola,100
+montezuma_oropendola,Montezuma Oropendola,DIB-10K_65,10206.Montezuma Oropendola,1392
+black_oropendola,Black Oropendola,DIB-10K_65,10207.Black Oropendola,78
+baudo_oropendola,Baudo Oropendola,DIB-10K_65,10208.Baudo Oropendola,61
+solitary_cacique,Solitary Cacique,DIB-10K_65,10209.Solitary Cacique,264
+golden_winged_cacique,Golden-winged Cacique,DIB-10K_65,10210.Golden-winged Cacique,522
+selva_cacique,Selva Cacique,DIB-10K_65,10211.Selva Cacique,10
+ecuadorian_cacique,Ecuadorian Cacique,DIB-10K_65,10212.Ecuadorian Cacique,6
+yellow_rumped_cacique,Yellow-rumped Cacique,DIB-10K_65,10213.Yellow-rumped Cacique,1426
+scarlet_rumped_cacique,Scarlet-rumped Cacique,DIB-10K_65,10214.Scarlet-rumped Cacique,248
+subtropical_cacique,Subtropical Cacique,DIB-10K_65,10215.Subtropical Cacique,232
+northern_mountain_cacique,Northern Mountain Cacique,DIB-10K_65,10216.Northern Mountain Cacique,58
+southern_mountain_cacique,Southern Mountain Cacique,DIB-10K_65,10217.Southern Mountain Cacique,154
+band_tailed_oropendola,Band-tailed Oropendola,DIB-10K_65,10218.Band-tailed Oropendola,14
+casqued_oropendola,Casqued Oropendola,DIB-10K_65,10219.Casqued Oropendola,43
+red_rumped_cacique,Red-rumped Cacique,DIB-10K_65,10220.Red-rumped Cacique,894
+scotts_oriole,Scott's Oriole,DIB-10K_65,10221.Scott's Oriole,1012
+yellow_backed_oriole,Yellow-backed Oriole,DIB-10K_65,10222.Yellow-backed Oriole,513
+audubons_oriole,Audubon's Oriole,DIB-10K_65,10223.Audubon's Oriole,548
+jamaican_oriole,Jamaican Oriole,DIB-10K_65,10224.Jamaican Oriole,231
+orange_oriole,Orange Oriole,DIB-10K_65,10225.Orange Oriole,213
+altamira_oriole,Altamira Oriole,DIB-10K_65,10226.Altamira Oriole,1337
+yellow_oriole,Yellow Oriole,DIB-10K_65,10227.Yellow Oriole,1106
+bullocks_oriole,Bullock's Oriole,DIB-10K_65,10228.Bullock's Oriole,2232
+streak_backed_oriole,Streak-backed Oriole,DIB-10K_65,10229.Streak-backed Oriole,956
+black_backed_oriole,Black-backed Oriole,DIB-10K_65,10230.Black-backed Oriole,333
+baltimore_oriole,Baltimore Oriole,DIB-10K_65,10231.Baltimore Oriole,2512
+yellow_tailed_oriole,Yellow-tailed Oriole,DIB-10K_65,10232.Yellow-tailed Oriole,361
+spot_breasted_oriole,Spot-breasted Oriole,DIB-10K_65,10233.Spot-breasted Oriole,693
+white_edged_oriole,White-edged Oriole,DIB-10K_65,10234.White-edged Oriole,86
+campo_troupial,Campo Troupial,DIB-10K_65,10235.Campo Troupial,305
+venezuelan_troupial,Venezuelan Troupial,DIB-10K_65,10236.Venezuelan Troupial,1826
+orange_backed_troupial,Orange-backed Troupial,DIB-10K_65,10237.Orange-backed Troupial,525
+bar_winged_oriole,Bar-winged Oriole,DIB-10K_65,10238.Bar-winged Oriole,61
+black_vented_oriole,Black-vented Oriole,DIB-10K_65,10239.Black-vented Oriole,358
+hooded_oriole,Hooded Oriole,DIB-10K_65,10240.Hooded Oriole,2300
+black_cowled_oriole,Black-cowled Oriole,DIB-10K_65,10241.Black-cowled Oriole,720
+orchard_oriole,Orchard Oriole,DIB-10K_65,10242.Orchard Oriole,2519
+ochre_oriole,Ochre Oriole,DIB-10K_65,10243.Ochre Oriole,28
+cuban_oriole,Cuban Oriole,DIB-10K_65,10244.Cuban Oriole,267
+bahama_oriole,Bahama Oriole,DIB-10K_65,10245.Bahama Oriole,98
+martinique_oriole,Martinique Oriole,DIB-10K_65,10246.Martinique Oriole,52
+puerto_rican_oriole,Puerto Rican Oriole,DIB-10K_65,10247.Puerto Rican Oriole,162
+montserrat_oriole,Montserrat Oriole,DIB-10K_65,10248.Montserrat Oriole,139
+st._lucia_oriole,St. Lucia Oriole,DIB-10K_65,10249.St. Lucia Oriole,68
+hispaniolan_oriole,Hispaniolan Oriole,DIB-10K_65,10250.Hispaniolan Oriole,297
+orange_crowned_oriole,Orange-crowned Oriole,DIB-10K_65,10251.Orange-crowned Oriole,180
+variable_oriole,Variable Oriole,DIB-10K_65,10252.Variable Oriole,625
+epaulet_oriole,Epaulet Oriole,DIB-10K_65,10253.Epaulet Oriole,330
+jamaican_blackbird,Jamaican Blackbird,DIB-10K_65,10254.Jamaican Blackbird,100
+yellow_shouldered_blackbird,Yellow-shouldered Blackbird,DIB-10K_65,10255.Yellow-shouldered Blackbird,238
+tawny_shouldered_blackbird,Tawny-shouldered Blackbird,DIB-10K_65,10256.Tawny-shouldered Blackbird,210
+tricolored_blackbird,Tricolored Blackbird,DIB-10K_65,10257.Tricolored Blackbird,967
+red_winged_blackbird,Red-winged Blackbird,DIB-10K_65,10258.Red-winged Blackbird,2719
+red_shouldered_blackbird,Red-shouldered Blackbird,DIB-10K_65,10259.Red-shouldered Blackbird,149
+screaming_cowbird,Screaming Cowbird,DIB-10K_65,10260.Screaming Cowbird,351
+giant_cowbird,Giant Cowbird,DIB-10K_65,10261.Giant Cowbird,745
+shiny_cowbird,Shiny Cowbird,DIB-10K_65,10262.Shiny Cowbird,2773
+bronzed_cowbird,Bronzed Cowbird,DIB-10K_65,10263.Bronzed Cowbird,1490
+bronze_brown_cowbird,Bronze-brown Cowbird,DIB-10K_65,10264.Bronze-brown Cowbird,13
+,,DIB-10K_65,,0

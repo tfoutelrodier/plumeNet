@@ -1,0 +1,63 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+eurasian_woodcock,Eurasian Woodcock,DIB-10K_22,1609.Eurasian Woodcock,974
+amami_woodcock,Amami Woodcock,DIB-10K_22,1610.Amami Woodcock,123
+javan_woodcock,Javan Woodcock,DIB-10K_22,1611.Javan Woodcock,19
+new_guinea_woodcock,New Guinea Woodcock,DIB-10K_22,1612.New Guinea Woodcock,13
+bukidnon_woodcock,Bukidnon Woodcock,DIB-10K_22,1613.Bukidnon Woodcock,20
+sulawesi_woodcock,Sulawesi Woodcock,DIB-10K_22,1614.Sulawesi Woodcock,11
+moluccan_woodcock,Moluccan Woodcock,DIB-10K_22,1615.Moluccan Woodcock,27
+american_woodcock,American Woodcock,DIB-10K_22,1616.American Woodcock,1257
+chatham_snipe,Chatham Snipe,DIB-10K_22,1617.Chatham Snipe,19
+north_island_snipe,North Island Snipe,DIB-10K_22,1618.North Island Snipe,7
+south_island_snipe,South Island Snipe,DIB-10K_22,1619.South Island Snipe,10
+snares_snipe,Snares Snipe,DIB-10K_22,1620.Snares Snipe,18
+subantarctic_snipe,Subantarctic Snipe,DIB-10K_22,1621.Subantarctic Snipe,70
+jack_snipe,Jack Snipe,DIB-10K_22,1622.Jack Snipe,936
+solitary_snipe,Solitary Snipe,DIB-10K_22,1623.Solitary Snipe,165
+lathams_snipe,Latham's Snipe,DIB-10K_22,1624.Latham's Snipe,756
+wood_snipe,Wood Snipe,DIB-10K_22,1625.Wood Snipe,51
+pin_tailed_snipe,Pin-tailed Snipe,DIB-10K_22,1626.Pin-tailed Snipe,577
+swinhoes_snipe,Swinhoe's Snipe,DIB-10K_22,1627.Swinhoe's Snipe,243
+african_snipe,African Snipe,DIB-10K_22,1628.African Snipe,291
+madagascan_snipe,Madagascan Snipe,DIB-10K_22,1629.Madagascan Snipe,27
+great_snipe,Great Snipe,DIB-10K_22,1630.Great Snipe,650
+common_snipe,Common Snipe,DIB-10K_22,1631.Common Snipe,2779
+wilsons_snipe,Wilson's Snipe,DIB-10K_22,1632.Wilson's Snipe,2323
+south_american_snipe,South American Snipe,DIB-10K_22,1633.South American Snipe,657
+puna_snipe,Puna Snipe,DIB-10K_22,1634.Puna Snipe,117
+noble_snipe,Noble Snipe,DIB-10K_22,1635.Noble Snipe,91
+giant_snipe,Giant Snipe,DIB-10K_22,1636.Giant Snipe,118
+fuegian_snipe,Fuegian Snipe,DIB-10K_22,1637.Fuegian Snipe,45
+jamesons_snipe,Jameson's Snipe,DIB-10K_22,1638.Jameson's Snipe,28
+imperial_snipe,Imperial Snipe,DIB-10K_22,1639.Imperial Snipe,19
+terek_sandpiper,Terek Sandpiper,DIB-10K_22,1640.Terek Sandpiper,1674
+wilsons_phalarope,Wilson's Phalarope,DIB-10K_22,1641.Wilson's Phalarope,2658
+red_necked_phalarope,Red-necked Phalarope,DIB-10K_22,1642.Red-necked Phalarope,3016
+red_phalarope,Red Phalarope,DIB-10K_22,1643.Red Phalarope,2673
+common_sandpiper,Common Sandpiper,DIB-10K_22,1644.Common Sandpiper,2991
+spotted_sandpiper,Spotted Sandpiper,DIB-10K_22,1645.Spotted Sandpiper,2765
+green_sandpiper,Green Sandpiper,DIB-10K_22,1646.Green Sandpiper,3011
+solitary_sandpiper,Solitary Sandpiper,DIB-10K_22,1647.Solitary Sandpiper,2872
+wandering_tattler,Wandering Tattler,DIB-10K_22,1648.Wandering Tattler,1655
+grey_tailed_tattler,Grey-tailed Tattler,DIB-10K_22,1649.Grey-tailed Tattler,1278
+lesser_yellowlegs,Lesser Yellowlegs,DIB-10K_22,1650.Lesser Yellowlegs,2855
+willet,Willet,DIB-10K_22,1651.Willet,2938
+common_redshank,Common Redshank,DIB-10K_22,1652.Common Redshank,2853
+marsh_sandpiper,Marsh Sandpiper,DIB-10K_22,1653.Marsh Sandpiper,2358
+wood_sandpiper,Wood Sandpiper,DIB-10K_22,1654.Wood Sandpiper,2944
+spotted_redshank,Spotted Redshank,DIB-10K_22,1655.Spotted Redshank,3023
+common_greenshank,Common Greenshank,DIB-10K_22,1656.Common Greenshank,2859
+nordmanns_greenshank,Nordmann's Greenshank,DIB-10K_22,1657.Nordmann's Greenshank,237
+greater_yellowlegs,Greater Yellowlegs,DIB-10K_22,1658.Greater Yellowlegs,2700
+cream_colored_courser,Cream-colored Courser,DIB-10K_22,1659.Cream-colored Courser,759
+somali_courser,Somali Courser,DIB-10K_22,1660.Somali Courser,103
+burchells_courser,Burchell's Courser,DIB-10K_22,1661.Burchell's Courser,117
+temmincks_courser,Temminck's Courser,DIB-10K_22,1662.Temminck's Courser,393
+indian_courser,Indian Courser,DIB-10K_22,1663.Indian Courser,493
+double_banded_courser,Double-banded Courser,DIB-10K_22,1664.Double-banded Courser,672
+three_banded_courser,Three-banded Courser,DIB-10K_22,1665.Three-banded Courser,325
+bronze_winged_courser,Bronze-winged Courser,DIB-10K_22,1666.Bronze-winged Courser,173
+jerdons_courser,Jerdon's Courser,DIB-10K_22,1667.Jerdon's Courser,21
+australian_pratincole,Australian Pratincole,DIB-10K_22,1668.Australian Pratincole,382
+collared_pratincole,Collared Pratincole,DIB-10K_22,1669.Collared Pratincole,1850
+,,DIB-10K_22,,0

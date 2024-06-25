@@ -1,0 +1,137 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+parrot_billed_seedeater,Parrot-billed Seedeater,DIB-10K_70,10799.Parrot-billed Seedeater,143
+drab_seedeater,Drab Seedeater,DIB-10K_70,10800.Drab Seedeater,63
+black_and_tawny_seedeater,Black-and-tawny Seedeater,DIB-10K_70,10801.Black-and-tawny Seedeater,39
+copper_seedeater,Copper Seedeater,DIB-10K_70,10802.Copper Seedeater,202
+pearly_bellied_seedeater,Pearly-bellied Seedeater,DIB-10K_70,10803.Pearly-bellied Seedeater,165
+ruddy_breasted_seedeater,Ruddy-breasted Seedeater,DIB-10K_70,10804.Ruddy-breasted Seedeater,837
+tawny_bellied_seedeater,Tawny-bellied Seedeater,DIB-10K_70,10805.Tawny-bellied Seedeater,243
+rufous_rumped_seedeater,Rufous-rumped Seedeater,DIB-10K_70,10806.Rufous-rumped Seedeater,93
+dark_throated_seedeater,Dark-throated Seedeater,DIB-10K_70,10807.Dark-throated Seedeater,201
+marsh_seedeater,Marsh Seedeater,DIB-10K_70,10808.Marsh Seedeater,156
+chestnut_bellied_seedeater,Chestnut-bellied Seedeater,DIB-10K_70,10809.Chestnut-bellied Seedeater,350
+chestnut_seedeater,Chestnut Seedeater,DIB-10K_70,10810.Chestnut Seedeater,139
+black_bellied_seedeater,Black-bellied Seedeater,DIB-10K_70,10811.Black-bellied Seedeater,104
+chestnut_throated_seedeater,Chestnut-throated Seedeater,DIB-10K_70,10812.Chestnut-throated Seedeater,235
+thick_billed_seed_finch,Thick-billed Seed Finch,DIB-10K_70,10813.Thick-billed Seed Finch,558
+chestnut_bellied_seed_finch,Chestnut-bellied Seed Finch,DIB-10K_70,10814.Chestnut-bellied Seed Finch,472
+nicaraguan_seed_finch,Nicaraguan Seed Finch,DIB-10K_70,10815.Nicaraguan Seed Finch,162
+large_billed_seed_finch,Large-billed Seed Finch,DIB-10K_70,10816.Large-billed Seed Finch,169
+great_billed_seed_finch,Great-billed Seed Finch,DIB-10K_70,10817.Great-billed Seed Finch,64
+black_billed_seed_finch,Black-billed Seed Finch,DIB-10K_70,10818.Black-billed Seed Finch,71
+cuban_bullfinch,Cuban Bullfinch,DIB-10K_70,10819.Cuban Bullfinch,290
+white_naped_seedeater,White-naped Seedeater,DIB-10K_70,10820.White-naped Seedeater,54
+band_tailed_seedeater,Band-tailed Seedeater,DIB-10K_70,10821.Band-tailed Seedeater,366
+plain_colored_seedeater,Plain-colored Seedeater,DIB-10K_70,10822.Plain-colored Seedeater,385
+paramo_seedeater,Paramo Seedeater,DIB-10K_70,10823.Paramo Seedeater,102
+bananaquit,Bananaquit,DIB-10K_70,10824.Bananaquit,2486
+cuban_grassquit,Cuban Grassquit,DIB-10K_70,10825.Cuban Grassquit,381
+yellow_faced_grassquit,Yellow-faced Grassquit,DIB-10K_70,10826.Yellow-faced Grassquit,1547
+dull_colored_grassquit,Dull-colored Grassquit,DIB-10K_70,10827.Dull-colored Grassquit,175
+black_faced_grassquit,Black-faced Grassquit,DIB-10K_70,10828.Black-faced Grassquit,1223
+sooty_grassquit,Sooty Grassquit,DIB-10K_70,10829.Sooty Grassquit,167
+yellow_shouldered_grassquit,Yellow-shouldered Grassquit,DIB-10K_70,10830.Yellow-shouldered Grassquit,72
+puerto_rican_bullfinch,Puerto Rican Bullfinch,DIB-10K_70,10831.Puerto Rican Bullfinch,134
+greater_antillean_bullfinch,Greater Antillean Bullfinch,DIB-10K_70,10832.Greater Antillean Bullfinch,379
+lesser_antillean_bullfinch,Lesser Antillean Bullfinch,DIB-10K_70,10833.Lesser Antillean Bullfinch,668
+barbados_bullfinch,Barbados Bullfinch,DIB-10K_70,10834.Barbados Bullfinch,210
+orangequit,Orangequit,DIB-10K_70,10835.Orangequit,197
+st._lucia_black_finch,St. Lucia Black Finch,DIB-10K_70,10836.St. Lucia Black Finch,65
+large_ground_finch,Large Ground Finch,DIB-10K_70,10837.Large Ground Finch,436
+espanola_cactus_finch,Espanola Cactus Finch,DIB-10K_70,10838.Espanola Cactus Finch,203
+medium_ground_finch,Medium Ground Finch,DIB-10K_70,10839.Medium Ground Finch,703
+small_ground_finch,Small Ground Finch,DIB-10K_70,10840.Small Ground Finch,763
+sharp_beaked_ground_finch,Sharp-beaked Ground Finch,DIB-10K_70,10841.Sharp-beaked Ground Finch,138
+genovesa_ground_finch,Genovesa Ground Finch,DIB-10K_70,10842.Genovesa Ground Finch,79
+vampire_ground_finch,Vampire Ground Finch,DIB-10K_70,10843.Vampire Ground Finch,18
+common_cactus_finch,Common Cactus Finch,DIB-10K_70,10844.Common Cactus Finch,425
+genovesa_cactus_finch,Genovesa Cactus Finch,DIB-10K_70,10845.Genovesa Cactus Finch,38
+vegetarian_finch,Vegetarian Finch,DIB-10K_70,10846.Vegetarian Finch,176
+large_tree_finch,Large Tree Finch,DIB-10K_70,10847.Large Tree Finch,72
+medium_tree_finch,Medium Tree Finch,DIB-10K_70,10848.Medium Tree Finch,78
+small_tree_finch,Small Tree Finch,DIB-10K_70,10849.Small Tree Finch,229
+woodpecker_finch,Woodpecker Finch,DIB-10K_70,10850.Woodpecker Finch,188
+mangrove_finch,Mangrove Finch,DIB-10K_70,10851.Mangrove Finch,60
+green_warbler_finch,Green Warbler-Finch,DIB-10K_70,10852.Green Warbler-Finch,199
+grey_warbler_finch,Grey Warbler-Finch,DIB-10K_70,10853.Grey Warbler-Finch,211
+cocos_finch,Cocos Finch,DIB-10K_70,10854.Cocos Finch,32
+plushcap,Plushcap,DIB-10K_70,10855.Plushcap,183
+yellow_shouldered_grosbeak,Yellow-shouldered Grosbeak,DIB-10K_70,10856.Yellow-shouldered Grosbeak,77
+santa_marta_screech_owl,Santa Marta Screech Owl,DIB-10K_70,10857.Santa Marta Screech Owl,56
+white_browed_owl,White-browed Owl,DIB-10K_70,10858.White-browed Owl,123
+rufescent_antshrike,Rufescent Antshrike,DIB-10K_70,10859.Rufescent Antshrike,2
+painted_manakin,Painted Manakin,DIB-10K_70,10860.Painted Manakin,26
+rote_myzomela,Rote Myzomela,DIB-10K_70,10861.Rote Myzomela,39
+white_bellied_whipbird,White-bellied Whipbird,DIB-10K_70,10862.White-bellied Whipbird,9
+admiralty_cicadabird,Admiralty Cicadabird,DIB-10K_70,10863.Admiralty Cicadabird,2
+taliabu_fantail,Taliabu Fantail,DIB-10K_70,10864.Taliabu Fantail,1
+maghreb_magpie,Maghreb Magpie,DIB-10K_70,10865.Maghreb Magpie,207
+asir_magpie,Asir Magpie,DIB-10K_70,10866.Asir Magpie,16
+black_rumped_magpie,Black-rumped Magpie,DIB-10K_70,10867.Black-rumped Magpie,43
+oriental_magpie,Oriental Magpie,DIB-10K_70,10868.Oriental Magpie,319
+crescent_caped_lophorina,Crescent-caped Lophorina,DIB-10K_70,10869.Crescent-caped Lophorina,65
+lesser_lophorina,Lesser Lophorina,DIB-10K_70,10870.Lesser Lophorina,4
+banggai_jungle_flycatcher,Banggai Jungle Flycatcher,DIB-10K_70,10871.Banggai Jungle Flycatcher,2
+morelets_seedeater,Morelet's Seedeater,DIB-10K_70,10872.Morelet's Seedeater,552
+rote_boobook,Rote Boobook,DIB-10K_70,10873.Rote Boobook,7
+timor_boobook,Timor Boobook,DIB-10K_70,10874.Timor Boobook,2
+buru_boobook,Buru Boobook,DIB-10K_70,10876.Buru Boobook,10
+dry_forest_sabrewing,Dry-forest Sabrewing,DIB-10K_70,10877.Dry-forest Sabrewing,18
+green_backed_hillstar,Green-backed Hillstar,DIB-10K_70,10878.Green-backed Hillstar,79
+chiriqui_foliage_gleaner,Chiriqui Foliage-gleaner,DIB-10K_70,10879.Chiriqui Foliage-gleaner,25
+rufous_breasted_antpitta,Rufous-breasted Antpitta,DIB-10K_70,10881.Rufous-breasted Antpitta,18
+bicolored_scrubwren,Bicolored Scrubwren,DIB-10K_70,10882.Bicolored Scrubwren,3
+spotted_scrubwren,Spotted Scrubwren,DIB-10K_70,10883.Spotted Scrubwren,42
+albertine_sooty_boubou,Albertine Sooty Boubou,DIB-10K_70,10884.Albertine Sooty Boubou,3
+chivi_vireo,Chivi Vireo,DIB-10K_70,10885.Chivi Vireo,331
+western_square_tailed_drongo,Western Square-tailed Drongo,DIB-10K_70,10886.Western Square-tailed Drongo,3
+sharpes_drongo,Sharpe's Drongo,DIB-10K_70,10887.Sharpe's Drongo,11
+glossy_backed_drongo,Glossy-backed Drongo,DIB-10K_70,10888.Glossy-backed Drongo,37
+fanti_drongo,Fanti Drongo,DIB-10K_70,10889.Fanti Drongo,20
+rufous_capped_lark,Rufous-capped Lark,DIB-10K_70,10890.Rufous-capped Lark,9
+rote_leaf_warbler,Rote Leaf Warbler,DIB-10K_70,10891.Rote Leaf Warbler,32
+swinhoes_white_eye,Swinhoe's White-eye,DIB-10K_70,10892.Swinhoe's White-eye,355
+humes_white_eye,Hume's White-eye,DIB-10K_70,10893.Hume's White-eye,24
+sangkar_white_eye,Sangkar White-eye,DIB-10K_70,10894.Sangkar White-eye,15
+socotra_white_eye,Socotra White-eye,DIB-10K_70,10895.Socotra White-eye,1
+mbulu_white_eye,Mbulu White-eye,DIB-10K_70,10896.Mbulu White-eye,13
+pale_white_eye,Pale White-eye,DIB-10K_70,10897.Pale White-eye,36
+aldabra_white_eye,Aldabra White-eye,DIB-10K_70,10898.Aldabra White-eye,2
+south_pare_white_eye,South Pare White-eye,DIB-10K_70,10899.South Pare White-eye,8
+southern_yellow_white_eye,Southern Yellow White-eye,DIB-10K_70,10900.Southern Yellow White-eye,15
+broad_ringed_white_eye,Broad-ringed White-eye,DIB-10K_70,10901.Broad-ringed White-eye,4
+green_white_eye,Green White-eye,DIB-10K_70,10902.Green White-eye,27
+chattering_gnatwren,Chattering Gnatwren,DIB-10K_70,10903.Chattering Gnatwren,6
+himalayan_shortwing,Himalayan Shortwing,DIB-10K_70,10904.Himalayan Shortwing,46
+chinese_shortwing,Chinese Shortwing,DIB-10K_70,10905.Chinese Shortwing,5
+taiwan_shortwing,Taiwan Shortwing,DIB-10K_70,10906.Taiwan Shortwing,34
+stejnegers_scoter,Stejneger's Scoter,DIB-10K_70,10907.Stejneger's Scoter,49
+malagasy_palm_swift,Malagasy Palm Swift,DIB-10K_70,10908.Malagasy Palm Swift,7
+green_headed_hillstar,Green-headed Hillstar,DIB-10K_70,10909.Green-headed Hillstar,19
+blue_throated_hillstar,Blue-throated Hillstar,DIB-10K_70,10910.Blue-throated Hillstar,34
+australian_tern,Australian Tern,DIB-10K_70,10911.Australian Tern,190
+indochinese_roller,Indochinese Roller,DIB-10K_70,10912.Indochinese Roller,275
+ceara_woodcreeper,Ceara Woodcreeper,DIB-10K_70,10913.Ceara Woodcreeper,14
+small_headed_elaenia,Small-headed Elaenia,DIB-10K_70,10914.Small-headed Elaenia,74
+biak_whistler,Biak Whistler,DIB-10K_70,10915.Biak Whistler,2
+sepik_ramu_shrikethrush,Sepik-Ramu Shrikethrush,DIB-10K_70,10920.Sepik-Ramu Shrikethrush,2
+rufous_shrikethrush,Rufous Shrikethrush,DIB-10K_70,10921.Rufous Shrikethrush,52
+cream_eyed_bulbul,Cream-eyed Bulbul,DIB-10K_70,10922.Cream-eyed Bulbul,6
+morotai_white_eye,Morotai White-eye,DIB-10K_70,10924.Morotai White-eye,1
+yucatan_gnatcatcher,Yucatan Gnatcatcher,DIB-10K_70,10925.Yucatan Gnatcatcher,56
+campina_thrush,Campina Thrush,DIB-10K_70,10926.Campina Thrush,6
+pantepui_thrush,Pantepui Thrush,DIB-10K_70,10927.Pantepui Thrush,7
+javan_blue_flycatcher,Javan Blue Flycatcher,DIB-10K_70,10928.Javan Blue Flycatcher,481
+indochinese_blue_flycatcher,Indochinese Blue Flycatcher,DIB-10K_70,10929.Indochinese Blue Flycatcher,160
+nicholsons_pipit,Nicholson's Pipit,DIB-10K_70,10930.Nicholson's Pipit,16
+butterfly_coquette,Butterfly Coquette,DIB-10K_70,10931.Butterfly Coquette,5
+hudsonian_whimbrel,Hudsonian Whimbrel,DIB-10K_70,10932.Hudsonian Whimbrel,543
+west_african_crested_tern,West African Crested Tern,DIB-10K_70,10933.West African Crested Tern,24
+maghreb_owl,Maghreb Owl,DIB-10K_70,10934.Maghreb Owl,5
+sunda_owlet,Sunda Owlet,DIB-10K_70,10935.Sunda Owlet,12
+alor_myzomela,Alor Myzomela,DIB-10K_70,10936.Alor Myzomela,15
+numfor_leaf_warbler,Numfor Leaf Warbler,DIB-10K_70,10938.Numfor Leaf Warbler,3
+biak_leaf_warbler,Biak Leaf Warbler,DIB-10K_70,10939.Biak Leaf Warbler,3
+swinhoes_prinia,Swinhoe's Prinia,DIB-10K_70,10940.Swinhoe's Prinia,1
+eastern_black_eared_wheatear,Eastern Black-eared Wheatear,DIB-10K_70,10943.Eastern Black-eared Wheatear,292
+,,DIB-10K_70,,0

@@ -1,0 +1,146 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+indian_yellow_nosed_albatross,Indian Yellow-nosed Albatross,DIB-10K_8,588.Indian Yellow-nosed Albatross,490
+bullers_albatross,Buller's Albatross,DIB-10K_8,589.Buller's Albatross,722
+european_storm_petrel,European Storm Petrel,DIB-10K_8,590.European Storm Petrel,618
+least_storm_petrel,Least Storm Petrel,DIB-10K_8,591.Least Storm Petrel,109
+wedge_rumped_storm_petrel,Wedge-rumped Storm Petrel,DIB-10K_8,592.Wedge-rumped Storm Petrel,241
+band_rumped_storm_petrel,Band-rumped Storm Petrel,DIB-10K_8,593.Band-rumped Storm Petrel,462
+monteiros_storm_petrel,Monteiro's Storm Petrel,DIB-10K_8,594.Monteiro's Storm Petrel,21
+cape_verde_storm_petrel,Cape Verde Storm Petrel,DIB-10K_8,595.Cape Verde Storm Petrel,18
+swinhoes_storm_petrel,Swinhoe's Storm Petrel,DIB-10K_8,596.Swinhoe's Storm Petrel,76
+leachs_storm_petrel,Leach's Storm Petrel,DIB-10K_8,597.Leach's Storm Petrel,818
+townsends_storm_petrel,Townsend's Storm Petrel,DIB-10K_8,598.Townsend's Storm Petrel,62
+ainleys_storm_petrel,Ainley's Storm Petrel,DIB-10K_8,599.Ainley's Storm Petrel,2
+markhams_storm_petrel,Markham's Storm Petrel,DIB-10K_8,600.Markham's Storm Petrel,38
+tristrams_storm_petrel,Tristram's Storm Petrel,DIB-10K_8,601.Tristram's Storm Petrel,70
+black_storm_petrel,Black Storm Petrel,DIB-10K_8,602.Black Storm Petrel,324
+guadalupe_storm_petrel,Guadalupe Storm Petrel,DIB-10K_8,603.Guadalupe Storm Petrel,19
+matsudairas_storm_petrel,Matsudaira's Storm Petrel,DIB-10K_8,604.Matsudaira's Storm Petrel,95
+ashy_storm_petrel,Ashy Storm Petrel,DIB-10K_8,605.Ashy Storm Petrel,176
+hornbys_storm_petrel,Hornby's Storm Petrel,DIB-10K_8,606.Hornby's Storm Petrel,57
+fork_tailed_storm_petrel,Fork-tailed Storm Petrel,DIB-10K_8,607.Fork-tailed Storm Petrel,637
+southern_giant_petrel,Southern Giant Petrel,DIB-10K_8,608.Southern Giant Petrel,1895
+northern_giant_petrel,Northern Giant Petrel,DIB-10K_8,609.Northern Giant Petrel,1440
+northern_fulmar,Northern Fulmar,DIB-10K_8,610.Northern Fulmar,2942
+southern_fulmar,Southern Fulmar,DIB-10K_8,611.Southern Fulmar,615
+antarctic_petrel,Antarctic Petrel,DIB-10K_8,612.Antarctic Petrel,337
+cape_petrel,Cape Petrel,DIB-10K_8,613.Cape Petrel,1211
+snow_petrel,Snow Petrel,DIB-10K_8,614.Snow Petrel,449
+blue_petrel,Blue Petrel,DIB-10K_8,615.Blue Petrel,241
+broad_billed_prion,Broad-billed Prion,DIB-10K_8,616.Broad-billed Prion,156
+salvins_prion,Salvin's Prion,DIB-10K_8,617.Salvin's Prion,60
+antarctic_prion,Antarctic Prion,DIB-10K_8,618.Antarctic Prion,444
+slender_billed_prion,Slender-billed Prion,DIB-10K_8,619.Slender-billed Prion,214
+fairy_prion,Fairy Prion,DIB-10K_8,620.Fairy Prion,619
+fulmar_prion,Fulmar Prion,DIB-10K_8,621.Fulmar Prion,93
+kerguelen_petrel,Kerguelen Petrel,DIB-10K_8,622.Kerguelen Petrel,74
+great_winged_petrel,Great-winged Petrel,DIB-10K_8,623.Great-winged Petrel,287
+white_headed_petrel,White-headed Petrel,DIB-10K_8,624.White-headed Petrel,211
+grey_faced_petrel,Grey-faced Petrel,DIB-10K_8,625.Grey-faced Petrel,210
+atlantic_petrel,Atlantic Petrel,DIB-10K_8,626.Atlantic Petrel,99
+providence_petrel,Providence Petrel,DIB-10K_8,627.Providence Petrel,362
+magenta_petrel,Magenta Petrel,DIB-10K_8,628.Magenta Petrel,43
+murphys_petrel,Murphy's Petrel,DIB-10K_8,629.Murphy's Petrel,153
+soft_plumaged_petrel,Soft-plumaged Petrel,DIB-10K_8,630.Soft-plumaged Petrel,252
+zinos_petrel,Zino's Petrel,DIB-10K_8,631.Zino's Petrel,77
+feas_petrel,Fea's Petrel,DIB-10K_8,632.Fea's Petrel,207
+desertas_petrel,Desertas Petrel,DIB-10K_8,633.Desertas Petrel,94
+bermuda_petrel,Bermuda Petrel,DIB-10K_8,634.Bermuda Petrel,190
+black_capped_petrel,Black-capped Petrel,DIB-10K_8,635.Black-capped Petrel,564
+jamaican_petrel,Jamaican Petrel,DIB-10K_8,636.Jamaican Petrel,8
+juan_fernandez_petrel,Juan Fernandez Petrel,DIB-10K_8,637.Juan Fernandez Petrel,151
+vanuatu_petrel,Vanuatu Petrel,DIB-10K_8,638.Vanuatu Petrel,4
+kermadec_petrel,Kermadec Petrel,DIB-10K_8,639.Kermadec Petrel,229
+herald_petrel,Herald Petrel,DIB-10K_8,640.Herald Petrel,72
+trindade_petrel,Trindade Petrel,DIB-10K_8,641.Trindade Petrel,107
+henderson_petrel,Henderson Petrel,DIB-10K_8,642.Henderson Petrel,42
+phoenix_petrel,Phoenix Petrel,DIB-10K_8,643.Phoenix Petrel,101
+baraus_petrel,Barau's Petrel,DIB-10K_8,644.Barau's Petrel,164
+hawaiian_petrel,Hawaiian Petrel,DIB-10K_8,645.Hawaiian Petrel,188
+galapagos_petrel,Galapagos Petrel,DIB-10K_8,646.Galapagos Petrel,191
+mottled_petrel,Mottled Petrel,DIB-10K_8,647.Mottled Petrel,192
+white_necked_petrel,White-necked Petrel,DIB-10K_8,648.White-necked Petrel,163
+black_winged_petrel,Black-winged Petrel,DIB-10K_8,649.Black-winged Petrel,250
+chatham_petrel,Chatham Petrel,DIB-10K_8,650.Chatham Petrel,34
+bonin_petrel,Bonin Petrel,DIB-10K_8,651.Bonin Petrel,173
+goulds_petrel,Gould's Petrel,DIB-10K_8,652.Gould's Petrel,120
+collared_petrel,Collared Petrel,DIB-10K_8,653.Collared Petrel,71
+cooks_petrel,Cook's Petrel,DIB-10K_8,654.Cook's Petrel,314
+de_filippis_petrel,De Filippi's Petrel,DIB-10K_8,655.De Filippi's Petrel,84
+stejnegers_petrel,Stejneger's Petrel,DIB-10K_8,656.Stejneger's Petrel,56
+pycrofts_petrel,Pycroft's Petrel,DIB-10K_8,657.Pycroft's Petrel,46
+mascarene_petrel,Mascarene Petrel,DIB-10K_8,658.Mascarene Petrel,30
+st._helena_petrel,St. Helena Petrel,DIB-10K_8,659.St. Helena Petrel,3
+tahiti_petrel,Tahiti Petrel,DIB-10K_8,660.Tahiti Petrel,327
+becks_petrel,Beck's Petrel,DIB-10K_8,661.Beck's Petrel,25
+fiji_petrel,Fiji Petrel,DIB-10K_8,662.Fiji Petrel,10
+grey_petrel,Grey Petrel,DIB-10K_8,663.Grey Petrel,142
+white_chinned_petrel,White-chinned Petrel,DIB-10K_8,664.White-chinned Petrel,1122
+spectacled_petrel,Spectacled Petrel,DIB-10K_8,665.Spectacled Petrel,150
+black_petrel,Black Petrel,DIB-10K_8,666.Black Petrel,245
+westland_petrel,Westland Petrel,DIB-10K_8,667.Westland Petrel,397
+streaked_shearwater,Streaked Shearwater,DIB-10K_8,668.Streaked Shearwater,232
+scopolis_shearwater,Scopoli's Shearwater,DIB-10K_8,669.Scopoli's Shearwater,1515
+corys_shearwater,Cory's Shearwater,DIB-10K_8,670.Cory's Shearwater,1006
+cape_verde_shearwater,Cape Verde Shearwater,DIB-10K_8,671.Cape Verde Shearwater,173
+wedge_tailed_shearwater,Wedge-tailed Shearwater,DIB-10K_8,672.Wedge-tailed Shearwater,820
+bullers_shearwater,Buller's Shearwater,DIB-10K_8,673.Buller's Shearwater,555
+sooty_shearwater,Sooty Shearwater,DIB-10K_8,674.Sooty Shearwater,1008
+short_tailed_shearwater,Short-tailed Shearwater,DIB-10K_8,675.Short-tailed Shearwater,612
+pink_footed_shearwater,Pink-footed Shearwater,DIB-10K_8,676.Pink-footed Shearwater,828
+flesh_footed_shearwater,Flesh-footed Shearwater,DIB-10K_8,677.Flesh-footed Shearwater,557
+great_shearwater,Great Shearwater,DIB-10K_8,678.Great Shearwater,1015
+christmas_shearwater,Christmas Shearwater,DIB-10K_8,679.Christmas Shearwater,113
+manx_shearwater,Manx Shearwater,DIB-10K_8,680.Manx Shearwater,2043
+yelkouan_shearwater,Yelkouan Shearwater,DIB-10K_8,681.Yelkouan Shearwater,306
+balearic_shearwater,Balearic Shearwater,DIB-10K_8,682.Balearic Shearwater,606
+bryans_shearwater,Bryan's Shearwater,DIB-10K_8,683.Bryan's Shearwater,3
+black_vented_shearwater,Black-vented Shearwater,DIB-10K_8,684.Black-vented Shearwater,810
+townsends_shearwater,Townsend's Shearwater,DIB-10K_8,685.Townsend's Shearwater,26
+newells_shearwater,Newell's Shearwater,DIB-10K_8,686.Newell's Shearwater,50
+rapa_shearwater,Rapa Shearwater,DIB-10K_8,687.Rapa Shearwater,6
+fluttering_shearwater,Fluttering Shearwater,DIB-10K_8,688.Fluttering Shearwater,321
+huttons_shearwater,Hutton's Shearwater,DIB-10K_8,689.Hutton's Shearwater,146
+audubons_shearwater,Audubon's Shearwater,DIB-10K_8,690.Audubon's Shearwater,487
+persian_shearwater,Persian Shearwater,DIB-10K_8,691.Persian Shearwater,145
+tropical_shearwater,Tropical Shearwater,DIB-10K_8,692.Tropical Shearwater,94
+galapagos_shearwater,Galapagos Shearwater,DIB-10K_8,693.Galapagos Shearwater,478
+bannermans_shearwater,Bannerman's Shearwater,DIB-10K_8,694.Bannerman's Shearwater,33
+heinroths_shearwater,Heinroth's Shearwater,DIB-10K_8,695.Heinroth's Shearwater,16
+little_shearwater,Little Shearwater,DIB-10K_8,696.Little Shearwater,121
+subantarctic_shearwater,Subantarctic Shearwater,DIB-10K_8,697.Subantarctic Shearwater,63
+barolo_shearwater,Barolo Shearwater,DIB-10K_8,698.Barolo Shearwater,74
+boyds_shearwater,Boyd's Shearwater,DIB-10K_8,699.Boyd's Shearwater,50
+peruvian_diving_petrel,Peruvian Diving Petrel,DIB-10K_8,700.Peruvian Diving Petrel,137
+magellanic_diving_petrel,Magellanic Diving Petrel,DIB-10K_8,701.Magellanic Diving Petrel,41
+south_georgia_diving_petrel,South Georgia Diving Petrel,DIB-10K_8,702.South Georgia Diving Petrel,80
+common_diving_petrel,Common Diving Petrel,DIB-10K_8,703.Common Diving Petrel,177
+bulwers_petrel,Bulwer's Petrel,DIB-10K_8,704.Bulwer's Petrel,328
+olsons_petrel,Olson's Petrel,DIB-10K_8,705.Olson's Petrel,2
+jouanins_petrel,Jouanin's Petrel,DIB-10K_8,706.Jouanin's Petrel,113
+alaotra_grebe,Alaotra Grebe,DIB-10K_8,707.Alaotra Grebe,13
+little_grebe,Little Grebe,DIB-10K_8,708.Little Grebe,2957
+tricolored_grebe,Tricolored Grebe,DIB-10K_8,709.Tricolored Grebe,35
+australasian_grebe,Australasian Grebe,DIB-10K_8,710.Australasian Grebe,2166
+madagascan_grebe,Madagascan Grebe,DIB-10K_8,711.Madagascan Grebe,93
+least_grebe,Least Grebe,DIB-10K_8,712.Least Grebe,2099
+pied_billed_grebe,Pied-billed Grebe,DIB-10K_8,713.Pied-billed Grebe,2855
+atitlan_grebe,Atitlan Grebe,DIB-10K_8,714.Atitlan Grebe,36
+white_tufted_grebe,White-tufted Grebe,DIB-10K_8,715.White-tufted Grebe,1153
+titicaca_grebe,Titicaca Grebe,DIB-10K_8,716.Titicaca Grebe,212
+hoary_headed_grebe,Hoary-headed Grebe,DIB-10K_8,717.Hoary-headed Grebe,1194
+new_zealand_grebe,New Zealand Grebe,DIB-10K_8,718.New Zealand Grebe,274
+great_grebe,Great Grebe,DIB-10K_8,719.Great Grebe,1316
+red_necked_grebe,Red-necked Grebe,DIB-10K_8,720.Red-necked Grebe,2835
+great_crested_grebe,Great Crested Grebe,DIB-10K_8,721.Great Crested Grebe,3120
+horned_grebe,Horned Grebe,DIB-10K_8,722.Horned Grebe,2830
+black_necked_grebe,Black-necked Grebe,DIB-10K_8,723.Black-necked Grebe,2746
+colombian_grebe,Colombian Grebe,DIB-10K_8,724.Colombian Grebe,12
+silvery_grebe,Silvery Grebe,DIB-10K_8,725.Silvery Grebe,1000
+junin_grebe,Junin Grebe,DIB-10K_8,726.Junin Grebe,143
+hooded_grebe,Hooded Grebe,DIB-10K_8,727.Hooded Grebe,254
+western_grebe,Western Grebe,DIB-10K_8,728.Western Grebe,2711
+clarks_grebe,Clark's Grebe,DIB-10K_8,729.Clark's Grebe,1849
+greater_flamingo,Greater Flamingo,DIB-10K_8,730.Greater Flamingo,2728
+american_flamingo,American Flamingo,DIB-10K_8,731.American Flamingo,2733
+,,DIB-10K_8,,0

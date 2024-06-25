@@ -1,0 +1,291 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+tawny_browed_owl,Tawny-browed Owl,DIB-10K_29,2496.Tawny-browed Owl,346
+band_bellied_owl,Band-bellied Owl,DIB-10K_29,2497.Band-bellied Owl,124
+northern_hawk_owl,Northern Hawk-Owl,DIB-10K_29,2498.Northern Hawk-Owl,2729
+eurasian_pygmy_owl,Eurasian Pygmy Owl,DIB-10K_29,2499.Eurasian Pygmy Owl,1731
+collared_owlet,Collared Owlet,DIB-10K_29,2500.Collared Owlet,532
+pearl_spotted_owlet,Pearl-spotted Owlet,DIB-10K_29,2501.Pearl-spotted Owlet,944
+northern_pygmy_owl,Northern Pygmy Owl,DIB-10K_29,2502.Northern Pygmy Owl,626
+mountain_pygmy_owl,Mountain Pygmy Owl,DIB-10K_29,2503.Mountain Pygmy Owl,1072
+baja_pygmy_owl,Baja Pygmy Owl,DIB-10K_29,2504.Baja Pygmy Owl,50
+guatemalan_pygmy_owl,Guatemalan Pygmy Owl,DIB-10K_29,2505.Guatemalan Pygmy Owl,74
+costa_rican_pygmy_owl,Costa Rican Pygmy Owl,DIB-10K_29,2506.Costa Rican Pygmy Owl,235
+andean_pygmy_owl,Andean Pygmy Owl,DIB-10K_29,2507.Andean Pygmy Owl,216
+cloud_forest_pygmy_owl,Cloud-forest Pygmy Owl,DIB-10K_29,2508.Cloud-forest Pygmy Owl,128
+yungas_pygmy_owl,Yungas Pygmy Owl,DIB-10K_29,2509.Yungas Pygmy Owl,72
+colima_pygmy_owl,Colima Pygmy Owl,DIB-10K_29,2510.Colima Pygmy Owl,112
+tamaulipas_pygmy_owl,Tamaulipas Pygmy Owl,DIB-10K_29,2511.Tamaulipas Pygmy Owl,83
+pernambuco_pygmy_owl,Pernambuco Pygmy Owl,DIB-10K_29,2512.Pernambuco Pygmy Owl,7
+central_american_pygmy_owl,Central American Pygmy Owl,DIB-10K_29,2513.Central American Pygmy Owl,131
+subtropical_pygmy_owl,Subtropical Pygmy Owl,DIB-10K_29,2514.Subtropical Pygmy Owl,20
+amazonian_pygmy_owl,Amazonian Pygmy Owl,DIB-10K_29,2515.Amazonian Pygmy Owl,106
+east_brazilian_pygmy_owl,East Brazilian Pygmy Owl,DIB-10K_29,2516.East Brazilian Pygmy Owl,111
+ferruginous_pygmy_owl,Ferruginous Pygmy Owl,DIB-10K_29,2517.Ferruginous Pygmy Owl,2336
+pacific_pygmy_owl,Pacific Pygmy Owl,DIB-10K_29,2518.Pacific Pygmy Owl,223
+austral_pygmy_owl,Austral Pygmy Owl,DIB-10K_29,2519.Austral Pygmy Owl,377
+cuban_pygmy_owl,Cuban Pygmy Owl,DIB-10K_29,2520.Cuban Pygmy Owl,471
+red_chested_owlet,Red-chested Owlet,DIB-10K_29,2521.Red-chested Owlet,56
+sjöstedts_barred_owlet,Sjöstedt's Barred Owlet,DIB-10K_29,2522.Sjöstedt's Barred Owlet,14
+asian_barred_owlet,Asian Barred Owlet,DIB-10K_29,2523.Asian Barred Owlet,948
+javan_owlet,Javan Owlet,DIB-10K_29,2524.Javan Owlet,35
+jungle_owlet,Jungle Owlet,DIB-10K_29,2525.Jungle Owlet,734
+chestnut_backed_owlet,Chestnut-backed Owlet,DIB-10K_29,2526.Chestnut-backed Owlet,185
+african_barred_owlet,African Barred Owlet,DIB-10K_29,2527.African Barred Owlet,337
+albertine_owlet,Albertine Owlet,DIB-10K_29,2528.Albertine Owlet,8
+long_whiskered_owlet,Long-whiskered Owlet,DIB-10K_29,2529.Long-whiskered Owlet,143
+elf_owl,Elf Owl,DIB-10K_29,2530.Elf Owl,494
+little_owl,Little Owl,DIB-10K_29,2531.Little Owl,2676
+spotted_owlet,Spotted Owlet,DIB-10K_29,2532.Spotted Owlet,2220
+burrowing_owl,Burrowing Owl,DIB-10K_29,2533.Burrowing Owl,3059
+forest_owlet,Forest Owlet,DIB-10K_29,2534.Forest Owlet,126
+boreal_owl,Boreal Owl,DIB-10K_29,2535.Boreal Owl,1484
+northern_saw_whet_owl,Northern Saw-whet Owl,DIB-10K_29,2536.Northern Saw-whet Owl,2101
+bermuda_saw_whet_owl,Bermuda Saw-whet Owl,DIB-10K_29,2537.Bermuda Saw-whet Owl,12
+unspotted_saw_whet_owl,Unspotted Saw-whet Owl,DIB-10K_29,2538.Unspotted Saw-whet Owl,130
+buff_fronted_owl,Buff-fronted Owl,DIB-10K_29,2539.Buff-fronted Owl,147
+rufous_owl,Rufous Owl,DIB-10K_29,2540.Rufous Owl,368
+togian_boobook,Togian Boobook,DIB-10K_29,2541.Togian Boobook,19
+powerful_owl,Powerful Owl,DIB-10K_29,2542.Powerful Owl,1439
+barking_owl,Barking Owl,DIB-10K_29,2543.Barking Owl,930
+sumba_boobook,Sumba Boobook,DIB-10K_29,2544.Sumba Boobook,26
+australian_boobook,Australian Boobook,DIB-10K_29,2545.Australian Boobook,479
+morepork,Morepork,DIB-10K_29,2546.Morepork,879
+brown_hawk_owl,Brown Hawk-Owl,DIB-10K_29,2547.Brown Hawk-Owl,882
+northern_boobook,Northern Boobook,DIB-10K_29,2548.Northern Boobook,188
+chocolate_boobook,Chocolate Boobook,DIB-10K_29,2549.Chocolate Boobook,35
+humes_hawk_owl,Hume's Hawk-Owl,DIB-10K_29,2550.Hume's Hawk-Owl,28
+andaman_hawk_owl,Andaman Hawk-Owl,DIB-10K_29,2551.Andaman Hawk-Owl,63
+luzon_hawk_owl,Luzon Hawk-Owl,DIB-10K_29,2553.Luzon Hawk-Owl,90
+mindanao_hawk_owl,Mindanao Hawk-Owl,DIB-10K_29,2554.Mindanao Hawk-Owl,13
+mindoro_hawk_owl,Mindoro Hawk-Owl,DIB-10K_29,2555.Mindoro Hawk-Owl,16
+romblon_hawk_owl,Romblon Hawk-Owl,DIB-10K_29,2556.Romblon Hawk-Owl,6
+cebu_hawk_owl,Cebu Hawk-Owl,DIB-10K_29,2557.Cebu Hawk-Owl,31
+camiguin_hawk_owl,Camiguin Hawk-Owl,DIB-10K_29,2558.Camiguin Hawk-Owl,42
+sulu_hawk_owl,Sulu Hawk-Owl,DIB-10K_29,2559.Sulu Hawk-Owl,7
+ochre_bellied_boobook,Ochre-bellied Boobook,DIB-10K_29,2560.Ochre-bellied Boobook,191
+cinnabar_boobook,Cinnabar Boobook,DIB-10K_29,2561.Cinnabar Boobook,24
+seram_boobook,Seram Boobook,DIB-10K_29,2562.Seram Boobook,23
+halmahera_boobook,Halmahera Boobook,DIB-10K_29,2563.Halmahera Boobook,16
+tanimbar_boobook,Tanimbar Boobook,DIB-10K_29,2564.Tanimbar Boobook,19
+christmas_boobook,Christmas Boobook,DIB-10K_29,2565.Christmas Boobook,61
+papuan_boobook,Papuan Boobook,DIB-10K_29,2566.Papuan Boobook,26
+manus_boobook,Manus Boobook,DIB-10K_29,2567.Manus Boobook,8
+speckled_boobook,Speckled Boobook,DIB-10K_29,2568.Speckled Boobook,53
+new_ireland_boobook,New Ireland Boobook,DIB-10K_29,2569.New Ireland Boobook,5
+new_britain_boobook,New Britain Boobook,DIB-10K_29,2570.New Britain Boobook,31
+solomons_boobook,Solomons Boobook,DIB-10K_29,2571.Solomons Boobook,12
+little_sumba_hawk_owl,Little Sumba Hawk-Owl,DIB-10K_29,2572.Little Sumba Hawk-Owl,13
+papuan_hawk_owl,Papuan Hawk-Owl,DIB-10K_29,2573.Papuan Hawk-Owl,22
+laughing_owl,Laughing Owl,DIB-10K_29,2574.Laughing Owl,63
+jamaican_owl,Jamaican Owl,DIB-10K_29,2575.Jamaican Owl,131
+striped_owl,Striped Owl,DIB-10K_29,2576.Striped Owl,848
+fearful_owl,Fearful Owl,DIB-10K_29,2577.Fearful Owl,24
+stygian_owl,Stygian Owl,DIB-10K_29,2578.Stygian Owl,461
+long_eared_owl,Long-eared Owl,DIB-10K_29,2579.Long-eared Owl,2085
+abyssinian_owl,Abyssinian Owl,DIB-10K_29,2580.Abyssinian Owl,65
+madagascan_owl,Madagascan Owl,DIB-10K_29,2581.Madagascan Owl,46
+short_eared_owl,Short-eared Owl,DIB-10K_29,2582.Short-eared Owl,2449
+marsh_owl,Marsh Owl,DIB-10K_29,2583.Marsh Owl,273
+marbled_frogmouth,Marbled Frogmouth,DIB-10K_29,2584.Marbled Frogmouth,76
+papuan_frogmouth,Papuan Frogmouth,DIB-10K_29,2585.Papuan Frogmouth,213
+tawny_frogmouth,Tawny Frogmouth,DIB-10K_29,2586.Tawny Frogmouth,2028
+solomons_frogmouth,Solomons Frogmouth,DIB-10K_29,2587.Solomons Frogmouth,29
+large_frogmouth,Large Frogmouth,DIB-10K_29,2588.Large Frogmouth,148
+dulit_frogmouth,Dulit Frogmouth,DIB-10K_29,2589.Dulit Frogmouth,41
+philippine_frogmouth,Philippine Frogmouth,DIB-10K_29,2590.Philippine Frogmouth,140
+goulds_frogmouth,Gould's Frogmouth,DIB-10K_29,2591.Gould's Frogmouth,128
+sri_lanka_frogmouth,Sri Lanka Frogmouth,DIB-10K_29,2592.Sri Lanka Frogmouth,438
+hodgsons_frogmouth,Hodgson's Frogmouth,DIB-10K_29,2593.Hodgson's Frogmouth,80
+sumatran_frogmouth,Sumatran Frogmouth,DIB-10K_29,2594.Sumatran Frogmouth,45
+bornean_frogmouth,Bornean Frogmouth,DIB-10K_29,2595.Bornean Frogmouth,13
+javan_frogmouth,Javan Frogmouth,DIB-10K_29,2596.Javan Frogmouth,128
+blyths_frogmouth,Blyth's Frogmouth,DIB-10K_29,2597.Blyth's Frogmouth,74
+palawan_frogmouth,Palawan Frogmouth,DIB-10K_29,2598.Palawan Frogmouth,50
+sunda_frogmouth,Sunda Frogmouth,DIB-10K_29,2599.Sunda Frogmouth,41
+oilbird,Oilbird,DIB-10K_29,2600.Oilbird,328
+great_potoo,Great Potoo,DIB-10K_29,2601.Great Potoo,418
+long_tailed_potoo,Long-tailed Potoo,DIB-10K_29,2602.Long-tailed Potoo,110
+northern_potoo,Northern Potoo,DIB-10K_29,2603.Northern Potoo,303
+common_potoo,Common Potoo,DIB-10K_29,2604.Common Potoo,1202
+andean_potoo,Andean Potoo,DIB-10K_29,2605.Andean Potoo,70
+white_winged_potoo,White-winged Potoo,DIB-10K_29,2606.White-winged Potoo,22
+rufous_potoo,Rufous Potoo,DIB-10K_29,2607.Rufous Potoo,75
+spotted_nightjar,Spotted Nightjar,DIB-10K_29,2608.Spotted Nightjar,112
+white_throated_nightjar,White-throated Nightjar,DIB-10K_29,2609.White-throated Nightjar,63
+solomons_nightjar,Solomons Nightjar,DIB-10K_29,2610.Solomons Nightjar,2
+new_caledonian_nightjar,New Caledonian Nightjar,DIB-10K_29,2611.New Caledonian Nightjar,1
+satanic_nightjar,Satanic Nightjar,DIB-10K_29,2612.Satanic Nightjar,60
+papuan_nightjar,Papuan Nightjar,DIB-10K_29,2613.Papuan Nightjar,3
+archbolds_nightjar,Archbold's Nightjar,DIB-10K_29,2614.Archbold's Nightjar,4
+malaysian_eared_nightjar,Malaysian Eared Nightjar,DIB-10K_29,2615.Malaysian Eared Nightjar,13
+great_eared_nightjar,Great Eared Nightjar,DIB-10K_29,2616.Great Eared Nightjar,82
+collared_nightjar,Collared Nightjar,DIB-10K_29,2617.Collared Nightjar,141
+nacunda_nighthawk,Nacunda Nighthawk,DIB-10K_29,2618.Nacunda Nighthawk,308
+least_nighthawk,Least Nighthawk,DIB-10K_29,2619.Least Nighthawk,84
+sand_colored_nighthawk,Sand-colored Nighthawk,DIB-10K_29,2620.Sand-colored Nighthawk,209
+lesser_nighthawk,Lesser Nighthawk,DIB-10K_29,2621.Lesser Nighthawk,1054
+common_nighthawk,Common Nighthawk,DIB-10K_29,2622.Common Nighthawk,2261
+antillean_nighthawk,Antillean Nighthawk,DIB-10K_29,2623.Antillean Nighthawk,427
+short_tailed_nighthawk,Short-tailed Nighthawk,DIB-10K_29,2624.Short-tailed Nighthawk,68
+rufous_bellied_nighthawk,Rufous-bellied Nighthawk,DIB-10K_29,2625.Rufous-bellied Nighthawk,13
+band_tailed_nighthawk,Band-tailed Nighthawk,DIB-10K_29,2626.Band-tailed Nighthawk,75
+plain_tailed_nighthawk,Plain-tailed Nighthawk,DIB-10K_29,2627.Plain-tailed Nighthawk,7
+blackish_nightjar,Blackish Nightjar,DIB-10K_29,2628.Blackish Nightjar,131
+pygmy_nightjar,Pygmy Nightjar,DIB-10K_29,2629.Pygmy Nightjar,59
+pauraque,Pauraque,DIB-10K_29,2630.Pauraque,960
+anthonys_nightjar,Anthony's Nightjar,DIB-10K_29,2631.Anthony's Nightjar,17
+todds_nightjar,Todd's Nightjar,DIB-10K_29,2632.Todd's Nightjar,3
+little_nightjar,Little Nightjar,DIB-10K_29,2633.Little Nightjar,120
+roraiman_nightjar,Roraiman Nightjar,DIB-10K_29,2634.Roraiman Nightjar,7
+cayenne_nightjar,Cayenne Nightjar,DIB-10K_29,2635.Cayenne Nightjar,7
+sickle_winged_nightjar,Sickle-winged Nightjar,DIB-10K_29,2636.Sickle-winged Nightjar,75
+white_winged_nightjar,White-winged Nightjar,DIB-10K_29,2637.White-winged Nightjar,85
+band_winged_nightjar,Band-winged Nightjar,DIB-10K_29,2638.Band-winged Nightjar,177
+tschudis_nightjar,Tschudi's Nightjar,DIB-10K_29,2639.Tschudi's Nightjar,22
+swallow_tailed_nightjar,Swallow-tailed Nightjar,DIB-10K_29,2640.Swallow-tailed Nightjar,88
+lyre_tailed_nightjar,Lyre-tailed Nightjar,DIB-10K_29,2641.Lyre-tailed Nightjar,158
+white_tailed_nightjar,White-tailed Nightjar,DIB-10K_29,2642.White-tailed Nightjar,148
+spot_tailed_nightjar,Spot-tailed Nightjar,DIB-10K_29,2643.Spot-tailed Nightjar,84
+ladder_tailed_nightjar,Ladder-tailed Nightjar,DIB-10K_29,2644.Ladder-tailed Nightjar,323
+scissor_tailed_nightjar,Scissor-tailed Nightjar,DIB-10K_29,2645.Scissor-tailed Nightjar,291
+long_trained_nightjar,Long-trained Nightjar,DIB-10K_29,2646.Long-trained Nightjar,47
+least_poorwill,Least Poorwill,DIB-10K_29,2647.Least Poorwill,23
+jamaican_poorwill,Jamaican Poorwill,DIB-10K_29,2648.Jamaican Poorwill,7
+choco_poorwill,Choco Poorwill,DIB-10K_29,2649.Choco Poorwill,14
+eared_poorwill,Eared Poorwill,DIB-10K_29,2650.Eared Poorwill,14
+yucatan_poorwill,Yucatan Poorwill,DIB-10K_29,2651.Yucatan Poorwill,22
+ocellated_poorwill,Ocellated Poorwill,DIB-10K_29,2652.Ocellated Poorwill,83
+common_poorwill,Common Poorwill,DIB-10K_29,2653.Common Poorwill,316
+chuck_wills_widow,Chuck-will's-widow,DIB-10K_29,2654.Chuck-will's-widow,323
+rufous_nightjar,Rufous Nightjar,DIB-10K_29,2655.Rufous Nightjar,86
+cuban_nightjar,Cuban Nightjar,DIB-10K_29,2656.Cuban Nightjar,46
+hispaniolan_nightjar,Hispaniolan Nightjar,DIB-10K_29,2657.Hispaniolan Nightjar,19
+tawny_collared_nightjar,Tawny-collared Nightjar,DIB-10K_29,2658.Tawny-collared Nightjar,9
+yucatan_nightjar,Yucatan Nightjar,DIB-10K_29,2659.Yucatan Nightjar,46
+silky_tailed_nightjar,Silky-tailed Nightjar,DIB-10K_29,2660.Silky-tailed Nightjar,21
+buff_collared_nightjar,Buff-collared Nightjar,DIB-10K_29,2661.Buff-collared Nightjar,103
+eastern_whip_poor_will,Eastern Whip-poor-will,DIB-10K_29,2662.Eastern Whip-poor-will,238
+mexican_whip_poor_will,Mexican Whip-poor-will,DIB-10K_29,2663.Mexican Whip-poor-will,51
+puerto_rican_nightjar,Puerto Rican Nightjar,DIB-10K_29,2664.Puerto Rican Nightjar,31
+dusky_nightjar,Dusky Nightjar,DIB-10K_29,2665.Dusky Nightjar,64
+brown_nightjar,Brown Nightjar,DIB-10K_29,2666.Brown Nightjar,8
+red_necked_nightjar,Red-necked Nightjar,DIB-10K_29,2667.Red-necked Nightjar,599
+jungle_nightjar,Jungle Nightjar,DIB-10K_29,2668.Jungle Nightjar,196
+grey_nightjar,Grey Nightjar,DIB-10K_29,2669.Grey Nightjar,157
+palau_nightjar,Palau Nightjar,DIB-10K_29,2670.Palau Nightjar,6
+european_nightjar,European Nightjar,DIB-10K_29,2671.European Nightjar,1210
+sombre_nightjar,Sombre Nightjar,DIB-10K_29,2672.Sombre Nightjar,13
+rufous_cheeked_nightjar,Rufous-cheeked Nightjar,DIB-10K_29,2673.Rufous-cheeked Nightjar,45
+egyptian_nightjar,Egyptian Nightjar,DIB-10K_29,2674.Egyptian Nightjar,177
+sykess_nightjar,Sykes's Nightjar,DIB-10K_29,2675.Sykes's Nightjar,51
+vauries_nightjar,Vaurie's Nightjar,DIB-10K_29,2676.Vaurie's Nightjar,2
+nubian_nightjar,Nubian Nightjar,DIB-10K_29,2677.Nubian Nightjar,58
+golden_nightjar,Golden Nightjar,DIB-10K_29,2678.Golden Nightjar,59
+jerdons_nightjar,Jerdon's Nightjar,DIB-10K_29,2679.Jerdon's Nightjar,59
+large_tailed_nightjar,Large-tailed Nightjar,DIB-10K_29,2680.Large-tailed Nightjar,695
+meess_nightjar,Mees's Nightjar,DIB-10K_29,2681.Mees's Nightjar,11
+andaman_nightjar,Andaman Nightjar,DIB-10K_29,2682.Andaman Nightjar,26
+philippine_nightjar,Philippine Nightjar,DIB-10K_29,2683.Philippine Nightjar,63
+sulawesi_nightjar,Sulawesi Nightjar,DIB-10K_29,2684.Sulawesi Nightjar,4
+donaldson_smiths_nightjar,Donaldson Smith's Nightjar,DIB-10K_29,2685.Donaldson Smith's Nightjar,42
+black_shouldered_nightjar,Black-shouldered Nightjar,DIB-10K_29,2686.Black-shouldered Nightjar,14
+fiery_necked_nightjar,Fiery-necked Nightjar,DIB-10K_29,2687.Fiery-necked Nightjar,120
+montane_nightjar,Montane Nightjar,DIB-10K_29,2688.Montane Nightjar,60
+indian_nightjar,Indian Nightjar,DIB-10K_29,2689.Indian Nightjar,268
+madagascan_nightjar,Madagascan Nightjar,DIB-10K_29,2690.Madagascan Nightjar,105
+swamp_nightjar,Swamp Nightjar,DIB-10K_29,2691.Swamp Nightjar,42
+nechisar_nightjar,Nechisar Nightjar,DIB-10K_29,2692.Nechisar Nightjar,5
+plain_nightjar,Plain Nightjar,DIB-10K_29,2693.Plain Nightjar,50
+star_spotted_nightjar,Star-spotted Nightjar,DIB-10K_29,2694.Star-spotted Nightjar,22
+savanna_nightjar,Savanna Nightjar,DIB-10K_29,2695.Savanna Nightjar,456
+freckled_nightjar,Freckled Nightjar,DIB-10K_29,2696.Freckled Nightjar,40
+bonapartes_nightjar,Bonaparte's Nightjar,DIB-10K_29,2697.Bonaparte's Nightjar,9
+salvadoris_nightjar,Salvadori's Nightjar,DIB-10K_29,2698.Salvadori's Nightjar,16
+prigogines_nightjar,Prigogine's Nightjar,DIB-10K_29,2699.Prigogine's Nightjar,2
+batess_nightjar,Bates's Nightjar,DIB-10K_29,2700.Bates's Nightjar,4
+long_tailed_nightjar,Long-tailed Nightjar,DIB-10K_29,2701.Long-tailed Nightjar,170
+slender_tailed_nightjar,Slender-tailed Nightjar,DIB-10K_29,2702.Slender-tailed Nightjar,132
+square_tailed_nightjar,Square-tailed Nightjar,DIB-10K_29,2703.Square-tailed Nightjar,100
+standard_winged_nightjar,Standard-winged Nightjar,DIB-10K_29,2704.Standard-winged Nightjar,107
+pennant_winged_nightjar,Pennant-winged Nightjar,DIB-10K_29,2705.Pennant-winged Nightjar,91
+feline_owlet_nightjar,Feline Owlet-nightjar,DIB-10K_29,2706.Feline Owlet-nightjar,74
+starry_owlet_nightjar,Starry Owlet-nightjar,DIB-10K_29,2707.Starry Owlet-nightjar,5
+moluccan_owlet_nightjar,Moluccan Owlet-nightjar,DIB-10K_29,2708.Moluccan Owlet-nightjar,48
+wallaces_owlet_nightjar,Wallace's Owlet-nightjar,DIB-10K_29,2709.Wallace's Owlet-nightjar,10
+mountain_owlet_nightjar,Mountain Owlet-nightjar,DIB-10K_29,2710.Mountain Owlet-nightjar,74
+new_caledonian_owlet_nightjar,New Caledonian Owlet-nightjar,DIB-10K_29,2711.New Caledonian Owlet-nightjar,14
+barred_owlet_nightjar,Barred Owlet-nightjar,DIB-10K_29,2712.Barred Owlet-nightjar,36
+vogelkop_owlet_nightjar,Vogelkop Owlet-nightjar,DIB-10K_29,2713.Vogelkop Owlet-nightjar,9
+australian_owlet_nightjar,Australian Owlet-nightjar,DIB-10K_29,2714.Australian Owlet-nightjar,352
+crested_treeswift,Crested Treeswift,DIB-10K_29,2715.Crested Treeswift,411
+grey_rumped_treeswift,Grey-rumped Treeswift,DIB-10K_29,2716.Grey-rumped Treeswift,507
+whiskered_treeswift,Whiskered Treeswift,DIB-10K_29,2717.Whiskered Treeswift,528
+moustached_treeswift,Moustached Treeswift,DIB-10K_29,2718.Moustached Treeswift,114
+spot_fronted_swift,Spot-fronted Swift,DIB-10K_29,2719.Spot-fronted Swift,38
+white_chinned_swift,White-chinned Swift,DIB-10K_29,2720.White-chinned Swift,78
+white_fronted_swift,White-fronted Swift,DIB-10K_29,2721.White-fronted Swift,17
+sooty_swift,Sooty Swift,DIB-10K_29,2722.Sooty Swift,47
+rothschilds_swift,Rothschild's Swift,DIB-10K_29,2723.Rothschild's Swift,49
+american_black_swift,American Black Swift,DIB-10K_29,2724.American Black Swift,473
+white_chested_swift,White-chested Swift,DIB-10K_29,2725.White-chested Swift,28
+great_dusky_swift,Great Dusky Swift,DIB-10K_29,2726.Great Dusky Swift,199
+tepui_swift,Tepui Swift,DIB-10K_29,2727.Tepui Swift,11
+chestnut_collared_swift,Chestnut-collared Swift,DIB-10K_29,2728.Chestnut-collared Swift,122
+white_collared_swift,White-collared Swift,DIB-10K_29,2729.White-collared Swift,533
+biscutate_swift,Biscutate Swift,DIB-10K_29,2730.Biscutate Swift,62
+white_naped_swift,White-naped Swift,DIB-10K_29,2731.White-naped Swift,32
+giant_swiftlet,Giant Swiftlet,DIB-10K_29,2732.Giant Swiftlet,7
+plume_toed_swiftlet,Plume-toed Swiftlet,DIB-10K_29,2733.Plume-toed Swiftlet,61
+grey_rumped_swiftlet,Grey-rumped Swiftlet,DIB-10K_29,2734.Grey-rumped Swiftlet,42
+ridgetop_swiftlet,Ridgetop Swiftlet,DIB-10K_29,2735.Ridgetop Swiftlet,29
+tenggara_swiftlet,Tenggara Swiftlet,DIB-10K_29,2736.Tenggara Swiftlet,16
+drab_swiftlet,Drab Swiftlet,DIB-10K_29,2737.Drab Swiftlet,24
+glossy_swiftlet,Glossy Swiftlet,DIB-10K_29,2738.Glossy Swiftlet,215
+satin_swiftlet,Satin Swiftlet,DIB-10K_29,2739.Satin Swiftlet,24
+bornean_swiftlet,Bornean Swiftlet,DIB-10K_29,2740.Bornean Swiftlet,45
+cave_swiftlet,Cave Swiftlet,DIB-10K_29,2741.Cave Swiftlet,114
+christmas_island_swiftlet,Christmas Island Swiftlet,DIB-10K_29,2742.Christmas Island Swiftlet,18
+pygmy_swiftlet,Pygmy Swiftlet,DIB-10K_29,2743.Pygmy Swiftlet,34
+seychelles_swiftlet,Seychelles Swiftlet,DIB-10K_29,2744.Seychelles Swiftlet,33
+mascarene_swiftlet,Mascarene Swiftlet,DIB-10K_29,2745.Mascarene Swiftlet,52
+indian_swiftlet,Indian Swiftlet,DIB-10K_29,2746.Indian Swiftlet,89
+philippine_swiftlet,Philippine Swiftlet,DIB-10K_29,2747.Philippine Swiftlet,24
+halmahera_swiftlet,Halmahera Swiftlet,DIB-10K_29,2748.Halmahera Swiftlet,7
+sulawesi_swiftlet,Sulawesi Swiftlet,DIB-10K_29,2749.Sulawesi Swiftlet,16
+seram_swiftlet,Seram Swiftlet,DIB-10K_29,2750.Seram Swiftlet,7
+mountain_swiftlet,Mountain Swiftlet,DIB-10K_29,2751.Mountain Swiftlet,16
+white_rumped_swiftlet,White-rumped Swiftlet,DIB-10K_29,2752.White-rumped Swiftlet,112
+australian_swiftlet,Australian Swiftlet,DIB-10K_29,2753.Australian Swiftlet,72
+himalayan_swiftlet,Himalayan Swiftlet,DIB-10K_29,2754.Himalayan Swiftlet,147
+volcano_swiftlet,Volcano Swiftlet,DIB-10K_29,2755.Volcano Swiftlet,5
+whiteheads_swiftlet,Whitehead's Swiftlet,DIB-10K_29,2756.Whitehead's Swiftlet,1
+bare_legged_swiftlet,Bare-legged Swiftlet,DIB-10K_29,2757.Bare-legged Swiftlet,3
+mayrs_swiftlet,Mayr's Swiftlet,DIB-10K_29,2758.Mayr's Swiftlet,3
+mossy_nest_swiftlet,Mossy-nest Swiftlet,DIB-10K_29,2759.Mossy-nest Swiftlet,44
+uniform_swiftlet,Uniform Swiftlet,DIB-10K_29,2760.Uniform Swiftlet,103
+ameline_swiftlet,Ameline Swiftlet,DIB-10K_29,2761.Ameline Swiftlet,23
+palau_swiftlet,Palau Swiftlet,DIB-10K_29,2762.Palau Swiftlet,11
+mariana_swiftlet,Mariana Swiftlet,DIB-10K_29,2763.Mariana Swiftlet,26
+island_swiftlet,Island Swiftlet,DIB-10K_29,2764.Island Swiftlet,18
+tahiti_swiftlet,Tahiti Swiftlet,DIB-10K_29,2765.Tahiti Swiftlet,8
+atiu_swiftlet,Atiu Swiftlet,DIB-10K_29,2766.Atiu Swiftlet,16
+marquesan_swiftlet,Marquesan Swiftlet,DIB-10K_29,2767.Marquesan Swiftlet,7
+black_nest_swiftlet,Black-nest Swiftlet,DIB-10K_29,2768.Black-nest Swiftlet,71
+edible_nest_swiftlet,Edible-nest Swiftlet,DIB-10K_29,2769.Edible-nest Swiftlet,83
+germains_swiftlet,Germain's Swiftlet,DIB-10K_29,2770.Germain's Swiftlet,173
+three_toed_swiftlet,Three-toed Swiftlet,DIB-10K_29,2771.Three-toed Swiftlet,2
+scarce_swift,Scarce Swift,DIB-10K_29,2772.Scarce Swift,33
+philippine_spine_tailed_swift,Philippine Spine-tailed Swift,DIB-10K_29,2774.Philippine Spine-tailed Swift,17
+papuan_spine_tailed_swift,Papuan Spine-tailed Swift,DIB-10K_29,2775.Papuan Spine-tailed Swift,26
+madagascan_spinetail,Madagascan Spinetail,DIB-10K_29,2776.Madagascan Spinetail,23
+sao_tome_spinetail,Sao Tome Spinetail,DIB-10K_29,2777.Sao Tome Spinetail,26
+white_rumped_spinetail,White-rumped Spinetail,DIB-10K_29,2778.White-rumped Spinetail,37
+mottled_spinetail,Mottled Spinetail,DIB-10K_29,2779.Mottled Spinetail,71
+black_spinetail,Black Spinetail,DIB-10K_29,2780.Black Spinetail,13
+silver_rumped_spinetail,Silver-rumped Spinetail,DIB-10K_29,2781.Silver-rumped Spinetail,56
+sabines_spinetail,Sabine's Spinetail,DIB-10K_29,2782.Sabine's Spinetail,29
+cassins_spinetail,Cassin's Spinetail,DIB-10K_29,2783.Cassin's Spinetail,29
+böhms_spinetail,Böhm's Spinetail,DIB-10K_29,2784.Böhm's Spinetail,46
+white_throated_needletail,White-throated Needletail,DIB-10K_29,2785.White-throated Needletail,413
+silver_backed_needletail,Silver-backed Needletail,DIB-10K_29,2786.Silver-backed Needletail,88
+,,DIB-10K_29,,0

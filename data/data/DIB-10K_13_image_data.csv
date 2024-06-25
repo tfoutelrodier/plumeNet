@@ -1,0 +1,71 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+black_faced_cormorant,Black-faced Cormorant,DIB-10K_13,908.Black-faced Cormorant,530
+indian_cormorant,Indian Cormorant,DIB-10K_13,909.Indian Cormorant,1196
+little_black_cormorant,Little Black Cormorant,DIB-10K_13,910.Little Black Cormorant,1960
+australian_pied_cormorant,Australian Pied Cormorant,DIB-10K_13,911.Australian Pied Cormorant,2561
+great_cormorant,Great Cormorant,DIB-10K_13,912.Great Cormorant,2995
+white_breasted_cormorant,White-breasted Cormorant,DIB-10K_13,913.White-breasted Cormorant,1131
+japanese_cormorant,Japanese Cormorant,DIB-10K_13,914.Japanese Cormorant,349
+cape_cormorant,Cape Cormorant,DIB-10K_13,915.Cape Cormorant,794
+socotra_cormorant,Socotra Cormorant,DIB-10K_13,916.Socotra Cormorant,289
+rock_shag,Rock Shag,DIB-10K_13,917.Rock Shag,901
+guanay_cormorant,Guanay Cormorant,DIB-10K_13,918.Guanay Cormorant,658
+imperial_shag,Imperial Shag,DIB-10K_13,919.Imperial Shag,1600
+south_georgia_shag,South Georgia Shag,DIB-10K_13,920.South Georgia Shag,196
+antarctic_shag,Antarctic Shag,DIB-10K_13,921.Antarctic Shag,453
+heard_island_shag,Heard Island Shag,DIB-10K_13,922.Heard Island Shag,19
+crozet_shag,Crozet Shag,DIB-10K_13,923.Crozet Shag,30
+macquarie_shag,Macquarie Shag,DIB-10K_13,924.Macquarie Shag,58
+kerguelen_shag,Kerguelen Shag,DIB-10K_13,925.Kerguelen Shag,62
+new_zealand_king_shag,New Zealand King Shag,DIB-10K_13,926.New Zealand King Shag,163
+otago_shag,Otago Shag,DIB-10K_13,927.Otago Shag,173
+foveaux_shag,Foveaux Shag,DIB-10K_13,928.Foveaux Shag,19
+chatham_shag,Chatham Shag,DIB-10K_13,929.Chatham Shag,24
+campbell_shag,Campbell Shag,DIB-10K_13,930.Campbell Shag,69
+auckland_shag,Auckland Shag,DIB-10K_13,931.Auckland Shag,87
+bounty_shag,Bounty Shag,DIB-10K_13,932.Bounty Shag,37
+oriental_darter,Oriental Darter,DIB-10K_13,933.Oriental Darter,2469
+african_darter,African Darter,DIB-10K_13,934.African Darter,1847
+australasian_darter,Australasian Darter,DIB-10K_13,935.Australasian Darter,2234
+anhinga,Anhinga,DIB-10K_13,936.Anhinga,2695
+turkey_vulture,Turkey Vulture,DIB-10K_13,937.Turkey Vulture,3038
+lesser_yellow_headed_vulture,Lesser Yellow-headed Vulture,DIB-10K_13,938.Lesser Yellow-headed Vulture,1771
+greater_yellow_headed_vulture,Greater Yellow-headed Vulture,DIB-10K_13,939.Greater Yellow-headed Vulture,549
+black_vulture,Black Vulture,DIB-10K_13,940.Black Vulture,3011
+king_vulture,King Vulture,DIB-10K_13,941.King Vulture,2477
+california_condor,California Condor,DIB-10K_13,942.California Condor,1844
+andean_condor,Andean Condor,DIB-10K_13,943.Andean Condor,2525
+secretarybird,Secretarybird,DIB-10K_13,944.Secretarybird,2432
+western_osprey,Western Osprey,DIB-10K_13,945.Western Osprey,2624
+eastern_osprey,Eastern Osprey,DIB-10K_13,946.Eastern Osprey,1051
+black_winged_kite,Black-winged Kite,DIB-10K_13,947.Black-winged Kite,2866
+black_shouldered_kite,Black-shouldered Kite,DIB-10K_13,948.Black-shouldered Kite,2396
+white_tailed_kite,White-tailed Kite,DIB-10K_13,949.White-tailed Kite,2845
+letter_winged_kite,Letter-winged Kite,DIB-10K_13,950.Letter-winged Kite,233
+pearl_kite,Pearl Kite,DIB-10K_13,951.Pearl Kite,906
+scissor_tailed_kite,Scissor-tailed Kite,DIB-10K_13,952.Scissor-tailed Kite,154
+african_harrier_hawk,African Harrier-Hawk,DIB-10K_13,953.African Harrier-Hawk,1262
+madagascan_harrier_hawk,Madagascan Harrier-Hawk,DIB-10K_13,954.Madagascan Harrier-Hawk,159
+palm_nut_vulture,Palm-nut Vulture,DIB-10K_13,955.Palm-nut Vulture,1116
+bearded_vulture,Bearded Vulture,DIB-10K_13,956.Bearded Vulture,2297
+egyptian_vulture,Egyptian Vulture,DIB-10K_13,957.Egyptian Vulture,3012
+madagascan_serpent_eagle,Madagascan Serpent Eagle,DIB-10K_13,958.Madagascan Serpent Eagle,17
+grey_headed_kite,Grey-headed Kite,DIB-10K_13,959.Grey-headed Kite,528
+white_collared_kite,White-collared Kite,DIB-10K_13,960.White-collared Kite,78
+hook_billed_kite,Hook-billed Kite,DIB-10K_13,961.Hook-billed Kite,890
+cuban_kite,Cuban Kite,DIB-10K_13,962.Cuban Kite,29
+european_honey_buzzard,European Honey Buzzard,DIB-10K_13,963.European Honey Buzzard,2381
+crested_honey_buzzard,Crested Honey Buzzard,DIB-10K_13,964.Crested Honey Buzzard,1590
+barred_honey_buzzard,Barred Honey Buzzard,DIB-10K_13,965.Barred Honey Buzzard,33
+philippine_honey_buzzard,Philippine Honey Buzzard,DIB-10K_13,966.Philippine Honey Buzzard,35
+swallow_tailed_kite,Swallow-tailed Kite,DIB-10K_13,967.Swallow-tailed Kite,2402
+square_tailed_kite,Square-tailed Kite,DIB-10K_13,968.Square-tailed Kite,695
+black_breasted_buzzard,Black-breasted Buzzard,DIB-10K_13,969.Black-breasted Buzzard,542
+african_cuckoo_hawk,African Cuckoo-Hawk,DIB-10K_13,970.African Cuckoo-Hawk,201
+madagascan_cuckoo_hawk,Madagascan Cuckoo-Hawk,DIB-10K_13,971.Madagascan Cuckoo-Hawk,68
+jerdons_baza,Jerdon's Baza,DIB-10K_13,972.Jerdon's Baza,291
+pacific_baza,Pacific Baza,DIB-10K_13,973.Pacific Baza,890
+black_baza,Black Baza,DIB-10K_13,974.Black Baza,658
+long_tailed_honey_buzzard,Long-tailed Honey Buzzard,DIB-10K_13,975.Long-tailed Honey Buzzard,56
+black_honey_buzzard,Black Honey Buzzard,DIB-10K_13,976.Black Honey Buzzard,21
+,,DIB-10K_13,,0

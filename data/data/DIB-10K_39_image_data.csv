@@ -1,0 +1,236 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+buru_racket_tail,Buru Racket-tail,DIB-10K_39,4225.Buru Racket-tail,38
+golden_mantled_racket_tail,Golden-mantled Racket-tail,DIB-10K_39,4226.Golden-mantled Racket-tail,26
+mindanao_racket_tail,Mindanao Racket-tail,DIB-10K_39,4227.Mindanao Racket-tail,16
+montane_racket_tail,Montane Racket-tail,DIB-10K_39,4228.Montane Racket-tail,10
+blue_headed_racket_tail,Blue-headed Racket-tail,DIB-10K_39,4229.Blue-headed Racket-tail,46
+mindoro_racket_tail,Mindoro Racket-tail,DIB-10K_39,4230.Mindoro Racket-tail,15
+blue_winged_racket_tail,Blue-winged Racket-tail,DIB-10K_39,4231.Blue-winged Racket-tail,10
+yellow_breasted_racket_tail,Yellow-breasted Racket-tail,DIB-10K_39,4232.Yellow-breasted Racket-tail,34
+green_racket_tail,Green Racket-tail,DIB-10K_39,4233.Green Racket-tail,34
+blue_crowned_racket_tail,Blue-crowned Racket-tail,DIB-10K_39,4234.Blue-crowned Racket-tail,33
+eclectus_parrot,Eclectus Parrot,DIB-10K_39,4235.Eclectus Parrot,1386
+red_cheeked_parrot,Red-cheeked Parrot,DIB-10K_39,4236.Red-cheeked Parrot,228
+blue_collared_parrot,Blue-collared Parrot,DIB-10K_39,4237.Blue-collared Parrot,23
+song_parrot,Song Parrot,DIB-10K_39,4238.Song Parrot,43
+blue_rumped_parrot,Blue-rumped Parrot,DIB-10K_39,4239.Blue-rumped Parrot,311
+great_billed_parrot,Great-billed Parrot,DIB-10K_39,4240.Great-billed Parrot,132
+blue_naped_parrot,Blue-naped Parrot,DIB-10K_39,4241.Blue-naped Parrot,318
+blue_backed_parrot,Blue-backed Parrot,DIB-10K_39,4242.Blue-backed Parrot,95
+black_lored_parrot,Black-lored Parrot,DIB-10K_39,4243.Black-lored Parrot,22
+grey_headed_parakeet,Grey-headed Parakeet,DIB-10K_39,4244.Grey-headed Parakeet,74
+slaty_headed_parakeet,Slaty-headed Parakeet,DIB-10K_39,4245.Slaty-headed Parakeet,247
+blossom_headed_parakeet,Blossom-headed Parakeet,DIB-10K_39,4246.Blossom-headed Parakeet,244
+plum_headed_parakeet,Plum-headed Parakeet,DIB-10K_39,4247.Plum-headed Parakeet,1028
+red_breasted_parakeet,Red-breasted Parakeet,DIB-10K_39,4248.Red-breasted Parakeet,1043
+lord_derbys_parakeet,Lord Derby's Parakeet,DIB-10K_39,4249.Lord Derby's Parakeet,140
+long_tailed_parakeet,Long-tailed Parakeet,DIB-10K_39,4250.Long-tailed Parakeet,558
+blue_winged_parakeet,Blue-winged Parakeet,DIB-10K_39,4251.Blue-winged Parakeet,305
+layards_parakeet,Layard's Parakeet,DIB-10K_39,4252.Layard's Parakeet,73
+alexandrine_parakeet,Alexandrine Parakeet,DIB-10K_39,4253.Alexandrine Parakeet,1268
+seychelles_parakeet,Seychelles Parakeet,DIB-10K_39,4254.Seychelles Parakeet,13
+rose_ringed_parakeet,Rose-ringed Parakeet,DIB-10K_39,4255.Rose-ringed Parakeet,2447
+echo_parakeet,Echo Parakeet,DIB-10K_39,4256.Echo Parakeet,118
+newtons_parakeet,Newton's Parakeet,DIB-10K_39,4257.Newton's Parakeet,13
+nicobar_parakeet,Nicobar Parakeet,DIB-10K_39,4258.Nicobar Parakeet,20
+mascarene_grey_parakeet,Mascarene Grey Parakeet,DIB-10K_39,4259.Mascarene Grey Parakeet,3
+brehms_tiger_parrot,Brehm's Tiger Parrot,DIB-10K_39,4260.Brehm's Tiger Parrot,157
+painted_tiger_parrot,Painted Tiger Parrot,DIB-10K_39,4261.Painted Tiger Parrot,48
+modest_tiger_parrot,Modest Tiger Parrot,DIB-10K_39,4262.Modest Tiger Parrot,23
+madaraszs_tiger_parrot,Madarasz's Tiger Parrot,DIB-10K_39,4263.Madarasz's Tiger Parrot,14
+red_rumped_parrot,Red-rumped Parrot,DIB-10K_39,4264.Red-rumped Parrot,2244
+eastern_bluebonnet,Eastern Bluebonnet,DIB-10K_39,4265.Eastern Bluebonnet,350
+naretha_bluebonnet,Naretha Bluebonnet,DIB-10K_39,4266.Naretha Bluebonnet,47
+mulga_parrot,Mulga Parrot,DIB-10K_39,4267.Mulga Parrot,914
+hooded_parrot,Hooded Parrot,DIB-10K_39,4268.Hooded Parrot,565
+golden_shouldered_parrot,Golden-shouldered Parrot,DIB-10K_39,4269.Golden-shouldered Parrot,272
+paradise_parrot,Paradise Parrot,DIB-10K_39,4270.Paradise Parrot,65
+red_capped_parrot,Red-capped Parrot,DIB-10K_39,4271.Red-capped Parrot,428
+green_rosella,Green Rosella,DIB-10K_39,4272.Green Rosella,522
+crimson_rosella,Crimson Rosella,DIB-10K_39,4273.Crimson Rosella,2716
+northern_rosella,Northern Rosella,DIB-10K_39,4274.Northern Rosella,286
+pale_headed_rosella,Pale-headed Rosella,DIB-10K_39,4275.Pale-headed Rosella,937
+eastern_rosella,Eastern Rosella,DIB-10K_39,4276.Eastern Rosella,2101
+western_rosella,Western Rosella,DIB-10K_39,4277.Western Rosella,515
+australian_ringneck,Australian Ringneck,DIB-10K_39,4278.Australian Ringneck,1510
+swift_parrot,Swift Parrot,DIB-10K_39,4279.Swift Parrot,723
+crimson_shining_parrot,Crimson Shining Parrot,DIB-10K_39,4280.Crimson Shining Parrot,55
+masked_shining_parrot,Masked Shining Parrot,DIB-10K_39,4281.Masked Shining Parrot,67
+maroon_shining_parrot,Maroon Shining Parrot,DIB-10K_39,4282.Maroon Shining Parrot,93
+horned_parakeet,Horned Parakeet,DIB-10K_39,4283.Horned Parakeet,199
+ouvea_parakeet,Ouvea Parakeet,DIB-10K_39,4284.Ouvea Parakeet,83
+black_fronted_parakeet,Black-fronted Parakeet,DIB-10K_39,4285.Black-fronted Parakeet,19
+raiatea_parakeet,Raiatea Parakeet,DIB-10K_39,4286.Raiatea Parakeet,8
+new_caledonian_parakeet,New Caledonian Parakeet,DIB-10K_39,4287.New Caledonian Parakeet,25
+chatham_parakeet,Chatham Parakeet,DIB-10K_39,4288.Chatham Parakeet,13
+norfolk_parakeet,Norfolk Parakeet,DIB-10K_39,4289.Norfolk Parakeet,53
+lord_howe_parakeet,Lord Howe Parakeet,DIB-10K_39,4290.Lord Howe Parakeet,4
+antipodes_parakeet,Antipodes Parakeet,DIB-10K_39,4291.Antipodes Parakeet,95
+yellow_crowned_parakeet,Yellow-crowned Parakeet,DIB-10K_39,4292.Yellow-crowned Parakeet,250
+malherbes_parakeet,Malherbe's Parakeet,DIB-10K_39,4293.Malherbe's Parakeet,58
+red_crowned_parakeet,Red-crowned Parakeet,DIB-10K_39,4294.Red-crowned Parakeet,762
+reischeks_parakeet,Reischek's Parakeet,DIB-10K_39,4295.Reischek's Parakeet,26
+macquarie_parakeet,Macquarie Parakeet,DIB-10K_39,4296.Macquarie Parakeet,2
+eastern_ground_parrot,Eastern Ground Parrot,DIB-10K_39,4297.Eastern Ground Parrot,104
+western_ground_parrot,Western Ground Parrot,DIB-10K_39,4298.Western Ground Parrot,47
+night_parrot,Night Parrot,DIB-10K_39,4299.Night Parrot,46
+bourkes_parrot,Bourke's Parrot,DIB-10K_39,4300.Bourke's Parrot,440
+blue_winged_parrot,Blue-winged Parrot,DIB-10K_39,4301.Blue-winged Parrot,458
+elegant_parrot,Elegant Parrot,DIB-10K_39,4302.Elegant Parrot,420
+rock_parrot,Rock Parrot,DIB-10K_39,4303.Rock Parrot,287
+orange_bellied_parrot,Orange-bellied Parrot,DIB-10K_39,4304.Orange-bellied Parrot,529
+turquoise_parrot,Turquoise Parrot,DIB-10K_39,4305.Turquoise Parrot,644
+scarlet_chested_parrot,Scarlet-chested Parrot,DIB-10K_39,4306.Scarlet-chested Parrot,307
+plum_faced_lorikeet,Plum-faced Lorikeet,DIB-10K_39,4307.Plum-faced Lorikeet,71
+palm_lorikeet,Palm Lorikeet,DIB-10K_39,4308.Palm Lorikeet,16
+red_chinned_lorikeet,Red-chinned Lorikeet,DIB-10K_39,4309.Red-chinned Lorikeet,4
+meeks_lorikeet,Meek's Lorikeet,DIB-10K_39,4310.Meek's Lorikeet,13
+blue_fronted_lorikeet,Blue-fronted Lorikeet,DIB-10K_39,4311.Blue-fronted Lorikeet,16
+striated_lorikeet,Striated Lorikeet,DIB-10K_39,4312.Striated Lorikeet,18
+pygmy_lorikeet,Pygmy Lorikeet,DIB-10K_39,4313.Pygmy Lorikeet,26
+red_fronted_lorikeet,Red-fronted Lorikeet,DIB-10K_39,4314.Red-fronted Lorikeet,44
+red_flanked_lorikeet,Red-flanked Lorikeet,DIB-10K_39,4315.Red-flanked Lorikeet,155
+new_caledonian_lorikeet,New Caledonian Lorikeet,DIB-10K_39,4316.New Caledonian Lorikeet,13
+red_throated_lorikeet,Red-throated Lorikeet,DIB-10K_39,4317.Red-throated Lorikeet,21
+duchess_lorikeet,Duchess Lorikeet,DIB-10K_39,4318.Duchess Lorikeet,16
+fairy_lorikeet,Fairy Lorikeet,DIB-10K_39,4319.Fairy Lorikeet,57
+josephines_lorikeet,Josephine's Lorikeet,DIB-10K_39,4320.Josephine's Lorikeet,37
+papuan_lorikeet,Papuan Lorikeet,DIB-10K_39,4321.Papuan Lorikeet,161
+blue_crowned_lorikeet,Blue-crowned Lorikeet,DIB-10K_39,4322.Blue-crowned Lorikeet,129
+kuhls_lorikeet,Kuhl's Lorikeet,DIB-10K_39,4323.Kuhl's Lorikeet,64
+stephens_lorikeet,Stephen's Lorikeet,DIB-10K_39,4324.Stephen's Lorikeet,8
+blue_lorikeet,Blue Lorikeet,DIB-10K_39,4325.Blue Lorikeet,127
+ultramarine_lorikeet,Ultramarine Lorikeet,DIB-10K_39,4326.Ultramarine Lorikeet,30
+collared_lory,Collared Lory,DIB-10K_39,4327.Collared Lory,242
+yellow_billed_lorikeet,Yellow-billed Lorikeet,DIB-10K_39,4328.Yellow-billed Lorikeet,59
+orange_billed_lorikeet,Orange-billed Lorikeet,DIB-10K_39,4329.Orange-billed Lorikeet,45
+little_lorikeet,Little Lorikeet,DIB-10K_39,4330.Little Lorikeet,272
+purple_crowned_lorikeet,Purple-crowned Lorikeet,DIB-10K_39,4331.Purple-crowned Lorikeet,426
+chattering_lory,Chattering Lory,DIB-10K_39,4332.Chattering Lory,371
+purple_naped_lory,Purple-naped Lory,DIB-10K_39,4333.Purple-naped Lory,162
+black_capped_lory,Black-capped Lory,DIB-10K_39,4334.Black-capped Lory,590
+purple_bellied_lory,Purple-bellied Lory,DIB-10K_39,4335.Purple-bellied Lory,126
+white_naped_lory,White-naped Lory,DIB-10K_39,4336.White-naped Lory,2
+yellow_bibbed_lory,Yellow-bibbed Lory,DIB-10K_39,4337.Yellow-bibbed Lory,221
+black_lory,Black Lory,DIB-10K_39,4338.Black Lory,158
+brown_lory,Brown Lory,DIB-10K_39,4339.Brown Lory,143
+yellowish_streaked_lory,Yellowish-streaked Lory,DIB-10K_39,4340.Yellowish-streaked Lory,57
+dusky_lory,Dusky Lory,DIB-10K_39,4341.Dusky Lory,261
+cardinal_lory,Cardinal Lory,DIB-10K_39,4342.Cardinal Lory,162
+varied_lorikeet,Varied Lorikeet,DIB-10K_39,4343.Varied Lorikeet,210
+iris_lorikeet,Iris Lorikeet,DIB-10K_39,4344.Iris Lorikeet,152
+goldies_lorikeet,Goldie's Lorikeet,DIB-10K_39,4345.Goldie's Lorikeet,79
+red_and_blue_lory,Red-and-blue Lory,DIB-10K_39,4346.Red-and-blue Lory,145
+violet_necked_lory,Violet-necked Lory,DIB-10K_39,4347.Violet-necked Lory,126
+red_lory,Red Lory,DIB-10K_39,4348.Red Lory,412
+blue_streaked_lory,Blue-streaked Lory,DIB-10K_39,4349.Blue-streaked Lory,262
+black_winged_lory,Black-winged Lory,DIB-10K_39,4350.Black-winged Lory,85
+blue_eared_lory,Blue-eared Lory,DIB-10K_39,4351.Blue-eared Lory,75
+ornate_lorikeet,Ornate Lorikeet,DIB-10K_39,4352.Ornate Lorikeet,152
+sunset_lorikeet,Sunset Lorikeet,DIB-10K_39,4353.Sunset Lorikeet,99
+leaf_lorikeet,Leaf Lorikeet,DIB-10K_39,4354.Leaf Lorikeet,33
+marigold_lorikeet,Marigold Lorikeet,DIB-10K_39,4355.Marigold Lorikeet,56
+coconut_lorikeet,Coconut Lorikeet,DIB-10K_39,4356.Coconut Lorikeet,2044
+biak_lorikeet,Biak Lorikeet,DIB-10K_39,4357.Biak Lorikeet,25
+rainbow_lorikeet,Rainbow Lorikeet,DIB-10K_39,4358.Rainbow Lorikeet,2184
+red_collared_lorikeet,Red-collared Lorikeet,DIB-10K_39,4359.Red-collared Lorikeet,346
+olive_headed_lorikeet,Olive-headed Lorikeet,DIB-10K_39,4360.Olive-headed Lorikeet,111
+citrine_lorikeet,Citrine Lorikeet,DIB-10K_39,4361.Citrine Lorikeet,49
+mindanao_lorikeet,Mindanao Lorikeet,DIB-10K_39,4362.Mindanao Lorikeet,86
+pohnpei_lorikeet,Pohnpei Lorikeet,DIB-10K_39,4363.Pohnpei Lorikeet,45
+scaly_breasted_lorikeet,Scaly-breasted Lorikeet,DIB-10K_39,4364.Scaly-breasted Lorikeet,1049
+musk_lorikeet,Musk Lorikeet,DIB-10K_39,4365.Musk Lorikeet,1009
+budgerigar,Budgerigar,DIB-10K_39,4366.Budgerigar,2339
+large_fig_parrot,Large Fig Parrot,DIB-10K_39,4367.Large Fig Parrot,83
+edwardss_fig_parrot,Edwards's Fig Parrot,DIB-10K_39,4368.Edwards's Fig Parrot,78
+salvadoris_fig_parrot,Salvadori's Fig Parrot,DIB-10K_39,4369.Salvadori's Fig Parrot,32
+orange_breasted_fig_parrot,Orange-breasted Fig Parrot,DIB-10K_39,4370.Orange-breasted Fig Parrot,61
+double_eyed_fig_parrot,Double-eyed Fig Parrot,DIB-10K_39,4371.Double-eyed Fig Parrot,405
+guaiabero,Guaiabero,DIB-10K_39,4372.Guaiabero,98
+vernal_hanging_parrot,Vernal Hanging Parrot,DIB-10K_39,4373.Vernal Hanging Parrot,583
+sri_lanka_hanging_parrot,Sri Lanka Hanging Parrot,DIB-10K_39,4374.Sri Lanka Hanging Parrot,155
+philippine_hanging_parrot,Philippine Hanging Parrot,DIB-10K_39,4375.Philippine Hanging Parrot,145
+camiguin_hanging_parrot,Camiguin Hanging Parrot,DIB-10K_39,4376.Camiguin Hanging Parrot,8
+blue_crowned_hanging_parrot,Blue-crowned Hanging Parrot,DIB-10K_39,4377.Blue-crowned Hanging Parrot,721
+great_hanging_parrot,Great Hanging Parrot,DIB-10K_39,4378.Great Hanging Parrot,92
+moluccan_hanging_parrot,Moluccan Hanging Parrot,DIB-10K_39,4379.Moluccan Hanging Parrot,22
+sula_hanging_parrot,Sula Hanging Parrot,DIB-10K_39,4380.Sula Hanging Parrot,15
+sangihe_hanging_parrot,Sangihe Hanging Parrot,DIB-10K_39,4381.Sangihe Hanging Parrot,12
+orange_fronted_hanging_parrot,Orange-fronted Hanging Parrot,DIB-10K_39,4382.Orange-fronted Hanging Parrot,18
+bismarck_hanging_parrot,Bismarck Hanging Parrot,DIB-10K_39,4383.Bismarck Hanging Parrot,6
+pygmy_hanging_parrot,Pygmy Hanging Parrot,DIB-10K_39,4384.Pygmy Hanging Parrot,18
+yellow_throated_hanging_parrot,Yellow-throated Hanging Parrot,DIB-10K_39,4385.Yellow-throated Hanging Parrot,41
+wallaces_hanging_parrot,Wallace's Hanging Parrot,DIB-10K_39,4386.Wallace's Hanging Parrot,15
+grey_headed_lovebird,Grey-headed Lovebird,DIB-10K_39,4387.Grey-headed Lovebird,259
+red_headed_lovebird,Red-headed Lovebird,DIB-10K_39,4388.Red-headed Lovebird,62
+black_winged_lovebird,Black-winged Lovebird,DIB-10K_39,4389.Black-winged Lovebird,305
+black_collared_lovebird,Black-collared Lovebird,DIB-10K_39,4390.Black-collared Lovebird,36
+rosy_faced_lovebird,Rosy-faced Lovebird,DIB-10K_39,4391.Rosy-faced Lovebird,2319
+fischers_lovebird,Fischer's Lovebird,DIB-10K_39,4392.Fischer's Lovebird,796
+yellow_collared_lovebird,Yellow-collared Lovebird,DIB-10K_39,4393.Yellow-collared Lovebird,497
+lilians_lovebird,Lilian's Lovebird,DIB-10K_39,4394.Lilian's Lovebird,199
+black_cheeked_lovebird,Black-cheeked Lovebird,DIB-10K_39,4395.Black-cheeked Lovebird,382
+broad_billed_parrot,Broad-billed Parrot,DIB-10K_39,4396.Broad-billed Parrot,13
+rodrigues_parrot,Rodrigues Parrot,DIB-10K_39,4397.Rodrigues Parrot,1
+rifleman,Rifleman,DIB-10K_39,4398.Rifleman,348
+bushwren,Bushwren,DIB-10K_39,4399.Bushwren,28
+new_zealand_rockwren,New Zealand Rockwren,DIB-10K_39,4400.New Zealand Rockwren,173
+lyalls_wren,Lyall's Wren,DIB-10K_39,4401.Lyall's Wren,6
+sapayoa,Sapayoa,DIB-10K_39,4402.Sapayoa,99
+african_broadbill,African Broadbill,DIB-10K_39,4403.African Broadbill,124
+grey_headed_broadbill,Grey-headed Broadbill,DIB-10K_39,4404.Grey-headed Broadbill,19
+rufous_sided_broadbill,Rufous-sided Broadbill,DIB-10K_39,4405.Rufous-sided Broadbill,74
+green_broadbill,Green Broadbill,DIB-10K_39,4406.Green Broadbill,532
+hoses_broadbill,Hose's Broadbill,DIB-10K_39,4407.Hose's Broadbill,13
+whiteheads_broadbill,Whitehead's Broadbill,DIB-10K_39,4408.Whitehead's Broadbill,117
+black_and_red_broadbill,Black-and-red Broadbill,DIB-10K_39,4409.Black-and-red Broadbill,747
+long_tailed_broadbill,Long-tailed Broadbill,DIB-10K_39,4410.Long-tailed Broadbill,682
+silver_breasted_broadbill,Silver-breasted Broadbill,DIB-10K_39,4411.Silver-breasted Broadbill,916
+banded_broadbill,Banded Broadbill,DIB-10K_39,4412.Banded Broadbill,523
+black_and_yellow_broadbill,Black-and-yellow Broadbill,DIB-10K_39,4413.Black-and-yellow Broadbill,869
+wattled_broadbill,Wattled Broadbill,DIB-10K_39,4414.Wattled Broadbill,53
+visayan_broadbill,Visayan Broadbill,DIB-10K_39,4415.Visayan Broadbill,42
+dusky_broadbill,Dusky Broadbill,DIB-10K_39,4416.Dusky Broadbill,332
+grauers_broadbill,Grauer's Broadbill,DIB-10K_39,4417.Grauer's Broadbill,57
+velvet_asity,Velvet Asity,DIB-10K_39,4418.Velvet Asity,198
+schlegels_asity,Schlegel's Asity,DIB-10K_39,4419.Schlegel's Asity,121
+common_sunbird_asity,Common Sunbird-Asity,DIB-10K_39,4420.Common Sunbird-Asity,87
+yellow_bellied_sunbird_asity,Yellow-bellied Sunbird-Asity,DIB-10K_39,4421.Yellow-bellied Sunbird-Asity,53
+eared_pitta,Eared Pitta,DIB-10K_39,4422.Eared Pitta,182
+blue_naped_pitta,Blue-naped Pitta,DIB-10K_39,4423.Blue-naped Pitta,66
+blue_rumped_pitta,Blue-rumped Pitta,DIB-10K_39,4424.Blue-rumped Pitta,217
+rusty_naped_pitta,Rusty-naped Pitta,DIB-10K_39,4425.Rusty-naped Pitta,227
+schneiders_pitta,Schneider's Pitta,DIB-10K_39,4426.Schneider's Pitta,99
+giant_pitta,Giant Pitta,DIB-10K_39,4427.Giant Pitta,103
+blue_headed_pitta,Blue-headed Pitta,DIB-10K_39,4428.Blue-headed Pitta,140
+blue_pitta,Blue Pitta,DIB-10K_39,4429.Blue Pitta,413
+bar_bellied_pitta,Bar-bellied Pitta,DIB-10K_39,4430.Bar-bellied Pitta,257
+javan_banded_pitta,Javan Banded Pitta,DIB-10K_39,4431.Javan Banded Pitta,225
+malayan_banded_pitta,Malayan Banded Pitta,DIB-10K_39,4432.Malayan Banded Pitta,375
+bornean_banded_pitta,Bornean Banded Pitta,DIB-10K_39,4433.Bornean Banded Pitta,66
+gurneys_pitta,Gurney's Pitta,DIB-10K_39,4434.Gurney's Pitta,64
+whiskered_pitta,Whiskered Pitta,DIB-10K_39,4435.Whiskered Pitta,98
+philippine_pitta,Philippine Pitta,DIB-10K_39,4436.Philippine Pitta,55
+sula_pitta,Sula Pitta,DIB-10K_39,4437.Sula Pitta,24
+sulawesi_pitta,Sulawesi Pitta,DIB-10K_39,4438.Sulawesi Pitta,91
+siau_pitta,Siau Pitta,DIB-10K_39,4439.Siau Pitta,7
+sangihe_pitta,Sangihe Pitta,DIB-10K_39,4440.Sangihe Pitta,6
+south_moluccan_pitta,South Moluccan Pitta,DIB-10K_39,4441.South Moluccan Pitta,9
+north_moluccan_pitta,North Moluccan Pitta,DIB-10K_39,4442.North Moluccan Pitta,27
+louisiade_pitta,Louisiade Pitta,DIB-10K_39,4443.Louisiade Pitta,2
+bismarck_pitta,Bismarck Pitta,DIB-10K_39,4444.Bismarck Pitta,1
+papuan_pitta,Papuan Pitta,DIB-10K_39,4445.Papuan Pitta,41
+blue_banded_pitta,Blue-banded Pitta,DIB-10K_39,4446.Blue-banded Pitta,136
+garnet_pitta,Garnet Pitta,DIB-10K_39,4447.Garnet Pitta,134
+graceful_pitta,Graceful Pitta,DIB-10K_39,4448.Graceful Pitta,78
+black_crowned_pitta,Black-crowned Pitta,DIB-10K_39,4449.Black-crowned Pitta,224
+hooded_pitta,Hooded Pitta,DIB-10K_39,4450.Hooded Pitta,974
+ivory_breasted_pitta,Ivory-breasted Pitta,DIB-10K_39,4451.Ivory-breasted Pitta,85
+azure_breasted_pitta,Azure-breasted Pitta,DIB-10K_39,4452.Azure-breasted Pitta,121
+superb_pitta,Superb Pitta,DIB-10K_39,4453.Superb Pitta,30
+african_pitta,African Pitta,DIB-10K_39,4454.African Pitta,58
+green_breasted_pitta,Green-breasted Pitta,DIB-10K_39,4455.Green-breasted Pitta,75
+indian_pitta,Indian Pitta,DIB-10K_39,4456.Indian Pitta,736
+fairy_pitta,Fairy Pitta,DIB-10K_39,4457.Fairy Pitta,677
+blue_winged_pitta,Blue-winged Pitta,DIB-10K_39,4458.Blue-winged Pitta,907
+,,DIB-10K_39,,0

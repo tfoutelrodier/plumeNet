@@ -1,0 +1,212 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+yellow_fronted_barbet,Yellow-fronted Barbet,DIB-10K_35,3616.Yellow-fronted Barbet,141
+golden_throated_barbet,Golden-throated Barbet,DIB-10K_35,3617.Golden-throated Barbet,219
+necklaced_barbet,Necklaced Barbet,DIB-10K_35,3618.Necklaced Barbet,31
+black_browed_barbet,Black-browed Barbet,DIB-10K_35,3619.Black-browed Barbet,104
+indochinese_barbet,Indochinese Barbet,DIB-10K_35,3620.Indochinese Barbet,58
+chinese_barbet,Chinese Barbet,DIB-10K_35,3621.Chinese Barbet,22
+taiwan_barbet,Taiwan Barbet,DIB-10K_35,3622.Taiwan Barbet,461
+blue_throated_barbet,Blue-throated Barbet,DIB-10K_35,3623.Blue-throated Barbet,385
+turquoise_throated_barbet,Turquoise-throated Barbet,DIB-10K_35,3624.Turquoise-throated Barbet,11
+mountain_barbet,Mountain Barbet,DIB-10K_35,3625.Mountain Barbet,29
+moustached_barbet,Moustached Barbet,DIB-10K_35,3626.Moustached Barbet,102
+yellow_crowned_barbet,Yellow-crowned Barbet,DIB-10K_35,3627.Yellow-crowned Barbet,78
+flame_fronted_barbet,Flame-fronted Barbet,DIB-10K_35,3628.Flame-fronted Barbet,57
+golden_naped_barbet,Golden-naped Barbet,DIB-10K_35,3629.Golden-naped Barbet,133
+yellow_eared_barbet,Yellow-eared Barbet,DIB-10K_35,3630.Yellow-eared Barbet,45
+blue_eared_barbet,Blue-eared Barbet,DIB-10K_35,3631.Blue-eared Barbet,152
+bornean_barbet,Bornean Barbet,DIB-10K_35,3632.Bornean Barbet,10
+crimson_fronted_barbet,Crimson-fronted Barbet,DIB-10K_35,3633.Crimson-fronted Barbet,72
+malabar_barbet,Malabar Barbet,DIB-10K_35,3634.Malabar Barbet,137
+coppersmith_barbet,Coppersmith Barbet,DIB-10K_35,3635.Coppersmith Barbet,1036
+brown_barbet,Brown Barbet,DIB-10K_35,3636.Brown Barbet,163
+sooty_barbet,Sooty Barbet,DIB-10K_35,3637.Sooty Barbet,146
+grey_throated_barbet,Grey-throated Barbet,DIB-10K_35,3638.Grey-throated Barbet,100
+sladens_barbet,Sladen's Barbet,DIB-10K_35,3639.Sladen's Barbet,1
+bristle_nosed_barbet,Bristle-nosed Barbet,DIB-10K_35,3640.Bristle-nosed Barbet,45
+naked_faced_barbet,Naked-faced Barbet,DIB-10K_35,3641.Naked-faced Barbet,70
+white_eared_barbet,White-eared Barbet,DIB-10K_35,3642.White-eared Barbet,203
+whytes_barbet,Whyte's Barbet,DIB-10K_35,3643.Whyte's Barbet,55
+anchietas_barbet,Anchieta's Barbet,DIB-10K_35,3644.Anchieta's Barbet,28
+green_barbet,Green Barbet,DIB-10K_35,3645.Green Barbet,65
+speckled_tinkerbird,Speckled Tinkerbird,DIB-10K_35,3646.Speckled Tinkerbird,90
+green_tinkerbird,Green Tinkerbird,DIB-10K_35,3647.Green Tinkerbird,27
+moustached_tinkerbird,Moustached Tinkerbird,DIB-10K_35,3648.Moustached Tinkerbird,30
+western_tinkerbird,Western Tinkerbird,DIB-10K_35,3649.Western Tinkerbird,44
+red_rumped_tinkerbird,Red-rumped Tinkerbird,DIB-10K_35,3650.Red-rumped Tinkerbird,64
+yellow_throated_tinkerbird,Yellow-throated Tinkerbird,DIB-10K_35,3651.Yellow-throated Tinkerbird,45
+yellow_rumped_tinkerbird,Yellow-rumped Tinkerbird,DIB-10K_35,3652.Yellow-rumped Tinkerbird,289
+white_chested_tinkerbird,White-chested Tinkerbird,DIB-10K_35,3653.White-chested Tinkerbird,4
+red_fronted_tinkerbird,Red-fronted Tinkerbird,DIB-10K_35,3654.Red-fronted Tinkerbird,197
+yellow_fronted_tinkerbird,Yellow-fronted Tinkerbird,DIB-10K_35,3655.Yellow-fronted Tinkerbird,315
+yellow_spotted_barbet,Yellow-spotted Barbet,DIB-10K_35,3656.Yellow-spotted Barbet,41
+hairy_breasted_barbet,Hairy-breasted Barbet,DIB-10K_35,3657.Hairy-breasted Barbet,81
+red_fronted_barbet,Red-fronted Barbet,DIB-10K_35,3658.Red-fronted Barbet,165
+miombo_pied_barbet,Miombo Pied Barbet,DIB-10K_35,3659.Miombo Pied Barbet,28
+acacia_pied_barbet,Acacia Pied Barbet,DIB-10K_35,3660.Acacia Pied Barbet,376
+spot_flanked_barbet,Spot-flanked Barbet,DIB-10K_35,3661.Spot-flanked Barbet,175
+black_throated_barbet,Black-throated Barbet,DIB-10K_35,3662.Black-throated Barbet,100
+banded_barbet,Banded Barbet,DIB-10K_35,3663.Banded Barbet,121
+vieillots_barbet,Vieillot's Barbet,DIB-10K_35,3664.Vieillot's Barbet,139
+white_headed_barbet,White-headed Barbet,DIB-10K_35,3665.White-headed Barbet,157
+chaplins_barbet,Chaplin's Barbet,DIB-10K_35,3666.Chaplin's Barbet,34
+red_faced_barbet,Red-faced Barbet,DIB-10K_35,3667.Red-faced Barbet,75
+black_billed_barbet,Black-billed Barbet,DIB-10K_35,3668.Black-billed Barbet,182
+black_collared_barbet,Black-collared Barbet,DIB-10K_35,3669.Black-collared Barbet,858
+brown_breasted_barbet,Brown-breasted Barbet,DIB-10K_35,3670.Brown-breasted Barbet,166
+black_backed_barbet,Black-backed Barbet,DIB-10K_35,3671.Black-backed Barbet,62
+double_toothed_barbet,Double-toothed Barbet,DIB-10K_35,3672.Double-toothed Barbet,291
+bearded_barbet,Bearded Barbet,DIB-10K_35,3673.Bearded Barbet,554
+black_breasted_barbet,Black-breasted Barbet,DIB-10K_35,3674.Black-breasted Barbet,39
+yellow_billed_barbet,Yellow-billed Barbet,DIB-10K_35,3675.Yellow-billed Barbet,67
+crested_barbet,Crested Barbet,DIB-10K_35,3676.Crested Barbet,1114
+red_and_yellow_barbet,Red-and-yellow Barbet,DIB-10K_35,3677.Red-and-yellow Barbet,813
+yellow_breasted_barbet,Yellow-breasted Barbet,DIB-10K_35,3678.Yellow-breasted Barbet,144
+darnauds_barbet,D'Arnaud's Barbet,DIB-10K_35,3679.D'Arnaud's Barbet,507
+cassins_honeybird,Cassin's Honeybird,DIB-10K_35,3680.Cassin's Honeybird,20
+green_backed_honeybird,Green-backed Honeybird,DIB-10K_35,3681.Green-backed Honeybird,54
+brown_backed_honeybird,Brown-backed Honeybird,DIB-10K_35,3682.Brown-backed Honeybird,102
+zenkers_honeyguide,Zenker's Honeyguide,DIB-10K_35,3683.Zenker's Honeyguide,5
+yellow_footed_honeyguide,Yellow-footed Honeyguide,DIB-10K_35,3684.Yellow-footed Honeyguide,16
+dwarf_honeyguide,Dwarf Honeyguide,DIB-10K_35,3685.Dwarf Honeyguide,15
+willcockss_honeyguide,Willcocks's Honeyguide,DIB-10K_35,3686.Willcocks's Honeyguide,30
+pallid_honeyguide,Pallid Honeyguide,DIB-10K_35,3687.Pallid Honeyguide,42
+least_honeyguide,Least Honeyguide,DIB-10K_35,3688.Least Honeyguide,17
+thick_billed_honeyguide,Thick-billed Honeyguide,DIB-10K_35,3689.Thick-billed Honeyguide,15
+lesser_honeyguide,Lesser Honeyguide,DIB-10K_35,3690.Lesser Honeyguide,234
+spotted_honeyguide,Spotted Honeyguide,DIB-10K_35,3691.Spotted Honeyguide,61
+scaly_throated_honeyguide,Scaly-throated Honeyguide,DIB-10K_35,3692.Scaly-throated Honeyguide,128
+yellow_rumped_honeyguide,Yellow-rumped Honeyguide,DIB-10K_35,3693.Yellow-rumped Honeyguide,114
+malaysian_honeyguide,Malaysian Honeyguide,DIB-10K_35,3694.Malaysian Honeyguide,50
+greater_honeyguide,Greater Honeyguide,DIB-10K_35,3695.Greater Honeyguide,249
+lyre_tailed_honeyguide,Lyre-tailed Honeyguide,DIB-10K_35,3696.Lyre-tailed Honeyguide,17
+eurasian_wryneck,Eurasian Wryneck,DIB-10K_35,3697.Eurasian Wryneck,2288
+red_throated_wryneck,Red-throated Wryneck,DIB-10K_35,3698.Red-throated Wryneck,295
+speckled_piculet,Speckled Piculet,DIB-10K_35,3699.Speckled Piculet,232
+bar_breasted_piculet,Bar-breasted Piculet,DIB-10K_35,3700.Bar-breasted Piculet,83
+lafresnayes_piculet,Lafresnaye's Piculet,DIB-10K_35,3701.Lafresnaye's Piculet,98
+orinoco_piculet,Orinoco Piculet,DIB-10K_35,3702.Orinoco Piculet,32
+golden_spangled_piculet,Golden-spangled Piculet,DIB-10K_35,3703.Golden-spangled Piculet,184
+black_dotted_piculet,Black-dotted Piculet,DIB-10K_35,3704.Black-dotted Piculet,22
+ecuadorian_piculet,Ecuadorian Piculet,DIB-10K_35,3705.Ecuadorian Piculet,70
+scaled_piculet,Scaled Piculet,DIB-10K_35,3706.Scaled Piculet,314
+white_bellied_piculet,White-bellied Piculet,DIB-10K_35,3707.White-bellied Piculet,84
+arrowhead_piculet,Arrowhead Piculet,DIB-10K_35,3708.Arrowhead Piculet,62
+spotted_piculet,Spotted Piculet,DIB-10K_35,3709.Spotted Piculet,97
+speckle_chested_piculet,Speckle-chested Piculet,DIB-10K_35,3710.Speckle-chested Piculet,56
+varzea_piculet,Varzea Piculet,DIB-10K_35,3711.Varzea Piculet,24
+white_barred_piculet,White-barred Piculet,DIB-10K_35,3712.White-barred Piculet,676
+ocellated_piculet,Ocellated Piculet,DIB-10K_35,3713.Ocellated Piculet,83
+ochre_collared_piculet,Ochre-collared Piculet,DIB-10K_35,3714.Ochre-collared Piculet,314
+white_wedged_piculet,White-wedged Piculet,DIB-10K_35,3715.White-wedged Piculet,273
+rusty_necked_piculet,Rusty-necked Piculet,DIB-10K_35,3716.Rusty-necked Piculet,11
+rufous_breasted_piculet,Rufous-breasted Piculet,DIB-10K_35,3717.Rufous-breasted Piculet,33
+ochraceous_piculet,Ochraceous Piculet,DIB-10K_35,3718.Ochraceous Piculet,89
+tawny_piculet,Tawny Piculet,DIB-10K_35,3719.Tawny Piculet,74
+mottled_piculet,Mottled Piculet,DIB-10K_35,3720.Mottled Piculet,142
+plain_breasted_piculet,Plain-breasted Piculet,DIB-10K_35,3721.Plain-breasted Piculet,33
+fine_barred_piculet,Fine-barred Piculet,DIB-10K_35,3722.Fine-barred Piculet,43
+olivaceous_piculet,Olivaceous Piculet,DIB-10K_35,3723.Olivaceous Piculet,395
+greyish_piculet,Greyish Piculet,DIB-10K_35,3724.Greyish Piculet,275
+chestnut_piculet,Chestnut Piculet,DIB-10K_35,3725.Chestnut Piculet,106
+african_piculet,African Piculet,DIB-10K_35,3726.African Piculet,51
+rufous_piculet,Rufous Piculet,DIB-10K_35,3727.Rufous Piculet,212
+white_browed_piculet,White-browed Piculet,DIB-10K_35,3728.White-browed Piculet,185
+antillean_piculet,Antillean Piculet,DIB-10K_35,3729.Antillean Piculet,81
+grey_and_buff_woodpecker,Grey-and-buff Woodpecker,DIB-10K_35,3730.Grey-and-buff Woodpecker,129
+heart_spotted_woodpecker,Heart-spotted Woodpecker,DIB-10K_35,3731.Heart-spotted Woodpecker,220
+white_woodpecker,White Woodpecker,DIB-10K_35,3732.White Woodpecker,1200
+lewiss_woodpecker,Lewis's Woodpecker,DIB-10K_35,3733.Lewis's Woodpecker,1390
+guadeloupe_woodpecker,Guadeloupe Woodpecker,DIB-10K_35,3734.Guadeloupe Woodpecker,49
+puerto_rican_woodpecker,Puerto Rican Woodpecker,DIB-10K_35,3735.Puerto Rican Woodpecker,262
+red_headed_woodpecker,Red-headed Woodpecker,DIB-10K_35,3736.Red-headed Woodpecker,2267
+acorn_woodpecker,Acorn Woodpecker,DIB-10K_35,3737.Acorn Woodpecker,2593
+yellow_tufted_woodpecker,Yellow-tufted Woodpecker,DIB-10K_35,3738.Yellow-tufted Woodpecker,608
+yellow_fronted_woodpecker,Yellow-fronted Woodpecker,DIB-10K_35,3739.Yellow-fronted Woodpecker,852
+golden_naped_woodpecker,Golden-naped Woodpecker,DIB-10K_35,3740.Golden-naped Woodpecker,238
+beautiful_woodpecker,Beautiful Woodpecker,DIB-10K_35,3741.Beautiful Woodpecker,178
+black_cheeked_woodpecker,Black-cheeked Woodpecker,DIB-10K_35,3742.Black-cheeked Woodpecker,1331
+white_fronted_woodpecker,White-fronted Woodpecker,DIB-10K_35,3743.White-fronted Woodpecker,322
+hispaniolan_woodpecker,Hispaniolan Woodpecker,DIB-10K_35,3744.Hispaniolan Woodpecker,644
+jamaican_woodpecker,Jamaican Woodpecker,DIB-10K_35,3745.Jamaican Woodpecker,211
+golden_cheeked_woodpecker,Golden-cheeked Woodpecker,DIB-10K_35,3746.Golden-cheeked Woodpecker,376
+grey_breasted_woodpecker,Grey-breasted Woodpecker,DIB-10K_35,3747.Grey-breasted Woodpecker,82
+yucatan_woodpecker,Yucatan Woodpecker,DIB-10K_35,3748.Yucatan Woodpecker,364
+red_crowned_woodpecker,Red-crowned Woodpecker,DIB-10K_35,3749.Red-crowned Woodpecker,1743
+gila_woodpecker,Gila Woodpecker,DIB-10K_35,3750.Gila Woodpecker,1689
+hoffmanns_woodpecker,Hoffmann's Woodpecker,DIB-10K_35,3751.Hoffmann's Woodpecker,974
+golden_fronted_woodpecker,Golden-fronted Woodpecker,DIB-10K_35,3752.Golden-fronted Woodpecker,2061
+velasquezs_woodpecker,Velasquez's Woodpecker,DIB-10K_35,3753.Velasquez's Woodpecker,127
+red_bellied_woodpecker,Red-bellied Woodpecker,DIB-10K_35,3754.Red-bellied Woodpecker,2536
+west_indian_woodpecker,West Indian Woodpecker,DIB-10K_35,3755.West Indian Woodpecker,641
+williamsons_sapsucker,Williamson's Sapsucker,DIB-10K_35,3756.Williamson's Sapsucker,971
+yellow_bellied_sapsucker,Yellow-bellied Sapsucker,DIB-10K_35,3757.Yellow-bellied Sapsucker,2115
+red_naped_sapsucker,Red-naped Sapsucker,DIB-10K_35,3758.Red-naped Sapsucker,1414
+red_breasted_sapsucker,Red-breasted Sapsucker,DIB-10K_35,3759.Red-breasted Sapsucker,2186
+cuban_green_woodpecker,Cuban Green Woodpecker,DIB-10K_35,3760.Cuban Green Woodpecker,422
+fine_spotted_woodpecker,Fine-spotted Woodpecker,DIB-10K_35,3761.Fine-spotted Woodpecker,124
+bennetts_woodpecker,Bennett's Woodpecker,DIB-10K_35,3762.Bennett's Woodpecker,293
+speckle_throated_woodpecker,Speckle-throated Woodpecker,DIB-10K_35,3763.Speckle-throated Woodpecker,57
+nubian_woodpecker,Nubian Woodpecker,DIB-10K_35,3764.Nubian Woodpecker,372
+golden_tailed_woodpecker,Golden-tailed Woodpecker,DIB-10K_35,3765.Golden-tailed Woodpecker,445
+mombasa_woodpecker,Mombasa Woodpecker,DIB-10K_35,3766.Mombasa Woodpecker,25
+knysna_woodpecker,Knysna Woodpecker,DIB-10K_35,3767.Knysna Woodpecker,77
+green_backed_woodpecker,Green-backed Woodpecker,DIB-10K_35,3768.Green-backed Woodpecker,71
+little_green_woodpecker,Little Green Woodpecker,DIB-10K_35,3769.Little Green Woodpecker,27
+tullbergs_woodpecker,Tullberg's Woodpecker,DIB-10K_35,3770.Tullberg's Woodpecker,41
+buff_spotted_woodpecker,Buff-spotted Woodpecker,DIB-10K_35,3771.Buff-spotted Woodpecker,31
+brown_eared_woodpecker,Brown-eared Woodpecker,DIB-10K_35,3772.Brown-eared Woodpecker,30
+ground_woodpecker,Ground Woodpecker,DIB-10K_35,3773.Ground Woodpecker,267
+sulawesi_pygmy_woodpecker,Sulawesi Pygmy Woodpecker,DIB-10K_35,3774.Sulawesi Pygmy Woodpecker,41
+brown_capped_pygmy_woodpecker,Brown-capped Pygmy Woodpecker,DIB-10K_35,3775.Brown-capped Pygmy Woodpecker,200
+grey_capped_pygmy_woodpecker,Grey-capped Pygmy Woodpecker,DIB-10K_35,3776.Grey-capped Pygmy Woodpecker,227
+philippine_pygmy_woodpecker,Philippine Pygmy Woodpecker,DIB-10K_35,3777.Philippine Pygmy Woodpecker,49
+sulu_pygmy_woodpecker,Sulu Pygmy Woodpecker,DIB-10K_35,3778.Sulu Pygmy Woodpecker,5
+sunda_pygmy_woodpecker,Sunda Pygmy Woodpecker,DIB-10K_35,3779.Sunda Pygmy Woodpecker,148
+japanese_pygmy_woodpecker,Japanese Pygmy Woodpecker,DIB-10K_35,3780.Japanese Pygmy Woodpecker,201
+eurasian_three_toed_woodpecker,Eurasian Three-toed Woodpecker,DIB-10K_35,3781.Eurasian Three-toed Woodpecker,792
+american_three_toed_woodpecker,American Three-toed Woodpecker,DIB-10K_35,3782.American Three-toed Woodpecker,877
+black_backed_woodpecker,Black-backed Woodpecker,DIB-10K_35,3783.Black-backed Woodpecker,1070
+arabian_woodpecker,Arabian Woodpecker,DIB-10K_35,3784.Arabian Woodpecker,34
+brown_fronted_woodpecker,Brown-fronted Woodpecker,DIB-10K_35,3785.Brown-fronted Woodpecker,163
+middle_spotted_woodpecker,Middle Spotted Woodpecker,DIB-10K_35,3786.Middle Spotted Woodpecker,581
+yellow_crowned_woodpecker,Yellow-crowned Woodpecker,DIB-10K_35,3787.Yellow-crowned Woodpecker,261
+bearded_woodpecker,Bearded Woodpecker,DIB-10K_35,3788.Bearded Woodpecker,154
+yellow_crested_woodpecker,Yellow-crested Woodpecker,DIB-10K_35,3789.Yellow-crested Woodpecker,25
+fire_bellied_woodpecker,Fire-bellied Woodpecker,DIB-10K_35,3790.Fire-bellied Woodpecker,13
+little_grey_woodpecker,Little Grey Woodpecker,DIB-10K_35,3791.Little Grey Woodpecker,44
+speckle_breasted_woodpecker,Speckle-breasted Woodpecker,DIB-10K_35,3792.Speckle-breasted Woodpecker,44
+abyssinian_woodpecker,Abyssinian Woodpecker,DIB-10K_35,3793.Abyssinian Woodpecker,58
+cardinal_woodpecker,Cardinal Woodpecker,DIB-10K_35,3794.Cardinal Woodpecker,574
+gabon_woodpecker,Gabon Woodpecker,DIB-10K_35,3795.Gabon Woodpecker,18
+melancholy_woodpecker,Melancholy Woodpecker,DIB-10K_35,3796.Melancholy Woodpecker,30
+stierlings_woodpecker,Stierling's Woodpecker,DIB-10K_35,3797.Stierling's Woodpecker,27
+elliots_woodpecker,Elliot's Woodpecker,DIB-10K_35,3798.Elliot's Woodpecker,18
+african_grey_woodpecker,African Grey Woodpecker,DIB-10K_35,3799.African Grey Woodpecker,269
+eastern_grey_woodpecker,Eastern Grey Woodpecker,DIB-10K_35,3800.Eastern Grey Woodpecker,123
+olive_woodpecker,Olive Woodpecker,DIB-10K_35,3801.Olive Woodpecker,135
+brown_backed_woodpecker,Brown-backed Woodpecker,DIB-10K_35,3802.Brown-backed Woodpecker,71
+nuttalls_woodpecker,Nuttall's Woodpecker,DIB-10K_35,3803.Nuttall's Woodpecker,561
+ladder_backed_woodpecker,Ladder-backed Woodpecker,DIB-10K_35,3804.Ladder-backed Woodpecker,734
+downy_woodpecker,Downy Woodpecker,DIB-10K_35,3805.Downy Woodpecker,1578
+crimson_breasted_woodpecker,Crimson-breasted Woodpecker,DIB-10K_35,3806.Crimson-breasted Woodpecker,43
+lesser_spotted_woodpecker,Lesser Spotted Woodpecker,DIB-10K_35,3807.Lesser Spotted Woodpecker,723
+little_woodpecker,Little Woodpecker,DIB-10K_35,3808.Little Woodpecker,421
+dot_fronted_woodpecker,Dot-fronted Woodpecker,DIB-10K_35,3809.Dot-fronted Woodpecker,48
+white_spotted_woodpecker,White-spotted Woodpecker,DIB-10K_35,3810.White-spotted Woodpecker,313
+checkered_woodpecker,Checkered Woodpecker,DIB-10K_35,3811.Checkered Woodpecker,315
+striped_woodpecker,Striped Woodpecker,DIB-10K_35,3812.Striped Woodpecker,332
+scarlet_backed_woodpecker,Scarlet-backed Woodpecker,DIB-10K_35,3813.Scarlet-backed Woodpecker,139
+yellow_vented_woodpecker,Yellow-vented Woodpecker,DIB-10K_35,3814.Yellow-vented Woodpecker,75
+bar_bellied_woodpecker,Bar-bellied Woodpecker,DIB-10K_35,3815.Bar-bellied Woodpecker,81
+blood_colored_woodpecker,Blood-colored Woodpecker,DIB-10K_35,3816.Blood-colored Woodpecker,85
+red_rumped_woodpecker,Red-rumped Woodpecker,DIB-10K_35,3817.Red-rumped Woodpecker,177
+red_stained_woodpecker,Red-stained Woodpecker,DIB-10K_35,3818.Red-stained Woodpecker,94
+choco_woodpecker,Choco Woodpecker,DIB-10K_35,3819.Choco Woodpecker,40
+golden_collared_woodpecker,Golden-collared Woodpecker,DIB-10K_35,3820.Golden-collared Woodpecker,72
+yellow_eared_woodpecker,Yellow-eared Woodpecker,DIB-10K_35,3821.Yellow-eared Woodpecker,123
+red_cockaded_woodpecker,Red-cockaded Woodpecker,DIB-10K_35,3822.Red-cockaded Woodpecker,416
+smoky_brown_woodpecker,Smoky-brown Woodpecker,DIB-10K_35,3823.Smoky-brown Woodpecker,191
+arizona_woodpecker,Arizona Woodpecker,DIB-10K_35,3824.Arizona Woodpecker,579
+stricklands_woodpecker,Strickland's Woodpecker,DIB-10K_35,3825.Strickland's Woodpecker,34
+,,DIB-10K_35,,0

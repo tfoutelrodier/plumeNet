@@ -1,0 +1,171 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+hawfinch,Hawfinch,DIB-10K_62,9769.Hawfinch,2721
+chinese_grosbeak,Chinese Grosbeak,DIB-10K_62,9770.Chinese Grosbeak,400
+japanese_grosbeak,Japanese Grosbeak,DIB-10K_62,9771.Japanese Grosbeak,323
+pine_grosbeak,Pine Grosbeak,DIB-10K_62,9772.Pine Grosbeak,2771
+brown_bullfinch,Brown Bullfinch,DIB-10K_62,9773.Brown Bullfinch,159
+orange_bullfinch,Orange Bullfinch,DIB-10K_62,9774.Orange Bullfinch,57
+red_headed_bullfinch,Red-headed Bullfinch,DIB-10K_62,9775.Red-headed Bullfinch,150
+grey_headed_bullfinch,Grey-headed Bullfinch,DIB-10K_62,9776.Grey-headed Bullfinch,322
+white_cheeked_bullfinch,White-cheeked Bullfinch,DIB-10K_62,9777.White-cheeked Bullfinch,33
+eurasian_bullfinch,Eurasian Bullfinch,DIB-10K_62,9778.Eurasian Bullfinch,2586
+azores_bullfinch,Azores Bullfinch,DIB-10K_62,9779.Azores Bullfinch,225
+asian_crimson_winged_finch,Asian Crimson-winged Finch,DIB-10K_62,9780.Asian Crimson-winged Finch,229
+african_crimson_winged_finch,African Crimson-winged Finch,DIB-10K_62,9781.African Crimson-winged Finch,151
+trumpeter_finch,Trumpeter Finch,DIB-10K_62,9782.Trumpeter Finch,1016
+mongolian_finch,Mongolian Finch,DIB-10K_62,9783.Mongolian Finch,263
+blanfords_rosefinch,Blanford's Rosefinch,DIB-10K_62,9784.Blanford's Rosefinch,21
+spectacled_finch,Spectacled Finch,DIB-10K_62,9785.Spectacled Finch,49
+golden_naped_finch,Golden-naped Finch,DIB-10K_62,9786.Golden-naped Finch,100
+dark_breasted_rosefinch,Dark-breasted Rosefinch,DIB-10K_62,9787.Dark-breasted Rosefinch,137
+plain_mountain_finch,Plain Mountain Finch,DIB-10K_62,9788.Plain Mountain Finch,287
+brandts_mountain_finch,Brandt's Mountain Finch,DIB-10K_62,9789.Brandt's Mountain Finch,193
+asian_rosy_finch,Asian Rosy Finch,DIB-10K_62,9790.Asian Rosy Finch,187
+grey_crowned_rosy_finch,Grey-crowned Rosy Finch,DIB-10K_62,9791.Grey-crowned Rosy Finch,1356
+black_rosy_finch,Black Rosy Finch,DIB-10K_62,9792.Black Rosy Finch,875
+brown_capped_rosy_finch,Brown-capped Rosy Finch,DIB-10K_62,9793.Brown-capped Rosy Finch,776
+common_rosefinch,Common Rosefinch,DIB-10K_62,9794.Common Rosefinch,2161
+scarlet_finch,Scarlet Finch,DIB-10K_62,9795.Scarlet Finch,197
+bonin_grosbeak,Bonin Grosbeak,DIB-10K_62,9796.Bonin Grosbeak,6
+streaked_rosefinch,Streaked Rosefinch,DIB-10K_62,9797.Streaked Rosefinch,96
+great_rosefinch,Great Rosefinch,DIB-10K_62,9798.Great Rosefinch,383
+blyths_rosefinch,Blyth's Rosefinch,DIB-10K_62,9799.Blyth's Rosefinch,39
+red_mantled_rosefinch,Red-mantled Rosefinch,DIB-10K_62,9800.Red-mantled Rosefinch,218
+himalayan_beautiful_rosefinch,Himalayan Beautiful Rosefinch,DIB-10K_62,9801.Himalayan Beautiful Rosefinch,114
+chinese_beautiful_rosefinch,Chinese Beautiful Rosefinch,DIB-10K_62,9802.Chinese Beautiful Rosefinch,77
+pink_rumped_rosefinch,Pink-rumped Rosefinch,DIB-10K_62,9803.Pink-rumped Rosefinch,54
+pink_browed_rosefinch,Pink-browed Rosefinch,DIB-10K_62,9804.Pink-browed Rosefinch,202
+dark_rumped_rosefinch,Dark-rumped Rosefinch,DIB-10K_62,9805.Dark-rumped Rosefinch,89
+spot_winged_rosefinch,Spot-winged Rosefinch,DIB-10K_62,9806.Spot-winged Rosefinch,68
+sharpes_rosefinch,Sharpe's Rosefinch,DIB-10K_62,9807.Sharpe's Rosefinch,23
+vinaceous_rosefinch,Vinaceous Rosefinch,DIB-10K_62,9808.Vinaceous Rosefinch,394
+taiwan_rosefinch,Taiwan Rosefinch,DIB-10K_62,9809.Taiwan Rosefinch,282
+sinai_rosefinch,Sinai Rosefinch,DIB-10K_62,9810.Sinai Rosefinch,297
+pale_rosefinch,Pale Rosefinch,DIB-10K_62,9811.Pale Rosefinch,39
+tibetan_rosefinch,Tibetan Rosefinch,DIB-10K_62,9812.Tibetan Rosefinch,89
+sillems_mountain_finch,Sillem's Mountain Finch,DIB-10K_62,9813.Sillem's Mountain Finch,5
+long_tailed_rosefinch,Long-tailed Rosefinch,DIB-10K_62,9814.Long-tailed Rosefinch,193
+pallass_rosefinch,Pallas's Rosefinch,DIB-10K_62,9815.Pallas's Rosefinch,243
+three_banded_rosefinch,Three-banded Rosefinch,DIB-10K_62,9816.Three-banded Rosefinch,43
+himalayan_white_browed_rosefinch,Himalayan White-browed Rosefinch,DIB-10K_62,9817.Himalayan White-browed Rosefinch,157
+chinese_white_browed_rosefinch,Chinese White-browed Rosefinch,DIB-10K_62,9818.Chinese White-browed Rosefinch,118
+red_fronted_rosefinch,Red-fronted Rosefinch,DIB-10K_62,9819.Red-fronted Rosefinch,120
+crimson_browed_finch,Crimson-browed Finch,DIB-10K_62,9820.Crimson-browed Finch,69
+poo_uli,Poo-uli,DIB-10K_62,9821.Poo-uli,16
+oahu_alauahio,Oahu Alauahio,DIB-10K_62,9822.Oahu Alauahio,4
+kakawahie,Kakawahie,DIB-10K_62,9823.Kakawahie,17
+maui_alauahio,Maui Alauahio,DIB-10K_62,9824.Maui Alauahio,108
+akikiki,Akikiki,DIB-10K_62,9825.Akikiki,60
+laysan_finch,Laysan Finch,DIB-10K_62,9826.Laysan Finch,43
+nihoa_finch,Nihoa Finch,DIB-10K_62,9827.Nihoa Finch,49
+palila,Palila,DIB-10K_62,9828.Palila,240
+lesser_koa_finch,Lesser Koa Finch,DIB-10K_62,9829.Lesser Koa Finch,8
+greater_koa_finch,Greater Koa Finch,DIB-10K_62,9830.Greater Koa Finch,19
+kona_grosbeak,Kona Grosbeak,DIB-10K_62,9831.Kona Grosbeak,12
+ou,Ou,DIB-10K_62,9832.Ou,34
+lanai_hookbill,Lanai Hookbill,DIB-10K_62,9833.Lanai Hookbill,6
+iiwi,Iiwi,DIB-10K_62,9834.Iiwi,416
+hawaii_mamo,Hawaii Mamo,DIB-10K_62,9835.Hawaii Mamo,29
+black_mamo,Black Mamo,DIB-10K_62,9836.Black Mamo,8
+ula_ai_hawane,Ula-ai-hawane,DIB-10K_62,9837.Ula-ai-hawane,14
+akohekohe,Akohekohe,DIB-10K_62,9838.Akohekohe,78
+apapane,Apapane,DIB-10K_62,9839.Apapane,732
+laysan_honeycreeper,Laysan Honeycreeper,DIB-10K_62,9840.Laysan Honeycreeper,3
+greater_amakihi,Greater Amakihi,DIB-10K_62,9841.Greater Amakihi,3
+lesser_akialoa,Lesser Akialoa,DIB-10K_62,9842.Lesser Akialoa,5
+oahu_akialoa,Oahu Akialoa,DIB-10K_62,9843.Oahu Akialoa,5
+kauai_akialoa,Kauai Akialoa,DIB-10K_62,9844.Kauai Akialoa,2
+oahu_nukupuu,Oahu Nukupuu,DIB-10K_62,9846.Oahu Nukupuu,5
+kauai_nukupuu,Kauai Nukupuu,DIB-10K_62,9847.Kauai Nukupuu,11
+maui_nukupuu,Maui Nukupuu,DIB-10K_62,9848.Maui Nukupuu,3
+akiapolaau,Akiapolaau,DIB-10K_62,9849.Akiapolaau,127
+maui_parrotbill,Maui Parrotbill,DIB-10K_62,9850.Maui Parrotbill,46
+anianiau,Anianiau,DIB-10K_62,9851.Anianiau,97
+hawaii_creeper,Hawaii Creeper,DIB-10K_62,9852.Hawaii Creeper,75
+akekee,Akekee,DIB-10K_62,9853.Akekee,52
+hawaii_akepa,Hawaii Akepa,DIB-10K_62,9854.Hawaii Akepa,128
+oahu_akepa,Oahu Akepa,DIB-10K_62,9855.Oahu Akepa,5
+maui_akepa,Maui Akepa,DIB-10K_62,9856.Maui Akepa,4
+hawaii_amakihi,Hawaii Amakihi,DIB-10K_62,9857.Hawaii Amakihi,307
+oahu_amakihi,Oahu Amakihi,DIB-10K_62,9858.Oahu Amakihi,100
+kauai_amakihi,Kauai Amakihi,DIB-10K_62,9859.Kauai Amakihi,112
+purple_finch,Purple Finch,DIB-10K_62,9860.Purple Finch,2153
+cassins_finch,Cassin's Finch,DIB-10K_62,9861.Cassin's Finch,1198
+house_finch,House Finch,DIB-10K_62,9862.House Finch,2609
+european_greenfinch,European Greenfinch,DIB-10K_62,9863.European Greenfinch,2650
+grey_capped_greenfinch,Grey-capped Greenfinch,DIB-10K_62,9864.Grey-capped Greenfinch,604
+yellow_breasted_greenfinch,Yellow-breasted Greenfinch,DIB-10K_62,9865.Yellow-breasted Greenfinch,187
+vietnamese_greenfinch,Vietnamese Greenfinch,DIB-10K_62,9866.Vietnamese Greenfinch,88
+black_headed_greenfinch,Black-headed Greenfinch,DIB-10K_62,9867.Black-headed Greenfinch,47
+desert_finch,Desert Finch,DIB-10K_62,9868.Desert Finch,320
+socotra_golden_winged_grosbeak,Socotra Golden-winged Grosbeak,DIB-10K_62,9869.Socotra Golden-winged Grosbeak,19
+arabian_golden_winged_grosbeak,Arabian Golden-winged Grosbeak,DIB-10K_62,9870.Arabian Golden-winged Grosbeak,74
+somali_golden_winged_grosbeak,Somali Golden-winged Grosbeak,DIB-10K_62,9871.Somali Golden-winged Grosbeak,5
+oriole_finch,Oriole Finch,DIB-10K_62,9872.Oriole Finch,55
+principe_seedeater,Principe Seedeater,DIB-10K_62,9873.Principe Seedeater,25
+sao_tome_grosbeak,Sao Tome Grosbeak,DIB-10K_62,9874.Sao Tome Grosbeak,7
+african_citril,African Citril,DIB-10K_62,9875.African Citril,163
+western_citril,Western Citril,DIB-10K_62,9876.Western Citril,76
+southern_citril,Southern Citril,DIB-10K_62,9877.Southern Citril,66
+black_faced_canary,Black-faced Canary,DIB-10K_62,9878.Black-faced Canary,31
+papyrus_canary,Papyrus Canary,DIB-10K_62,9879.Papyrus Canary,18
+forest_canary,Forest Canary,DIB-10K_62,9880.Forest Canary,165
+white_rumped_seedeater,White-rumped Seedeater,DIB-10K_62,9881.White-rumped Seedeater,69
+black_throated_canary,Black-throated Canary,DIB-10K_62,9882.Black-throated Canary,183
+yellow_rumped_seedeater,Yellow-rumped Seedeater,DIB-10K_62,9883.Yellow-rumped Seedeater,44
+reichenows_seedeater,Reichenow's Seedeater,DIB-10K_62,9884.Reichenow's Seedeater,108
+arabian_serin,Arabian Serin,DIB-10K_62,9885.Arabian Serin,32
+yellow_throated_seedeater,Yellow-throated Seedeater,DIB-10K_62,9886.Yellow-throated Seedeater,68
+salvadoris_seedeater,Salvadori's Seedeater,DIB-10K_62,9887.Salvadori's Seedeater,28
+lemon_breasted_canary,Lemon-breasted Canary,DIB-10K_62,9888.Lemon-breasted Canary,63
+yellow_fronted_canary,Yellow-fronted Canary,DIB-10K_62,9889.Yellow-fronted Canary,624
+white_bellied_canary,White-bellied Canary,DIB-10K_62,9890.White-bellied Canary,114
+ankober_serin,Ankober Serin,DIB-10K_62,9891.Ankober Serin,98
+yemen_serin,Yemen Serin,DIB-10K_62,9892.Yemen Serin,82
+cape_siskin,Cape Siskin,DIB-10K_62,9893.Cape Siskin,109
+drakensberg_siskin,Drakensberg Siskin,DIB-10K_62,9894.Drakensberg Siskin,88
+northern_grosbeak_canary,Northern Grosbeak-Canary,DIB-10K_62,9895.Northern Grosbeak-Canary,40
+southern_grosbeak_canary,Southern Grosbeak-Canary,DIB-10K_62,9896.Southern Grosbeak-Canary,49
+yellow_canary,Yellow Canary,DIB-10K_62,9897.Yellow Canary,339
+brimstone_canary,Brimstone Canary,DIB-10K_62,9898.Brimstone Canary,234
+reichards_seedeater,Reichard's Seedeater,DIB-10K_62,9899.Reichard's Seedeater,15
+streaky_headed_seedeater,Streaky-headed Seedeater,DIB-10K_62,9900.Streaky-headed Seedeater,136
+west_african_seedeater,West African Seedeater,DIB-10K_62,9901.West African Seedeater,9
+black_eared_seedeater,Black-eared Seedeater,DIB-10K_62,9902.Black-eared Seedeater,16
+brown_rumped_seedeater,Brown-rumped Seedeater,DIB-10K_62,9903.Brown-rumped Seedeater,149
+white_throated_canary,White-throated Canary,DIB-10K_62,9904.White-throated Canary,158
+thick_billed_seedeater,Thick-billed Seedeater,DIB-10K_62,9905.Thick-billed Seedeater,51
+streaky_seedeater,Streaky Seedeater,DIB-10K_62,9906.Streaky Seedeater,236
+yellow_browed_seedeater,Yellow-browed Seedeater,DIB-10K_62,9907.Yellow-browed Seedeater,10
+kipengere_seedeater,Kipengere Seedeater,DIB-10K_62,9908.Kipengere Seedeater,1
+protea_canary,Protea Canary,DIB-10K_62,9909.Protea Canary,55
+twite,Twite,DIB-10K_62,9910.Twite,551
+common_linnet,Common Linnet,DIB-10K_62,9911.Common Linnet,2705
+yemen_linnet,Yemen Linnet,DIB-10K_62,9912.Yemen Linnet,13
+warsangli_linnet,Warsangli Linnet,DIB-10K_62,9913.Warsangli Linnet,8
+common_redpoll,Common Redpoll,DIB-10K_62,9914.Common Redpoll,2617
+lesser_redpoll,Lesser Redpoll,DIB-10K_62,9915.Lesser Redpoll,880
+arctic_redpoll,Arctic Redpoll,DIB-10K_62,9916.Arctic Redpoll,1152
+parrot_crossbill,Parrot Crossbill,DIB-10K_62,9917.Parrot Crossbill,1103
+scottish_crossbill,Scottish Crossbill,DIB-10K_62,9918.Scottish Crossbill,135
+red_crossbill,Red Crossbill,DIB-10K_62,9919.Red Crossbill,2695
+cassia_crossbill,Cassia Crossbill,DIB-10K_62,9920.Cassia Crossbill,168
+two_barred_crossbill,Two-barred Crossbill,DIB-10K_62,9921.Two-barred Crossbill,2035
+hispaniolan_crossbill,Hispaniolan Crossbill,DIB-10K_62,9922.Hispaniolan Crossbill,179
+mountain_serin,Mountain Serin,DIB-10K_62,9923.Mountain Serin,14
+european_goldfinch,European Goldfinch,DIB-10K_62,9924.European Goldfinch,2667
+citril_finch,Citril Finch,DIB-10K_62,9925.Citril Finch,632
+corsican_finch,Corsican Finch,DIB-10K_62,9926.Corsican Finch,114
+red_fronted_serin,Red-fronted Serin,DIB-10K_62,9927.Red-fronted Serin,663
+european_serin,European Serin,DIB-10K_62,9928.European Serin,2514
+syrian_serin,Syrian Serin,DIB-10K_62,9929.Syrian Serin,87
+atlantic_canary,Atlantic Canary,DIB-10K_62,9930.Atlantic Canary,1677
+cape_canary,Cape Canary,DIB-10K_62,9931.Cape Canary,354
+yellow_crowned_canary,Yellow-crowned Canary,DIB-10K_62,9932.Yellow-crowned Canary,89
+ethiopian_siskin,Ethiopian Siskin,DIB-10K_62,9933.Ethiopian Siskin,127
+black_headed_canary,Black-headed Canary,DIB-10K_62,9934.Black-headed Canary,112
+tibetan_serin,Tibetan Serin,DIB-10K_62,9935.Tibetan Serin,47
+lawrences_goldfinch,Lawrence's Goldfinch,DIB-10K_62,9936.Lawrence's Goldfinch,856
+american_goldfinch,American Goldfinch,DIB-10K_62,9937.American Goldfinch,2638
+lesser_goldfinch,Lesser Goldfinch,DIB-10K_62,9938.Lesser Goldfinch,2494
+,,DIB-10K_62,,0
