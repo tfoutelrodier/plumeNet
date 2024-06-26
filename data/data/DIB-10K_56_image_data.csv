@@ -1,0 +1,106 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+aztec_thrush,Aztec Thrush,DIB-10K_56,8699.Aztec Thrush,111
+sulawesi_thrush,Sulawesi Thrush,DIB-10K_56,8700.Sulawesi Thrush,23
+grandala,Grandala,DIB-10K_56,8701.Grandala,183
+eastern_bluebird,Eastern Bluebird,DIB-10K_56,8702.Eastern Bluebird,2446
+western_bluebird,Western Bluebird,DIB-10K_56,8703.Western Bluebird,2373
+mountain_bluebird,Mountain Bluebird,DIB-10K_56,8704.Mountain Bluebird,2294
+omao,Omao,DIB-10K_56,8705.Omao,206
+kamao,Kamao,DIB-10K_56,8706.Kamao,12
+puaiohi,Puaiohi,DIB-10K_56,8707.Puaiohi,71
+olomao,Olomao,DIB-10K_56,8708.Olomao,11
+townsends_solitaire,Townsend's Solitaire,DIB-10K_56,8709.Townsend's Solitaire,1690
+brown_backed_solitaire,Brown-backed Solitaire,DIB-10K_56,8710.Brown-backed Solitaire,262
+cuban_solitaire,Cuban Solitaire,DIB-10K_56,8711.Cuban Solitaire,174
+rufous_throated_solitaire,Rufous-throated Solitaire,DIB-10K_56,8712.Rufous-throated Solitaire,201
+black_faced_solitaire,Black-faced Solitaire,DIB-10K_56,8713.Black-faced Solitaire,312
+varied_solitaire,Varied Solitaire,DIB-10K_56,8714.Varied Solitaire,22
+andean_solitaire,Andean Solitaire,DIB-10K_56,8715.Andean Solitaire,240
+slate_colored_solitaire,Slate-colored Solitaire,DIB-10K_56,8716.Slate-colored Solitaire,97
+rufous_brown_solitaire,Rufous-brown Solitaire,DIB-10K_56,8717.Rufous-brown Solitaire,70
+black_billed_nightingale_thrush,Black-billed Nightingale-Thrush,DIB-10K_56,8718.Black-billed Nightingale-Thrush,431
+orange_billed_nightingale_thrush,Orange-billed Nightingale-Thrush,DIB-10K_56,8719.Orange-billed Nightingale-Thrush,401
+slaty_backed_nightingale_thrush,Slaty-backed Nightingale-Thrush,DIB-10K_56,8720.Slaty-backed Nightingale-Thrush,280
+russet_nightingale_thrush,Russet Nightingale-Thrush,DIB-10K_56,8721.Russet Nightingale-Thrush,86
+ruddy_capped_nightingale_thrush,Ruddy-capped Nightingale-Thrush,DIB-10K_56,8722.Ruddy-capped Nightingale-Thrush,374
+black_headed_nightingale_thrush,Black-headed Nightingale-Thrush,DIB-10K_56,8723.Black-headed Nightingale-Thrush,155
+goulds_nightingale_thrush,Gould's Nightingale-Thrush,DIB-10K_56,8724.Gould's Nightingale-Thrush,43
+sclaters_nightingale_thrush,Sclater's Nightingale-Thrush,DIB-10K_56,8725.Sclater's Nightingale-Thrush,4
+veery,Veery,DIB-10K_56,8726.Veery,1525
+grey_cheeked_thrush,Grey-cheeked Thrush,DIB-10K_56,8727.Grey-cheeked Thrush,1037
+bicknells_thrush,Bicknell's Thrush,DIB-10K_56,8728.Bicknell's Thrush,333
+swainsons_thrush,Swainson's Thrush,DIB-10K_56,8729.Swainson's Thrush,2186
+hermit_thrush,Hermit Thrush,DIB-10K_56,8730.Hermit Thrush,2568
+wood_thrush,Wood Thrush,DIB-10K_56,8731.Wood Thrush,1579
+black_solitaire,Black Solitaire,DIB-10K_56,8732.Black Solitaire,103
+white_eared_solitaire,White-eared Solitaire,DIB-10K_56,8733.White-eared Solitaire,54
+groundscraper_thrush,Groundscraper Thrush,DIB-10K_56,8734.Groundscraper Thrush,695
+yellow_legged_thrush,Yellow-legged Thrush,DIB-10K_56,8735.Yellow-legged Thrush,379
+pale_eyed_thrush,Pale-eyed Thrush,DIB-10K_56,8736.Pale-eyed Thrush,74
+african_thrush,African Thrush,DIB-10K_56,8737.African Thrush,355
+bare_eyed_thrush,Bare-eyed Thrush,DIB-10K_56,8738.Bare-eyed Thrush,114
+kurrichane_thrush,Kurrichane Thrush,DIB-10K_56,8739.Kurrichane Thrush,370
+sao_tome_thrush,Sao Tome Thrush,DIB-10K_56,8740.Sao Tome Thrush,36
+principe_thrush,Principe Thrush,DIB-10K_56,8741.Principe Thrush,18
+olive_thrush,Olive Thrush,DIB-10K_56,8742.Olive Thrush,417
+usambara_thrush,Usambara Thrush,DIB-10K_56,8743.Usambara Thrush,7
+abyssinian_thrush,Abyssinian Thrush,DIB-10K_56,8744.Abyssinian Thrush,197
+karoo_thrush,Karoo Thrush,DIB-10K_56,8745.Karoo Thrush,305
+somali_thrush,Somali Thrush,DIB-10K_56,8746.Somali Thrush,10
+taita_thrush,Taita Thrush,DIB-10K_56,8747.Taita Thrush,14
+yemen_thrush,Yemen Thrush,DIB-10K_56,8748.Yemen Thrush,27
+comoros_thrush,Comoros Thrush,DIB-10K_56,8749.Comoros Thrush,12
+grey_backed_thrush,Grey-backed Thrush,DIB-10K_56,8750.Grey-backed Thrush,408
+tickells_thrush,Tickell's Thrush,DIB-10K_56,8751.Tickell's Thrush,266
+black_breasted_thrush,Black-breasted Thrush,DIB-10K_56,8752.Black-breasted Thrush,427
+japanese_thrush,Japanese Thrush,DIB-10K_56,8753.Japanese Thrush,504
+white_collared_blackbird,White-collared Blackbird,DIB-10K_56,8754.White-collared Blackbird,170
+ring_ouzel,Ring Ouzel,DIB-10K_56,8755.Ring Ouzel,2157
+grey_winged_blackbird,Grey-winged Blackbird,DIB-10K_56,8756.Grey-winged Blackbird,485
+common_blackbird,Common Blackbird,DIB-10K_56,8757.Common Blackbird,2709
+chinese_blackbird,Chinese Blackbird,DIB-10K_56,8758.Chinese Blackbird,221
+tibetan_blackbird,Tibetan Blackbird,DIB-10K_56,8759.Tibetan Blackbird,54
+indian_blackbird,Indian Blackbird,DIB-10K_56,8760.Indian Blackbird,547
+island_thrush,Island Thrush,DIB-10K_56,8761.Island Thrush,352
+chestnut_thrush,Chestnut Thrush,DIB-10K_56,8762.Chestnut Thrush,249
+kesslers_thrush,Kessler's Thrush,DIB-10K_56,8763.Kessler's Thrush,106
+grey_sided_thrush,Grey-sided Thrush,DIB-10K_56,8764.Grey-sided Thrush,155
+eyebrowed_thrush,Eyebrowed Thrush,DIB-10K_56,8765.Eyebrowed Thrush,653
+pale_thrush,Pale Thrush,DIB-10K_56,8766.Pale Thrush,849
+brown_headed_thrush,Brown-headed Thrush,DIB-10K_56,8767.Brown-headed Thrush,446
+izu_thrush,Izu Thrush,DIB-10K_56,8768.Izu Thrush,91
+black_throated_thrush,Black-throated Thrush,DIB-10K_56,8769.Black-throated Thrush,626
+red_throated_thrush,Red-throated Thrush,DIB-10K_56,8770.Red-throated Thrush,433
+naumanns_thrush,Naumann's Thrush,DIB-10K_56,8771.Naumann's Thrush,629
+dusky_thrush,Dusky Thrush,DIB-10K_56,8772.Dusky Thrush,1251
+fieldfare,Fieldfare,DIB-10K_56,8773.Fieldfare,2809
+redwing,Redwing,DIB-10K_56,8774.Redwing,2662
+song_thrush,Song Thrush,DIB-10K_56,8775.Song Thrush,2588
+chinese_thrush,Chinese Thrush,DIB-10K_56,8776.Chinese Thrush,142
+mistle_thrush,Mistle Thrush,DIB-10K_56,8777.Mistle Thrush,2679
+great_thrush,Great Thrush,DIB-10K_56,8778.Great Thrush,1373
+chiguanco_thrush,Chiguanco Thrush,DIB-10K_56,8779.Chiguanco Thrush,670
+sooty_thrush,Sooty Thrush,DIB-10K_56,8780.Sooty Thrush,527
+black_thrush,Black Thrush,DIB-10K_56,8781.Black Thrush,86
+glossy_black_thrush,Glossy-black Thrush,DIB-10K_56,8782.Glossy-black Thrush,321
+andean_slaty_thrush,Andean Slaty Thrush,DIB-10K_56,8783.Andean Slaty Thrush,91
+eastern_slaty_thrush,Eastern Slaty Thrush,DIB-10K_56,8784.Eastern Slaty Thrush,113
+plumbeous_backed_thrush,Plumbeous-backed Thrush,DIB-10K_56,8785.Plumbeous-backed Thrush,80
+black_hooded_thrush,Black-hooded Thrush,DIB-10K_56,8786.Black-hooded Thrush,89
+maranon_thrush,Maranon Thrush,DIB-10K_56,8787.Maranon Thrush,69
+chestnut_bellied_thrush,Chestnut-bellied Thrush,DIB-10K_56,8788.Chestnut-bellied Thrush,77
+rufous_bellied_thrush,Rufous-bellied Thrush,DIB-10K_56,8789.Rufous-bellied Thrush,2707
+austral_thrush,Austral Thrush,DIB-10K_56,8790.Austral Thrush,1274
+pale_breasted_thrush,Pale-breasted Thrush,DIB-10K_56,8791.Pale-breasted Thrush,1641
+creamy_bellied_thrush,Creamy-bellied Thrush,DIB-10K_56,8792.Creamy-bellied Thrush,1502
+mountain_thrush,Mountain Thrush,DIB-10K_56,8793.Mountain Thrush,310
+black_billed_thrush,Black-billed Thrush,DIB-10K_56,8794.Black-billed Thrush,816
+lawrences_thrush,Lawrence's Thrush,DIB-10K_56,8795.Lawrence's Thrush,31
+cocoa_thrush,Cocoa Thrush,DIB-10K_56,8796.Cocoa Thrush,255
+pale_vented_thrush,Pale-vented Thrush,DIB-10K_56,8797.Pale-vented Thrush,98
+hauxwells_thrush,Hauxwell's Thrush,DIB-10K_56,8798.Hauxwell's Thrush,50
+unicolored_thrush,Unicolored Thrush,DIB-10K_56,8799.Unicolored Thrush,12
+clay_colored_thrush,Clay-colored Thrush,DIB-10K_56,8800.Clay-colored Thrush,2066
+spectacled_thrush,Spectacled Thrush,DIB-10K_56,8801.Spectacled Thrush,592
+varzea_thrush,Varzea Thrush,DIB-10K_56,8802.Varzea Thrush,37
+,,DIB-10K_56,,0

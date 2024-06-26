@@ -1,0 +1,46 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+dimorphic_egret,Dimorphic Egret,DIB-10K_12,863.Dimorphic Egret,341
+pacific_reef_heron,Pacific Reef Heron,DIB-10K_12,864.Pacific Reef Heron,2452
+chinese_egret,Chinese Egret,DIB-10K_12,865.Chinese Egret,749
+hamerkop,Hamerkop,DIB-10K_12,866.Hamerkop,2836
+shoebill,Shoebill,DIB-10K_12,867.Shoebill,2123
+great_white_pelican,Great White Pelican,DIB-10K_12,868.Great White Pelican,2891
+pink_backed_pelican,Pink-backed Pelican,DIB-10K_12,869.Pink-backed Pelican,2310
+spot_billed_pelican,Spot-billed Pelican,DIB-10K_12,870.Spot-billed Pelican,1937
+dalmatian_pelican,Dalmatian Pelican,DIB-10K_12,871.Dalmatian Pelican,2577
+australian_pelican,Australian Pelican,DIB-10K_12,872.Australian Pelican,2968
+american_white_pelican,American White Pelican,DIB-10K_12,873.American White Pelican,2694
+brown_pelican,Brown Pelican,DIB-10K_12,874.Brown Pelican,2991
+peruvian_pelican,Peruvian Pelican,DIB-10K_12,875.Peruvian Pelican,2319
+ascension_frigatebird,Ascension Frigatebird,DIB-10K_12,876.Ascension Frigatebird,211
+christmas_frigatebird,Christmas Frigatebird,DIB-10K_12,877.Christmas Frigatebird,205
+magnificent_frigatebird,Magnificent Frigatebird,DIB-10K_12,878.Magnificent Frigatebird,2349
+great_frigatebird,Great Frigatebird,DIB-10K_12,879.Great Frigatebird,1980
+lesser_frigatebird,Lesser Frigatebird,DIB-10K_12,880.Lesser Frigatebird,552
+northern_gannet,Northern Gannet,DIB-10K_12,881.Northern Gannet,2785
+cape_gannet,Cape Gannet,DIB-10K_12,882.Cape Gannet,978
+australasian_gannet,Australasian Gannet,DIB-10K_12,883.Australasian Gannet,2451
+abbotts_booby,Abbott's Booby,DIB-10K_12,884.Abbott's Booby,78
+blue_footed_booby,Blue-footed Booby,DIB-10K_12,885.Blue-footed Booby,3136
+peruvian_booby,Peruvian Booby,DIB-10K_12,886.Peruvian Booby,1093
+masked_booby,Masked Booby,DIB-10K_12,887.Masked Booby,1862
+nazca_booby,Nazca Booby,DIB-10K_12,888.Nazca Booby,2566
+red_footed_booby,Red-footed Booby,DIB-10K_12,889.Red-footed Booby,2115
+brown_booby,Brown Booby,DIB-10K_12,890.Brown Booby,2685
+little_pied_cormorant,Little Pied Cormorant,DIB-10K_12,891.Little Pied Cormorant,2222
+reed_cormorant,Reed Cormorant,DIB-10K_12,892.Reed Cormorant,925
+crowned_cormorant,Crowned Cormorant,DIB-10K_12,893.Crowned Cormorant,203
+little_cormorant,Little Cormorant,DIB-10K_12,894.Little Cormorant,1422
+pygmy_cormorant,Pygmy Cormorant,DIB-10K_12,895.Pygmy Cormorant,651
+red_legged_cormorant,Red-legged Cormorant,DIB-10K_12,896.Red-legged Cormorant,853
+flightless_cormorant,Flightless Cormorant,DIB-10K_12,897.Flightless Cormorant,1047
+bank_cormorant,Bank Cormorant,DIB-10K_12,898.Bank Cormorant,224
+spotted_shag,Spotted Shag,DIB-10K_12,899.Spotted Shag,596
+pitt_shag,Pitt Shag,DIB-10K_12,900.Pitt Shag,74
+pallass_cormorant,Pallas's Cormorant,DIB-10K_12,901.Pallas's Cormorant,28
+brandts_cormorant,Brandt's Cormorant,DIB-10K_12,902.Brandt's Cormorant,2142
+pelagic_cormorant,Pelagic Cormorant,DIB-10K_12,903.Pelagic Cormorant,2051
+red_faced_cormorant,Red-faced Cormorant,DIB-10K_12,904.Red-faced Cormorant,449
+neotropic_cormorant,Neotropic Cormorant,DIB-10K_12,905.Neotropic Cormorant,2741
+double_crested_cormorant,Double-crested Cormorant,DIB-10K_12,906.Double-crested Cormorant,2701
+,,DIB-10K_12,,0

@@ -1,0 +1,274 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+golden_fronted_leafbird,Golden-fronted Leafbird,DIB-10K_59,9158.Golden-fronted Leafbird,872
+sumatran_leafbird,Sumatran Leafbird,DIB-10K_59,9159.Sumatran Leafbird,14
+orange_bellied_leafbird,Orange-bellied Leafbird,DIB-10K_59,9160.Orange-bellied Leafbird,854
+blue_masked_leafbird,Blue-masked Leafbird,DIB-10K_59,9161.Blue-masked Leafbird,39
+olive_backed_flowerpecker,Olive-backed Flowerpecker,DIB-10K_59,9162.Olive-backed Flowerpecker,51
+yellow_breasted_flowerpecker,Yellow-breasted Flowerpecker,DIB-10K_59,9163.Yellow-breasted Flowerpecker,255
+crimson_breasted_flowerpecker,Crimson-breasted Flowerpecker,DIB-10K_59,9164.Crimson-breasted Flowerpecker,272
+palawan_flowerpecker,Palawan Flowerpecker,DIB-10K_59,9165.Palawan Flowerpecker,64
+yellow_rumped_flowerpecker,Yellow-rumped Flowerpecker,DIB-10K_59,9166.Yellow-rumped Flowerpecker,131
+scarlet_breasted_flowerpecker,Scarlet-breasted Flowerpecker,DIB-10K_59,9167.Scarlet-breasted Flowerpecker,99
+golden_rumped_flowerpecker,Golden-rumped Flowerpecker,DIB-10K_59,9168.Golden-rumped Flowerpecker,35
+thick_billed_flowerpecker,Thick-billed Flowerpecker,DIB-10K_59,9169.Thick-billed Flowerpecker,315
+striped_flowerpecker,Striped Flowerpecker,DIB-10K_59,9170.Striped Flowerpecker,21
+brown_backed_flowerpecker,Brown-backed Flowerpecker,DIB-10K_59,9171.Brown-backed Flowerpecker,8
+whiskered_flowerpecker,Whiskered Flowerpecker,DIB-10K_59,9172.Whiskered Flowerpecker,73
+yellow_vented_flowerpecker,Yellow-vented Flowerpecker,DIB-10K_59,9173.Yellow-vented Flowerpecker,215
+yellow_bellied_flowerpecker,Yellow-bellied Flowerpecker,DIB-10K_59,9174.Yellow-bellied Flowerpecker,122
+legges_flowerpecker,Legge's Flowerpecker,DIB-10K_59,9175.Legge's Flowerpecker,43
+yellow_sided_flowerpecker,Yellow-sided Flowerpecker,DIB-10K_59,9176.Yellow-sided Flowerpecker,100
+olive_capped_flowerpecker,Olive-capped Flowerpecker,DIB-10K_59,9177.Olive-capped Flowerpecker,36
+flame_crowned_flowerpecker,Flame-crowned Flowerpecker,DIB-10K_59,9178.Flame-crowned Flowerpecker,34
+bicolored_flowerpecker,Bicolored Flowerpecker,DIB-10K_59,9179.Bicolored Flowerpecker,47
+red_keeled_flowerpecker,Red-keeled Flowerpecker,DIB-10K_59,9180.Red-keeled Flowerpecker,167
+black_belted_flowerpecker,Black-belted Flowerpecker,DIB-10K_59,9181.Black-belted Flowerpecker,60
+scarlet_collared_flowerpecker,Scarlet-collared Flowerpecker,DIB-10K_59,9182.Scarlet-collared Flowerpecker,32
+cebu_flowerpecker,Cebu Flowerpecker,DIB-10K_59,9183.Cebu Flowerpecker,2
+orange_bellied_flowerpecker,Orange-bellied Flowerpecker,DIB-10K_59,9184.Orange-bellied Flowerpecker,1015
+buzzing_flowerpecker,Buzzing Flowerpecker,DIB-10K_59,9185.Buzzing Flowerpecker,72
+pale_billed_flowerpecker,Pale-billed Flowerpecker,DIB-10K_59,9186.Pale-billed Flowerpecker,611
+nilgiri_flowerpecker,Nilgiri Flowerpecker,DIB-10K_59,9187.Nilgiri Flowerpecker,389
+plain_flowerpecker,Plain Flowerpecker,DIB-10K_59,9188.Plain Flowerpecker,201
+andaman_flowerpecker,Andaman Flowerpecker,DIB-10K_59,9189.Andaman Flowerpecker,40
+pygmy_flowerpecker,Pygmy Flowerpecker,DIB-10K_59,9190.Pygmy Flowerpecker,88
+crimson_crowned_flowerpecker,Crimson-crowned Flowerpecker,DIB-10K_59,9191.Crimson-crowned Flowerpecker,48
+flame_breasted_flowerpecker,Flame-breasted Flowerpecker,DIB-10K_59,9192.Flame-breasted Flowerpecker,38
+halmahera_flowerpecker,Halmahera Flowerpecker,DIB-10K_59,9193.Halmahera Flowerpecker,39
+ashy_flowerpecker,Ashy Flowerpecker,DIB-10K_59,9194.Ashy Flowerpecker,34
+olive_crowned_flowerpecker,Olive-crowned Flowerpecker,DIB-10K_59,9195.Olive-crowned Flowerpecker,44
+red_capped_flowerpecker,Red-capped Flowerpecker,DIB-10K_59,9196.Red-capped Flowerpecker,65
+louisiade_flowerpecker,Louisiade Flowerpecker,DIB-10K_59,9197.Louisiade Flowerpecker,4
+red_banded_flowerpecker,Red-banded Flowerpecker,DIB-10K_59,9198.Red-banded Flowerpecker,20
+midget_flowerpecker,Midget Flowerpecker,DIB-10K_59,9199.Midget Flowerpecker,16
+mottled_flowerpecker,Mottled Flowerpecker,DIB-10K_59,9200.Mottled Flowerpecker,20
+black_fronted_flowerpecker,Black-fronted Flowerpecker,DIB-10K_59,9201.Black-fronted Flowerpecker,55
+blue_cheeked_flowerpecker,Blue-cheeked Flowerpecker,DIB-10K_59,9202.Blue-cheeked Flowerpecker,53
+mistletoebird,Mistletoebird,DIB-10K_59,9203.Mistletoebird,1002
+grey_sided_flowerpecker,Grey-sided Flowerpecker,DIB-10K_59,9204.Grey-sided Flowerpecker,126
+black_sided_flowerpecker,Black-sided Flowerpecker,DIB-10K_59,9205.Black-sided Flowerpecker,118
+fire_breasted_flowerpecker,Fire-breasted Flowerpecker,DIB-10K_59,9206.Fire-breasted Flowerpecker,458
+blood_breasted_flowerpecker,Blood-breasted Flowerpecker,DIB-10K_59,9207.Blood-breasted Flowerpecker,72
+scarlet_backed_flowerpecker,Scarlet-backed Flowerpecker,DIB-10K_59,9208.Scarlet-backed Flowerpecker,1333
+scarlet_headed_flowerpecker,Scarlet-headed Flowerpecker,DIB-10K_59,9209.Scarlet-headed Flowerpecker,208
+ruby_cheeked_sunbird,Ruby-cheeked Sunbird,DIB-10K_59,9210.Ruby-cheeked Sunbird,348
+frasers_sunbird,Fraser's Sunbird,DIB-10K_59,9211.Fraser's Sunbird,22
+grey_headed_sunbird,Grey-headed Sunbird,DIB-10K_59,9212.Grey-headed Sunbird,10
+plain_backed_sunbird,Plain-backed Sunbird,DIB-10K_59,9213.Plain-backed Sunbird,23
+anchietas_sunbird,Anchieta's Sunbird,DIB-10K_59,9214.Anchieta's Sunbird,22
+plain_sunbird,Plain Sunbird,DIB-10K_59,9215.Plain Sunbird,212
+brown_throated_sunbird,Brown-throated Sunbird,DIB-10K_59,9216.Brown-throated Sunbird,1832
+grey_throated_sunbird,Grey-throated Sunbird,DIB-10K_59,9217.Grey-throated Sunbird,41
+red_throated_sunbird,Red-throated Sunbird,DIB-10K_59,9218.Red-throated Sunbird,153
+mangrove_sunbird,Mangrove Sunbird,DIB-10K_59,9219.Mangrove Sunbird,85
+western_violet_backed_sunbird,Western Violet-backed Sunbird,DIB-10K_59,9220.Western Violet-backed Sunbird,71
+eastern_violet_backed_sunbird,Eastern Violet-backed Sunbird,DIB-10K_59,9221.Eastern Violet-backed Sunbird,110
+uluguru_violet_backed_sunbird,Uluguru Violet-backed Sunbird,DIB-10K_59,9222.Uluguru Violet-backed Sunbird,29
+violet_tailed_sunbird,Violet-tailed Sunbird,DIB-10K_59,9223.Violet-tailed Sunbird,19
+little_green_sunbird,Little Green Sunbird,DIB-10K_59,9224.Little Green Sunbird,36
+grey_chinned_sunbird,Grey-chinned Sunbird,DIB-10K_59,9225.Grey-chinned Sunbird,42
+banded_green_sunbird,Banded Green Sunbird,DIB-10K_59,9226.Banded Green Sunbird,12
+collared_sunbird,Collared Sunbird,DIB-10K_59,9227.Collared Sunbird,575
+pygmy_sunbird,Pygmy Sunbird,DIB-10K_59,9228.Pygmy Sunbird,135
+nile_valley_sunbird,Nile Valley Sunbird,DIB-10K_59,9229.Nile Valley Sunbird,209
+amani_sunbird,Amani Sunbird,DIB-10K_59,9230.Amani Sunbird,25
+purple_naped_sunbird,Purple-naped Sunbird,DIB-10K_59,9231.Purple-naped Sunbird,63
+reichenbachs_sunbird,Reichenbach's Sunbird,DIB-10K_59,9232.Reichenbach's Sunbird,89
+principe_sunbird,Principe Sunbird,DIB-10K_59,9233.Principe Sunbird,21
+newtons_sunbird,Newton's Sunbird,DIB-10K_59,9234.Newton's Sunbird,41
+giant_sunbird,Giant Sunbird,DIB-10K_59,9235.Giant Sunbird,33
+orange_breasted_sunbird,Orange-breasted Sunbird,DIB-10K_59,9236.Orange-breasted Sunbird,708
+green_headed_sunbird,Green-headed Sunbird,DIB-10K_59,9237.Green-headed Sunbird,188
+bannermans_sunbird,Bannerman's Sunbird,DIB-10K_59,9238.Bannerman's Sunbird,17
+blue_throated_brown_sunbird,Blue-throated Brown Sunbird,DIB-10K_59,9239.Blue-throated Brown Sunbird,58
+cameroon_sunbird,Cameroon Sunbird,DIB-10K_59,9240.Cameroon Sunbird,40
+blue_headed_sunbird,Blue-headed Sunbird,DIB-10K_59,9241.Blue-headed Sunbird,40
+olive_sunbird,Olive Sunbird,DIB-10K_59,9242.Olive Sunbird,173
+grey_sunbird,Grey Sunbird,DIB-10K_59,9243.Grey Sunbird,93
+buff_throated_sunbird,Buff-throated Sunbird,DIB-10K_59,9244.Buff-throated Sunbird,43
+carmelite_sunbird,Carmelite Sunbird,DIB-10K_59,9245.Carmelite Sunbird,68
+green_throated_sunbird,Green-throated Sunbird,DIB-10K_59,9246.Green-throated Sunbird,24
+amethyst_sunbird,Amethyst Sunbird,DIB-10K_59,9247.Amethyst Sunbird,434
+scarlet_chested_sunbird,Scarlet-chested Sunbird,DIB-10K_59,9248.Scarlet-chested Sunbird,805
+hunters_sunbird,Hunter's Sunbird,DIB-10K_59,9249.Hunter's Sunbird,85
+socotra_sunbird,Socotra Sunbird,DIB-10K_59,9250.Socotra Sunbird,7
+purple_rumped_sunbird,Purple-rumped Sunbird,DIB-10K_59,9251.Purple-rumped Sunbird,1224
+crimson_backed_sunbird,Crimson-backed Sunbird,DIB-10K_59,9252.Crimson-backed Sunbird,404
+purple_throated_sunbird,Purple-throated Sunbird,DIB-10K_59,9253.Purple-throated Sunbird,353
+van_hasselts_sunbird,Van Hasselt's Sunbird,DIB-10K_59,9254.Van Hasselt's Sunbird,400
+black_sunbird,Black Sunbird,DIB-10K_59,9255.Black Sunbird,141
+copper_throated_sunbird,Copper-throated Sunbird,DIB-10K_59,9256.Copper-throated Sunbird,545
+bocages_sunbird,Bocage's Sunbird,DIB-10K_59,9257.Bocage's Sunbird,4
+purple_breasted_sunbird,Purple-breasted Sunbird,DIB-10K_59,9258.Purple-breasted Sunbird,25
+tacazze_sunbird,Tacazze Sunbird,DIB-10K_59,9259.Tacazze Sunbird,286
+bronzy_sunbird,Bronzy Sunbird,DIB-10K_59,9260.Bronzy Sunbird,416
+malachite_sunbird,Malachite Sunbird,DIB-10K_59,9261.Malachite Sunbird,660
+scarlet_tufted_sunbird,Scarlet-tufted Sunbird,DIB-10K_59,9262.Scarlet-tufted Sunbird,65
+golden_winged_sunbird,Golden-winged Sunbird,DIB-10K_59,9263.Golden-winged Sunbird,142
+olive_bellied_sunbird,Olive-bellied Sunbird,DIB-10K_59,9264.Olive-bellied Sunbird,172
+tiny_sunbird,Tiny Sunbird,DIB-10K_59,9265.Tiny Sunbird,44
+eastern_miombo_sunbird,Eastern Miombo Sunbird,DIB-10K_59,9266.Eastern Miombo Sunbird,64
+western_miombo_sunbird,Western Miombo Sunbird,DIB-10K_59,9267.Western Miombo Sunbird,5
+southern_double_collared_sunbird,Southern Double-collared Sunbird,DIB-10K_59,9268.Southern Double-collared Sunbird,811
+neergaards_sunbird,Neergaard's Sunbird,DIB-10K_59,9269.Neergaard's Sunbird,27
+rwenzori_double_collared_sunbird,Rwenzori Double-collared Sunbird,DIB-10K_59,9270.Rwenzori Double-collared Sunbird,76
+whytes_double_collared_sunbird,Whyte's Double-collared Sunbird,DIB-10K_59,9271.Whyte's Double-collared Sunbird,1
+ludwigs_double_collared_sunbird,Ludwig's Double-collared Sunbird,DIB-10K_59,9273.Ludwig's Double-collared Sunbird,10
+northern_double_collared_sunbird,Northern Double-collared Sunbird,DIB-10K_59,9274.Northern Double-collared Sunbird,178
+greater_double_collared_sunbird,Greater Double-collared Sunbird,DIB-10K_59,9275.Greater Double-collared Sunbird,388
+regal_sunbird,Regal Sunbird,DIB-10K_59,9276.Regal Sunbird,141
+rockefellers_sunbird,Rockefeller's Sunbird,DIB-10K_59,9277.Rockefeller's Sunbird,4
+eastern_double_collared_sunbird,Eastern Double-collared Sunbird,DIB-10K_59,9278.Eastern Double-collared Sunbird,123
+usambara_double_collared_sunbird,Usambara Double-collared Sunbird,DIB-10K_59,9279.Usambara Double-collared Sunbird,24
+forest_double_collared_sunbird,Forest Double-collared Sunbird,DIB-10K_59,9280.Forest Double-collared Sunbird,15
+moreaus_sunbird,Moreau's Sunbird,DIB-10K_59,9281.Moreau's Sunbird,9
+loveridges_sunbird,Loveridge's Sunbird,DIB-10K_59,9282.Loveridge's Sunbird,10
+beautiful_sunbird,Beautiful Sunbird,DIB-10K_59,9283.Beautiful Sunbird,543
+marico_sunbird,Marico Sunbird,DIB-10K_59,9284.Marico Sunbird,500
+shelleys_sunbird,Shelley's Sunbird,DIB-10K_59,9285.Shelley's Sunbird,19
+hofmanns_sunbird,Hofmann's Sunbird,DIB-10K_59,9286.Hofmann's Sunbird,2
+congo_sunbird,Congo Sunbird,DIB-10K_59,9287.Congo Sunbird,18
+red_chested_sunbird,Red-chested Sunbird,DIB-10K_59,9288.Red-chested Sunbird,201
+black_bellied_sunbird,Black-bellied Sunbird,DIB-10K_59,9289.Black-bellied Sunbird,78
+purple_banded_sunbird,Purple-banded Sunbird,DIB-10K_59,9290.Purple-banded Sunbird,193
+tsavo_sunbird,Tsavo Sunbird,DIB-10K_59,9291.Tsavo Sunbird,23
+violet_breasted_sunbird,Violet-breasted Sunbird,DIB-10K_59,9292.Violet-breasted Sunbird,14
+pemba_sunbird,Pemba Sunbird,DIB-10K_59,9293.Pemba Sunbird,48
+orange_tufted_sunbird,Orange-tufted Sunbird,DIB-10K_59,9294.Orange-tufted Sunbird,41
+palestine_sunbird,Palestine Sunbird,DIB-10K_59,9295.Palestine Sunbird,442
+shining_sunbird,Shining Sunbird,DIB-10K_59,9296.Shining Sunbird,214
+splendid_sunbird,Splendid Sunbird,DIB-10K_59,9297.Splendid Sunbird,232
+johannas_sunbird,Johanna's Sunbird,DIB-10K_59,9298.Johanna's Sunbird,27
+superb_sunbird,Superb Sunbird,DIB-10K_59,9299.Superb Sunbird,63
+rufous_winged_sunbird,Rufous-winged Sunbird,DIB-10K_59,9300.Rufous-winged Sunbird,8
+oustalets_sunbird,Oustalet's Sunbird,DIB-10K_59,9301.Oustalet's Sunbird,11
+white_bellied_sunbird,White-bellied Sunbird,DIB-10K_59,9302.White-bellied Sunbird,496
+variable_sunbird,Variable Sunbird,DIB-10K_59,9303.Variable Sunbird,804
+dusky_sunbird,Dusky Sunbird,DIB-10K_59,9304.Dusky Sunbird,276
+ursulas_sunbird,Ursula's Sunbird,DIB-10K_59,9305.Ursula's Sunbird,8
+batess_sunbird,Bates's Sunbird,DIB-10K_59,9306.Bates's Sunbird,6
+copper_sunbird,Copper Sunbird,DIB-10K_59,9307.Copper Sunbird,198
+purple_sunbird,Purple Sunbird,DIB-10K_59,9308.Purple Sunbird,1866
+olive_backed_sunbird,Olive-backed Sunbird,DIB-10K_59,9309.Olive-backed Sunbird,2504
+apricot_breasted_sunbird,Apricot-breasted Sunbird,DIB-10K_59,9310.Apricot-breasted Sunbird,20
+flame_breasted_sunbird,Flame-breasted Sunbird,DIB-10K_59,9311.Flame-breasted Sunbird,103
+souimanga_sunbird,Souimanga Sunbird,DIB-10K_59,9312.Souimanga Sunbird,250
+abbotts_sunbird,Abbott's Sunbird,DIB-10K_59,9313.Abbott's Sunbird,6
+malagasy_green_sunbird,Malagasy Green Sunbird,DIB-10K_59,9314.Malagasy Green Sunbird,92
+seychelles_sunbird,Seychelles Sunbird,DIB-10K_59,9315.Seychelles Sunbird,207
+humblots_sunbird,Humblot's Sunbird,DIB-10K_59,9316.Humblot's Sunbird,15
+anjouan_sunbird,Anjouan Sunbird,DIB-10K_59,9317.Anjouan Sunbird,15
+mayotte_sunbird,Mayotte Sunbird,DIB-10K_59,9318.Mayotte Sunbird,58
+lotens_sunbird,Loten's Sunbird,DIB-10K_59,9319.Loten's Sunbird,676
+grey_hooded_sunbird,Grey-hooded Sunbird,DIB-10K_59,9320.Grey-hooded Sunbird,22
+apo_sunbird,Apo Sunbird,DIB-10K_59,9321.Apo Sunbird,26
+linas_sunbird,Lina's Sunbird,DIB-10K_59,9322.Lina's Sunbird,22
+flaming_sunbird,Flaming Sunbird,DIB-10K_59,9323.Flaming Sunbird,100
+maroon_naped_sunbird,Maroon-naped Sunbird,DIB-10K_59,9324.Maroon-naped Sunbird,96
+metallic_winged_sunbird,Metallic-winged Sunbird,DIB-10K_59,9325.Metallic-winged Sunbird,62
+luzon_sunbird,Luzon Sunbird,DIB-10K_59,9326.Luzon Sunbird,40
+bohol_sunbird,Bohol Sunbird,DIB-10K_59,9327.Bohol Sunbird,14
+elegant_sunbird,Elegant Sunbird,DIB-10K_59,9328.Elegant Sunbird,24
+lovely_sunbird,Lovely Sunbird,DIB-10K_59,9329.Lovely Sunbird,85
+handsome_sunbird,Handsome Sunbird,DIB-10K_59,9330.Handsome Sunbird,77
+mrs._goulds_sunbird,Mrs. Gould's Sunbird,DIB-10K_59,9331.Mrs. Gould's Sunbird,590
+green_tailed_sunbird,Green-tailed Sunbird,DIB-10K_59,9332.Green-tailed Sunbird,644
+white_flanked_sunbird,White-flanked Sunbird,DIB-10K_59,9333.White-flanked Sunbird,80
+fork_tailed_sunbird,Fork-tailed Sunbird,DIB-10K_59,9334.Fork-tailed Sunbird,594
+black_throated_sunbird,Black-throated Sunbird,DIB-10K_59,9335.Black-throated Sunbird,669
+crimson_sunbird,Crimson Sunbird,DIB-10K_59,9336.Crimson Sunbird,1859
+magnificent_sunbird,Magnificent Sunbird,DIB-10K_59,9337.Magnificent Sunbird,77
+vigorss_sunbird,Vigors's Sunbird,DIB-10K_59,9338.Vigors's Sunbird,114
+javan_sunbird,Javan Sunbird,DIB-10K_59,9339.Javan Sunbird,38
+temmincks_sunbird,Temminck's Sunbird,DIB-10K_59,9340.Temminck's Sunbird,170
+fire_tailed_sunbird,Fire-tailed Sunbird,DIB-10K_59,9341.Fire-tailed Sunbird,230
+little_spiderhunter,Little Spiderhunter,DIB-10K_59,9342.Little Spiderhunter,854
+orange_tufted_spiderhunter,Orange-tufted Spiderhunter,DIB-10K_59,9343.Orange-tufted Spiderhunter,12
+pale_spiderhunter,Pale Spiderhunter,DIB-10K_59,9344.Pale Spiderhunter,53
+thick_billed_spiderhunter,Thick-billed Spiderhunter,DIB-10K_59,9345.Thick-billed Spiderhunter,82
+long_billed_spiderhunter,Long-billed Spiderhunter,DIB-10K_59,9346.Long-billed Spiderhunter,67
+spectacled_spiderhunter,Spectacled Spiderhunter,DIB-10K_59,9347.Spectacled Spiderhunter,208
+yellow_eared_spiderhunter,Yellow-eared Spiderhunter,DIB-10K_59,9348.Yellow-eared Spiderhunter,110
+naked_faced_spiderhunter,Naked-faced Spiderhunter,DIB-10K_59,9349.Naked-faced Spiderhunter,75
+grey_breasted_spiderhunter,Grey-breasted Spiderhunter,DIB-10K_59,9350.Grey-breasted Spiderhunter,179
+streaky_breasted_spiderhunter,Streaky-breasted Spiderhunter,DIB-10K_59,9351.Streaky-breasted Spiderhunter,52
+bornean_spiderhunter,Bornean Spiderhunter,DIB-10K_59,9352.Bornean Spiderhunter,65
+streaked_spiderhunter,Streaked Spiderhunter,DIB-10K_59,9353.Streaked Spiderhunter,675
+whiteheads_spiderhunter,Whitehead's Spiderhunter,DIB-10K_59,9354.Whitehead's Spiderhunter,35
+cinnamon_ibon,Cinnamon Ibon,DIB-10K_59,9355.Cinnamon Ibon,32
+saxaul_sparrow,Saxaul Sparrow,DIB-10K_59,9356.Saxaul Sparrow,144
+house_sparrow,House Sparrow,DIB-10K_59,9357.House Sparrow,2913
+italian_sparrow,Italian Sparrow,DIB-10K_59,9358.Italian Sparrow,861
+spanish_sparrow,Spanish Sparrow,DIB-10K_59,9359.Spanish Sparrow,2733
+sind_sparrow,Sind Sparrow,DIB-10K_59,9360.Sind Sparrow,140
+somali_sparrow,Somali Sparrow,DIB-10K_59,9361.Somali Sparrow,52
+russet_sparrow,Russet Sparrow,DIB-10K_59,9362.Russet Sparrow,403
+plain_backed_sparrow,Plain-backed Sparrow,DIB-10K_59,9363.Plain-backed Sparrow,357
+dead_sea_sparrow,Dead Sea Sparrow,DIB-10K_59,9364.Dead Sea Sparrow,220
+iago_sparrow,Iago Sparrow,DIB-10K_59,9365.Iago Sparrow,293
+great_sparrow,Great Sparrow,DIB-10K_59,9366.Great Sparrow,207
+socotra_sparrow,Socotra Sparrow,DIB-10K_59,9367.Socotra Sparrow,23
+abd_al_kuri_sparrow,Abd al-Kuri Sparrow,DIB-10K_59,9368.Abd al-Kuri Sparrow,11
+kenya_sparrow,Kenya Sparrow,DIB-10K_59,9369.Kenya Sparrow,283
+shelleys_sparrow,Shelley's Sparrow,DIB-10K_59,9370.Shelley's Sparrow,48
+kordofan_sparrow,Kordofan Sparrow,DIB-10K_59,9371.Kordofan Sparrow,13
+cape_sparrow,Cape Sparrow,DIB-10K_59,9372.Cape Sparrow,864
+northern_grey_headed_sparrow,Northern Grey-headed Sparrow,DIB-10K_59,9373.Northern Grey-headed Sparrow,558
+swainsons_sparrow,Swainson's Sparrow,DIB-10K_59,9374.Swainson's Sparrow,166
+parrot_billed_sparrow,Parrot-billed Sparrow,DIB-10K_59,9375.Parrot-billed Sparrow,148
+swahili_sparrow,Swahili Sparrow,DIB-10K_59,9376.Swahili Sparrow,104
+southern_grey_headed_sparrow,Southern Grey-headed Sparrow,DIB-10K_59,9377.Southern Grey-headed Sparrow,492
+desert_sparrow,Desert Sparrow,DIB-10K_59,9378.Desert Sparrow,337
+zarudnys_sparrow,Zarudny's Sparrow,DIB-10K_59,9379.Zarudny's Sparrow,2
+eurasian_tree_sparrow,Eurasian Tree Sparrow,DIB-10K_59,9380.Eurasian Tree Sparrow,2915
+sudan_golden_sparrow,Sudan Golden Sparrow,DIB-10K_59,9381.Sudan Golden Sparrow,181
+arabian_golden_sparrow,Arabian Golden Sparrow,DIB-10K_59,9382.Arabian Golden Sparrow,56
+chestnut_sparrow,Chestnut Sparrow,DIB-10K_59,9383.Chestnut Sparrow,200
+pale_rockfinch,Pale Rockfinch,DIB-10K_59,9384.Pale Rockfinch,129
+rock_sparrow,Rock Sparrow,DIB-10K_59,9385.Rock Sparrow,1550
+yellow_throated_bush_sparrow,Yellow-throated Bush Sparrow,DIB-10K_59,9386.Yellow-throated Bush Sparrow,110
+sahel_bush_sparrow,Sahel Bush Sparrow,DIB-10K_59,9387.Sahel Bush Sparrow,112
+yellow_spotted_bush_sparrow,Yellow-spotted Bush Sparrow,DIB-10K_59,9388.Yellow-spotted Bush Sparrow,108
+yellow_throated_sparrow,Yellow-throated Sparrow,DIB-10K_59,9389.Yellow-throated Sparrow,511
+white_winged_snowfinch,White-winged Snowfinch,DIB-10K_59,9390.White-winged Snowfinch,1106
+tibetan_snowfinch,Tibetan Snowfinch,DIB-10K_59,9391.Tibetan Snowfinch,55
+black_winged_snowfinch,Black-winged Snowfinch,DIB-10K_59,9392.Black-winged Snowfinch,126
+white_rumped_snowfinch,White-rumped Snowfinch,DIB-10K_59,9393.White-rumped Snowfinch,103
+pere_davids_snowfinch,Pere David's Snowfinch,DIB-10K_59,9394.Pere David's Snowfinch,76
+rufous_necked_snowfinch,Rufous-necked Snowfinch,DIB-10K_59,9395.Rufous-necked Snowfinch,109
+blanfords_snowfinch,Blanford's Snowfinch,DIB-10K_59,9396.Blanford's Snowfinch,51
+afghan_snowfinch,Afghan Snowfinch,DIB-10K_59,9397.Afghan Snowfinch,11
+white_billed_buffalo_weaver,White-billed Buffalo Weaver,DIB-10K_59,9398.White-billed Buffalo Weaver,140
+red_billed_buffalo_weaver,Red-billed Buffalo Weaver,DIB-10K_59,9399.Red-billed Buffalo Weaver,444
+white_headed_buffalo_weaver,White-headed Buffalo Weaver,DIB-10K_59,9400.White-headed Buffalo Weaver,914
+white_browed_sparrow_weaver,White-browed Sparrow-Weaver,DIB-10K_59,9401.White-browed Sparrow-Weaver,1168
+chestnut_crowned_sparrow_weaver,Chestnut-crowned Sparrow-Weaver,DIB-10K_59,9402.Chestnut-crowned Sparrow-Weaver,128
+donaldson_smiths_sparrow_weaver,Donaldson Smith's Sparrow-Weaver,DIB-10K_59,9403.Donaldson Smith's Sparrow-Weaver,81
+chestnut_backed_sparrow_weaver,Chestnut-backed Sparrow-Weaver,DIB-10K_59,9404.Chestnut-backed Sparrow-Weaver,29
+rufous_tailed_weaver,Rufous-tailed Weaver,DIB-10K_59,9405.Rufous-tailed Weaver,302
+grey_capped_social_weaver,Grey-capped Social Weaver,DIB-10K_59,9406.Grey-capped Social Weaver,309
+black_capped_social_weaver,Black-capped Social Weaver,DIB-10K_59,9407.Black-capped Social Weaver,146
+sociable_weaver,Sociable Weaver,DIB-10K_59,9408.Sociable Weaver,838
+scaly_feathered_weaver,Scaly-feathered Weaver,DIB-10K_59,9409.Scaly-feathered Weaver,350
+speckle_fronted_weaver,Speckle-fronted Weaver,DIB-10K_59,9410.Speckle-fronted Weaver,325
+thick_billed_weaver,Thick-billed Weaver,DIB-10K_59,9411.Thick-billed Weaver,537
+baglafecht_weaver,Baglafecht Weaver,DIB-10K_59,9412.Baglafecht Weaver,735
+bannermans_weaver,Bannerman's Weaver,DIB-10K_59,9413.Bannerman's Weaver,20
+batess_weaver,Bates's Weaver,DIB-10K_59,9414.Bates's Weaver,2
+black_chinned_weaver,Black-chinned Weaver,DIB-10K_59,9415.Black-chinned Weaver,5
+bertrams_weaver,Bertram's Weaver,DIB-10K_59,9416.Bertram's Weaver,12
+slender_billed_weaver,Slender-billed Weaver,DIB-10K_59,9417.Slender-billed Weaver,205
+loango_weaver,Loango Weaver,DIB-10K_59,9418.Loango Weaver,23
+little_weaver,Little Weaver,DIB-10K_59,9419.Little Weaver,207
+spectacled_weaver,Spectacled Weaver,DIB-10K_59,9420.Spectacled Weaver,434
+black_necked_weaver,Black-necked Weaver,DIB-10K_59,9421.Black-necked Weaver,295
+strange_weaver,Strange Weaver,DIB-10K_59,9422.Strange Weaver,50
+black_billed_weaver,Black-billed Weaver,DIB-10K_59,9423.Black-billed Weaver,65
+cape_weaver,Cape Weaver,DIB-10K_59,9424.Cape Weaver,969
+bocages_weaver,Bocage's Weaver,DIB-10K_59,9425.Bocage's Weaver,7
+eastern_golden_weaver,Eastern Golden Weaver,DIB-10K_59,9426.Eastern Golden Weaver,353
+holubs_golden_weaver,Holub's Golden Weaver,DIB-10K_59,9427.Holub's Golden Weaver,332
+orange_weaver,Orange Weaver,DIB-10K_59,9428.Orange Weaver,159
+heuglins_masked_weaver,Heuglin's Masked Weaver,DIB-10K_59,9429.Heuglin's Masked Weaver,38
+golden_palm_weaver,Golden Palm Weaver,DIB-10K_59,9430.Golden Palm Weaver,287
+,,DIB-10K_59,,0

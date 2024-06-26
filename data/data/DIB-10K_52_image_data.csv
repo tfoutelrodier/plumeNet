@@ -1,0 +1,437 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+manchurian_reed_warbler,Manchurian Reed Warbler,DIB-10K_52,7617.Manchurian Reed Warbler,98
+large_billed_reed_warbler,Large-billed Reed Warbler,DIB-10K_52,7618.Large-billed Reed Warbler,19
+paddyfield_warbler,Paddyfield Warbler,DIB-10K_52,7619.Paddyfield Warbler,762
+blyths_reed_warbler,Blyth's Reed Warbler,DIB-10K_52,7620.Blyth's Reed Warbler,1150
+eurasian_reed_warbler,Eurasian Reed Warbler,DIB-10K_52,7621.Eurasian Reed Warbler,2209
+african_reed_warbler,African Reed Warbler,DIB-10K_52,7622.African Reed Warbler,173
+marsh_warbler,Marsh Warbler,DIB-10K_52,7623.Marsh Warbler,1289
+thick_billed_warbler,Thick-billed Warbler,DIB-10K_52,7624.Thick-billed Warbler,128
+african_yellow_warbler,African Yellow Warbler,DIB-10K_52,7625.African Yellow Warbler,89
+mountain_yellow_warbler,Mountain Yellow Warbler,DIB-10K_52,7626.Mountain Yellow Warbler,39
+booted_warbler,Booted Warbler,DIB-10K_52,7627.Booted Warbler,733
+sykess_warbler,Sykes's Warbler,DIB-10K_52,7628.Sykes's Warbler,388
+eastern_olivaceous_warbler,Eastern Olivaceous Warbler,DIB-10K_52,7629.Eastern Olivaceous Warbler,332
+western_olivaceous_warbler,Western Olivaceous Warbler,DIB-10K_52,7630.Western Olivaceous Warbler,124
+papyrus_yellow_warbler,Papyrus Yellow Warbler,DIB-10K_52,7631.Papyrus Yellow Warbler,13
+upchers_warbler,Upcher's Warbler,DIB-10K_52,7632.Upcher's Warbler,186
+olive_tree_warbler,Olive-tree Warbler,DIB-10K_52,7633.Olive-tree Warbler,172
+melodious_warbler,Melodious Warbler,DIB-10K_52,7634.Melodious Warbler,1926
+icterine_warbler,Icterine Warbler,DIB-10K_52,7635.Icterine Warbler,928
+cordillera_ground_warbler,Cordillera Ground Warbler,DIB-10K_52,7636.Cordillera Ground Warbler,8
+sierra_madre_ground_warbler,Sierra Madre Ground Warbler,DIB-10K_52,7637.Sierra Madre Ground Warbler,2
+bicol_ground_warbler,Bicol Ground Warbler,DIB-10K_52,7638.Bicol Ground Warbler,3
+russet_bush_warbler,Russet Bush Warbler,DIB-10K_52,7639.Russet Bush Warbler,40
+dalat_bush_warbler,Dalat Bush Warbler,DIB-10K_52,7640.Dalat Bush Warbler,5
+javan_bush_warbler,Javan Bush Warbler,DIB-10K_52,7641.Javan Bush Warbler,22
+taiwan_bush_warbler,Taiwan Bush Warbler,DIB-10K_52,7642.Taiwan Bush Warbler,54
+sichuan_bush_warbler,Sichuan Bush Warbler,DIB-10K_52,7643.Sichuan Bush Warbler,30
+west_himalayan_bush_warbler,West Himalayan Bush Warbler,DIB-10K_52,7644.West Himalayan Bush Warbler,34
+spotted_bush_warbler,Spotted Bush Warbler,DIB-10K_52,7645.Spotted Bush Warbler,54
+baikal_bush_warbler,Baikal Bush Warbler,DIB-10K_52,7646.Baikal Bush Warbler,80
+chestnut_backed_bush_warbler,Chestnut-backed Bush Warbler,DIB-10K_52,7647.Chestnut-backed Bush Warbler,18
+long_tailed_bush_warbler,Long-tailed Bush Warbler,DIB-10K_52,7648.Long-tailed Bush Warbler,25
+common_grasshopper_warbler,Common Grasshopper Warbler,DIB-10K_52,7649.Common Grasshopper Warbler,1225
+long_billed_bush_warbler,Long-billed Bush Warbler,DIB-10K_52,7650.Long-billed Bush Warbler,9
+chinese_bush_warbler,Chinese Bush Warbler,DIB-10K_52,7651.Chinese Bush Warbler,27
+brown_bush_warbler,Brown Bush Warbler,DIB-10K_52,7652.Brown Bush Warbler,54
+river_warbler,River Warbler,DIB-10K_52,7653.River Warbler,435
+savis_warbler,Savi's Warbler,DIB-10K_52,7654.Savi's Warbler,779
+lanceolated_warbler,Lanceolated Warbler,DIB-10K_52,7655.Lanceolated Warbler,315
+middendorffs_grasshopper_warbler,Middendorff's Grasshopper Warbler,DIB-10K_52,7656.Middendorff's Grasshopper Warbler,97
+styans_grasshopper_warbler,Styan's Grasshopper Warbler,DIB-10K_52,7657.Styan's Grasshopper Warbler,58
+pallass_grasshopper_warbler,Pallas's Grasshopper Warbler,DIB-10K_52,7658.Pallas's Grasshopper Warbler,231
+marsh_grassbird,Marsh Grassbird,DIB-10K_52,7659.Marsh Grassbird,85
+grays_grasshopper_warbler,Gray's Grasshopper Warbler,DIB-10K_52,7660.Gray's Grasshopper Warbler,50
+sakhalin_grasshopper_warbler,Sakhalin Grasshopper Warbler,DIB-10K_52,7661.Sakhalin Grasshopper Warbler,24
+benguet_bush_warbler,Benguet Bush Warbler,DIB-10K_52,7662.Benguet Bush Warbler,3
+friendly_bush_warbler,Friendly Bush Warbler,DIB-10K_52,7663.Friendly Bush Warbler,20
+little_rush_warbler,Little Rush Warbler,DIB-10K_52,7664.Little Rush Warbler,122
+highland_rush_warbler,Highland Rush Warbler,DIB-10K_52,7665.Highland Rush Warbler,5
+white_winged_swamp_warbler,White-winged Swamp Warbler,DIB-10K_52,7666.White-winged Swamp Warbler,22
+grauers_swamp_warbler,Grauer's Swamp Warbler,DIB-10K_52,7667.Grauer's Swamp Warbler,22
+brown_emutail,Brown Emutail,DIB-10K_52,7668.Brown Emutail,7
+knysna_warbler,Knysna Warbler,DIB-10K_52,7669.Knysna Warbler,37
+cinnamon_bracken_warbler,Cinnamon Bracken Warbler,DIB-10K_52,7670.Cinnamon Bracken Warbler,69
+evergreen_forest_warbler,Evergreen Forest Warbler,DIB-10K_52,7671.Evergreen Forest Warbler,10
+bangwa_forest_warbler,Bangwa Forest Warbler,DIB-10K_52,7672.Bangwa Forest Warbler,5
+barratts_warbler,Barratt's Warbler,DIB-10K_52,7673.Barratt's Warbler,31
+dja_river_scrub_warbler,Dja River Scrub Warbler,DIB-10K_52,7674.Dja River Scrub Warbler,4
+bamboo_warbler,Bamboo Warbler,DIB-10K_52,7675.Bamboo Warbler,12
+sri_lanka_bush_warbler,Sri Lanka Bush Warbler,DIB-10K_52,7676.Sri Lanka Bush Warbler,45
+broad_tailed_grassbird,Broad-tailed Grassbird,DIB-10K_52,7677.Broad-tailed Grassbird,83
+fan_tailed_grassbird,Fan-tailed Grassbird,DIB-10K_52,7678.Fan-tailed Grassbird,58
+striated_grassbird,Striated Grassbird,DIB-10K_52,7679.Striated Grassbird,394
+rufous_songlark,Rufous Songlark,DIB-10K_52,7680.Rufous Songlark,595
+brown_songlark,Brown Songlark,DIB-10K_52,7681.Brown Songlark,439
+little_grassbird,Little Grassbird,DIB-10K_52,7682.Little Grassbird,223
+new_zealand_fernbird,New Zealand Fernbird,DIB-10K_52,7683.New Zealand Fernbird,78
+chatham_fernbird,Chatham Fernbird,DIB-10K_52,7684.Chatham Fernbird,4
+spinifexbird,Spinifexbird,DIB-10K_52,7685.Spinifexbird,34
+tawny_grassbird,Tawny Grassbird,DIB-10K_52,7686.Tawny Grassbird,302
+papuan_grassbird,Papuan Grassbird,DIB-10K_52,7687.Papuan Grassbird,33
+fly_river_grassbird,Fly River Grassbird,DIB-10K_52,7688.Fly River Grassbird,6
+malia,Malia,DIB-10K_52,7689.Malia,45
+grey_emutail,Grey Emutail,DIB-10K_52,7690.Grey Emutail,56
+new_caledonian_thicketbird,New Caledonian Thicketbird,DIB-10K_52,7691.New Caledonian Thicketbird,19
+new_britain_thicketbird,New Britain Thicketbird,DIB-10K_52,7692.New Britain Thicketbird,1
+melanesian_thicketbird,Melanesian Thicketbird,DIB-10K_52,7693.Melanesian Thicketbird,6
+rusty_thicketbird,Rusty Thicketbird,DIB-10K_52,7695.Rusty Thicketbird,13
+long_legged_thicketbird,Long-legged Thicketbird,DIB-10K_52,7696.Long-legged Thicketbird,3
+buff_banded_thicketbird,Buff-banded Thicketbird,DIB-10K_52,7697.Buff-banded Thicketbird,9
+bristled_grassbird,Bristled Grassbird,DIB-10K_52,7698.Bristled Grassbird,156
+black_capped_donacobius,Black-capped Donacobius,DIB-10K_52,7699.Black-capped Donacobius,1429
+white_throated_oxylabes,White-throated Oxylabes,DIB-10K_52,7700.White-throated Oxylabes,30
+long_billed_bernieria,Long-billed Bernieria,DIB-10K_52,7701.Long-billed Bernieria,95
+cryptic_warbler,Cryptic Warbler,DIB-10K_52,7702.Cryptic Warbler,38
+wedge_tailed_jery,Wedge-tailed Jery,DIB-10K_52,7703.Wedge-tailed Jery,15
+thamnornis,Thamnornis,DIB-10K_52,7704.Thamnornis,84
+spectacled_tetraka,Spectacled Tetraka,DIB-10K_52,7705.Spectacled Tetraka,58
+apperts_tetraka,Appert's Tetraka,DIB-10K_52,7706.Appert's Tetraka,71
+dusky_tetraka,Dusky Tetraka,DIB-10K_52,7707.Dusky Tetraka,3
+grey_crowned_tetraka,Grey-crowned Tetraka,DIB-10K_52,7708.Grey-crowned Tetraka,26
+madagascan_yellowbrow,Madagascan Yellowbrow,DIB-10K_52,7709.Madagascan Yellowbrow,9
+rands_warbler,Rand's Warbler,DIB-10K_52,7710.Rand's Warbler,18
+common_jery,Common Jery,DIB-10K_52,7711.Common Jery,161
+green_jery,Green Jery,DIB-10K_52,7712.Green Jery,34
+stripe_throated_jery,Stripe-throated Jery,DIB-10K_52,7713.Stripe-throated Jery,76
+red_faced_cisticola,Red-faced Cisticola,DIB-10K_52,7714.Red-faced Cisticola,137
+singing_cisticola,Singing Cisticola,DIB-10K_52,7715.Singing Cisticola,117
+whistling_cisticola,Whistling Cisticola,DIB-10K_52,7716.Whistling Cisticola,68
+trilling_cisticola,Trilling Cisticola,DIB-10K_52,7717.Trilling Cisticola,61
+chattering_cisticola,Chattering Cisticola,DIB-10K_52,7718.Chattering Cisticola,44
+bubbling_cisticola,Bubbling Cisticola,DIB-10K_52,7719.Bubbling Cisticola,22
+chubbs_cisticola,Chubb's Cisticola,DIB-10K_52,7720.Chubb's Cisticola,137
+hunters_cisticola,Hunter's Cisticola,DIB-10K_52,7721.Hunter's Cisticola,129
+black_lored_cisticola,Black-lored Cisticola,DIB-10K_52,7722.Black-lored Cisticola,9
+lazy_cisticola,Lazy Cisticola,DIB-10K_52,7723.Lazy Cisticola,118
+rock_loving_cisticola,Rock-loving Cisticola,DIB-10K_52,7724.Rock-loving Cisticola,36
+rattling_cisticola,Rattling Cisticola,DIB-10K_52,7725.Rattling Cisticola,427
+boran_cisticola,Boran Cisticola,DIB-10K_52,7726.Boran Cisticola,47
+churring_cisticola,Churring Cisticola,DIB-10K_52,7727.Churring Cisticola,21
+ashy_cisticola,Ashy Cisticola,DIB-10K_52,7728.Ashy Cisticola,52
+tana_river_cisticola,Tana River Cisticola,DIB-10K_52,7729.Tana River Cisticola,2
+tinkling_cisticola,Tinkling Cisticola,DIB-10K_52,7730.Tinkling Cisticola,76
+grey_backed_cisticola,Grey-backed Cisticola,DIB-10K_52,7731.Grey-backed Cisticola,176
+wailing_cisticola,Wailing Cisticola,DIB-10K_52,7732.Wailing Cisticola,82
+lyness_cisticola,Lynes's Cisticola,DIB-10K_52,7733.Lynes's Cisticola,8
+rufous_winged_cisticola,Rufous-winged Cisticola,DIB-10K_52,7734.Rufous-winged Cisticola,160
+winding_cisticola,Winding Cisticola,DIB-10K_52,7735.Winding Cisticola,196
+coastal_cisticola,Coastal Cisticola,DIB-10K_52,7736.Coastal Cisticola,32
+ethiopian_cisticola,Ethiopian Cisticola,DIB-10K_52,7737.Ethiopian Cisticola,98
+luapula_cisticola,Luapula Cisticola,DIB-10K_52,7738.Luapula Cisticola,49
+chirping_cisticola,Chirping Cisticola,DIB-10K_52,7739.Chirping Cisticola,48
+carrutherss_cisticola,Carruthers's Cisticola,DIB-10K_52,7740.Carruthers's Cisticola,47
+levaillants_cisticola,Levaillant's Cisticola,DIB-10K_52,7741.Levaillant's Cisticola,358
+stout_cisticola,Stout Cisticola,DIB-10K_52,7742.Stout Cisticola,137
+aberdare_cisticola,Aberdare Cisticola,DIB-10K_52,7743.Aberdare Cisticola,30
+croaking_cisticola,Croaking Cisticola,DIB-10K_52,7744.Croaking Cisticola,139
+red_pate_cisticola,Red-pate Cisticola,DIB-10K_52,7745.Red-pate Cisticola,24
+dorsts_cisticola,Dorst's Cisticola,DIB-10K_52,7746.Dorst's Cisticola,16
+tiny_cisticola,Tiny Cisticola,DIB-10K_52,7747.Tiny Cisticola,35
+short_winged_cisticola,Short-winged Cisticola,DIB-10K_52,7748.Short-winged Cisticola,84
+rufous_cisticola,Rufous Cisticola,DIB-10K_52,7749.Rufous Cisticola,32
+foxy_cisticola,Foxy Cisticola,DIB-10K_52,7750.Foxy Cisticola,45
+neddicky,Neddicky,DIB-10K_52,7751.Neddicky,195
+long_tailed_cisticola,Long-tailed Cisticola,DIB-10K_52,7752.Long-tailed Cisticola,38
+black_tailed_cisticola,Black-tailed Cisticola,DIB-10K_52,7753.Black-tailed Cisticola,2
+zitting_cisticola,Zitting Cisticola,DIB-10K_52,7754.Zitting Cisticola,2623
+socotra_cisticola,Socotra Cisticola,DIB-10K_52,7755.Socotra Cisticola,5
+madagascan_cisticola,Madagascan Cisticola,DIB-10K_52,7756.Madagascan Cisticola,78
+desert_cisticola,Desert Cisticola,DIB-10K_52,7757.Desert Cisticola,142
+cloud_cisticola,Cloud Cisticola,DIB-10K_52,7758.Cloud Cisticola,79
+black_backed_cisticola,Black-backed Cisticola,DIB-10K_52,7759.Black-backed Cisticola,48
+dambo_cisticola,Dambo Cisticola,DIB-10K_52,7760.Dambo Cisticola,7
+pectoral_patch_cisticola,Pectoral-patch Cisticola,DIB-10K_52,7761.Pectoral-patch Cisticola,98
+pale_crowned_cisticola,Pale-crowned Cisticola,DIB-10K_52,7762.Pale-crowned Cisticola,52
+wing_snapping_cisticola,Wing-snapping Cisticola,DIB-10K_52,7763.Wing-snapping Cisticola,65
+golden_headed_cisticola,Golden-headed Cisticola,DIB-10K_52,7764.Golden-headed Cisticola,1552
+socotra_warbler,Socotra Warbler,DIB-10K_52,7765.Socotra Warbler,19
+striated_prinia,Striated Prinia,DIB-10K_52,7766.Striated Prinia,230
+brown_prinia,Brown Prinia,DIB-10K_52,7767.Brown Prinia,88
+black_throated_prinia,Black-throated Prinia,DIB-10K_52,7768.Black-throated Prinia,108
+hill_prinia,Hill Prinia,DIB-10K_52,7769.Hill Prinia,167
+grey_crowned_prinia,Grey-crowned Prinia,DIB-10K_52,7770.Grey-crowned Prinia,47
+rufous_fronted_prinia,Rufous-fronted Prinia,DIB-10K_52,7771.Rufous-fronted Prinia,194
+rufescent_prinia,Rufescent Prinia,DIB-10K_52,7772.Rufescent Prinia,277
+grey_breasted_prinia,Grey-breasted Prinia,DIB-10K_52,7773.Grey-breasted Prinia,616
+graceful_prinia,Graceful Prinia,DIB-10K_52,7774.Graceful Prinia,881
+jungle_prinia,Jungle Prinia,DIB-10K_52,7775.Jungle Prinia,273
+bar_winged_prinia,Bar-winged Prinia,DIB-10K_52,7776.Bar-winged Prinia,166
+yellow_bellied_prinia,Yellow-bellied Prinia,DIB-10K_52,7777.Yellow-bellied Prinia,889
+ashy_prinia,Ashy Prinia,DIB-10K_52,7778.Ashy Prinia,1286
+tawny_flanked_prinia,Tawny-flanked Prinia,DIB-10K_52,7779.Tawny-flanked Prinia,865
+plain_prinia,Plain Prinia,DIB-10K_52,7780.Plain Prinia,2056
+pale_prinia,Pale Prinia,DIB-10K_52,7781.Pale Prinia,39
+river_prinia,River Prinia,DIB-10K_52,7782.River Prinia,48
+black_chested_prinia,Black-chested Prinia,DIB-10K_52,7783.Black-chested Prinia,266
+karoo_prinia,Karoo Prinia,DIB-10K_52,7784.Karoo Prinia,417
+drakensberg_prinia,Drakensberg Prinia,DIB-10K_52,7785.Drakensberg Prinia,83
+sao_tome_prinia,Sao Tome Prinia,DIB-10K_52,7786.Sao Tome Prinia,61
+banded_prinia,Banded Prinia,DIB-10K_52,7787.Banded Prinia,47
+black_faced_prinia,Black-faced Prinia,DIB-10K_52,7788.Black-faced Prinia,7
+white_chinned_prinia,White-chinned Prinia,DIB-10K_52,7789.White-chinned Prinia,90
+sierra_leone_prinia,Sierra Leone Prinia,DIB-10K_52,7790.Sierra Leone Prinia,18
+namaqua_warbler,Namaqua Warbler,DIB-10K_52,7791.Namaqua Warbler,70
+robertss_warbler,Roberts's Warbler,DIB-10K_52,7792.Roberts's Warbler,12
+red_winged_warbler,Red-winged Warbler,DIB-10K_52,7793.Red-winged Warbler,75
+visayan_miniature_babbler,Visayan Miniature Babbler,DIB-10K_52,7794.Visayan Miniature Babbler,2
+mindanao_miniature_babbler,Mindanao Miniature Babbler,DIB-10K_52,7795.Mindanao Miniature Babbler,12
+green_longtail,Green Longtail,DIB-10K_52,7796.Green Longtail,8
+black_collared_apalis,Black-collared Apalis,DIB-10K_52,7797.Black-collared Apalis,45
+rwenzori_apalis,Rwenzori Apalis,DIB-10K_52,7798.Rwenzori Apalis,14
+red_winged_grey_warbler,Red-winged Grey Warbler,DIB-10K_52,7799.Red-winged Grey Warbler,45
+cricket_warbler,Cricket Warbler,DIB-10K_52,7800.Cricket Warbler,124
+buff_bellied_warbler,Buff-bellied Warbler,DIB-10K_52,7801.Buff-bellied Warbler,90
+bar_throated_apalis,Bar-throated Apalis,DIB-10K_52,7802.Bar-throated Apalis,287
+yellow_throated_apalis,Yellow-throated Apalis,DIB-10K_52,7803.Yellow-throated Apalis,23
+taita_apalis,Taita Apalis,DIB-10K_52,7804.Taita Apalis,24
+namuli_apalis,Namuli Apalis,DIB-10K_52,7805.Namuli Apalis,4
+rudds_apalis,Rudd's Apalis,DIB-10K_52,7806.Rudd's Apalis,79
+yellow_breasted_apalis,Yellow-breasted Apalis,DIB-10K_52,7807.Yellow-breasted Apalis,323
+lowland_masked_apalis,Lowland Masked Apalis,DIB-10K_52,7808.Lowland Masked Apalis,10
+mountain_masked_apalis,Mountain Masked Apalis,DIB-10K_52,7809.Mountain Masked Apalis,56
+black_throated_apalis,Black-throated Apalis,DIB-10K_52,7810.Black-throated Apalis,48
+white_winged_apalis,White-winged Apalis,DIB-10K_52,7811.White-winged Apalis,30
+black_capped_apalis,Black-capped Apalis,DIB-10K_52,7812.Black-capped Apalis,11
+black_headed_apalis,Black-headed Apalis,DIB-10K_52,7813.Black-headed Apalis,29
+chirinda_apalis,Chirinda Apalis,DIB-10K_52,7814.Chirinda Apalis,28
+chestnut_throated_apalis,Chestnut-throated Apalis,DIB-10K_52,7815.Chestnut-throated Apalis,39
+kabobo_apalis,Kabobo Apalis,DIB-10K_52,7816.Kabobo Apalis,8
+chapins_apalis,Chapin's Apalis,DIB-10K_52,7817.Chapin's Apalis,17
+sharpes_apalis,Sharpe's Apalis,DIB-10K_52,7818.Sharpe's Apalis,48
+buff_throated_apalis,Buff-throated Apalis,DIB-10K_52,7819.Buff-throated Apalis,28
+kungwe_apalis,Kungwe Apalis,DIB-10K_52,7820.Kungwe Apalis,14
+karamoja_apalis,Karamoja Apalis,DIB-10K_52,7821.Karamoja Apalis,56
+bamenda_apalis,Bamenda Apalis,DIB-10K_52,7822.Bamenda Apalis,23
+goslings_apalis,Gosling's Apalis,DIB-10K_52,7823.Gosling's Apalis,5
+grey_apalis,Grey Apalis,DIB-10K_52,7824.Grey Apalis,63
+brown_headed_apalis,Brown-headed Apalis,DIB-10K_52,7825.Brown-headed Apalis,20
+red_fronted_warbler,Red-fronted Warbler,DIB-10K_52,7826.Red-fronted Warbler,66
+rufous_eared_warbler,Rufous-eared Warbler,DIB-10K_52,7827.Rufous-eared Warbler,151
+oriole_warbler,Oriole Warbler,DIB-10K_52,7828.Oriole Warbler,172
+grey_capped_warbler,Grey-capped Warbler,DIB-10K_52,7829.Grey-capped Warbler,153
+green_backed_camaroptera,Green-backed Camaroptera,DIB-10K_52,7830.Green-backed Camaroptera,376
+grey_backed_camaroptera,Grey-backed Camaroptera,DIB-10K_52,7831.Grey-backed Camaroptera,283
+harterts_camaroptera,Hartert's Camaroptera,DIB-10K_52,7832.Hartert's Camaroptera,10
+yellow_browed_camaroptera,Yellow-browed Camaroptera,DIB-10K_52,7833.Yellow-browed Camaroptera,39
+olive_green_camaroptera,Olive-green Camaroptera,DIB-10K_52,7834.Olive-green Camaroptera,27
+grey_wren_warbler,Grey Wren-Warbler,DIB-10K_52,7835.Grey Wren-Warbler,92
+miombo_wren_warbler,Miombo Wren-Warbler,DIB-10K_52,7836.Miombo Wren-Warbler,36
+stierlings_wren_warbler,Stierling's Wren-Warbler,DIB-10K_52,7837.Stierling's Wren-Warbler,54
+barred_wren_warbler,Barred Wren-Warbler,DIB-10K_52,7838.Barred Wren-Warbler,101
+cinnamon_breasted_warbler,Cinnamon-breasted Warbler,DIB-10K_52,7839.Cinnamon-breasted Warbler,79
+black_headed_rufous_warbler,Black-headed Rufous Warbler,DIB-10K_52,7840.Black-headed Rufous Warbler,17
+black_faced_rufous_warbler,Black-faced Rufous Warbler,DIB-10K_52,7841.Black-faced Rufous Warbler,41
+winifreds_warbler,Winifred's Warbler,DIB-10K_52,7842.Winifred's Warbler,4
+rubeho_warbler,Rubeho Warbler,DIB-10K_52,7843.Rubeho Warbler,2
+common_tailorbird,Common Tailorbird,DIB-10K_52,7844.Common Tailorbird,2081
+dark_necked_tailorbird,Dark-necked Tailorbird,DIB-10K_52,7845.Dark-necked Tailorbird,502
+cambodian_tailorbird,Cambodian Tailorbird,DIB-10K_52,7846.Cambodian Tailorbird,79
+philippine_tailorbird,Philippine Tailorbird,DIB-10K_52,7847.Philippine Tailorbird,37
+trilling_tailorbird,Trilling Tailorbird,DIB-10K_52,7848.Trilling Tailorbird,6
+rufous_fronted_tailorbird,Rufous-fronted Tailorbird,DIB-10K_52,7849.Rufous-fronted Tailorbird,33
+grey_backed_tailorbird,Grey-backed Tailorbird,DIB-10K_52,7850.Grey-backed Tailorbird,34
+rufous_tailed_tailorbird,Rufous-tailed Tailorbird,DIB-10K_52,7851.Rufous-tailed Tailorbird,227
+ashy_tailorbird,Ashy Tailorbird,DIB-10K_52,7852.Ashy Tailorbird,901
+olive_backed_tailorbird,Olive-backed Tailorbird,DIB-10K_52,7853.Olive-backed Tailorbird,100
+white_eared_tailorbird,White-eared Tailorbird,DIB-10K_52,7854.White-eared Tailorbird,9
+black_headed_tailorbird,Black-headed Tailorbird,DIB-10K_52,7855.Black-headed Tailorbird,14
+yellow_breasted_tailorbird,Yellow-breasted Tailorbird,DIB-10K_52,7856.Yellow-breasted Tailorbird,23
+long_billed_forest_warbler,Long-billed Forest Warbler,DIB-10K_52,7857.Long-billed Forest Warbler,19
+red_capped_forest_warbler,Red-capped Forest Warbler,DIB-10K_52,7858.Red-capped Forest Warbler,7
+white_tailed_warbler,White-tailed Warbler,DIB-10K_52,7859.White-tailed Warbler,15
+yellow_bellied_eremomela,Yellow-bellied Eremomela,DIB-10K_52,7860.Yellow-bellied Eremomela,164
+salvadoris_eremomela,Salvadori's Eremomela,DIB-10K_52,7861.Salvadori's Eremomela,12
+yellow_vented_eremomela,Yellow-vented Eremomela,DIB-10K_52,7862.Yellow-vented Eremomela,22
+senegal_eremomela,Senegal Eremomela,DIB-10K_52,7863.Senegal Eremomela,108
+green_backed_eremomela,Green-backed Eremomela,DIB-10K_52,7864.Green-backed Eremomela,20
+green_capped_eremomela,Green-capped Eremomela,DIB-10K_52,7865.Green-capped Eremomela,67
+karoo_eremomela,Karoo Eremomela,DIB-10K_52,7866.Karoo Eremomela,64
+burnt_necked_eremomela,Burnt-necked Eremomela,DIB-10K_52,7867.Burnt-necked Eremomela,107
+rufous_crowned_eremomela,Rufous-crowned Eremomela,DIB-10K_52,7868.Rufous-crowned Eremomela,31
+turners_eremomela,Turner's Eremomela,DIB-10K_52,7869.Turner's Eremomela,8
+black_necked_eremomela,Black-necked Eremomela,DIB-10K_52,7870.Black-necked Eremomela,22
+large_scimitar_babbler,Large Scimitar Babbler,DIB-10K_52,7871.Large Scimitar Babbler,247
+rusty_cheeked_scimitar_babbler,Rusty-cheeked Scimitar Babbler,DIB-10K_52,7872.Rusty-cheeked Scimitar Babbler,405
+black_necklaced_scimitar_babbler,Black-necklaced Scimitar Babbler,DIB-10K_52,7873.Black-necklaced Scimitar Babbler,73
+black_streaked_scimitar_babbler,Black-streaked Scimitar Babbler,DIB-10K_52,7874.Black-streaked Scimitar Babbler,69
+spot_breasted_scimitar_babbler,Spot-breasted Scimitar Babbler,DIB-10K_52,7875.Spot-breasted Scimitar Babbler,31
+grey_sided_scimitar_babbler,Grey-sided Scimitar Babbler,DIB-10K_52,7876.Grey-sided Scimitar Babbler,12
+indian_scimitar_babbler,Indian Scimitar Babbler,DIB-10K_52,7877.Indian Scimitar Babbler,198
+sri_lanka_scimitar_babbler,Sri Lanka Scimitar Babbler,DIB-10K_52,7878.Sri Lanka Scimitar Babbler,105
+white_browed_scimitar_babbler,White-browed Scimitar Babbler,DIB-10K_52,7879.White-browed Scimitar Babbler,286
+chestnut_backed_scimitar_babbler,Chestnut-backed Scimitar Babbler,DIB-10K_52,7880.Chestnut-backed Scimitar Babbler,115
+streak_breasted_scimitar_babbler,Streak-breasted Scimitar Babbler,DIB-10K_52,7881.Streak-breasted Scimitar Babbler,640
+taiwan_scimitar_babbler,Taiwan Scimitar Babbler,DIB-10K_52,7882.Taiwan Scimitar Babbler,426
+red_billed_scimitar_babbler,Red-billed Scimitar Babbler,DIB-10K_52,7883.Red-billed Scimitar Babbler,85
+coral_billed_scimitar_babbler,Coral-billed Scimitar Babbler,DIB-10K_52,7884.Coral-billed Scimitar Babbler,53
+slender_billed_scimitar_babbler,Slender-billed Scimitar Babbler,DIB-10K_52,7885.Slender-billed Scimitar Babbler,158
+rufous_throated_wren_babbler,Rufous-throated Wren-Babbler,DIB-10K_52,7886.Rufous-throated Wren-Babbler,66
+rusty_throated_wren_babbler,Rusty-throated Wren-Babbler,DIB-10K_52,7887.Rusty-throated Wren-Babbler,40
+bar_winged_wren_babbler,Bar-winged Wren-Babbler,DIB-10K_52,7888.Bar-winged Wren-Babbler,69
+naga_wren_babbler,Naga Wren-Babbler,DIB-10K_52,7889.Naga Wren-Babbler,25
+grey_bellied_wren_babbler,Grey-bellied Wren-Babbler,DIB-10K_52,7890.Grey-bellied Wren-Babbler,18
+chin_hills_wren_babbler,Chin Hills Wren-Babbler,DIB-10K_52,7891.Chin Hills Wren-Babbler,40
+pale_throated_wren_babbler,Pale-throated Wren-Babbler,DIB-10K_52,7892.Pale-throated Wren-Babbler,11
+tawny_breasted_wren_babbler,Tawny-breasted Wren-Babbler,DIB-10K_52,7893.Tawny-breasted Wren-Babbler,16
+sikkim_wedge_billed_babbler,Sikkim Wedge-billed Babbler,DIB-10K_52,7894.Sikkim Wedge-billed Babbler,35
+cachar_wedge_billed_babbler,Cachar Wedge-billed Babbler,DIB-10K_52,7895.Cachar Wedge-billed Babbler,34
+white_breasted_babbler,White-breasted Babbler,DIB-10K_52,7896.White-breasted Babbler,25
+sooty_babbler,Sooty Babbler,DIB-10K_52,7897.Sooty Babbler,28
+nonggang_babbler,Nonggang Babbler,DIB-10K_52,7898.Nonggang Babbler,104
+grey_throated_babbler,Grey-throated Babbler,DIB-10K_52,7899.Grey-throated Babbler,308
+grey_headed_babbler,Grey-headed Babbler,DIB-10K_52,7900.Grey-headed Babbler,124
+spot_necked_babbler,Spot-necked Babbler,DIB-10K_52,7901.Spot-necked Babbler,89
+snowy_throated_babbler,Snowy-throated Babbler,DIB-10K_52,7902.Snowy-throated Babbler,2
+chestnut_rumped_babbler,Chestnut-rumped Babbler,DIB-10K_52,7903.Chestnut-rumped Babbler,149
+white_necked_babbler,White-necked Babbler,DIB-10K_52,7904.White-necked Babbler,34
+black_throated_babbler,Black-throated Babbler,DIB-10K_52,7905.Black-throated Babbler,198
+white_bibbed_babbler,White-bibbed Babbler,DIB-10K_52,7906.White-bibbed Babbler,37
+chestnut_winged_babbler,Chestnut-winged Babbler,DIB-10K_52,7907.Chestnut-winged Babbler,151
+crescent_chested_babbler,Crescent-chested Babbler,DIB-10K_52,7908.Crescent-chested Babbler,74
+rufous_fronted_babbler,Rufous-fronted Babbler,DIB-10K_52,7910.Rufous-fronted Babbler,66
+buff_chested_babbler,Buff-chested Babbler,DIB-10K_52,7911.Buff-chested Babbler,18
+rufous_capped_babbler,Rufous-capped Babbler,DIB-10K_52,7912.Rufous-capped Babbler,290
+black_chinned_babbler,Black-chinned Babbler,DIB-10K_52,7913.Black-chinned Babbler,102
+golden_babbler,Golden Babbler,DIB-10K_52,7914.Golden Babbler,160
+tawny_bellied_babbler,Tawny-bellied Babbler,DIB-10K_52,7915.Tawny-bellied Babbler,292
+dark_fronted_babbler,Dark-fronted Babbler,DIB-10K_52,7916.Dark-fronted Babbler,255
+pin_striped_tit_babbler,Pin-striped Tit-Babbler,DIB-10K_52,7917.Pin-striped Tit-Babbler,418
+bold_striped_tit_babbler,Bold-striped Tit-Babbler,DIB-10K_52,7918.Bold-striped Tit-Babbler,69
+grey_cheeked_tit_babbler,Grey-cheeked Tit-Babbler,DIB-10K_52,7919.Grey-cheeked Tit-Babbler,24
+grey_faced_tit_babbler,Grey-faced Tit-Babbler,DIB-10K_52,7920.Grey-faced Tit-Babbler,12
+brown_tit_babbler,Brown Tit-Babbler,DIB-10K_52,7921.Brown Tit-Babbler,28
+fluffy_backed_tit_babbler,Fluffy-backed Tit-Babbler,DIB-10K_52,7922.Fluffy-backed Tit-Babbler,152
+chestnut_capped_babbler,Chestnut-capped Babbler,DIB-10K_52,7923.Chestnut-capped Babbler,238
+rufous_vented_grass_babbler,Rufous-vented Grass Babbler,DIB-10K_52,7924.Rufous-vented Grass Babbler,40
+swamp_grass_babbler,Swamp Grass Babbler,DIB-10K_52,7925.Swamp Grass Babbler,11
+golden_fronted_fulvetta,Golden-fronted Fulvetta,DIB-10K_52,7926.Golden-fronted Fulvetta,18
+yellow_throated_fulvetta,Yellow-throated Fulvetta,DIB-10K_52,7927.Yellow-throated Fulvetta,89
+rufous_winged_fulvetta,Rufous-winged Fulvetta,DIB-10K_52,7928.Rufous-winged Fulvetta,248
+black_crowned_fulvetta,Black-crowned Fulvetta,DIB-10K_52,7929.Black-crowned Fulvetta,37
+rufous_throated_fulvetta,Rufous-throated Fulvetta,DIB-10K_52,7930.Rufous-throated Fulvetta,123
+rusty_capped_fulvetta,Rusty-capped Fulvetta,DIB-10K_52,7931.Rusty-capped Fulvetta,118
+dusky_fulvetta,Dusky Fulvetta,DIB-10K_52,7932.Dusky Fulvetta,198
+brown_fulvetta,Brown Fulvetta,DIB-10K_52,7933.Brown Fulvetta,101
+brown_cheeked_fulvetta,Brown-cheeked Fulvetta,DIB-10K_52,7934.Brown-cheeked Fulvetta,474
+javan_fulvetta,Javan Fulvetta,DIB-10K_52,7935.Javan Fulvetta,40
+mountain_fulvetta,Mountain Fulvetta,DIB-10K_52,7936.Mountain Fulvetta,248
+black_browed_fulvetta,Black-browed Fulvetta,DIB-10K_52,7937.Black-browed Fulvetta,27
+grey_cheeked_fulvetta,Grey-cheeked Fulvetta,DIB-10K_52,7938.Grey-cheeked Fulvetta,489
+davids_fulvetta,David's Fulvetta,DIB-10K_52,7939.David's Fulvetta,32
+yunnan_fulvetta,Yunnan Fulvetta,DIB-10K_52,7940.Yunnan Fulvetta,78
+huets_fulvetta,Huet's Fulvetta,DIB-10K_52,7941.Huet's Fulvetta,25
+nepal_fulvetta,Nepal Fulvetta,DIB-10K_52,7942.Nepal Fulvetta,62
+bornean_wren_babbler,Bornean Wren-Babbler,DIB-10K_52,7943.Bornean Wren-Babbler,56
+striated_wren_babbler,Striated Wren-Babbler,DIB-10K_52,7944.Striated Wren-Babbler,32
+falcated_wren_babbler,Falcated Wren-Babbler,DIB-10K_52,7945.Falcated Wren-Babbler,16
+rusty_breasted_wren_babbler,Rusty-breasted Wren-Babbler,DIB-10K_52,7946.Rusty-breasted Wren-Babbler,24
+black_throated_wren_babbler,Black-throated Wren-Babbler,DIB-10K_52,7947.Black-throated Wren-Babbler,20
+large_wren_babbler,Large Wren-Babbler,DIB-10K_52,7948.Large Wren-Babbler,44
+marbled_wren_babbler,Marbled Wren-Babbler,DIB-10K_52,7949.Marbled Wren-Babbler,15
+limestone_wren_babbler,Limestone Wren-Babbler,DIB-10K_52,7950.Limestone Wren-Babbler,171
+streaked_wren_babbler,Streaked Wren-Babbler,DIB-10K_52,7951.Streaked Wren-Babbler,443
+mountain_wren_babbler,Mountain Wren-Babbler,DIB-10K_52,7952.Mountain Wren-Babbler,70
+eyebrowed_wren_babbler,Eyebrowed Wren-Babbler,DIB-10K_52,7953.Eyebrowed Wren-Babbler,85
+white_hooded_babbler,White-hooded Babbler,DIB-10K_52,7954.White-hooded Babbler,131
+collared_babbler,Collared Babbler,DIB-10K_52,7955.Collared Babbler,77
+spotted_thrush_babbler,Spotted Thrush-Babbler,DIB-10K_52,7956.Spotted Thrush-Babbler,12
+blackcap_illadopsis,Blackcap Illadopsis,DIB-10K_52,7957.Blackcap Illadopsis,4
+scaly_breasted_illadopsis,Scaly-breasted Illadopsis,DIB-10K_52,7958.Scaly-breasted Illadopsis,38
+rufous_winged_illadopsis,Rufous-winged Illadopsis,DIB-10K_52,7959.Rufous-winged Illadopsis,7
+puvels_illadopsis,Puvel's Illadopsis,DIB-10K_52,7960.Puvel's Illadopsis,15
+pale_breasted_illadopsis,Pale-breasted Illadopsis,DIB-10K_52,7961.Pale-breasted Illadopsis,6
+brown_illadopsis,Brown Illadopsis,DIB-10K_52,7962.Brown Illadopsis,9
+mountain_illadopsis,Mountain Illadopsis,DIB-10K_52,7963.Mountain Illadopsis,18
+short_tailed_scimitar_babbler,Short-tailed Scimitar Babbler,DIB-10K_52,7964.Short-tailed Scimitar Babbler,32
+naung_mung_scimitar_babbler,Naung Mung Scimitar Babbler,DIB-10K_52,7965.Naung Mung Scimitar Babbler,2
+long_billed_wren_babbler,Long-billed Wren-Babbler,DIB-10K_52,7966.Long-billed Wren-Babbler,72
+sumatran_wren_babbler,Sumatran Wren-Babbler,DIB-10K_52,7967.Sumatran Wren-Babbler,11
+white_throated_wren_babbler,White-throated Wren-Babbler,DIB-10K_52,7968.White-throated Wren-Babbler,3
+abbotts_babbler,Abbott's Babbler,DIB-10K_52,7969.Abbott's Babbler,422
+horsfields_babbler,Horsfield's Babbler,DIB-10K_52,7970.Horsfield's Babbler,136
+black_browed_babbler,Black-browed Babbler,DIB-10K_52,7971.Black-browed Babbler,8
+short_tailed_babbler,Short-tailed Babbler,DIB-10K_52,7972.Short-tailed Babbler,310
+ashy_headed_babbler,Ashy-headed Babbler,DIB-10K_52,7973.Ashy-headed Babbler,23
+moustached_babbler,Moustached Babbler,DIB-10K_52,7974.Moustached Babbler,90
+sooty_capped_babbler,Sooty-capped Babbler,DIB-10K_52,7975.Sooty-capped Babbler,132
+scaly_crowned_babbler,Scaly-crowned Babbler,DIB-10K_52,7976.Scaly-crowned Babbler,106
+rufous_crowned_babbler,Rufous-crowned Babbler,DIB-10K_52,7977.Rufous-crowned Babbler,96
+melodious_babbler,Melodious Babbler,DIB-10K_52,7978.Melodious Babbler,16
+grey_breasted_babbler,Grey-breasted Babbler,DIB-10K_52,7979.Grey-breasted Babbler,23
+white_chested_babbler,White-chested Babbler,DIB-10K_52,7980.White-chested Babbler,220
+sulawesi_babbler,Sulawesi Babbler,DIB-10K_52,7981.Sulawesi Babbler,91
+ferruginous_babbler,Ferruginous Babbler,DIB-10K_52,7982.Ferruginous Babbler,200
+striped_wren_babbler,Striped Wren-Babbler,DIB-10K_52,7983.Striped Wren-Babbler,103
+indian_grassbird,Indian Grassbird,DIB-10K_52,7984.Indian Grassbird,26
+chinese_grassbird,Chinese Grassbird,DIB-10K_52,7985.Chinese Grassbird,24
+spot_throated_babbler,Spot-throated Babbler,DIB-10K_52,7986.Spot-throated Babbler,65
+marsh_babbler,Marsh Babbler,DIB-10K_52,7987.Marsh Babbler,45
+puff_throated_babbler,Puff-throated Babbler,DIB-10K_52,7988.Puff-throated Babbler,965
+brown_capped_babbler,Brown-capped Babbler,DIB-10K_52,7989.Brown-capped Babbler,112
+buff_breasted_babbler,Buff-breasted Babbler,DIB-10K_52,7990.Buff-breasted Babbler,293
+sumatran_babbler,Sumatran Babbler,DIB-10K_52,7991.Sumatran Babbler,13
+temmincks_babbler,Temminck's Babbler,DIB-10K_52,7992.Temminck's Babbler,29
+black_capped_babbler,Black-capped Babbler,DIB-10K_52,7993.Black-capped Babbler,189
+capuchin_babbler,Capuchin Babbler,DIB-10K_52,7994.Capuchin Babbler,3
+white_throated_mountain_babbler,White-throated Mountain Babbler,DIB-10K_52,7995.White-throated Mountain Babbler,2
+red_collared_babbler,Red-collared Babbler,DIB-10K_52,7996.Red-collared Babbler,10
+chapins_babbler,Chapin's Babbler,DIB-10K_52,7997.Chapin's Babbler,1
+spiny_babbler,Spiny Babbler,DIB-10K_52,7998.Spiny Babbler,67
+iraq_babbler,Iraq Babbler,DIB-10K_52,7999.Iraq Babbler,146
+common_babbler,Common Babbler,DIB-10K_52,8000.Common Babbler,570
+afghan_babbler,Afghan Babbler,DIB-10K_52,8001.Afghan Babbler,42
+striated_babbler,Striated Babbler,DIB-10K_52,8002.Striated Babbler,176
+white_throated_babbler,White-throated Babbler,DIB-10K_52,8003.White-throated Babbler,104
+slender_billed_babbler,Slender-billed Babbler,DIB-10K_52,8004.Slender-billed Babbler,102
+large_grey_babbler,Large Grey Babbler,DIB-10K_52,8005.Large Grey Babbler,513
+arabian_babbler,Arabian Babbler,DIB-10K_52,8006.Arabian Babbler,513
+fulvous_babbler,Fulvous Babbler,DIB-10K_52,8007.Fulvous Babbler,175
+scaly_chatterer,Scaly Chatterer,DIB-10K_52,8008.Scaly Chatterer,42
+rufous_chatterer,Rufous Chatterer,DIB-10K_52,8009.Rufous Chatterer,120
+rufous_babbler,Rufous Babbler,DIB-10K_52,8010.Rufous Babbler,258
+jungle_babbler,Jungle Babbler,DIB-10K_52,8011.Jungle Babbler,1515
+orange_billed_babbler,Orange-billed Babbler,DIB-10K_52,8012.Orange-billed Babbler,233
+yellow_billed_babbler,Yellow-billed Babbler,DIB-10K_52,8013.Yellow-billed Babbler,1139
+black_faced_babbler,Black-faced Babbler,DIB-10K_52,8014.Black-faced Babbler,109
+black_lored_babbler,Black-lored Babbler,DIB-10K_52,8015.Black-lored Babbler,188
+dusky_babbler,Dusky Babbler,DIB-10K_52,8016.Dusky Babbler,13
+blackcap_babbler,Blackcap Babbler,DIB-10K_52,8017.Blackcap Babbler,147
+brown_babbler,Brown Babbler,DIB-10K_52,8018.Brown Babbler,327
+white_headed_babbler,White-headed Babbler,DIB-10K_52,8019.White-headed Babbler,75
+arrow_marked_babbler,Arrow-marked Babbler,DIB-10K_52,8020.Arrow-marked Babbler,900
+scaly_babbler,Scaly Babbler,DIB-10K_52,8021.Scaly Babbler,18
+white_rumped_babbler,White-rumped Babbler,DIB-10K_52,8022.White-rumped Babbler,150
+hartlaubs_babbler,Hartlaub's Babbler,DIB-10K_52,8023.Hartlaub's Babbler,182
+hindes_babbler,Hinde's Babbler,DIB-10K_52,8024.Hinde's Babbler,52
+northern_pied_babbler,Northern Pied Babbler,DIB-10K_52,8025.Northern Pied Babbler,119
+southern_pied_babbler,Southern Pied Babbler,DIB-10K_52,8026.Southern Pied Babbler,319
+bare_cheeked_babbler,Bare-cheeked Babbler,DIB-10K_52,8027.Bare-cheeked Babbler,217
+chinese_babax,Chinese Babax,DIB-10K_52,8028.Chinese Babax,40
+mount_victoria_babax,Mount Victoria Babax,DIB-10K_52,8029.Mount Victoria Babax,26
+giant_babax,Giant Babax,DIB-10K_52,8030.Giant Babax,19
+tibetan_babax,Tibetan Babax,DIB-10K_52,8031.Tibetan Babax,15
+chinese_hwamei,Chinese Hwamei,DIB-10K_52,8032.Chinese Hwamei,487
+taiwan_hwamei,Taiwan Hwamei,DIB-10K_52,8033.Taiwan Hwamei,197
+white_crested_laughingthrush,White-crested Laughingthrush,DIB-10K_52,8034.White-crested Laughingthrush,995
+sumatran_laughingthrush,Sumatran Laughingthrush,DIB-10K_52,8035.Sumatran Laughingthrush,140
+white_necked_laughingthrush,White-necked Laughingthrush,DIB-10K_52,8036.White-necked Laughingthrush,111
+cambodian_laughingthrush,Cambodian Laughingthrush,DIB-10K_52,8037.Cambodian Laughingthrush,14
+black_hooded_laughingthrush,Black-hooded Laughingthrush,DIB-10K_52,8038.Black-hooded Laughingthrush,38
+grey_laughingthrush,Grey Laughingthrush,DIB-10K_52,8039.Grey Laughingthrush,19
+rufous_cheeked_laughingthrush,Rufous-cheeked Laughingthrush,DIB-10K_52,8040.Rufous-cheeked Laughingthrush,16
+snowy_cheeked_laughingthrush,Snowy-cheeked Laughingthrush,DIB-10K_52,8041.Snowy-cheeked Laughingthrush,18
+moustached_laughingthrush,Moustached Laughingthrush,DIB-10K_52,8042.Moustached Laughingthrush,57
+rufous_chinned_laughingthrush,Rufous-chinned Laughingthrush,DIB-10K_52,8043.Rufous-chinned Laughingthrush,59
+chestnut_eared_laughingthrush,Chestnut-eared Laughingthrush,DIB-10K_52,8044.Chestnut-eared Laughingthrush,11
+barred_laughingthrush,Barred Laughingthrush,DIB-10K_52,8045.Barred Laughingthrush,35
+white_speckled_laughingthrush,White-speckled Laughingthrush,DIB-10K_52,8046.White-speckled Laughingthrush,10
+giant_laughingthrush,Giant Laughingthrush,DIB-10K_52,8047.Giant Laughingthrush,46
+spotted_laughingthrush,Spotted Laughingthrush,DIB-10K_52,8048.Spotted Laughingthrush,134
+ashy_headed_laughingthrush,Ashy-headed Laughingthrush,DIB-10K_52,8049.Ashy-headed Laughingthrush,85
+sunda_laughingthrush,Sunda Laughingthrush,DIB-10K_52,8050.Sunda Laughingthrush,93
+rufous_fronted_laughingthrush,Rufous-fronted Laughingthrush,DIB-10K_52,8051.Rufous-fronted Laughingthrush,33
+masked_laughingthrush,Masked Laughingthrush,DIB-10K_52,8052.Masked Laughingthrush,487
+white_throated_laughingthrush,White-throated Laughingthrush,DIB-10K_52,8053.White-throated Laughingthrush,219
+,,DIB-10K_52,,0

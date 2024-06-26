@@ -1,0 +1,86 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+common_ostrich,Common Ostrich,DIB-10K_1,0.Common Ostrich,2361
+somali_ostrich,Somali Ostrich,DIB-10K_1,1.Somali Ostrich,395
+greater_rhea,Greater Rhea,DIB-10K_1,2.Greater Rhea,2401
+lesser_rhea,Lesser Rhea,DIB-10K_1,3.Lesser Rhea,962
+southern_brown_kiwi,Southern Brown Kiwi,DIB-10K_1,4.Southern Brown Kiwi,75
+north_island_brown_kiwi,North Island Brown Kiwi,DIB-10K_1,5.North Island Brown Kiwi,111
+okarito_kiwi,Okarito Kiwi,DIB-10K_1,6.Okarito Kiwi,32
+little_spotted_kiwi,Little Spotted Kiwi,DIB-10K_1,7.Little Spotted Kiwi,81
+great_spotted_kiwi,Great Spotted Kiwi,DIB-10K_1,8.Great Spotted Kiwi,76
+southern_cassowary,Southern Cassowary,DIB-10K_1,9.Southern Cassowary,1805
+dwarf_cassowary,Dwarf Cassowary,DIB-10K_1,10.Dwarf Cassowary,93
+northern_cassowary,Northern Cassowary,DIB-10K_1,11.Northern Cassowary,215
+emu,Emu,DIB-10K_1,12.Emu,2282
+grey_tinamou,Grey Tinamou,DIB-10K_1,13.Grey Tinamou,132
+solitary_tinamou,Solitary Tinamou,DIB-10K_1,14.Solitary Tinamou,192
+black_tinamou,Black Tinamou,DIB-10K_1,15.Black Tinamou,43
+great_tinamou,Great Tinamou,DIB-10K_1,16.Great Tinamou,1017
+white_throated_tinamou,White-throated Tinamou,DIB-10K_1,17.White-throated Tinamou,94
+highland_tinamou,Highland Tinamou,DIB-10K_1,18.Highland Tinamou,52
+tawny_breasted_tinamou,Tawny-breasted Tinamou,DIB-10K_1,19.Tawny-breasted Tinamou,25
+hooded_tinamou,Hooded Tinamou,DIB-10K_1,20.Hooded Tinamou,37
+berlepschs_tinamou,Berlepsch's Tinamou,DIB-10K_1,21.Berlepsch's Tinamou,15
+cinereous_tinamou,Cinereous Tinamou,DIB-10K_1,22.Cinereous Tinamou,103
+little_tinamou,Little Tinamou,DIB-10K_1,23.Little Tinamou,202
+tepui_tinamou,Tepui Tinamou,DIB-10K_1,24.Tepui Tinamou,15
+brown_tinamou,Brown Tinamou,DIB-10K_1,25.Brown Tinamou,189
+undulated_tinamou,Undulated Tinamou,DIB-10K_1,26.Undulated Tinamou,192
+pale_browed_tinamou,Pale-browed Tinamou,DIB-10K_1,27.Pale-browed Tinamou,70
+brazilian_tinamou,Brazilian Tinamou,DIB-10K_1,28.Brazilian Tinamou,13
+grey_legged_tinamou,Grey-legged Tinamou,DIB-10K_1,29.Grey-legged Tinamou,17
+red_legged_tinamou,Red-legged Tinamou,DIB-10K_1,30.Red-legged Tinamou,25
+yellow_legged_tinamou,Yellow-legged Tinamou,DIB-10K_1,31.Yellow-legged Tinamou,75
+black_capped_tinamou,Black-capped Tinamou,DIB-10K_1,32.Black-capped Tinamou,35
+thicket_tinamou,Thicket Tinamou,DIB-10K_1,33.Thicket Tinamou,92
+slaty_breasted_tinamou,Slaty-breasted Tinamou,DIB-10K_1,34.Slaty-breasted Tinamou,48
+choco_tinamou,Choco Tinamou,DIB-10K_1,35.Choco Tinamou,8
+variegated_tinamou,Variegated Tinamou,DIB-10K_1,36.Variegated Tinamou,77
+rusty_tinamou,Rusty Tinamou,DIB-10K_1,37.Rusty Tinamou,8
+bartletts_tinamou,Bartlett's Tinamou,DIB-10K_1,38.Bartlett's Tinamou,8
+small_billed_tinamou,Small-billed Tinamou,DIB-10K_1,39.Small-billed Tinamou,124
+barred_tinamou,Barred Tinamou,DIB-10K_1,40.Barred Tinamou,10
+tataupa_tinamou,Tataupa Tinamou,DIB-10K_1,41.Tataupa Tinamou,107
+red_winged_tinamou,Red-winged Tinamou,DIB-10K_1,42.Red-winged Tinamou,258
+huayco_tinamou,Huayco Tinamou,DIB-10K_1,43.Huayco Tinamou,24
+taczanowskis_tinamou,Taczanowski's Tinamou,DIB-10K_1,44.Taczanowski's Tinamou,11
+ornate_tinamou,Ornate Tinamou,DIB-10K_1,45.Ornate Tinamou,143
+chilean_tinamou,Chilean Tinamou,DIB-10K_1,46.Chilean Tinamou,172
+brushland_tinamou,Brushland Tinamou,DIB-10K_1,47.Brushland Tinamou,88
+andean_tinamou,Andean Tinamou,DIB-10K_1,48.Andean Tinamou,110
+curve_billed_tinamou,Curve-billed Tinamou,DIB-10K_1,49.Curve-billed Tinamou,32
+white_bellied_nothura,White-bellied Nothura,DIB-10K_1,50.White-bellied Nothura,78
+lesser_nothura,Lesser Nothura,DIB-10K_1,51.Lesser Nothura,23
+darwins_nothura,Darwin's Nothura,DIB-10K_1,52.Darwin's Nothura,64
+spotted_nothura,Spotted Nothura,DIB-10K_1,53.Spotted Nothura,390
+dwarf_tinamou,Dwarf Tinamou,DIB-10K_1,55.Dwarf Tinamou,13
+elegant_crested_tinamou,Elegant Crested Tinamou,DIB-10K_1,56.Elegant Crested Tinamou,488
+quebracho_crested_tinamou,Quebracho Crested Tinamou,DIB-10K_1,57.Quebracho Crested Tinamou,41
+puna_tinamou,Puna Tinamou,DIB-10K_1,58.Puna Tinamou,123
+patagonian_tinamou,Patagonian Tinamou,DIB-10K_1,59.Patagonian Tinamou,67
+horned_screamer,Horned Screamer,DIB-10K_1,60.Horned Screamer,1166
+northern_screamer,Northern Screamer,DIB-10K_1,61.Northern Screamer,352
+southern_screamer,Southern Screamer,DIB-10K_1,62.Southern Screamer,2578
+magpie_goose,Magpie Goose,DIB-10K_1,63.Magpie Goose,2399
+white_faced_whistling_duck,White-faced Whistling Duck,DIB-10K_1,64.White-faced Whistling Duck,2882
+black_bellied_whistling_duck,Black-bellied Whistling Duck,DIB-10K_1,65.Black-bellied Whistling Duck,2849
+spotted_whistling_duck,Spotted Whistling Duck,DIB-10K_1,66.Spotted Whistling Duck,395
+west_indian_whistling_duck,West Indian Whistling Duck,DIB-10K_1,67.West Indian Whistling Duck,786
+fulvous_whistling_duck,Fulvous Whistling Duck,DIB-10K_1,68.Fulvous Whistling Duck,2207
+plumed_whistling_duck,Plumed Whistling Duck,DIB-10K_1,69.Plumed Whistling Duck,1263
+wandering_whistling_duck,Wandering Whistling Duck,DIB-10K_1,70.Wandering Whistling Duck,1174
+lesser_whistling_duck,Lesser Whistling Duck,DIB-10K_1,71.Lesser Whistling Duck,2153
+white_backed_duck,White-backed Duck,DIB-10K_1,72.White-backed Duck,375
+cape_barren_goose,Cape Barren Goose,DIB-10K_1,73.Cape Barren Goose,1652
+brant_goose,Brant Goose,DIB-10K_1,74.Brant Goose,1883
+red_breasted_goose,Red-breasted Goose,DIB-10K_1,75.Red-breasted Goose,1513
+nene,Nene,DIB-10K_1,76.Nene,2598
+canada_goose,Canada Goose,DIB-10K_1,77.Canada Goose,2904
+barnacle_goose,Barnacle Goose,DIB-10K_1,78.Barnacle Goose,2572
+cackling_goose,Cackling Goose,DIB-10K_1,79.Cackling Goose,2295
+bar_headed_goose,Bar-headed Goose,DIB-10K_1,80.Bar-headed Goose,2744
+emperor_goose,Emperor Goose,DIB-10K_1,81.Emperor Goose,778
+rosss_goose,Ross's Goose,DIB-10K_1,82.Ross's Goose,892
+snow_goose,Snow Goose,DIB-10K_1,83.Snow Goose,1908
+greylag_goose,Greylag Goose,DIB-10K_1,84.Greylag Goose,2528
+,,DIB-10K_1,,0

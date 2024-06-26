@@ -1,0 +1,168 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+grey_cheeked_parakeet,Grey-cheeked Parakeet,DIB-10K_38,4058.Grey-cheeked Parakeet,105
+orange_chinned_parakeet,Orange-chinned Parakeet,DIB-10K_38,4059.Orange-chinned Parakeet,1663
+cobalt_winged_parakeet,Cobalt-winged Parakeet,DIB-10K_38,4060.Cobalt-winged Parakeet,354
+golden_winged_parakeet,Golden-winged Parakeet,DIB-10K_38,4061.Golden-winged Parakeet,150
+pileated_parrot,Pileated Parrot,DIB-10K_38,4062.Pileated Parrot,157
+blue_bellied_parrot,Blue-bellied Parrot,DIB-10K_38,4063.Blue-bellied Parrot,118
+brown_hooded_parrot,Brown-hooded Parrot,DIB-10K_38,4064.Brown-hooded Parrot,650
+saffron_headed_parrot,Saffron-headed Parrot,DIB-10K_38,4065.Saffron-headed Parrot,101
+rose_faced_parrot,Rose-faced Parrot,DIB-10K_38,4066.Rose-faced Parrot,159
+orange_cheeked_parrot,Orange-cheeked Parrot,DIB-10K_38,4067.Orange-cheeked Parrot,145
+caica_parrot,Caica Parrot,DIB-10K_38,4068.Caica Parrot,76
+bald_parrot,Bald Parrot,DIB-10K_38,4069.Bald Parrot,35
+vulturine_parrot,Vulturine Parrot,DIB-10K_38,4070.Vulturine Parrot,33
+rusty_faced_parrot,Rusty-faced Parrot,DIB-10K_38,4071.Rusty-faced Parrot,206
+fuertess_parrot,Fuertes's Parrot,DIB-10K_38,4072.Fuertes's Parrot,94
+red_faced_parrot,Red-faced Parrot,DIB-10K_38,4073.Red-faced Parrot,22
+black_winged_parrot,Black-winged Parrot,DIB-10K_38,4074.Black-winged Parrot,19
+dusky_parrot,Dusky Parrot,DIB-10K_38,4075.Dusky Parrot,148
+red_billed_parrot,Red-billed Parrot,DIB-10K_38,4076.Red-billed Parrot,180
+scaly_headed_parrot,Scaly-headed Parrot,DIB-10K_38,4077.Scaly-headed Parrot,643
+plum_crowned_parrot,Plum-crowned Parrot,DIB-10K_38,4078.Plum-crowned Parrot,83
+white_capped_parrot,White-capped Parrot,DIB-10K_38,4079.White-capped Parrot,48
+blue_headed_parrot,Blue-headed Parrot,DIB-10K_38,4080.Blue-headed Parrot,1290
+white_crowned_parrot,White-crowned Parrot,DIB-10K_38,4081.White-crowned Parrot,589
+bronze_winged_parrot,Bronze-winged Parrot,DIB-10K_38,4082.Bronze-winged Parrot,401
+short_tailed_parrot,Short-tailed Parrot,DIB-10K_38,4083.Short-tailed Parrot,173
+yellow_faced_parrot,Yellow-faced Parrot,DIB-10K_38,4084.Yellow-faced Parrot,256
+festive_amazon,Festive Amazon,DIB-10K_38,4085.Festive Amazon,306
+vinaceous_breasted_amazon,Vinaceous-breasted Amazon,DIB-10K_38,4086.Vinaceous-breasted Amazon,241
+tucuman_amazon,Tucuman Amazon,DIB-10K_38,4087.Tucuman Amazon,92
+red_spectacled_amazon,Red-spectacled Amazon,DIB-10K_38,4088.Red-spectacled Amazon,207
+black_billed_amazon,Black-billed Amazon,DIB-10K_38,4089.Black-billed Amazon,108
+white_fronted_amazon,White-fronted Amazon,DIB-10K_38,4090.White-fronted Amazon,1132
+yellow_billed_amazon,Yellow-billed Amazon,DIB-10K_38,4091.Yellow-billed Amazon,139
+cuban_amazon,Cuban Amazon,DIB-10K_38,4092.Cuban Amazon,683
+hispaniolan_amazon,Hispaniolan Amazon,DIB-10K_38,4093.Hispaniolan Amazon,224
+puerto_rican_amazon,Puerto Rican Amazon,DIB-10K_38,4094.Puerto Rican Amazon,137
+lilac_crowned_amazon,Lilac-crowned Amazon,DIB-10K_38,4095.Lilac-crowned Amazon,620
+red_lored_amazon,Red-lored Amazon,DIB-10K_38,4096.Red-lored Amazon,1640
+diademed_amazon,Diademed Amazon,DIB-10K_38,4097.Diademed Amazon,49
+red_crowned_amazon,Red-crowned Amazon,DIB-10K_38,4098.Red-crowned Amazon,1320
+yucatan_amazon,Yucatan Amazon,DIB-10K_38,4099.Yucatan Amazon,124
+blue_cheeked_amazon,Blue-cheeked Amazon,DIB-10K_38,4100.Blue-cheeked Amazon,107
+red_browed_amazon,Red-browed Amazon,DIB-10K_38,4101.Red-browed Amazon,166
+red_necked_amazon,Red-necked Amazon,DIB-10K_38,4102.Red-necked Amazon,87
+st._lucia_amazon,St. Lucia Amazon,DIB-10K_38,4103.St. Lucia Amazon,130
+yellow_headed_amazon,Yellow-headed Amazon,DIB-10K_38,4104.Yellow-headed Amazon,900
+tres_marias_amazon,Tres Marias Amazon,DIB-10K_38,4105.Tres Marias Amazon,31
+yellow_naped_amazon,Yellow-naped Amazon,DIB-10K_38,4106.Yellow-naped Amazon,601
+yellow_crowned_amazon,Yellow-crowned Amazon,DIB-10K_38,4107.Yellow-crowned Amazon,1161
+yellow_shouldered_amazon,Yellow-shouldered Amazon,DIB-10K_38,4108.Yellow-shouldered Amazon,366
+turquoise_fronted_amazon,Turquoise-fronted Amazon,DIB-10K_38,4109.Turquoise-fronted Amazon,1763
+scaly_naped_amazon,Scaly-naped Amazon,DIB-10K_38,4110.Scaly-naped Amazon,112
+northern_mealy_amazon,Northern Mealy Amazon,DIB-10K_38,4111.Northern Mealy Amazon,60
+southern_mealy_amazon,Southern Mealy Amazon,DIB-10K_38,4112.Southern Mealy Amazon,794
+kawalls_amazon,Kawall's Amazon,DIB-10K_38,4113.Kawall's Amazon,38
+imperial_amazon,Imperial Amazon,DIB-10K_38,4114.Imperial Amazon,68
+red_tailed_amazon,Red-tailed Amazon,DIB-10K_38,4115.Red-tailed Amazon,310
+orange_winged_amazon,Orange-winged Amazon,DIB-10K_38,4116.Orange-winged Amazon,1313
+st._vincent_amazon,St. Vincent Amazon,DIB-10K_38,4117.St. Vincent Amazon,123
+dusky_billed_parrotlet,Dusky-billed Parrotlet,DIB-10K_38,4118.Dusky-billed Parrotlet,93
+mexican_parrotlet,Mexican Parrotlet,DIB-10K_38,4119.Mexican Parrotlet,117
+green_rumped_parrotlet,Green-rumped Parrotlet,DIB-10K_38,4120.Green-rumped Parrotlet,571
+turquoise_winged_parrotlet,Turquoise-winged Parrotlet,DIB-10K_38,4121.Turquoise-winged Parrotlet,21
+blue_winged_parrotlet,Blue-winged Parrotlet,DIB-10K_38,4122.Blue-winged Parrotlet,1057
+large_billed_parrotlet,Large-billed Parrotlet,DIB-10K_38,4123.Large-billed Parrotlet,49
+spectacled_parrotlet,Spectacled Parrotlet,DIB-10K_38,4124.Spectacled Parrotlet,718
+pacific_parrotlet,Pacific Parrotlet,DIB-10K_38,4125.Pacific Parrotlet,925
+yellow_faced_parrotlet,Yellow-faced Parrotlet,DIB-10K_38,4126.Yellow-faced Parrotlet,120
+black_headed_parrot,Black-headed Parrot,DIB-10K_38,4127.Black-headed Parrot,367
+white_bellied_parrot,White-bellied Parrot,DIB-10K_38,4128.White-bellied Parrot,304
+red_fan_parrot,Red-fan Parrot,DIB-10K_38,4129.Red-fan Parrot,527
+ochre_marked_parakeet,Ochre-marked Parakeet,DIB-10K_38,4130.Ochre-marked Parakeet,151
+blaze_winged_parakeet,Blaze-winged Parakeet,DIB-10K_38,4131.Blaze-winged Parakeet,101
+maroon_bellied_parakeet,Maroon-bellied Parakeet,DIB-10K_38,4132.Maroon-bellied Parakeet,1251
+pearly_parakeet,Pearly Parakeet,DIB-10K_38,4133.Pearly Parakeet,45
+crimson_bellied_parakeet,Crimson-bellied Parakeet,DIB-10K_38,4134.Crimson-bellied Parakeet,163
+green_cheeked_parakeet,Green-cheeked Parakeet,DIB-10K_38,4135.Green-cheeked Parakeet,356
+pfrimers_parakeet,Pfrimer's Parakeet,DIB-10K_38,4136.Pfrimer's Parakeet,79
+grey_breasted_parakeet,Grey-breasted Parakeet,DIB-10K_38,4137.Grey-breasted Parakeet,165
+white_eared_parakeet,White-eared Parakeet,DIB-10K_38,4138.White-eared Parakeet,97
+painted_parakeet,Painted Parakeet,DIB-10K_38,4139.Painted Parakeet,168
+venezuelan_parakeet,Venezuelan Parakeet,DIB-10K_38,4140.Venezuelan Parakeet,51
+santarem_parakeet,Santarem Parakeet,DIB-10K_38,4141.Santarem Parakeet,71
+bonapartes_parakeet,Bonaparte's Parakeet,DIB-10K_38,4142.Bonaparte's Parakeet,23
+rose_fronted_parakeet,Rose-fronted Parakeet,DIB-10K_38,4143.Rose-fronted Parakeet,68
+santa_marta_parakeet,Santa Marta Parakeet,DIB-10K_38,4144.Santa Marta Parakeet,211
+fiery_shouldered_parakeet,Fiery-shouldered Parakeet,DIB-10K_38,4145.Fiery-shouldered Parakeet,164
+maroon_tailed_parakeet,Maroon-tailed Parakeet,DIB-10K_38,4146.Maroon-tailed Parakeet,142
+el_oro_parakeet,El Oro Parakeet,DIB-10K_38,4147.El Oro Parakeet,103
+white_breasted_parakeet,White-breasted Parakeet,DIB-10K_38,4148.White-breasted Parakeet,58
+black_capped_parakeet,Black-capped Parakeet,DIB-10K_38,4149.Black-capped Parakeet,86
+flame_winged_parakeet,Flame-winged Parakeet,DIB-10K_38,4150.Flame-winged Parakeet,129
+blood_eared_parakeet,Blood-eared Parakeet,DIB-10K_38,4151.Blood-eared Parakeet,73
+rose_crowned_parakeet,Rose-crowned Parakeet,DIB-10K_38,4152.Rose-crowned Parakeet,45
+sulphur_winged_parakeet,Sulphur-winged Parakeet,DIB-10K_38,4153.Sulphur-winged Parakeet,184
+austral_parakeet,Austral Parakeet,DIB-10K_38,4154.Austral Parakeet,514
+slender_billed_parakeet,Slender-billed Parakeet,DIB-10K_38,4155.Slender-billed Parakeet,192
+burrowing_parrot,Burrowing Parrot,DIB-10K_38,4156.Burrowing Parrot,1282
+hyacinth_macaw,Hyacinth Macaw,DIB-10K_38,4157.Hyacinth Macaw,2087
+lears_macaw,Lear's Macaw,DIB-10K_38,4158.Lear's Macaw,468
+glaucous_macaw,Glaucous Macaw,DIB-10K_38,4159.Glaucous Macaw,44
+thick_billed_parrot,Thick-billed Parrot,DIB-10K_38,4160.Thick-billed Parrot,273
+maroon_fronted_parrot,Maroon-fronted Parrot,DIB-10K_38,4161.Maroon-fronted Parrot,114
+olive_throated_parakeet,Olive-throated Parakeet,DIB-10K_38,4162.Olive-throated Parakeet,539
+orange_fronted_parakeet,Orange-fronted Parakeet,DIB-10K_38,4163.Orange-fronted Parakeet,652
+peach_fronted_parakeet,Peach-fronted Parakeet,DIB-10K_38,4164.Peach-fronted Parakeet,581
+brown_throated_parakeet,Brown-throated Parakeet,DIB-10K_38,4165.Brown-throated Parakeet,755
+caatinga_parakeet,Caatinga Parakeet,DIB-10K_38,4166.Caatinga Parakeet,107
+carolina_parakeet,Carolina Parakeet,DIB-10K_38,4167.Carolina Parakeet,177
+dusky_headed_parakeet,Dusky-headed Parakeet,DIB-10K_38,4168.Dusky-headed Parakeet,372
+nanday_parakeet,Nanday Parakeet,DIB-10K_38,4169.Nanday Parakeet,993
+sun_parakeet,Sun Parakeet,DIB-10K_38,4170.Sun Parakeet,1211
+sulphur_breasted_parakeet,Sulphur-breasted Parakeet,DIB-10K_38,4171.Sulphur-breasted Parakeet,18
+jandaya_parakeet,Jandaya Parakeet,DIB-10K_38,4172.Jandaya Parakeet,412
+golden_capped_parakeet,Golden-capped Parakeet,DIB-10K_38,4173.Golden-capped Parakeet,330
+spixs_macaw,Spix's Macaw,DIB-10K_38,4174.Spix's Macaw,88
+red_bellied_macaw,Red-bellied Macaw,DIB-10K_38,4175.Red-bellied Macaw,396
+blue_headed_macaw,Blue-headed Macaw,DIB-10K_38,4176.Blue-headed Macaw,216
+golden_collared_macaw,Golden-collared Macaw,DIB-10K_38,4177.Golden-collared Macaw,293
+blue_winged_macaw,Blue-winged Macaw,DIB-10K_38,4178.Blue-winged Macaw,473
+blue_and_yellow_macaw,Blue-and-yellow Macaw,DIB-10K_38,4179.Blue-and-yellow Macaw,2680
+blue_throated_macaw,Blue-throated Macaw,DIB-10K_38,4180.Blue-throated Macaw,520
+military_macaw,Military Macaw,DIB-10K_38,4181.Military Macaw,1177
+great_green_macaw,Great Green Macaw,DIB-10K_38,4182.Great Green Macaw,751
+scarlet_macaw,Scarlet Macaw,DIB-10K_38,4183.Scarlet Macaw,2623
+red_and_green_macaw,Red-and-green Macaw,DIB-10K_38,4184.Red-and-green Macaw,2285
+cuban_macaw,Cuban Macaw,DIB-10K_38,4185.Cuban Macaw,41
+red_fronted_macaw,Red-fronted Macaw,DIB-10K_38,4186.Red-fronted Macaw,544
+chestnut_fronted_macaw,Chestnut-fronted Macaw,DIB-10K_38,4187.Chestnut-fronted Macaw,923
+golden_plumed_parakeet,Golden-plumed Parakeet,DIB-10K_38,4188.Golden-plumed Parakeet,197
+yellow_eared_parrot,Yellow-eared Parrot,DIB-10K_38,4189.Yellow-eared Parrot,378
+golden_parakeet,Golden Parakeet,DIB-10K_38,4190.Golden Parakeet,395
+red_shouldered_macaw,Red-shouldered Macaw,DIB-10K_38,4191.Red-shouldered Macaw,578
+blue_crowned_parakeet,Blue-crowned Parakeet,DIB-10K_38,4192.Blue-crowned Parakeet,675
+green_parakeet,Green Parakeet,DIB-10K_38,4193.Green Parakeet,451
+socorro_parakeet,Socorro Parakeet,DIB-10K_38,4194.Socorro Parakeet,24
+red_throated_parakeet,Red-throated Parakeet,DIB-10K_38,4195.Red-throated Parakeet,64
+pacific_parakeet,Pacific Parakeet,DIB-10K_38,4196.Pacific Parakeet,133
+scarlet_fronted_parakeet,Scarlet-fronted Parakeet,DIB-10K_38,4197.Scarlet-fronted Parakeet,250
+cordilleran_parakeet,Cordilleran Parakeet,DIB-10K_38,4198.Cordilleran Parakeet,21
+mitred_parakeet,Mitred Parakeet,DIB-10K_38,4199.Mitred Parakeet,464
+red_masked_parakeet,Red-masked Parakeet,DIB-10K_38,4200.Red-masked Parakeet,643
+finschs_parakeet,Finsch's Parakeet,DIB-10K_38,4201.Finsch's Parakeet,328
+white_eyed_parakeet,White-eyed Parakeet,DIB-10K_38,4202.White-eyed Parakeet,867
+cuban_parakeet,Cuban Parakeet,DIB-10K_38,4203.Cuban Parakeet,165
+hispaniolan_parakeet,Hispaniolan Parakeet,DIB-10K_38,4204.Hispaniolan Parakeet,207
+puerto_rican_parakeet,Puerto Rican Parakeet,DIB-10K_38,4205.Puerto Rican Parakeet,9
+pesquets_parrot,Pesquet's Parrot,DIB-10K_38,4206.Pesquet's Parrot,192
+mascarene_parrot,Mascarene Parrot,DIB-10K_38,4207.Mascarene Parrot,55
+greater_vasa_parrot,Greater Vasa Parrot,DIB-10K_38,4208.Greater Vasa Parrot,312
+lesser_vasa_parrot,Lesser Vasa Parrot,DIB-10K_38,4209.Lesser Vasa Parrot,258
+seychelles_black_parrot,Seychelles Black Parrot,DIB-10K_38,4210.Seychelles Black Parrot,110
+yellow_capped_pygmy_parrot,Yellow-capped Pygmy Parrot,DIB-10K_38,4211.Yellow-capped Pygmy Parrot,20
+geelvink_pygmy_parrot,Geelvink Pygmy Parrot,DIB-10K_38,4212.Geelvink Pygmy Parrot,30
+buff_faced_pygmy_parrot,Buff-faced Pygmy Parrot,DIB-10K_38,4213.Buff-faced Pygmy Parrot,51
+meeks_pygmy_parrot,Meek's Pygmy Parrot,DIB-10K_38,4214.Meek's Pygmy Parrot,5
+finschs_pygmy_parrot,Finsch's Pygmy Parrot,DIB-10K_38,4215.Finsch's Pygmy Parrot,18
+red_breasted_pygmy_parrot,Red-breasted Pygmy Parrot,DIB-10K_38,4216.Red-breasted Pygmy Parrot,41
+superb_parrot,Superb Parrot,DIB-10K_38,4217.Superb Parrot,750
+regent_parrot,Regent Parrot,DIB-10K_38,4218.Regent Parrot,510
+princess_parrot,Princess Parrot,DIB-10K_38,4219.Princess Parrot,404
+moluccan_king_parrot,Moluccan King Parrot,DIB-10K_38,4220.Moluccan King Parrot,97
+papuan_king_parrot,Papuan King Parrot,DIB-10K_38,4221.Papuan King Parrot,94
+australian_king_parrot,Australian King Parrot,DIB-10K_38,4222.Australian King Parrot,2630
+jonquil_parrot,Jonquil Parrot,DIB-10K_38,4223.Jonquil Parrot,47
+,,DIB-10K_38,,0

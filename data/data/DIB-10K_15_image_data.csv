@@ -1,0 +1,73 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+new_britain_sparrowhawk,New Britain Sparrowhawk,DIB-10K_15,1091.New Britain Sparrowhawk,9
+vinous_breasted_sparrowhawk,Vinous-breasted Sparrowhawk,DIB-10K_15,1092.Vinous-breasted Sparrowhawk,13
+madagascan_sparrowhawk,Madagascan Sparrowhawk,DIB-10K_15,1093.Madagascan Sparrowhawk,95
+ovambo_sparrowhawk,Ovambo Sparrowhawk,DIB-10K_15,1094.Ovambo Sparrowhawk,132
+eurasian_sparrowhawk,Eurasian Sparrowhawk,DIB-10K_15,1095.Eurasian Sparrowhawk,2921
+rufous_breasted_sparrowhawk,Rufous-breasted Sparrowhawk,DIB-10K_15,1096.Rufous-breasted Sparrowhawk,75
+sharp_shinned_hawk,Sharp-shinned Hawk,DIB-10K_15,1097.Sharp-shinned Hawk,2631
+white_breasted_hawk,White-breasted Hawk,DIB-10K_15,1098.White-breasted Hawk,95
+plain_breasted_hawk,Plain-breasted Hawk,DIB-10K_15,1099.Plain-breasted Hawk,45
+rufous_thighed_hawk,Rufous-thighed Hawk,DIB-10K_15,1100.Rufous-thighed Hawk,44
+coopers_hawk,Cooper's Hawk,DIB-10K_15,1101.Cooper's Hawk,2583
+gundlachs_hawk,Gundlach's Hawk,DIB-10K_15,1102.Gundlach's Hawk,50
+bicolored_hawk,Bicolored Hawk,DIB-10K_15,1103.Bicolored Hawk,575
+chilean_hawk,Chilean Hawk,DIB-10K_15,1104.Chilean Hawk,298
+black_sparrowhawk,Black Sparrowhawk,DIB-10K_15,1105.Black Sparrowhawk,212
+hensts_goshawk,Henst's Goshawk,DIB-10K_15,1106.Henst's Goshawk,52
+northern_goshawk,Northern Goshawk,DIB-10K_15,1107.Northern Goshawk,2781
+meyers_goshawk,Meyer's Goshawk,DIB-10K_15,1108.Meyer's Goshawk,5
+western_marsh_harrier,Western Marsh Harrier,DIB-10K_15,1109.Western Marsh Harrier,2799
+eastern_marsh_harrier,Eastern Marsh Harrier,DIB-10K_15,1110.Eastern Marsh Harrier,980
+papuan_harrier,Papuan Harrier,DIB-10K_15,1111.Papuan Harrier,26
+swamp_harrier,Swamp Harrier,DIB-10K_15,1112.Swamp Harrier,1477
+african_marsh_harrier,African Marsh Harrier,DIB-10K_15,1113.African Marsh Harrier,268
+reunion_harrier,Reunion Harrier,DIB-10K_15,1114.Reunion Harrier,90
+malagasy_harrier,Malagasy Harrier,DIB-10K_15,1115.Malagasy Harrier,47
+long_winged_harrier,Long-winged Harrier,DIB-10K_15,1116.Long-winged Harrier,725
+spotted_harrier,Spotted Harrier,DIB-10K_15,1117.Spotted Harrier,678
+black_harrier,Black Harrier,DIB-10K_15,1118.Black Harrier,177
+hen_harrier,Hen Harrier,DIB-10K_15,1119.Hen Harrier,2730
+northern_harrier,Northern Harrier,DIB-10K_15,1120.Northern Harrier,1770
+cinereous_harrier,Cinereous Harrier,DIB-10K_15,1121.Cinereous Harrier,889
+pallid_harrier,Pallid Harrier,DIB-10K_15,1122.Pallid Harrier,1719
+pied_harrier,Pied Harrier,DIB-10K_15,1123.Pied Harrier,574
+montagus_harrier,Montagu's Harrier,DIB-10K_15,1124.Montagu's Harrier,2665
+red_kite,Red Kite,DIB-10K_15,1125.Red Kite,2737
+black_kite,Black Kite,DIB-10K_15,1126.Black Kite,2952
+yellow_billed_kite,Yellow-billed Kite,DIB-10K_15,1127.Yellow-billed Kite,1340
+whistling_kite,Whistling Kite,DIB-10K_15,1128.Whistling Kite,2416
+brahminy_kite,Brahminy Kite,DIB-10K_15,1129.Brahminy Kite,2912
+white_bellied_sea_eagle,White-bellied Sea Eagle,DIB-10K_15,1130.White-bellied Sea Eagle,2843
+sanfords_sea_eagle,Sanford's Sea Eagle,DIB-10K_15,1131.Sanford's Sea Eagle,55
+african_fish_eagle,African Fish Eagle,DIB-10K_15,1132.African Fish Eagle,2955
+madagascan_fish_eagle,Madagascan Fish Eagle,DIB-10K_15,1133.Madagascan Fish Eagle,183
+pallass_fish_eagle,Pallas's Fish Eagle,DIB-10K_15,1134.Pallas's Fish Eagle,353
+white_tailed_eagle,White-tailed Eagle,DIB-10K_15,1135.White-tailed Eagle,2795
+bald_eagle,Bald Eagle,DIB-10K_15,1136.Bald Eagle,2847
+stellers_sea_eagle,Steller's Sea Eagle,DIB-10K_15,1137.Steller's Sea Eagle,2052
+lesser_fish_eagle,Lesser Fish Eagle,DIB-10K_15,1138.Lesser Fish Eagle,200
+grey_headed_fish_eagle,Grey-headed Fish Eagle,DIB-10K_15,1139.Grey-headed Fish Eagle,438
+grasshopper_buzzard,Grasshopper Buzzard,DIB-10K_15,1140.Grasshopper Buzzard,284
+white_eyed_buzzard,White-eyed Buzzard,DIB-10K_15,1141.White-eyed Buzzard,768
+rufous_winged_buzzard,Rufous-winged Buzzard,DIB-10K_15,1142.Rufous-winged Buzzard,190
+grey_faced_buzzard,Grey-faced Buzzard,DIB-10K_15,1143.Grey-faced Buzzard,641
+mississippi_kite,Mississippi Kite,DIB-10K_15,1144.Mississippi Kite,1698
+plumbeous_kite,Plumbeous Kite,DIB-10K_15,1145.Plumbeous Kite,1169
+black_collared_hawk,Black-collared Hawk,DIB-10K_15,1146.Black-collared Hawk,1980
+snail_kite,Snail Kite,DIB-10K_15,1147.Snail Kite,2909
+slender_billed_kite,Slender-billed Kite,DIB-10K_15,1148.Slender-billed Kite,182
+crane_hawk,Crane Hawk,DIB-10K_15,1149.Crane Hawk,841
+plumbeous_hawk,Plumbeous Hawk,DIB-10K_15,1150.Plumbeous Hawk,75
+slate_colored_hawk,Slate-colored Hawk,DIB-10K_15,1151.Slate-colored Hawk,161
+common_black_hawk,Common Black Hawk,DIB-10K_15,1152.Common Black Hawk,1932
+cuban_black_hawk,Cuban Black Hawk,DIB-10K_15,1153.Cuban Black Hawk,314
+rufous_crab_hawk,Rufous Crab Hawk,DIB-10K_15,1154.Rufous Crab Hawk,277
+savanna_hawk,Savanna Hawk,DIB-10K_15,1155.Savanna Hawk,1759
+white_necked_hawk,White-necked Hawk,DIB-10K_15,1156.White-necked Hawk,76
+great_black_hawk,Great Black Hawk,DIB-10K_15,1157.Great Black Hawk,1698
+solitary_eagle,Solitary Eagle,DIB-10K_15,1158.Solitary Eagle,100
+chaco_eagle,Chaco Eagle,DIB-10K_15,1159.Chaco Eagle,165
+barred_hawk,Barred Hawk,DIB-10K_15,1160.Barred Hawk,156
+roadside_hawk,Roadside Hawk,DIB-10K_15,1161.Roadside Hawk,2652
+,,DIB-10K_15,,0

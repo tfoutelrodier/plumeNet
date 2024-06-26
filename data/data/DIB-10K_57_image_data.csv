@@ -1,0 +1,223 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+white_eyed_thrush,White-eyed Thrush,DIB-10K_57,8804.White-eyed Thrush,62
+white_throated_thrush,White-throated Thrush,DIB-10K_57,8805.White-throated Thrush,279
+dagua_thrush,Dagua Thrush,DIB-10K_57,8806.Dagua Thrush,7
+white_necked_thrush,White-necked Thrush,DIB-10K_57,8807.White-necked Thrush,399
+rufous_backed_thrush,Rufous-backed Thrush,DIB-10K_57,8808.Rufous-backed Thrush,837
+rufous_collared_thrush,Rufous-collared Thrush,DIB-10K_57,8809.Rufous-collared Thrush,226
+american_robin,American Robin,DIB-10K_57,8810.American Robin,2660
+la_selle_thrush,La Selle Thrush,DIB-10K_57,8811.La Selle Thrush,73
+white_chinned_thrush,White-chinned Thrush,DIB-10K_57,8812.White-chinned Thrush,145
+grand_cayman_thrush,Grand Cayman Thrush,DIB-10K_57,8813.Grand Cayman Thrush,22
+red_legged_thrush,Red-legged Thrush,DIB-10K_57,8814.Red-legged Thrush,1370
+forest_thrush,Forest Thrush,DIB-10K_57,8815.Forest Thrush,71
+tristan_thrush,Tristan Thrush,DIB-10K_57,8816.Tristan Thrush,50
+purple_cochoa,Purple Cochoa,DIB-10K_57,8817.Purple Cochoa,62
+green_cochoa,Green Cochoa,DIB-10K_57,8818.Green Cochoa,130
+sumatran_cochoa,Sumatran Cochoa,DIB-10K_57,8819.Sumatran Cochoa,12
+javan_cochoa,Javan Cochoa,DIB-10K_57,8820.Javan Cochoa,57
+fruithunter,Fruithunter,DIB-10K_57,8821.Fruithunter,41
+white_tailed_alethe,White-tailed Alethe,DIB-10K_57,8822.White-tailed Alethe,40
+fire_crested_alethe,Fire-crested Alethe,DIB-10K_57,8823.Fire-crested Alethe,33
+karoo_scrub_robin,Karoo Scrub Robin,DIB-10K_57,8824.Karoo Scrub Robin,137
+forest_scrub_robin,Forest Scrub Robin,DIB-10K_57,8825.Forest Scrub Robin,14
+bearded_scrub_robin,Bearded Scrub Robin,DIB-10K_57,8826.Bearded Scrub Robin,174
+miombo_scrub_robin,Miombo Scrub Robin,DIB-10K_57,8827.Miombo Scrub Robin,34
+black_scrub_robin,Black Scrub Robin,DIB-10K_57,8828.Black Scrub Robin,293
+rufous_tailed_scrub_robin,Rufous-tailed Scrub Robin,DIB-10K_57,8829.Rufous-tailed Scrub Robin,1184
+kalahari_scrub_robin,Kalahari Scrub Robin,DIB-10K_57,8830.Kalahari Scrub Robin,268
+brown_backed_scrub_robin,Brown-backed Scrub Robin,DIB-10K_57,8831.Brown-backed Scrub Robin,52
+white_browed_scrub_robin,White-browed Scrub Robin,DIB-10K_57,8832.White-browed Scrub Robin,447
+brown_scrub_robin,Brown Scrub Robin,DIB-10K_57,8833.Brown Scrub Robin,71
+indian_robin,Indian Robin,DIB-10K_57,8834.Indian Robin,903
+oriental_magpie_robin,Oriental Magpie-Robin,DIB-10K_57,8835.Oriental Magpie-Robin,2903
+rufous_tailed_shama,Rufous-tailed Shama,DIB-10K_57,8836.Rufous-tailed Shama,43
+madagascan_magpie_robin,Madagascan Magpie-Robin,DIB-10K_57,8837.Madagascan Magpie-Robin,399
+seychelles_magpie_robin,Seychelles Magpie-Robin,DIB-10K_57,8838.Seychelles Magpie-Robin,278
+philippine_magpie_robin,Philippine Magpie-Robin,DIB-10K_57,8839.Philippine Magpie-Robin,51
+white_rumped_shama,White-rumped Shama,DIB-10K_57,8840.White-rumped Shama,2655
+andaman_shama,Andaman Shama,DIB-10K_57,8841.Andaman Shama,38
+white_crowned_shama,White-crowned Shama,DIB-10K_57,8842.White-crowned Shama,133
+white_browed_shama,White-browed Shama,DIB-10K_57,8843.White-browed Shama,65
+white_vented_shama,White-vented Shama,DIB-10K_57,8844.White-vented Shama,80
+black_shama,Black Shama,DIB-10K_57,8845.Black Shama,47
+frasers_forest_flycatcher,Fraser's Forest Flycatcher,DIB-10K_57,8846.Fraser's Forest Flycatcher,31
+white_browed_forest_flycatcher,White-browed Forest Flycatcher,DIB-10K_57,8847.White-browed Forest Flycatcher,28
+grey_throated_tit_flycatcher,Grey-throated Tit-Flycatcher,DIB-10K_57,8848.Grey-throated Tit-Flycatcher,42
+grey_tit_flycatcher,Grey Tit-Flycatcher,DIB-10K_57,8849.Grey Tit-Flycatcher,97
+angolan_slaty_flycatcher,Angolan Slaty Flycatcher,DIB-10K_57,8850.Angolan Slaty Flycatcher,18
+white_eyed_slaty_flycatcher,White-eyed Slaty Flycatcher,DIB-10K_57,8851.White-eyed Slaty Flycatcher,376
+abyssinian_slaty_flycatcher,Abyssinian Slaty Flycatcher,DIB-10K_57,8852.Abyssinian Slaty Flycatcher,174
+nimba_flycatcher,Nimba Flycatcher,DIB-10K_57,8853.Nimba Flycatcher,2
+yellow_eyed_black_flycatcher,Yellow-eyed Black Flycatcher,DIB-10K_57,8854.Yellow-eyed Black Flycatcher,66
+northern_black_flycatcher,Northern Black Flycatcher,DIB-10K_57,8855.Northern Black Flycatcher,261
+southern_black_flycatcher,Southern Black Flycatcher,DIB-10K_57,8856.Southern Black Flycatcher,381
+pale_flycatcher,Pale Flycatcher,DIB-10K_57,8857.Pale Flycatcher,167
+chat_flycatcher,Chat Flycatcher,DIB-10K_57,8858.Chat Flycatcher,91
+african_grey_flycatcher,African Grey Flycatcher,DIB-10K_57,8859.African Grey Flycatcher,301
+marico_flycatcher,Marico Flycatcher,DIB-10K_57,8860.Marico Flycatcher,434
+fiscal_flycatcher,Fiscal Flycatcher,DIB-10K_57,8861.Fiscal Flycatcher,310
+silverbird,Silverbird,DIB-10K_57,8862.Silverbird,335
+spotted_flycatcher,Spotted Flycatcher,DIB-10K_57,8863.Spotted Flycatcher,2276
+mediterranean_flycatcher,Mediterranean Flycatcher,DIB-10K_57,8864.Mediterranean Flycatcher,92
+gambaga_flycatcher,Gambaga Flycatcher,DIB-10K_57,8865.Gambaga Flycatcher,57
+grey_streaked_flycatcher,Grey-streaked Flycatcher,DIB-10K_57,8866.Grey-streaked Flycatcher,564
+dark_sided_flycatcher,Dark-sided Flycatcher,DIB-10K_57,8867.Dark-sided Flycatcher,821
+asian_brown_flycatcher,Asian Brown Flycatcher,DIB-10K_57,8868.Asian Brown Flycatcher,1802
+sulawesi_streaked_flycatcher,Sulawesi Streaked Flycatcher,DIB-10K_57,8869.Sulawesi Streaked Flycatcher,17
+brown_streaked_flycatcher,Brown-streaked Flycatcher,DIB-10K_57,8870.Brown-streaked Flycatcher,136
+ashy_breasted_flycatcher,Ashy-breasted Flycatcher,DIB-10K_57,8871.Ashy-breasted Flycatcher,18
+sumba_brown_flycatcher,Sumba Brown Flycatcher,DIB-10K_57,8872.Sumba Brown Flycatcher,20
+brown_breasted_flycatcher,Brown-breasted Flycatcher,DIB-10K_57,8873.Brown-breasted Flycatcher,643
+ferruginous_flycatcher,Ferruginous Flycatcher,DIB-10K_57,8874.Ferruginous Flycatcher,722
+ashy_flycatcher,Ashy Flycatcher,DIB-10K_57,8875.Ashy Flycatcher,308
+swamp_flycatcher,Swamp Flycatcher,DIB-10K_57,8876.Swamp Flycatcher,332
+cassins_flycatcher,Cassin's Flycatcher,DIB-10K_57,8877.Cassin's Flycatcher,153
+olivaceous_flycatcher,Olivaceous Flycatcher,DIB-10K_57,8878.Olivaceous Flycatcher,9
+chapins_flycatcher,Chapin's Flycatcher,DIB-10K_57,8879.Chapin's Flycatcher,9
+itombwe_flycatcher,Itombwe Flycatcher,DIB-10K_57,8880.Itombwe Flycatcher,3
+african_dusky_flycatcher,African Dusky Flycatcher,DIB-10K_57,8881.African Dusky Flycatcher,692
+little_grey_flycatcher,Little Grey Flycatcher,DIB-10K_57,8882.Little Grey Flycatcher,37
+yellow_footed_flycatcher,Yellow-footed Flycatcher,DIB-10K_57,8883.Yellow-footed Flycatcher,35
+dusky_blue_flycatcher,Dusky-blue Flycatcher,DIB-10K_57,8884.Dusky-blue Flycatcher,114
+tessmanns_flycatcher,Tessmann's Flycatcher,DIB-10K_57,8885.Tessmann's Flycatcher,13
+sooty_flycatcher,Sooty Flycatcher,DIB-10K_57,8886.Sooty Flycatcher,48
+usshers_flycatcher,Ussher's Flycatcher,DIB-10K_57,8887.Ussher's Flycatcher,44
+böhms_flycatcher,Böhm's Flycatcher,DIB-10K_57,8888.Böhm's Flycatcher,35
+white_gorgeted_flycatcher,White-gorgeted Flycatcher,DIB-10K_57,8889.White-gorgeted Flycatcher,210
+rufous_browed_flycatcher,Rufous-browed Flycatcher,DIB-10K_57,8890.Rufous-browed Flycatcher,320
+hainan_blue_flycatcher,Hainan Blue Flycatcher,DIB-10K_57,8891.Hainan Blue Flycatcher,412
+pale_blue_flycatcher,Pale Blue Flycatcher,DIB-10K_57,8892.Pale Blue Flycatcher,240
+rücks_blue_flycatcher,Rück's Blue Flycatcher,DIB-10K_57,8893.Rück's Blue Flycatcher,3
+blue_breasted_blue_flycatcher,Blue-breasted Blue Flycatcher,DIB-10K_57,8894.Blue-breasted Blue Flycatcher,5
+white_bellied_blue_flycatcher,White-bellied Blue Flycatcher,DIB-10K_57,8895.White-bellied Blue Flycatcher,195
+pale_chinned_blue_flycatcher,Pale-chinned Blue Flycatcher,DIB-10K_57,8896.Pale-chinned Blue Flycatcher,70
+hill_blue_flycatcher,Hill Blue Flycatcher,DIB-10K_57,8897.Hill Blue Flycatcher,669
+large_blue_flycatcher,Large Blue Flycatcher,DIB-10K_57,8898.Large Blue Flycatcher,71
+palawan_blue_flycatcher,Palawan Blue Flycatcher,DIB-10K_57,8899.Palawan Blue Flycatcher,64
+tickells_blue_flycatcher,Tickell's Blue Flycatcher,DIB-10K_57,8900.Tickell's Blue Flycatcher,1455
+sunda_blue_flycatcher,Sunda Blue Flycatcher,DIB-10K_57,8901.Sunda Blue Flycatcher,86
+bornean_blue_flycatcher,Bornean Blue Flycatcher,DIB-10K_57,8902.Bornean Blue Flycatcher,70
+blue_throated_blue_flycatcher,Blue-throated Blue Flycatcher,DIB-10K_57,8903.Blue-throated Blue Flycatcher,501
+chinese_blue_flycatcher,Chinese Blue Flycatcher,DIB-10K_57,8904.Chinese Blue Flycatcher,224
+malaysian_blue_flycatcher,Malaysian Blue Flycatcher,DIB-10K_57,8905.Malaysian Blue Flycatcher,148
+mangrove_blue_flycatcher,Mangrove Blue Flycatcher,DIB-10K_57,8906.Mangrove Blue Flycatcher,470
+tanahjampea_blue_flycatcher,Tanahjampea Blue Flycatcher,DIB-10K_57,8907.Tanahjampea Blue Flycatcher,7
+sulawesi_blue_flycatcher,Sulawesi Blue Flycatcher,DIB-10K_57,8908.Sulawesi Blue Flycatcher,47
+timor_blue_flycatcher,Timor Blue Flycatcher,DIB-10K_57,8909.Timor Blue Flycatcher,69
+blue_fronted_blue_flycatcher,Blue-fronted Blue Flycatcher,DIB-10K_57,8910.Blue-fronted Blue Flycatcher,67
+matinan_blue_flycatcher,Matinan Blue Flycatcher,DIB-10K_57,8911.Matinan Blue Flycatcher,41
+white_tailed_flycatcher,White-tailed Flycatcher,DIB-10K_57,8912.White-tailed Flycatcher,60
+russet_backed_jungle_flycatcher,Russet-backed Jungle Flycatcher,DIB-10K_57,8913.Russet-backed Jungle Flycatcher,13
+brown_chested_jungle_flycatcher,Brown-chested Jungle Flycatcher,DIB-10K_57,8914.Brown-chested Jungle Flycatcher,109
+nicobar_jungle_flycatcher,Nicobar Jungle Flycatcher,DIB-10K_57,8915.Nicobar Jungle Flycatcher,5
+fulvous_chested_jungle_flycatcher,Fulvous-chested Jungle Flycatcher,DIB-10K_57,8916.Fulvous-chested Jungle Flycatcher,83
+grey_chested_jungle_flycatcher,Grey-chested Jungle Flycatcher,DIB-10K_57,8917.Grey-chested Jungle Flycatcher,71
+rufous_tailed_jungle_flycatcher,Rufous-tailed Jungle Flycatcher,DIB-10K_57,8918.Rufous-tailed Jungle Flycatcher,22
+sula_jungle_flycatcher,Sula Jungle Flycatcher,DIB-10K_57,8919.Sula Jungle Flycatcher,2
+fujian_niltava,Fujian Niltava,DIB-10K_57,8920.Fujian Niltava,213
+rufous_bellied_niltava,Rufous-bellied Niltava,DIB-10K_57,8921.Rufous-bellied Niltava,603
+rufous_vented_niltava,Rufous-vented Niltava,DIB-10K_57,8922.Rufous-vented Niltava,34
+vivid_niltava,Vivid Niltava,DIB-10K_57,8923.Vivid Niltava,526
+large_niltava,Large Niltava,DIB-10K_57,8924.Large Niltava,954
+small_niltava,Small Niltava,DIB-10K_57,8925.Small Niltava,416
+blue_and_white_flycatcher,Blue-and-white Flycatcher,DIB-10K_57,8926.Blue-and-white Flycatcher,1290
+zappeys_flycatcher,Zappey's Flycatcher,DIB-10K_57,8927.Zappey's Flycatcher,107
+dull_blue_flycatcher,Dull-blue Flycatcher,DIB-10K_57,8928.Dull-blue Flycatcher,123
+verditer_flycatcher,Verditer Flycatcher,DIB-10K_57,8929.Verditer Flycatcher,1113
+turquoise_flycatcher,Turquoise Flycatcher,DIB-10K_57,8930.Turquoise Flycatcher,136
+nilgiri_flycatcher,Nilgiri Flycatcher,DIB-10K_57,8931.Nilgiri Flycatcher,425
+indigo_flycatcher,Indigo Flycatcher,DIB-10K_57,8932.Indigo Flycatcher,324
+streak_breasted_jungle_flycatcher,Streak-breasted Jungle Flycatcher,DIB-10K_57,8933.Streak-breasted Jungle Flycatcher,15
+european_robin,European Robin,DIB-10K_57,8934.European Robin,2627
+red_throated_alethe,Red-throated Alethe,DIB-10K_57,8935.Red-throated Alethe,30
+brown_chested_alethe,Brown-chested Alethe,DIB-10K_57,8936.Brown-chested Alethe,55
+white_chested_alethe,White-chested Alethe,DIB-10K_57,8937.White-chested Alethe,10
+thyolo_alethe,Thyolo Alethe,DIB-10K_57,8938.Thyolo Alethe,8
+white_bellied_robin_chat,White-bellied Robin-Chat,DIB-10K_57,8939.White-bellied Robin-Chat,39
+mountain_robin_chat,Mountain Robin-Chat,DIB-10K_57,8940.Mountain Robin-Chat,45
+archers_ground_robin,Archer's Ground Robin,DIB-10K_57,8941.Archer's Ground Robin,22
+olive_flanked_ground_robin,Olive-flanked Ground Robin,DIB-10K_57,8942.Olive-flanked Ground Robin,19
+cape_robin_chat,Cape Robin-Chat,DIB-10K_57,8943.Cape Robin-Chat,815
+white_throated_robin_chat,White-throated Robin-Chat,DIB-10K_57,8944.White-throated Robin-Chat,211
+angolan_cave_chat,Angolan Cave Chat,DIB-10K_57,8945.Angolan Cave Chat,40
+grey_winged_robin_chat,Grey-winged Robin-Chat,DIB-10K_57,8946.Grey-winged Robin-Chat,56
+blue_shouldered_robin_chat,Blue-shouldered Robin-Chat,DIB-10K_57,8947.Blue-shouldered Robin-Chat,15
+rüppells_robin_chat,Rüppell's Robin-Chat,DIB-10K_57,8948.Rüppell's Robin-Chat,186
+white_browed_robin_chat,White-browed Robin-Chat,DIB-10K_57,8949.White-browed Robin-Chat,770
+red_capped_robin_chat,Red-capped Robin-Chat,DIB-10K_57,8950.Red-capped Robin-Chat,252
+chorister_robin_chat,Chorister Robin-Chat,DIB-10K_57,8951.Chorister Robin-Chat,165
+white_headed_robin_chat,White-headed Robin-Chat,DIB-10K_57,8952.White-headed Robin-Chat,23
+snowy_crowned_robin_chat,Snowy-crowned Robin-Chat,DIB-10K_57,8953.Snowy-crowned Robin-Chat,358
+white_crowned_robin_chat,White-crowned Robin-Chat,DIB-10K_57,8954.White-crowned Robin-Chat,164
+swynnertons_robin,Swynnerton's Robin,DIB-10K_57,8955.Swynnerton's Robin,15
+white_starred_robin,White-starred Robin,DIB-10K_57,8956.White-starred Robin,155
+forest_robin,Forest Robin,DIB-10K_57,8957.Forest Robin,44
+bocages_akalat,Bocage's Akalat,DIB-10K_57,8958.Bocage's Akalat,15
+lowland_akalat,Lowland Akalat,DIB-10K_57,8959.Lowland Akalat,18
+equatorial_akalat,Equatorial Akalat,DIB-10K_57,8960.Equatorial Akalat,63
+sharpes_akalat,Sharpe's Akalat,DIB-10K_57,8961.Sharpe's Akalat,5
+east_coast_akalat,East Coast Akalat,DIB-10K_57,8962.East Coast Akalat,27
+gabela_akalat,Gabela Akalat,DIB-10K_57,8963.Gabela Akalat,18
+rubeho_akalat,Rubeho Akalat,DIB-10K_57,8964.Rubeho Akalat,4
+usambara_akalat,Usambara Akalat,DIB-10K_57,8965.Usambara Akalat,10
+iringa_akalat,Iringa Akalat,DIB-10K_57,8966.Iringa Akalat,4
+collared_palm_thrush,Collared Palm Thrush,DIB-10K_57,8967.Collared Palm Thrush,205
+rufous_tailed_palm_thrush,Rufous-tailed Palm Thrush,DIB-10K_57,8968.Rufous-tailed Palm Thrush,67
+spotted_palm_thrush,Spotted Palm Thrush,DIB-10K_57,8969.Spotted Palm Thrush,266
+great_shortwing,Great Shortwing,DIB-10K_57,8970.Great Shortwing,12
+bagobo_babbler,Bagobo Babbler,DIB-10K_57,8971.Bagobo Babbler,14
+goulds_shortwing,Gould's Shortwing,DIB-10K_57,8972.Gould's Shortwing,56
+rusty_bellied_shortwing,Rusty-bellied Shortwing,DIB-10K_57,8973.Rusty-bellied Shortwing,28
+lesser_shortwing,Lesser Shortwing,DIB-10K_57,8974.Lesser Shortwing,269
+white_browed_shortwing,White-browed Shortwing,DIB-10K_57,8975.White-browed Shortwing,349
+eyebrowed_jungle_flycatcher,Eyebrowed Jungle Flycatcher,DIB-10K_57,8976.Eyebrowed Jungle Flycatcher,91
+white_throated_jungle_flycatcher,White-throated Jungle Flycatcher,DIB-10K_57,8977.White-throated Jungle Flycatcher,24
+white_browed_jungle_flycatcher,White-browed Jungle Flycatcher,DIB-10K_57,8978.White-browed Jungle Flycatcher,7
+slaty_backed_jungle_flycatcher,Slaty-backed Jungle Flycatcher,DIB-10K_57,8979.Slaty-backed Jungle Flycatcher,7
+indian_blue_robin,Indian Blue Robin,DIB-10K_57,8980.Indian Blue Robin,279
+siberian_blue_robin,Siberian Blue Robin,DIB-10K_57,8981.Siberian Blue Robin,445
+rufous_tailed_robin,Rufous-tailed Robin,DIB-10K_57,8982.Rufous-tailed Robin,379
+rufous_headed_robin,Rufous-headed Robin,DIB-10K_57,8983.Rufous-headed Robin,91
+ryukyu_robin,Ryukyu Robin,DIB-10K_57,8984.Ryukyu Robin,173
+japanese_robin,Japanese Robin,DIB-10K_57,8985.Japanese Robin,225
+bluethroat,Bluethroat,DIB-10K_57,8986.Bluethroat,2625
+white_bellied_redstart,White-bellied Redstart,DIB-10K_57,8987.White-bellied Redstart,187
+thrush_nightingale,Thrush Nightingale,DIB-10K_57,8988.Thrush Nightingale,1820
+common_nightingale,Common Nightingale,DIB-10K_57,8989.Common Nightingale,2452
+white_throated_robin,White-throated Robin,DIB-10K_57,8990.White-throated Robin,367
+himalayan_rubythroat,Himalayan Rubythroat,DIB-10K_57,8991.Himalayan Rubythroat,124
+chinese_rubythroat,Chinese Rubythroat,DIB-10K_57,8992.Chinese Rubythroat,58
+siberian_rubythroat,Siberian Rubythroat,DIB-10K_57,8993.Siberian Rubythroat,1152
+firethroat,Firethroat,DIB-10K_57,8994.Firethroat,118
+blackthroat,Blackthroat,DIB-10K_57,8995.Blackthroat,39
+white_tailed_robin,White-tailed Robin,DIB-10K_57,8996.White-tailed Robin,600
+sunda_robin,Sunda Robin,DIB-10K_57,8997.Sunda Robin,102
+nilgiri_blue_robin,Nilgiri Blue Robin,DIB-10K_57,8998.Nilgiri Blue Robin,86
+white_bellied_blue_robin,White-bellied Blue Robin,DIB-10K_57,8999.White-bellied Blue Robin,70
+white_browed_bush_robin,White-browed Bush Robin,DIB-10K_57,9000.White-browed Bush Robin,239
+rufous_breasted_bush_robin,Rufous-breasted Bush Robin,DIB-10K_57,9001.Rufous-breasted Bush Robin,85
+collared_bush_robin,Collared Bush Robin,DIB-10K_57,9002.Collared Bush Robin,427
+red_flanked_bluetail,Red-flanked Bluetail,DIB-10K_57,9003.Red-flanked Bluetail,2690
+himalayan_bluetail,Himalayan Bluetail,DIB-10K_57,9004.Himalayan Bluetail,654
+golden_bush_robin,Golden Bush Robin,DIB-10K_57,9005.Golden Bush Robin,235
+little_forktail,Little Forktail,DIB-10K_57,9006.Little Forktail,499
+sunda_forktail,Sunda Forktail,DIB-10K_57,9007.Sunda Forktail,126
+chestnut_naped_forktail,Chestnut-naped Forktail,DIB-10K_57,9008.Chestnut-naped Forktail,261
+black_backed_forktail,Black-backed Forktail,DIB-10K_57,9009.Black-backed Forktail,116
+slaty_backed_forktail,Slaty-backed Forktail,DIB-10K_57,9010.Slaty-backed Forktail,380
+white_crowned_forktail,White-crowned Forktail,DIB-10K_57,9011.White-crowned Forktail,275
+bornean_forktail,Bornean Forktail,DIB-10K_57,9012.Bornean Forktail,40
+spotted_forktail,Spotted Forktail,DIB-10K_57,9013.Spotted Forktail,342
+sri_lanka_whistling_thrush,Sri Lanka Whistling Thrush,DIB-10K_57,9014.Sri Lanka Whistling Thrush,90
+shiny_whistling_thrush,Shiny Whistling Thrush,DIB-10K_57,9015.Shiny Whistling Thrush,67
+javan_whistling_thrush,Javan Whistling Thrush,DIB-10K_57,9016.Javan Whistling Thrush,109
+bornean_whistling_thrush,Bornean Whistling Thrush,DIB-10K_57,9017.Bornean Whistling Thrush,120
+brown_winged_whistling_thrush,Brown-winged Whistling Thrush,DIB-10K_57,9018.Brown-winged Whistling Thrush,88
+malayan_whistling_thrush,Malayan Whistling Thrush,DIB-10K_57,9019.Malayan Whistling Thrush,61
+malabar_whistling_thrush,Malabar Whistling Thrush,DIB-10K_57,9020.Malabar Whistling Thrush,461
+taiwan_whistling_thrush,Taiwan Whistling Thrush,DIB-10K_57,9021.Taiwan Whistling Thrush,287
+blue_whistling_thrush,Blue Whistling Thrush,DIB-10K_57,9022.Blue Whistling Thrush,1393
+blue_fronted_robin,Blue-fronted Robin,DIB-10K_57,9023.Blue-fronted Robin,26
+rusty_tailed_flycatcher,Rusty-tailed Flycatcher,DIB-10K_57,9024.Rusty-tailed Flycatcher,176
+,,DIB-10K_57,,0

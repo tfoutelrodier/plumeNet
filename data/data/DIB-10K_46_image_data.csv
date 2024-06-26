@@ -1,0 +1,165 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+red_backed_shrike,Red-backed Shrike,DIB-10K_46,6446.Red-backed Shrike,2732
+isabelline_shrike,Isabelline Shrike,DIB-10K_46,6447.Isabelline Shrike,1192
+red_tailed_shrike,Red-tailed Shrike,DIB-10K_46,6448.Red-tailed Shrike,422
+burmese_shrike,Burmese Shrike,DIB-10K_46,6449.Burmese Shrike,624
+emins_shrike,Emin's Shrike,DIB-10K_46,6450.Emin's Shrike,14
+bay_backed_shrike,Bay-backed Shrike,DIB-10K_46,6451.Bay-backed Shrike,926
+long_tailed_shrike,Long-tailed Shrike,DIB-10K_46,6452.Long-tailed Shrike,2652
+grey_backed_shrike,Grey-backed Shrike,DIB-10K_46,6453.Grey-backed Shrike,668
+mountain_shrike,Mountain Shrike,DIB-10K_46,6454.Mountain Shrike,73
+mackinnons_shrike,Mackinnon's Shrike,DIB-10K_46,6455.Mackinnon's Shrike,179
+lesser_grey_shrike,Lesser Grey Shrike,DIB-10K_46,6456.Lesser Grey Shrike,1216
+loggerhead_shrike,Loggerhead Shrike,DIB-10K_46,6457.Loggerhead Shrike,2517
+northern_shrike,Northern Shrike,DIB-10K_46,6458.Northern Shrike,836
+great_grey_shrike,Great Grey Shrike,DIB-10K_46,6459.Great Grey Shrike,2667
+iberian_grey_shrike,Iberian Grey Shrike,DIB-10K_46,6460.Iberian Grey Shrike,2061
+chinese_grey_shrike,Chinese Grey Shrike,DIB-10K_46,6462.Chinese Grey Shrike,185
+grey_backed_fiscal,Grey-backed Fiscal,DIB-10K_46,6463.Grey-backed Fiscal,480
+long_tailed_fiscal,Long-tailed Fiscal,DIB-10K_46,6464.Long-tailed Fiscal,383
+taita_fiscal,Taita Fiscal,DIB-10K_46,6465.Taita Fiscal,170
+somali_fiscal,Somali Fiscal,DIB-10K_46,6466.Somali Fiscal,110
+northern_fiscal,Northern Fiscal,DIB-10K_46,6467.Northern Fiscal,294
+southern_fiscal,Southern Fiscal,DIB-10K_46,6468.Southern Fiscal,899
+sao_tome_fiscal,Sao Tome Fiscal,DIB-10K_46,6469.Sao Tome Fiscal,25
+woodchat_shrike,Woodchat Shrike,DIB-10K_46,6470.Woodchat Shrike,2832
+masked_shrike,Masked Shrike,DIB-10K_46,6471.Masked Shrike,802
+rufous_browed_peppershrike,Rufous-browed Peppershrike,DIB-10K_46,6472.Rufous-browed Peppershrike,1235
+black_billed_peppershrike,Black-billed Peppershrike,DIB-10K_46,6473.Black-billed Peppershrike,111
+chestnut_sided_shrike_vireo,Chestnut-sided Shrike-Vireo,DIB-10K_46,6474.Chestnut-sided Shrike-Vireo,95
+green_shrike_vireo,Green Shrike-Vireo,DIB-10K_46,6475.Green Shrike-Vireo,91
+yellow_browed_shrike_vireo,Yellow-browed Shrike-Vireo,DIB-10K_46,6476.Yellow-browed Shrike-Vireo,26
+slaty_capped_shrike_vireo,Slaty-capped Shrike-Vireo,DIB-10K_46,6477.Slaty-capped Shrike-Vireo,95
+slaty_vireo,Slaty Vireo,DIB-10K_46,6478.Slaty Vireo,57
+white_eyed_vireo,White-eyed Vireo,DIB-10K_46,6479.White-eyed Vireo,1679
+thick_billed_vireo,Thick-billed Vireo,DIB-10K_46,6480.Thick-billed Vireo,397
+mangrove_vireo,Mangrove Vireo,DIB-10K_46,6481.Mangrove Vireo,233
+providencia_vireo,Providencia Vireo,DIB-10K_46,6482.Providencia Vireo,14
+cozumel_vireo,Cozumel Vireo,DIB-10K_46,6483.Cozumel Vireo,78
+san_andres_vireo,San Andres Vireo,DIB-10K_46,6484.San Andres Vireo,56
+jamaican_vireo,Jamaican Vireo,DIB-10K_46,6485.Jamaican Vireo,71
+cuban_vireo,Cuban Vireo,DIB-10K_46,6486.Cuban Vireo,263
+puerto_rican_vireo,Puerto Rican Vireo,DIB-10K_46,6487.Puerto Rican Vireo,115
+flat_billed_vireo,Flat-billed Vireo,DIB-10K_46,6488.Flat-billed Vireo,73
+bells_vireo,Bell's Vireo,DIB-10K_46,6489.Bell's Vireo,862
+black_capped_vireo,Black-capped Vireo,DIB-10K_46,6490.Black-capped Vireo,455
+dwarf_vireo,Dwarf Vireo,DIB-10K_46,6491.Dwarf Vireo,38
+grey_vireo,Grey Vireo,DIB-10K_46,6492.Grey Vireo,402
+blue_mountain_vireo,Blue Mountain Vireo,DIB-10K_46,6493.Blue Mountain Vireo,74
+yellow_throated_vireo,Yellow-throated Vireo,DIB-10K_46,6494.Yellow-throated Vireo,1152
+plumbeous_vireo,Plumbeous Vireo,DIB-10K_46,6495.Plumbeous Vireo,786
+cassins_vireo,Cassin's Vireo,DIB-10K_46,6496.Cassin's Vireo,595
+blue_headed_vireo,Blue-headed Vireo,DIB-10K_46,6497.Blue-headed Vireo,1613
+yellow_winged_vireo,Yellow-winged Vireo,DIB-10K_46,6498.Yellow-winged Vireo,169
+choco_vireo,Choco Vireo,DIB-10K_46,6499.Choco Vireo,15
+tepui_vireo,Tepui Vireo,DIB-10K_46,6500.Tepui Vireo,10
+huttons_vireo,Hutton's Vireo,DIB-10K_46,6501.Hutton's Vireo,845
+golden_vireo,Golden Vireo,DIB-10K_46,6502.Golden Vireo,104
+warbling_vireo,Warbling Vireo,DIB-10K_46,6503.Warbling Vireo,1953
+brown_capped_vireo,Brown-capped Vireo,DIB-10K_46,6504.Brown-capped Vireo,263
+philadelphia_vireo,Philadelphia Vireo,DIB-10K_46,6505.Philadelphia Vireo,1042
+red_eyed_vireo,Red-eyed Vireo,DIB-10K_46,6506.Red-eyed Vireo,2225
+noronha_vireo,Noronha Vireo,DIB-10K_46,6507.Noronha Vireo,59
+yellow_green_vireo,Yellow-green Vireo,DIB-10K_46,6508.Yellow-green Vireo,580
+black_whiskered_vireo,Black-whiskered Vireo,DIB-10K_46,6509.Black-whiskered Vireo,730
+yucatan_vireo,Yucatan Vireo,DIB-10K_46,6510.Yucatan Vireo,274
+rufous_crowned_greenlet,Rufous-crowned Greenlet,DIB-10K_46,6511.Rufous-crowned Greenlet,138
+grey_eyed_greenlet,Grey-eyed Greenlet,DIB-10K_46,6512.Grey-eyed Greenlet,112
+lemon_chested_greenlet,Lemon-chested Greenlet,DIB-10K_46,6513.Lemon-chested Greenlet,89
+grey_chested_greenlet,Grey-chested Greenlet,DIB-10K_46,6514.Grey-chested Greenlet,62
+ashy_headed_greenlet,Ashy-headed Greenlet,DIB-10K_46,6515.Ashy-headed Greenlet,166
+brown_headed_greenlet,Brown-headed Greenlet,DIB-10K_46,6516.Brown-headed Greenlet,11
+rufous_naped_greenlet,Rufous-naped Greenlet,DIB-10K_46,6517.Rufous-naped Greenlet,71
+golden_fronted_greenlet,Golden-fronted Greenlet,DIB-10K_46,6518.Golden-fronted Greenlet,128
+dusky_capped_greenlet,Dusky-capped Greenlet,DIB-10K_46,6519.Dusky-capped Greenlet,35
+buff_cheeked_greenlet,Buff-cheeked Greenlet,DIB-10K_46,6520.Buff-cheeked Greenlet,36
+scrub_greenlet,Scrub Greenlet,DIB-10K_46,6521.Scrub Greenlet,204
+olivaceous_greenlet,Olivaceous Greenlet,DIB-10K_46,6522.Olivaceous Greenlet,24
+tawny_crowned_greenlet,Tawny-crowned Greenlet,DIB-10K_46,6523.Tawny-crowned Greenlet,101
+lesser_greenlet,Lesser Greenlet,DIB-10K_46,6524.Lesser Greenlet,286
+white_bellied_erpornis,White-bellied Erpornis,DIB-10K_46,6525.White-bellied Erpornis,337
+black_headed_shrike_babbler,Black-headed Shrike-babbler,DIB-10K_46,6526.Black-headed Shrike-babbler,50
+pied_shrike_babbler,Pied Shrike-babbler,DIB-10K_46,6527.Pied Shrike-babbler,136
+himalayan_shrike_babbler,Himalayan Shrike-babbler,DIB-10K_46,6528.Himalayan Shrike-babbler,61
+blyths_shrike_babbler,Blyth's Shrike-babbler,DIB-10K_46,6529.Blyth's Shrike-babbler,226
+dalat_shrike_babbler,Dalat Shrike-babbler,DIB-10K_46,6530.Dalat Shrike-babbler,37
+green_shrike_babbler,Green Shrike-babbler,DIB-10K_46,6531.Green Shrike-babbler,87
+black_eared_shrike_babbler,Black-eared Shrike-babbler,DIB-10K_46,6532.Black-eared Shrike-babbler,108
+trilling_shrike_babbler,Trilling Shrike-babbler,DIB-10K_46,6533.Trilling Shrike-babbler,55
+clicking_shrike_babbler,Clicking Shrike-babbler,DIB-10K_46,6534.Clicking Shrike-babbler,19
+north_island_piopio,North Island Piopio,DIB-10K_46,6535.North Island Piopio,19
+south_island_piopio,South Island Piopio,DIB-10K_46,6536.South Island Piopio,14
+green_figbird,Green Figbird,DIB-10K_46,6537.Green Figbird,433
+wetar_figbird,Wetar Figbird,DIB-10K_46,6538.Wetar Figbird,21
+australasian_figbird,Australasian Figbird,DIB-10K_46,6539.Australasian Figbird,1416
+northern_variable_pitohui,Northern Variable Pitohui,DIB-10K_46,6540.Northern Variable Pitohui,17
+raja_ampat_pitohui,Raja Ampat Pitohui,DIB-10K_46,6541.Raja Ampat Pitohui,15
+southern_variable_pitohui,Southern Variable Pitohui,DIB-10K_46,6542.Southern Variable Pitohui,13
+hooded_pitohui,Hooded Pitohui,DIB-10K_46,6543.Hooded Pitohui,85
+brown_oriole,Brown Oriole,DIB-10K_46,6544.Brown Oriole,77
+dusky_brown_oriole,Dusky-brown Oriole,DIB-10K_46,6545.Dusky-brown Oriole,25
+grey_collared_oriole,Grey-collared Oriole,DIB-10K_46,6546.Grey-collared Oriole,12
+black_eared_oriole,Black-eared Oriole,DIB-10K_46,6547.Black-eared Oriole,17
+tanimbar_oriole,Tanimbar Oriole,DIB-10K_46,6548.Tanimbar Oriole,22
+olive_brown_oriole,Olive-brown Oriole,DIB-10K_46,6549.Olive-brown Oriole,48
+olive_backed_oriole,Olive-backed Oriole,DIB-10K_46,6550.Olive-backed Oriole,1030
+green_oriole,Green Oriole,DIB-10K_46,6551.Green Oriole,362
+dark_throated_oriole,Dark-throated Oriole,DIB-10K_46,6552.Dark-throated Oriole,209
+philippine_oriole,Philippine Oriole,DIB-10K_46,6553.Philippine Oriole,25
+white_lored_oriole,White-lored Oriole,DIB-10K_46,6554.White-lored Oriole,13
+isabela_oriole,Isabela Oriole,DIB-10K_46,6555.Isabela Oriole,32
+eurasian_golden_oriole,Eurasian Golden Oriole,DIB-10K_46,6556.Eurasian Golden Oriole,2173
+indian_golden_oriole,Indian Golden Oriole,DIB-10K_46,6557.Indian Golden Oriole,938
+african_golden_oriole,African Golden Oriole,DIB-10K_46,6558.African Golden Oriole,239
+slender_billed_oriole,Slender-billed Oriole,DIB-10K_46,6559.Slender-billed Oriole,120
+black_naped_oriole,Black-naped Oriole,DIB-10K_46,6560.Black-naped Oriole,1943
+green_headed_oriole,Green-headed Oriole,DIB-10K_46,6561.Green-headed Oriole,29
+sao_tome_oriole,Sao Tome Oriole,DIB-10K_46,6562.Sao Tome Oriole,14
+western_oriole,Western Oriole,DIB-10K_46,6563.Western Oriole,34
+ethiopian_oriole,Ethiopian Oriole,DIB-10K_46,6564.Ethiopian Oriole,65
+mountain_oriole,Mountain Oriole,DIB-10K_46,6565.Mountain Oriole,53
+black_headed_oriole,Black-headed Oriole,DIB-10K_46,6566.Black-headed Oriole,500
+black_winged_oriole,Black-winged Oriole,DIB-10K_46,6567.Black-winged Oriole,45
+black_hooded_oriole,Black-hooded Oriole,DIB-10K_46,6568.Black-hooded Oriole,1247
+black_oriole,Black Oriole,DIB-10K_46,6569.Black Oriole,18
+black_and_crimson_oriole,Black-and-crimson Oriole,DIB-10K_46,6570.Black-and-crimson Oriole,149
+maroon_oriole,Maroon Oriole,DIB-10K_46,6571.Maroon Oriole,526
+silver_oriole,Silver Oriole,DIB-10K_46,6572.Silver Oriole,25
+common_square_tailed_drongo,Common Square-tailed Drongo,DIB-10K_46,6573.Common Square-tailed Drongo,94
+shining_drongo,Shining Drongo,DIB-10K_46,6574.Shining Drongo,16
+fork_tailed_drongo,Fork-tailed Drongo,DIB-10K_46,6575.Fork-tailed Drongo,1497
+velvet_mantled_drongo,Velvet-mantled Drongo,DIB-10K_46,6576.Velvet-mantled Drongo,54
+grand_comoro_drongo,Grand Comoro Drongo,DIB-10K_46,6577.Grand Comoro Drongo,4
+aldabra_drongo,Aldabra Drongo,DIB-10K_46,6578.Aldabra Drongo,23
+crested_drongo,Crested Drongo,DIB-10K_46,6579.Crested Drongo,406
+mayotte_drongo,Mayotte Drongo,DIB-10K_46,6580.Mayotte Drongo,29
+black_drongo,Black Drongo,DIB-10K_46,6581.Black Drongo,2535
+ashy_drongo,Ashy Drongo,DIB-10K_46,6582.Ashy Drongo,1243
+white_bellied_drongo,White-bellied Drongo,DIB-10K_46,6583.White-bellied Drongo,591
+crow_billed_drongo,Crow-billed Drongo,DIB-10K_46,6584.Crow-billed Drongo,130
+bronzed_drongo,Bronzed Drongo,DIB-10K_46,6585.Bronzed Drongo,830
+lesser_racket_tailed_drongo,Lesser Racket-tailed Drongo,DIB-10K_46,6586.Lesser Racket-tailed Drongo,258
+balicassiao,Balicassiao,DIB-10K_46,6587.Balicassiao,84
+hair_crested_drongo,Hair-crested Drongo,DIB-10K_46,6588.Hair-crested Drongo,846
+tablas_drongo,Tablas Drongo,DIB-10K_46,6589.Tablas Drongo,8
+sumatran_drongo,Sumatran Drongo,DIB-10K_46,6590.Sumatran Drongo,27
+wallacean_drongo,Wallacean Drongo,DIB-10K_46,6591.Wallacean Drongo,65
+sulawesi_drongo,Sulawesi Drongo,DIB-10K_46,6592.Sulawesi Drongo,36
+spangled_drongo,Spangled Drongo,DIB-10K_46,6593.Spangled Drongo,1120
+paradise_drongo,Paradise Drongo,DIB-10K_46,6594.Paradise Drongo,10
+andaman_drongo,Andaman Drongo,DIB-10K_46,6595.Andaman Drongo,72
+greater_racket_tailed_drongo,Greater Racket-tailed Drongo,DIB-10K_46,6596.Greater Racket-tailed Drongo,1479
+sri_lanka_drongo,Sri Lanka Drongo,DIB-10K_46,6597.Sri Lanka Drongo,90
+mindanao_blue_fantail,Mindanao Blue Fantail,DIB-10K_46,6598.Mindanao Blue Fantail,17
+visayan_blue_fantail,Visayan Blue Fantail,DIB-10K_46,6599.Visayan Blue Fantail,8
+blue_headed_fantail,Blue-headed Fantail,DIB-10K_46,6600.Blue-headed Fantail,103
+tablas_fantail,Tablas Fantail,DIB-10K_46,6601.Tablas Fantail,14
+visayan_fantail,Visayan Fantail,DIB-10K_46,6602.Visayan Fantail,15
+white_throated_fantail,White-throated Fantail,DIB-10K_46,6603.White-throated Fantail,694
+white_spotted_fantail,White-spotted Fantail,DIB-10K_46,6604.White-spotted Fantail,355
+white_bellied_fantail,White-bellied Fantail,DIB-10K_46,6605.White-bellied Fantail,23
+white_browed_fantail,White-browed Fantail,DIB-10K_46,6606.White-browed Fantail,468
+malaysian_pied_fantail,Malaysian Pied Fantail,DIB-10K_46,6607.Malaysian Pied Fantail,1678
+philippine_pied_fantail,Philippine Pied Fantail,DIB-10K_46,6608.Philippine Pied Fantail,141
+spotted_fantail,Spotted Fantail,DIB-10K_46,6609.Spotted Fantail,79
+,,DIB-10K_46,,0

@@ -1,0 +1,50 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+green_ibis,Green Ibis,DIB-10K_10,780.Green Ibis,1103
+bare_faced_ibis,Bare-faced Ibis,DIB-10K_10,781.Bare-faced Ibis,1872
+american_white_ibis,American White Ibis,DIB-10K_10,782.American White Ibis,2842
+scarlet_ibis,Scarlet Ibis,DIB-10K_10,783.Scarlet Ibis,2650
+glossy_ibis,Glossy Ibis,DIB-10K_10,784.Glossy Ibis,2995
+white_faced_ibis,White-faced Ibis,DIB-10K_10,785.White-faced Ibis,2724
+puna_ibis,Puna Ibis,DIB-10K_10,786.Puna Ibis,721
+madagascan_ibis,Madagascan Ibis,DIB-10K_10,787.Madagascan Ibis,216
+eurasian_spoonbill,Eurasian Spoonbill,DIB-10K_10,788.Eurasian Spoonbill,2868
+black_faced_spoonbill,Black-faced Spoonbill,DIB-10K_10,789.Black-faced Spoonbill,1932
+african_spoonbill,African Spoonbill,DIB-10K_10,790.African Spoonbill,2052
+royal_spoonbill,Royal Spoonbill,DIB-10K_10,791.Royal Spoonbill,2824
+yellow_billed_spoonbill,Yellow-billed Spoonbill,DIB-10K_10,792.Yellow-billed Spoonbill,1679
+roseate_spoonbill,Roseate Spoonbill,DIB-10K_10,793.Roseate Spoonbill,2979
+forest_bittern,Forest Bittern,DIB-10K_10,794.Forest Bittern,80
+white_crested_tiger_heron,White-crested Tiger Heron,DIB-10K_10,795.White-crested Tiger Heron,32
+rufescent_tiger_heron,Rufescent Tiger Heron,DIB-10K_10,796.Rufescent Tiger Heron,2560
+fasciated_tiger_heron,Fasciated Tiger Heron,DIB-10K_10,797.Fasciated Tiger Heron,627
+bare_throated_tiger_heron,Bare-throated Tiger Heron,DIB-10K_10,798.Bare-throated Tiger Heron,2249
+agami_heron,Agami Heron,DIB-10K_10,799.Agami Heron,898
+boat_billed_heron,Boat-billed Heron,DIB-10K_10,800.Boat-billed Heron,1657
+zigzag_heron,Zigzag Heron,DIB-10K_10,801.Zigzag Heron,150
+eurasian_bittern,Eurasian Bittern,DIB-10K_10,802.Eurasian Bittern,2077
+australasian_bittern,Australasian Bittern,DIB-10K_10,803.Australasian Bittern,247
+american_bittern,American Bittern,DIB-10K_10,804.American Bittern,2215
+pinnated_bittern,Pinnated Bittern,DIB-10K_10,805.Pinnated Bittern,376
+stripe_backed_bittern,Stripe-backed Bittern,DIB-10K_10,806.Stripe-backed Bittern,195
+least_bittern,Least Bittern,DIB-10K_10,807.Least Bittern,2057
+little_bittern,Little Bittern,DIB-10K_10,808.Little Bittern,2318
+black_backed_bittern,Black-backed Bittern,DIB-10K_10,809.Black-backed Bittern,156
+new_zealand_bittern,New Zealand Bittern,DIB-10K_10,810.New Zealand Bittern,15
+yellow_bittern,Yellow Bittern,DIB-10K_10,811.Yellow Bittern,1869
+von_schrencks_bittern,Von Schrenck's Bittern,DIB-10K_10,812.Von Schrenck's Bittern,180
+cinnamon_bittern,Cinnamon Bittern,DIB-10K_10,813.Cinnamon Bittern,682
+dwarf_bittern,Dwarf Bittern,DIB-10K_10,814.Dwarf Bittern,249
+black_bittern,Black Bittern,DIB-10K_10,815.Black Bittern,855
+white_eared_night_heron,White-eared Night Heron,DIB-10K_10,816.White-eared Night Heron,28
+japanese_night_heron,Japanese Night Heron,DIB-10K_10,817.Japanese Night Heron,216
+malayan_night_heron,Malayan Night Heron,DIB-10K_10,818.Malayan Night Heron,2020
+white_backed_night_heron,White-backed Night Heron,DIB-10K_10,819.White-backed Night Heron,160
+black_crowned_night_heron,Black-crowned Night Heron,DIB-10K_10,820.Black-crowned Night Heron,2980
+ascension_night_heron,Ascension Night Heron,DIB-10K_10,821.Ascension Night Heron,4
+reunion_night_heron,Reunion Night Heron,DIB-10K_10,822.Reunion Night Heron,1
+mauritius_night_heron,Mauritius Night Heron,DIB-10K_10,823.Mauritius Night Heron,2
+rodrigues_night_heron,Rodrigues Night Heron,DIB-10K_10,824.Rodrigues Night Heron,6
+nankeen_night_heron,Nankeen Night Heron,DIB-10K_10,825.Nankeen Night Heron,1927
+yellow_crowned_night_heron,Yellow-crowned Night Heron,DIB-10K_10,826.Yellow-crowned Night Heron,2814
+bermuda_night_heron,Bermuda Night Heron,DIB-10K_10,827.Bermuda Night Heron,2
+,,DIB-10K_10,,0

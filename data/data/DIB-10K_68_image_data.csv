@@ -1,0 +1,141 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+lazuli_bunting,Lazuli Bunting,DIB-10K_68,10469.Lazuli Bunting,2351
+varied_bunting,Varied Bunting,DIB-10K_68,10470.Varied Bunting,990
+painted_bunting,Painted Bunting,DIB-10K_68,10471.Painted Bunting,2664
+rose_bellied_bunting,Rose-bellied Bunting,DIB-10K_68,10472.Rose-bellied Bunting,207
+orange_breasted_bunting,Orange-breasted Bunting,DIB-10K_68,10473.Orange-breasted Bunting,329
+brown_tanager,Brown Tanager,DIB-10K_68,10474.Brown Tanager,90
+yellow_cardinal,Yellow Cardinal,DIB-10K_68,10475.Yellow Cardinal,425
+red_crested_cardinal,Red-crested Cardinal,DIB-10K_68,10476.Red-crested Cardinal,2839
+red_cowled_cardinal,Red-cowled Cardinal,DIB-10K_68,10477.Red-cowled Cardinal,1093
+red_capped_cardinal,Red-capped Cardinal,DIB-10K_68,10478.Red-capped Cardinal,865
+masked_cardinal,Masked Cardinal,DIB-10K_68,10479.Masked Cardinal,245
+crimson_fronted_cardinal,Crimson-fronted Cardinal,DIB-10K_68,10480.Crimson-fronted Cardinal,48
+yellow_billed_cardinal,Yellow-billed Cardinal,DIB-10K_68,10481.Yellow-billed Cardinal,1440
+cinnamon_tanager,Cinnamon Tanager,DIB-10K_68,10482.Cinnamon Tanager,368
+black_faced_tanager,Black-faced Tanager,DIB-10K_68,10483.Black-faced Tanager,400
+magpie_tanager,Magpie Tanager,DIB-10K_68,10484.Magpie Tanager,765
+black_and_white_tanager,Black-and-white Tanager,DIB-10K_68,10485.Black-and-white Tanager,46
+cone_billed_tanager,Cone-billed Tanager,DIB-10K_68,10486.Cone-billed Tanager,73
+scarlet_throated_tanager,Scarlet-throated Tanager,DIB-10K_68,10487.Scarlet-throated Tanager,66
+white_capped_tanager,White-capped Tanager,DIB-10K_68,10488.White-capped Tanager,317
+hooded_tanager,Hooded Tanager,DIB-10K_68,10489.Hooded Tanager,542
+cherry_throated_tanager,Cherry-throated Tanager,DIB-10K_68,10490.Cherry-throated Tanager,47
+rufous_crested_tanager,Rufous-crested Tanager,DIB-10K_68,10491.Rufous-crested Tanager,48
+slaty_tanager,Slaty Tanager,DIB-10K_68,10492.Slaty Tanager,36
+black_capped_hemispingus,Black-capped Hemispingus,DIB-10K_68,10493.Black-capped Hemispingus,165
+white_browed_hemispingus,White-browed Hemispingus,DIB-10K_68,10494.White-browed Hemispingus,12
+orange_browed_hemispingus,Orange-browed Hemispingus,DIB-10K_68,10495.Orange-browed Hemispingus,45
+parodis_hemispingus,Parodi's Hemispingus,DIB-10K_68,10496.Parodi's Hemispingus,39
+superciliaried_hemispingus,Superciliaried Hemispingus,DIB-10K_68,10497.Superciliaried Hemispingus,172
+grey_capped_hemispingus,Grey-capped Hemispingus,DIB-10K_68,10498.Grey-capped Hemispingus,25
+oleaginous_hemispingus,Oleaginous Hemispingus,DIB-10K_68,10499.Oleaginous Hemispingus,97
+black_eared_hemispingus,Black-eared Hemispingus,DIB-10K_68,10500.Black-eared Hemispingus,101
+western_hemispingus,Western Hemispingus,DIB-10K_68,10501.Western Hemispingus,14
+piura_hemispingus,Piura Hemispingus,DIB-10K_68,10502.Piura Hemispingus,13
+slaty_backed_hemispingus,Slaty-backed Hemispingus,DIB-10K_68,10503.Slaty-backed Hemispingus,6
+rufous_browed_hemispingus,Rufous-browed Hemispingus,DIB-10K_68,10504.Rufous-browed Hemispingus,42
+black_headed_hemispingus,Black-headed Hemispingus,DIB-10K_68,10505.Black-headed Hemispingus,81
+drab_hemispingus,Drab Hemispingus,DIB-10K_68,10506.Drab Hemispingus,37
+three_striped_hemispingus,Three-striped Hemispingus,DIB-10K_68,10507.Three-striped Hemispingus,48
+grey_hooded_bush_tanager,Grey-hooded Bush Tanager,DIB-10K_68,10508.Grey-hooded Bush Tanager,110
+fulvous_headed_tanager,Fulvous-headed Tanager,DIB-10K_68,10509.Fulvous-headed Tanager,51
+rufous_chested_tanager,Rufous-chested Tanager,DIB-10K_68,10510.Rufous-chested Tanager,102
+brown_flanked_tanager,Brown-flanked Tanager,DIB-10K_68,10511.Brown-flanked Tanager,41
+orange_headed_tanager,Orange-headed Tanager,DIB-10K_68,10512.Orange-headed Tanager,436
+buff_bellied_tanager,Buff-bellied Tanager,DIB-10K_68,10513.Buff-bellied Tanager,60
+rust_and_yellow_tanager,Rust-and-yellow Tanager,DIB-10K_68,10514.Rust-and-yellow Tanager,74
+chestnut_headed_tanager,Chestnut-headed Tanager,DIB-10K_68,10515.Chestnut-headed Tanager,131
+white_rumped_tanager,White-rumped Tanager,DIB-10K_68,10516.White-rumped Tanager,320
+pardusco,Pardusco,DIB-10K_68,10517.Pardusco,30
+black_goggled_tanager,Black-goggled Tanager,DIB-10K_68,10518.Black-goggled Tanager,543
+grey_headed_tanager,Grey-headed Tanager,DIB-10K_68,10519.Grey-headed Tanager,714
+flame_crested_tanager,Flame-crested Tanager,DIB-10K_68,10520.Flame-crested Tanager,229
+yellow_crested_tanager,Yellow-crested Tanager,DIB-10K_68,10521.Yellow-crested Tanager,37
+fulvous_crested_tanager,Fulvous-crested Tanager,DIB-10K_68,10522.Fulvous-crested Tanager,150
+white_shouldered_tanager,White-shouldered Tanager,DIB-10K_68,10523.White-shouldered Tanager,442
+tawny_crested_tanager,Tawny-crested Tanager,DIB-10K_68,10524.Tawny-crested Tanager,236
+ruby_crowned_tanager,Ruby-crowned Tanager,DIB-10K_68,10525.Ruby-crowned Tanager,1238
+white_lined_tanager,White-lined Tanager,DIB-10K_68,10526.White-lined Tanager,2003
+red_shouldered_tanager,Red-shouldered Tanager,DIB-10K_68,10527.Red-shouldered Tanager,101
+black_throated_shrike_tanager,Black-throated Shrike-Tanager,DIB-10K_68,10528.Black-throated Shrike-Tanager,87
+white_throated_shrike_tanager,White-throated Shrike-Tanager,DIB-10K_68,10529.White-throated Shrike-Tanager,145
+fulvous_shrike_tanager,Fulvous Shrike-Tanager,DIB-10K_68,10530.Fulvous Shrike-Tanager,74
+white_winged_shrike_tanager,White-winged Shrike-Tanager,DIB-10K_68,10531.White-winged Shrike-Tanager,47
+crimson_collared_tanager,Crimson-collared Tanager,DIB-10K_68,10532.Crimson-collared Tanager,689
+masked_crimson_tanager,Masked Crimson Tanager,DIB-10K_68,10533.Masked Crimson Tanager,371
+crimson_backed_tanager,Crimson-backed Tanager,DIB-10K_68,10534.Crimson-backed Tanager,1242
+huallaga_tanager,Huallaga Tanager,DIB-10K_68,10535.Huallaga Tanager,73
+silver_beaked_tanager,Silver-beaked Tanager,DIB-10K_68,10536.Silver-beaked Tanager,1738
+brazilian_tanager,Brazilian Tanager,DIB-10K_68,10537.Brazilian Tanager,1743
+scarlet_rumped_tanager,Scarlet-rumped Tanager,DIB-10K_68,10538.Scarlet-rumped Tanager,1568
+flame_rumped_tanager,Flame-rumped Tanager,DIB-10K_68,10540.Flame-rumped Tanager,1356
+lemon_rumped_tanager,Lemon-rumped Tanager,DIB-10K_68,10541.Lemon-rumped Tanager,581
+blue_grey_tanager,Blue-grey Tanager,DIB-10K_68,10542.Blue-grey Tanager,2511
+sayaca_tanager,Sayaca Tanager,DIB-10K_68,10543.Sayaca Tanager,2141
+glaucous_tanager,Glaucous Tanager,DIB-10K_68,10544.Glaucous Tanager,160
+azure_shouldered_tanager,Azure-shouldered Tanager,DIB-10K_68,10545.Azure-shouldered Tanager,371
+golden_chevroned_tanager,Golden-chevroned Tanager,DIB-10K_68,10546.Golden-chevroned Tanager,541
+yellow_winged_tanager,Yellow-winged Tanager,DIB-10K_68,10547.Yellow-winged Tanager,686
+palm_tanager,Palm Tanager,DIB-10K_68,10548.Palm Tanager,2815
+blue_capped_tanager,Blue-capped Tanager,DIB-10K_68,10549.Blue-capped Tanager,447
+blue_and_yellow_tanager,Blue-and-yellow Tanager,DIB-10K_68,10550.Blue-and-yellow Tanager,1334
+vermilion_tanager,Vermilion Tanager,DIB-10K_68,10551.Vermilion Tanager,57
+blue_backed_tanager,Blue-backed Tanager,DIB-10K_68,10552.Blue-backed Tanager,44
+yellow_green_tanager,Yellow-green Tanager,DIB-10K_68,10553.Yellow-green Tanager,6
+blue_and_gold_tanager,Blue-and-gold Tanager,DIB-10K_68,10554.Blue-and-gold Tanager,39
+black_and_gold_tanager,Black-and-gold Tanager,DIB-10K_68,10555.Black-and-gold Tanager,207
+golden_chested_tanager,Golden-chested Tanager,DIB-10K_68,10556.Golden-chested Tanager,78
+moss_backed_tanager,Moss-backed Tanager,DIB-10K_68,10557.Moss-backed Tanager,240
+gold_ringed_tanager,Gold-ringed Tanager,DIB-10K_68,10558.Gold-ringed Tanager,261
+orange_throated_tanager,Orange-throated Tanager,DIB-10K_68,10559.Orange-throated Tanager,44
+hooded_mountain_tanager,Hooded Mountain Tanager,DIB-10K_68,10560.Hooded Mountain Tanager,430
+black_chested_mountain_tanager,Black-chested Mountain Tanager,DIB-10K_68,10561.Black-chested Mountain Tanager,196
+golden_backed_mountain_tanager,Golden-backed Mountain Tanager,DIB-10K_68,10562.Golden-backed Mountain Tanager,50
+masked_mountain_tanager,Masked Mountain Tanager,DIB-10K_68,10563.Masked Mountain Tanager,70
+santa_marta_mountain_tanager,Santa Marta Mountain Tanager,DIB-10K_68,10564.Santa Marta Mountain Tanager,114
+lacrimose_mountain_tanager,Lacrimose Mountain Tanager,DIB-10K_68,10565.Lacrimose Mountain Tanager,344
+scarlet_bellied_mountain_tanager,Scarlet-bellied Mountain Tanager,DIB-10K_68,10566.Scarlet-bellied Mountain Tanager,678
+blue_winged_mountain_tanager,Blue-winged Mountain Tanager,DIB-10K_68,10567.Blue-winged Mountain Tanager,868
+black_chinned_mountain_tanager,Black-chinned Mountain Tanager,DIB-10K_68,10568.Black-chinned Mountain Tanager,376
+grass_green_tanager,Grass-green Tanager,DIB-10K_68,10569.Grass-green Tanager,286
+rufous_bellied_mountain_tanager,Rufous-bellied Mountain Tanager,DIB-10K_68,10570.Rufous-bellied Mountain Tanager,50
+buff_breasted_mountain_tanager,Buff-breasted Mountain Tanager,DIB-10K_68,10571.Buff-breasted Mountain Tanager,209
+chestnut_bellied_mountain_tanager,Chestnut-bellied Mountain Tanager,DIB-10K_68,10572.Chestnut-bellied Mountain Tanager,63
+diademed_tanager,Diademed Tanager,DIB-10K_68,10573.Diademed Tanager,454
+purplish_mantled_tanager,Purplish-mantled Tanager,DIB-10K_68,10574.Purplish-mantled Tanager,267
+yellow_throated_tanager,Yellow-throated Tanager,DIB-10K_68,10575.Yellow-throated Tanager,110
+golden_collared_tanager,Golden-collared Tanager,DIB-10K_68,10576.Golden-collared Tanager,111
+golden_crowned_tanager,Golden-crowned Tanager,DIB-10K_68,10577.Golden-crowned Tanager,192
+yellow_scarfed_tanager,Yellow-scarfed Tanager,DIB-10K_68,10578.Yellow-scarfed Tanager,79
+fawn_breasted_tanager,Fawn-breasted Tanager,DIB-10K_68,10579.Fawn-breasted Tanager,604
+shrike_like_tanager,Shrike-like Tanager,DIB-10K_68,10580.Shrike-like Tanager,154
+glistening_green_tanager,Glistening-green Tanager,DIB-10K_68,10581.Glistening-green Tanager,264
+orange_eared_tanager,Orange-eared Tanager,DIB-10K_68,10582.Orange-eared Tanager,98
+multicolored_tanager,Multicolored Tanager,DIB-10K_68,10583.Multicolored Tanager,373
+plain_colored_tanager,Plain-colored Tanager,DIB-10K_68,10584.Plain-colored Tanager,387
+cabaniss_tanager,Cabanis's Tanager,DIB-10K_68,10585.Cabanis's Tanager,79
+grey_and_gold_tanager,Grey-and-gold Tanager,DIB-10K_68,10586.Grey-and-gold Tanager,127
+turquoise_tanager,Turquoise Tanager,DIB-10K_68,10587.Turquoise Tanager,754
+paradise_tanager,Paradise Tanager,DIB-10K_68,10588.Paradise Tanager,985
+seven_colored_tanager,Seven-colored Tanager,DIB-10K_68,10589.Seven-colored Tanager,242
+green_headed_tanager,Green-headed Tanager,DIB-10K_68,10590.Green-headed Tanager,2274
+red_necked_tanager,Red-necked Tanager,DIB-10K_68,10591.Red-necked Tanager,1004
+brassy_breasted_tanager,Brassy-breasted Tanager,DIB-10K_68,10592.Brassy-breasted Tanager,579
+gilt_edged_tanager,Gilt-edged Tanager,DIB-10K_68,10593.Gilt-edged Tanager,465
+blue_whiskered_tanager,Blue-whiskered Tanager,DIB-10K_68,10594.Blue-whiskered Tanager,45
+green_and_gold_tanager,Green-and-gold Tanager,DIB-10K_68,10595.Green-and-gold Tanager,220
+emerald_tanager,Emerald Tanager,DIB-10K_68,10596.Emerald Tanager,270
+golden_tanager,Golden Tanager,DIB-10K_68,10597.Golden Tanager,1164
+silver_throated_tanager,Silver-throated Tanager,DIB-10K_68,10598.Silver-throated Tanager,1367
+saffron_crowned_tanager,Saffron-crowned Tanager,DIB-10K_68,10599.Saffron-crowned Tanager,502
+golden_eared_tanager,Golden-eared Tanager,DIB-10K_68,10600.Golden-eared Tanager,184
+flame_faced_tanager,Flame-faced Tanager,DIB-10K_68,10601.Flame-faced Tanager,636
+yellow_bellied_tanager,Yellow-bellied Tanager,DIB-10K_68,10602.Yellow-bellied Tanager,121
+spotted_tanager,Spotted Tanager,DIB-10K_68,10603.Spotted Tanager,285
+speckled_tanager,Speckled Tanager,DIB-10K_68,10604.Speckled Tanager,571
+dotted_tanager,Dotted Tanager,DIB-10K_68,10605.Dotted Tanager,58
+rufous_throated_tanager,Rufous-throated Tanager,DIB-10K_68,10606.Rufous-throated Tanager,359
+bay_headed_tanager,Bay-headed Tanager,DIB-10K_68,10607.Bay-headed Tanager,1333
+rufous_winged_tanager,Rufous-winged Tanager,DIB-10K_68,10608.Rufous-winged Tanager,129
+,,DIB-10K_68,,0

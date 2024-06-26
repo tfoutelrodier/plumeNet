@@ -1,0 +1,133 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+andean_duck,Andean Duck,DIB-10K_5,231.Andean Duck,327
+lake_duck,Lake Duck,DIB-10K_5,232.Lake Duck,674
+blue_billed_duck,Blue-billed Duck,DIB-10K_5,233.Blue-billed Duck,1188
+maccoa_duck,Maccoa Duck,DIB-10K_5,234.Maccoa Duck,185
+white_headed_duck,White-headed Duck,DIB-10K_5,235.White-headed Duck,1493
+musk_duck,Musk Duck,DIB-10K_5,236.Musk Duck,1100
+australian_brushturkey,Australian Brushturkey,DIB-10K_5,237.Australian Brushturkey,1710
+wattled_brushturkey,Wattled Brushturkey,DIB-10K_5,238.Wattled Brushturkey,36
+waigeo_brushturkey,Waigeo Brushturkey,DIB-10K_5,239.Waigeo Brushturkey,10
+red_billed_brushturkey,Red-billed Brushturkey,DIB-10K_5,240.Red-billed Brushturkey,10
+black_billed_brushturkey,Black-billed Brushturkey,DIB-10K_5,241.Black-billed Brushturkey,14
+collared_brushturkey,Collared Brushturkey,DIB-10K_5,242.Collared Brushturkey,5
+malleefowl,Malleefowl,DIB-10K_5,243.Malleefowl,467
+maleo,Maleo,DIB-10K_5,244.Maleo,422
+moluccan_megapode,Moluccan Megapode,DIB-10K_5,245.Moluccan Megapode,34
+tongan_megapode,Tongan Megapode,DIB-10K_5,246.Tongan Megapode,35
+micronesian_megapode,Micronesian Megapode,DIB-10K_5,247.Micronesian Megapode,44
+nicobar_megapode,Nicobar Megapode,DIB-10K_5,248.Nicobar Megapode,12
+philippine_megapode,Philippine Megapode,DIB-10K_5,249.Philippine Megapode,100
+sula_megapode,Sula Megapode,DIB-10K_5,250.Sula Megapode,20
+tanimbar_megapode,Tanimbar Megapode,DIB-10K_5,251.Tanimbar Megapode,6
+dusky_megapode,Dusky Megapode,DIB-10K_5,252.Dusky Megapode,48
+biak_scrubfowl,Biak Scrubfowl,DIB-10K_5,253.Biak Scrubfowl,10
+melanesian_megapode,Melanesian Megapode,DIB-10K_5,254.Melanesian Megapode,40
+vanuatu_megapode,Vanuatu Megapode,DIB-10K_5,255.Vanuatu Megapode,14
+new_guinea_scrubfowl,New Guinea Scrubfowl,DIB-10K_5,256.New Guinea Scrubfowl,11
+orange_footed_scrubfowl,Orange-footed Scrubfowl,DIB-10K_5,257.Orange-footed Scrubfowl,696
+plain_chachalaca,Plain Chachalaca,DIB-10K_5,258.Plain Chachalaca,1504
+grey_headed_chachalaca,Grey-headed Chachalaca,DIB-10K_5,259.Grey-headed Chachalaca,1105
+chestnut_winged_chachalaca,Chestnut-winged Chachalaca,DIB-10K_5,260.Chestnut-winged Chachalaca,117
+rufous_vented_chachalaca,Rufous-vented Chachalaca,DIB-10K_5,261.Rufous-vented Chachalaca,583
+rufous_headed_chachalaca,Rufous-headed Chachalaca,DIB-10K_5,262.Rufous-headed Chachalaca,148
+rufous_bellied_chachalaca,Rufous-bellied Chachalaca,DIB-10K_5,263.Rufous-bellied Chachalaca,186
+west_mexican_chachalaca,West Mexican Chachalaca,DIB-10K_5,264.West Mexican Chachalaca,259
+chaco_chachalaca,Chaco Chachalaca,DIB-10K_5,265.Chaco Chachalaca,692
+white_bellied_chachalaca,White-bellied Chachalaca,DIB-10K_5,266.White-bellied Chachalaca,145
+speckled_chachalaca,Speckled Chachalaca,DIB-10K_5,267.Speckled Chachalaca,593
+east_brazilian_chachalaca,East Brazilian Chachalaca,DIB-10K_5,268.East Brazilian Chachalaca,79
+scaled_chachalaca,Scaled Chachalaca,DIB-10K_5,269.Scaled Chachalaca,120
+colombian_chachalaca,Colombian Chachalaca,DIB-10K_5,270.Colombian Chachalaca,588
+little_chachalaca,Little Chachalaca,DIB-10K_5,271.Little Chachalaca,129
+chestnut_headed_chachalaca,Chestnut-headed Chachalaca,DIB-10K_5,272.Chestnut-headed Chachalaca,4
+buff_browed_chachalaca,Buff-browed Chachalaca,DIB-10K_5,273.Buff-browed Chachalaca,15
+band_tailed_guan,Band-tailed Guan,DIB-10K_5,274.Band-tailed Guan,227
+bearded_guan,Bearded Guan,DIB-10K_5,275.Bearded Guan,79
+baudo_guan,Baudo Guan,DIB-10K_5,276.Baudo Guan,85
+andean_guan,Andean Guan,DIB-10K_5,277.Andean Guan,550
+marail_guan,Marail Guan,DIB-10K_5,278.Marail Guan,66
+rusty_margined_guan,Rusty-margined Guan,DIB-10K_5,279.Rusty-margined Guan,378
+red_faced_guan,Red-faced Guan,DIB-10K_5,280.Red-faced Guan,53
+crested_guan,Crested Guan,DIB-10K_5,281.Crested Guan,1327
+cauca_guan,Cauca Guan,DIB-10K_5,282.Cauca Guan,276
+white_winged_guan,White-winged Guan,DIB-10K_5,283.White-winged Guan,228
+spixs_guan,Spix's Guan,DIB-10K_5,284.Spix's Guan,333
+dusky_legged_guan,Dusky-legged Guan,DIB-10K_5,285.Dusky-legged Guan,1214
+white_crested_guan,White-crested Guan,DIB-10K_5,286.White-crested Guan,132
+chestnut_bellied_guan,Chestnut-bellied Guan,DIB-10K_5,287.Chestnut-bellied Guan,282
+white_browed_guan,White-browed Guan,DIB-10K_5,288.White-browed Guan,141
+trinidad_piping_guan,Trinidad Piping Guan,DIB-10K_5,289.Trinidad Piping Guan,202
+blue_throated_piping_guan,Blue-throated Piping Guan,DIB-10K_5,290.Blue-throated Piping Guan,436
+red_throated_piping_guan,Red-throated Piping Guan,DIB-10K_5,291.Red-throated Piping Guan,154
+black_fronted_piping_guan,Black-fronted Piping Guan,DIB-10K_5,292.Black-fronted Piping Guan,265
+wattled_guan,Wattled Guan,DIB-10K_5,293.Wattled Guan,95
+black_guan,Black Guan,DIB-10K_5,294.Black Guan,558
+sickle_winged_guan,Sickle-winged Guan,DIB-10K_5,295.Sickle-winged Guan,446
+highland_guan,Highland Guan,DIB-10K_5,296.Highland Guan,113
+horned_guan,Horned Guan,DIB-10K_5,297.Horned Guan,259
+nocturnal_curassow,Nocturnal Curassow,DIB-10K_5,298.Nocturnal Curassow,391
+crestless_curassow,Crestless Curassow,DIB-10K_5,299.Crestless Curassow,71
+salvins_curassow,Salvin's Curassow,DIB-10K_5,300.Salvin's Curassow,386
+razor_billed_curassow,Razor-billed Curassow,DIB-10K_5,301.Razor-billed Curassow,189
+alagoas_curassow,Alagoas Curassow,DIB-10K_5,302.Alagoas Curassow,54
+helmeted_curassow,Helmeted Curassow,DIB-10K_5,303.Helmeted Curassow,459
+horned_curassow,Horned Curassow,DIB-10K_5,304.Horned Curassow,26
+sira_curassow,Sira Curassow,DIB-10K_5,305.Sira Curassow,16
+great_curassow,Great Curassow,DIB-10K_5,306.Great Curassow,1501
+blue_billed_curassow,Blue-billed Curassow,DIB-10K_5,307.Blue-billed Curassow,292
+yellow_knobbed_curassow,Yellow-knobbed Curassow,DIB-10K_5,308.Yellow-knobbed Curassow,245
+black_curassow,Black Curassow,DIB-10K_5,309.Black Curassow,274
+wattled_curassow,Wattled Curassow,DIB-10K_5,310.Wattled Curassow,128
+bare_faced_curassow,Bare-faced Curassow,DIB-10K_5,311.Bare-faced Curassow,1097
+red_billed_curassow,Red-billed Curassow,DIB-10K_5,312.Red-billed Curassow,190
+white_breasted_guineafowl,White-breasted Guineafowl,DIB-10K_5,313.White-breasted Guineafowl,44
+black_guineafowl,Black Guineafowl,DIB-10K_5,314.Black Guineafowl,15
+helmeted_guineafowl,Helmeted Guineafowl,DIB-10K_5,315.Helmeted Guineafowl,2350
+plumed_guineafowl,Plumed Guineafowl,DIB-10K_5,316.Plumed Guineafowl,30
+crested_guineafowl,Crested Guineafowl,DIB-10K_5,317.Crested Guineafowl,508
+vulturine_guineafowl,Vulturine Guineafowl,DIB-10K_5,318.Vulturine Guineafowl,1005
+stone_partridge,Stone Partridge,DIB-10K_5,319.Stone Partridge,153
+nahans_partridge,Nahan's Partridge,DIB-10K_5,320.Nahan's Partridge,5
+bearded_wood_partridge,Bearded Wood Partridge,DIB-10K_5,321.Bearded Wood Partridge,36
+long_tailed_wood_partridge,Long-tailed Wood Partridge,DIB-10K_5,322.Long-tailed Wood Partridge,42
+buffy_crowned_wood_partridge,Buffy-crowned Wood Partridge,DIB-10K_5,323.Buffy-crowned Wood Partridge,102
+mountain_quail,Mountain Quail,DIB-10K_5,324.Mountain Quail,564
+scaled_quail,Scaled Quail,DIB-10K_5,325.Scaled Quail,1305
+elegant_quail,Elegant Quail,DIB-10K_5,326.Elegant Quail,122
+california_quail,California Quail,DIB-10K_5,327.California Quail,2794
+gambels_quail,Gambel's Quail,DIB-10K_5,328.Gambel's Quail,2415
+banded_quail,Banded Quail,DIB-10K_5,329.Banded Quail,59
+northern_bobwhite,Northern Bobwhite,DIB-10K_5,330.Northern Bobwhite,1846
+yucatan_bobwhite,Yucatan Bobwhite,DIB-10K_5,331.Yucatan Bobwhite,163
+spot_bellied_bobwhite,Spot-bellied Bobwhite,DIB-10K_5,332.Spot-bellied Bobwhite,50
+crested_bobwhite,Crested Bobwhite,DIB-10K_5,333.Crested Bobwhite,540
+marbled_wood_quail,Marbled Wood Quail,DIB-10K_5,334.Marbled Wood Quail,119
+spot_winged_wood_quail,Spot-winged Wood Quail,DIB-10K_5,335.Spot-winged Wood Quail,196
+black_eared_wood_quail,Black-eared Wood Quail,DIB-10K_5,336.Black-eared Wood Quail,40
+rufous_fronted_wood_quail,Rufous-fronted Wood Quail,DIB-10K_5,337.Rufous-fronted Wood Quail,50
+black_fronted_wood_quail,Black-fronted Wood Quail,DIB-10K_5,338.Black-fronted Wood Quail,106
+chestnut_wood_quail,Chestnut Wood Quail,DIB-10K_5,339.Chestnut Wood Quail,57
+dark_backed_wood_quail,Dark-backed Wood Quail,DIB-10K_5,340.Dark-backed Wood Quail,275
+rufous_breasted_wood_quail,Rufous-breasted Wood Quail,DIB-10K_5,341.Rufous-breasted Wood Quail,60
+tacarcuna_wood_quail,Tacarcuna Wood Quail,DIB-10K_5,342.Tacarcuna Wood Quail,3
+gorgeted_wood_quail,Gorgeted Wood Quail,DIB-10K_5,343.Gorgeted Wood Quail,42
+venezuelan_wood_quail,Venezuelan Wood Quail,DIB-10K_5,344.Venezuelan Wood Quail,6
+black_breasted_wood_quail,Black-breasted Wood Quail,DIB-10K_5,345.Black-breasted Wood Quail,47
+stripe_faced_wood_quail,Stripe-faced Wood Quail,DIB-10K_5,346.Stripe-faced Wood Quail,16
+starred_wood_quail,Starred Wood Quail,DIB-10K_5,347.Starred Wood Quail,32
+spotted_wood_quail,Spotted Wood Quail,DIB-10K_5,348.Spotted Wood Quail,309
+singing_quail,Singing Quail,DIB-10K_5,349.Singing Quail,104
+montezuma_quail,Montezuma Quail,DIB-10K_5,350.Montezuma Quail,640
+ocellated_quail,Ocellated Quail,DIB-10K_5,351.Ocellated Quail,76
+tawny_faced_quail,Tawny-faced Quail,DIB-10K_5,352.Tawny-faced Quail,50
+wild_turkey,Wild Turkey,DIB-10K_5,353.Wild Turkey,2703
+ocellated_turkey,Ocellated Turkey,DIB-10K_5,354.Ocellated Turkey,908
+ruffed_grouse,Ruffed Grouse,DIB-10K_5,355.Ruffed Grouse,2467
+hazel_grouse,Hazel Grouse,DIB-10K_5,356.Hazel Grouse,497
+chinese_grouse,Chinese Grouse,DIB-10K_5,357.Chinese Grouse,23
+siberian_grouse,Siberian Grouse,DIB-10K_5,358.Siberian Grouse,181
+spruce_grouse,Spruce Grouse,DIB-10K_5,359.Spruce Grouse,2074
+western_capercaillie,Western Capercaillie,DIB-10K_5,360.Western Capercaillie,1975
+black_billed_capercaillie,Black-billed Capercaillie,DIB-10K_5,361.Black-billed Capercaillie,96
+,,DIB-10K_5,,0

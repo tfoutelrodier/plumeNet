@@ -1,0 +1,210 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+brown_capped_fantail,Brown-capped Fantail,DIB-10K_47,6611.Brown-capped Fantail,22
+cinnamon_tailed_fantail,Cinnamon-tailed Fantail,DIB-10K_47,6612.Cinnamon-tailed Fantail,35
+northern_fantail,Northern Fantail,DIB-10K_47,6613.Northern Fantail,529
+cockerells_fantail,Cockerell's Fantail,DIB-10K_47,6614.Cockerell's Fantail,9
+sooty_thicket_fantail,Sooty Thicket Fantail,DIB-10K_47,6615.Sooty Thicket Fantail,14
+black_thicket_fantail,Black Thicket Fantail,DIB-10K_47,6616.Black Thicket Fantail,11
+white_bellied_thicket_fantail,White-bellied Thicket Fantail,DIB-10K_47,6617.White-bellied Thicket Fantail,10
+black_fantail,Black Fantail,DIB-10K_47,6618.Black Fantail,36
+chestnut_bellied_fantail,Chestnut-bellied Fantail,DIB-10K_47,6619.Chestnut-bellied Fantail,16
+friendly_fantail,Friendly Fantail,DIB-10K_47,6620.Friendly Fantail,90
+grey_fantail,Grey Fantail,DIB-10K_47,6621.Grey Fantail,1783
+new_zealand_fantail,New Zealand Fantail,DIB-10K_47,6622.New Zealand Fantail,1681
+mangrove_fantail,Mangrove Fantail,DIB-10K_47,6623.Mangrove Fantail,75
+brown_fantail,Brown Fantail,DIB-10K_47,6624.Brown Fantail,13
+makira_fantail,Makira Fantail,DIB-10K_47,6625.Makira Fantail,4
+rennell_fantail,Rennell Fantail,DIB-10K_47,6626.Rennell Fantail,13
+streaked_fantail,Streaked Fantail,DIB-10K_47,6627.Streaked Fantail,80
+kadavu_fantail,Kadavu Fantail,DIB-10K_47,6628.Kadavu Fantail,13
+samoan_fantail,Samoan Fantail,DIB-10K_47,6629.Samoan Fantail,47
+rufous_tailed_fantail,Rufous-tailed Fantail,DIB-10K_47,6630.Rufous-tailed Fantail,26
+black_and_cinnamon_fantail,Black-and-cinnamon Fantail,DIB-10K_47,6631.Black-and-cinnamon Fantail,38
+dimorphic_fantail,Dimorphic Fantail,DIB-10K_47,6632.Dimorphic Fantail,11
+palau_fantail,Palau Fantail,DIB-10K_47,6633.Palau Fantail,37
+streak_breasted_fantail,Streak-breasted Fantail,DIB-10K_47,6634.Streak-breasted Fantail,19
+tawny_backed_fantail,Tawny-backed Fantail,DIB-10K_47,6635.Tawny-backed Fantail,15
+sulawesi_fantail,Sulawesi Fantail,DIB-10K_47,6636.Sulawesi Fantail,23
+long_tailed_fantail,Long-tailed Fantail,DIB-10K_47,6637.Long-tailed Fantail,30
+rufous_backed_fantail,Rufous-backed Fantail,DIB-10K_47,6638.Rufous-backed Fantail,7
+bismarck_fantail,Bismarck Fantail,DIB-10K_47,6639.Bismarck Fantail,9
+mussau_fantail,Mussau Fantail,DIB-10K_47,6640.Mussau Fantail,1
+malaita_fantail,Malaita Fantail,DIB-10K_47,6641.Malaita Fantail,3
+manus_fantail,Manus Fantail,DIB-10K_47,6642.Manus Fantail,38
+rufous_fantail,Rufous Fantail,DIB-10K_47,6643.Rufous Fantail,829
+pohnpei_fantail,Pohnpei Fantail,DIB-10K_47,6644.Pohnpei Fantail,20
+arafura_fantail,Arafura Fantail,DIB-10K_47,6645.Arafura Fantail,173
+taveuni_silktail,Taveuni Silktail,DIB-10K_47,6646.Taveuni Silktail,30
+natewa_silktail,Natewa Silktail,DIB-10K_47,6647.Natewa Silktail,18
+drongo_fantail,Drongo Fantail,DIB-10K_47,6648.Drongo Fantail,20
+black_naped_monarch,Black-naped Monarch,DIB-10K_47,6649.Black-naped Monarch,2156
+pale_blue_monarch,Pale-blue Monarch,DIB-10K_47,6650.Pale-blue Monarch,85
+short_crested_monarch,Short-crested Monarch,DIB-10K_47,6651.Short-crested Monarch,23
+celestial_monarch,Celestial Monarch,DIB-10K_47,6652.Celestial Monarch,39
+cerulean_paradise_flycatcher,Cerulean Paradise Flycatcher,DIB-10K_47,6653.Cerulean Paradise Flycatcher,21
+blue_mantled_crested_flycatcher,Blue-mantled Crested Flycatcher,DIB-10K_47,6654.Blue-mantled Crested Flycatcher,65
+blue_headed_crested_flycatcher,Blue-headed Crested Flycatcher,DIB-10K_47,6655.Blue-headed Crested Flycatcher,10
+bedfords_paradise_flycatcher,Bedford's Paradise Flycatcher,DIB-10K_47,6656.Bedford's Paradise Flycatcher,4
+rufous_vented_paradise_flycatcher,Rufous-vented Paradise Flycatcher,DIB-10K_47,6657.Rufous-vented Paradise Flycatcher,34
+red_bellied_paradise_flycatcher,Red-bellied Paradise Flycatcher,DIB-10K_47,6658.Red-bellied Paradise Flycatcher,175
+annobon_paradise_flycatcher,Annobon Paradise Flycatcher,DIB-10K_47,6659.Annobon Paradise Flycatcher,3
+batess_paradise_flycatcher,Bates's Paradise Flycatcher,DIB-10K_47,6660.Bates's Paradise Flycatcher,2
+african_paradise_flycatcher,African Paradise Flycatcher,DIB-10K_47,6661.African Paradise Flycatcher,1149
+indian_paradise_flycatcher,Indian Paradise Flycatcher,DIB-10K_47,6662.Indian Paradise Flycatcher,1636
+blyths_paradise_flycatcher,Blyth's Paradise Flycatcher,DIB-10K_47,6663.Blyth's Paradise Flycatcher,155
+amur_paradise_flycatcher,Amur Paradise Flycatcher,DIB-10K_47,6664.Amur Paradise Flycatcher,203
+japanese_paradise_flycatcher,Japanese Paradise Flycatcher,DIB-10K_47,6665.Japanese Paradise Flycatcher,517
+blue_paradise_flycatcher,Blue Paradise Flycatcher,DIB-10K_47,6666.Blue Paradise Flycatcher,53
+rufous_paradise_flycatcher,Rufous Paradise Flycatcher,DIB-10K_47,6667.Rufous Paradise Flycatcher,52
+sao_tome_paradise_flycatcher,Sao Tome Paradise Flycatcher,DIB-10K_47,6668.Sao Tome Paradise Flycatcher,53
+malagasy_paradise_flycatcher,Malagasy Paradise Flycatcher,DIB-10K_47,6669.Malagasy Paradise Flycatcher,555
+seychelles_paradise_flycatcher,Seychelles Paradise Flycatcher,DIB-10K_47,6670.Seychelles Paradise Flycatcher,259
+mascarene_paradise_flycatcher,Mascarene Paradise Flycatcher,DIB-10K_47,6671.Mascarene Paradise Flycatcher,177
+kauai_elepaio,Kauai Elepaio,DIB-10K_47,6672.Kauai Elepaio,185
+oahu_elepaio,Oahu Elepaio,DIB-10K_47,6673.Oahu Elepaio,108
+hawaii_elepaio,Hawaii Elepaio,DIB-10K_47,6674.Hawaii Elepaio,265
+rarotonga_monarch,Rarotonga Monarch,DIB-10K_47,6675.Rarotonga Monarch,43
+tahiti_monarch,Tahiti Monarch,DIB-10K_47,6676.Tahiti Monarch,46
+maupiti_monarch,Maupiti Monarch,DIB-10K_47,6677.Maupiti Monarch,2
+marquesan_monarch,Marquesan Monarch,DIB-10K_47,6678.Marquesan Monarch,12
+ua_pou_monarch,Ua Pou Monarch,DIB-10K_47,6679.Ua Pou Monarch,14
+nuku_hiva_monarch,Nuku Hiva Monarch,DIB-10K_47,6680.Nuku Hiva Monarch,5
+iphis_monarch,Iphis Monarch,DIB-10K_47,6681.Iphis Monarch,17
+eiao_monarch,Eiao Monarch,DIB-10K_47,6682.Eiao Monarch,2
+fatu_hiva_monarch,Fatu Hiva Monarch,DIB-10K_47,6683.Fatu Hiva Monarch,14
+vanikoro_monarch,Vanikoro Monarch,DIB-10K_47,6684.Vanikoro Monarch,5
+versicolored_monarch,Versicolored Monarch,DIB-10K_47,6685.Versicolored Monarch,8
+slaty_monarch,Slaty Monarch,DIB-10K_47,6686.Slaty Monarch,32
+buff_bellied_monarch,Buff-bellied Monarch,DIB-10K_47,6687.Buff-bellied Monarch,24
+southern_shrikebill,Southern Shrikebill,DIB-10K_47,6688.Southern Shrikebill,53
+fiji_shrikebill,Fiji Shrikebill,DIB-10K_47,6689.Fiji Shrikebill,50
+black_throated_shrikebill,Black-throated Shrikebill,DIB-10K_47,6690.Black-throated Shrikebill,22
+santa_cruz_shrikebill,Santa Cruz Shrikebill,DIB-10K_47,6691.Santa Cruz Shrikebill,5
+rennell_shrikebill,Rennell Shrikebill,DIB-10K_47,6692.Rennell Shrikebill,40
+chuuk_monarch,Chuuk Monarch,DIB-10K_47,6693.Chuuk Monarch,18
+black_monarch,Black Monarch,DIB-10K_47,6694.Black Monarch,498
+spot_winged_monarch,Spot-winged Monarch,DIB-10K_47,6695.Spot-winged Monarch,27
+black_bibbed_monarch,Black-bibbed Monarch,DIB-10K_47,6696.Black-bibbed Monarch,5
+flores_monarch,Flores Monarch,DIB-10K_47,6697.Flores Monarch,24
+black_chinned_monarch,Black-chinned Monarch,DIB-10K_47,6698.Black-chinned Monarch,12
+spectacled_monarch,Spectacled Monarch,DIB-10K_47,6699.Spectacled Monarch,323
+moluccan_monarch,Moluccan Monarch,DIB-10K_47,6700.Moluccan Monarch,14
+white_tailed_monarch,White-tailed Monarch,DIB-10K_47,6701.White-tailed Monarch,11
+white_tipped_monarch,White-tipped Monarch,DIB-10K_47,6702.White-tipped Monarch,13
+black_tipped_monarch,Black-tipped Monarch,DIB-10K_47,6703.Black-tipped Monarch,7
+kofiau_monarch,Kofiau Monarch,DIB-10K_47,6704.Kofiau Monarch,4
+biak_monarch,Biak Monarch,DIB-10K_47,6705.Biak Monarch,11
+hooded_monarch,Hooded Monarch,DIB-10K_47,6706.Hooded Monarch,10
+manus_monarch,Manus Monarch,DIB-10K_47,6707.Manus Monarch,9
+mussau_monarch,Mussau Monarch,DIB-10K_47,6708.Mussau Monarch,3
+black_tailed_monarch,Black-tailed Monarch,DIB-10K_47,6709.Black-tailed Monarch,10
+solomons_monarch,Solomons Monarch,DIB-10K_47,6710.Solomons Monarch,6
+kolombangara_monarch,Kolombangara Monarch,DIB-10K_47,6711.Kolombangara Monarch,3
+white_collared_monarch,White-collared Monarch,DIB-10K_47,6712.White-collared Monarch,11
+rufous_monarch,Rufous Monarch,DIB-10K_47,6713.Rufous Monarch,5
+island_monarch,Island Monarch,DIB-10K_47,6714.Island Monarch,64
+black_faced_monarch,Black-faced Monarch,DIB-10K_47,6715.Black-faced Monarch,545
+black_winged_monarch,Black-winged Monarch,DIB-10K_47,6716.Black-winged Monarch,52
+bougainville_monarch,Bougainville Monarch,DIB-10K_47,6717.Bougainville Monarch,6
+chestnut_bellied_monarch,Chestnut-bellied Monarch,DIB-10K_47,6718.Chestnut-bellied Monarch,31
+white_capped_monarch,White-capped Monarch,DIB-10K_47,6719.White-capped Monarch,22
+yap_monarch,Yap Monarch,DIB-10K_47,6720.Yap Monarch,18
+tinian_monarch,Tinian Monarch,DIB-10K_47,6721.Tinian Monarch,25
+white_eared_monarch,White-eared Monarch,DIB-10K_47,6722.White-eared Monarch,203
+white_naped_monarch,White-naped Monarch,DIB-10K_47,6723.White-naped Monarch,36
+golden_monarch,Golden Monarch,DIB-10K_47,6724.Golden Monarch,62
+ochre_collared_monarch,Ochre-collared Monarch,DIB-10K_47,6725.Ochre-collared Monarch,18
+frilled_monarch,Frilled Monarch,DIB-10K_47,6726.Frilled Monarch,71
+frill_necked_monarch,Frill-necked Monarch,DIB-10K_47,6727.Frill-necked Monarch,78
+pied_monarch,Pied Monarch,DIB-10K_47,6728.Pied Monarch,165
+magpie_lark,Magpie-lark,DIB-10K_47,6729.Magpie-lark,2321
+torrent_lark,Torrent-lark,DIB-10K_47,6730.Torrent-lark,14
+oceanic_flycatcher,Oceanic Flycatcher,DIB-10K_47,6731.Oceanic Flycatcher,39
+palau_flycatcher,Palau Flycatcher,DIB-10K_47,6732.Palau Flycatcher,60
+guam_flycatcher,Guam Flycatcher,DIB-10K_47,6733.Guam Flycatcher,11
+pohnpei_flycatcher,Pohnpei Flycatcher,DIB-10K_47,6734.Pohnpei Flycatcher,6
+moluccan_flycatcher,Moluccan Flycatcher,DIB-10K_47,6735.Moluccan Flycatcher,47
+biak_black_flycatcher,Biak Black Flycatcher,DIB-10K_47,6736.Biak Black Flycatcher,23
+leaden_flycatcher,Leaden Flycatcher,DIB-10K_47,6737.Leaden Flycatcher,1161
+steel_blue_flycatcher,Steel-blue Flycatcher,DIB-10K_47,6738.Steel-blue Flycatcher,25
+makira_flycatcher,Makira Flycatcher,DIB-10K_47,6739.Makira Flycatcher,11
+melanesian_flycatcher,Melanesian Flycatcher,DIB-10K_47,6740.Melanesian Flycatcher,101
+vanikoro_flycatcher,Vanikoro Flycatcher,DIB-10K_47,6741.Vanikoro Flycatcher,103
+samoan_flycatcher,Samoan Flycatcher,DIB-10K_47,6742.Samoan Flycatcher,29
+azure_crested_flycatcher,Azure-crested Flycatcher,DIB-10K_47,6743.Azure-crested Flycatcher,26
+chestnut_throated_flycatcher,Chestnut-throated Flycatcher,DIB-10K_47,6744.Chestnut-throated Flycatcher,13
+broad_billed_flycatcher,Broad-billed Flycatcher,DIB-10K_47,6745.Broad-billed Flycatcher,358
+satin_flycatcher,Satin Flycatcher,DIB-10K_47,6746.Satin Flycatcher,419
+shining_flycatcher,Shining Flycatcher,DIB-10K_47,6747.Shining Flycatcher,580
+velvet_flycatcher,Velvet Flycatcher,DIB-10K_47,6748.Velvet Flycatcher,4
+paperbark_flycatcher,Paperbark Flycatcher,DIB-10K_47,6749.Paperbark Flycatcher,276
+restless_flycatcher,Restless Flycatcher,DIB-10K_47,6750.Restless Flycatcher,940
+crested_jay,Crested Jay,DIB-10K_47,6751.Crested Jay,293
+black_magpie,Black Magpie,DIB-10K_47,6752.Black Magpie,148
+siberian_jay,Siberian Jay,DIB-10K_47,6753.Siberian Jay,1290
+sichuan_jay,Sichuan Jay,DIB-10K_47,6754.Sichuan Jay,43
+canada_jay,Canada Jay,DIB-10K_47,6755.Canada Jay,2596
+black_collared_jay,Black-collared Jay,DIB-10K_47,6756.Black-collared Jay,116
+white_collared_jay,White-collared Jay,DIB-10K_47,6757.White-collared Jay,81
+turquoise_jay,Turquoise Jay,DIB-10K_47,6758.Turquoise Jay,426
+beautiful_jay,Beautiful Jay,DIB-10K_47,6759.Beautiful Jay,89
+azure_hooded_jay,Azure-hooded Jay,DIB-10K_47,6760.Azure-hooded Jay,68
+black_throated_jay,Black-throated Jay,DIB-10K_47,6761.Black-throated Jay,34
+dwarf_jay,Dwarf Jay,DIB-10K_47,6762.Dwarf Jay,38
+white_throated_jay,White-throated Jay,DIB-10K_47,6763.White-throated Jay,24
+silvery_throated_jay,Silvery-throated Jay,DIB-10K_47,6764.Silvery-throated Jay,40
+bushy_crested_jay,Bushy-crested Jay,DIB-10K_47,6765.Bushy-crested Jay,269
+san_blas_jay,San Blas Jay,DIB-10K_47,6766.San Blas Jay,174
+yucatan_jay,Yucatan Jay,DIB-10K_47,6767.Yucatan Jay,706
+purplish_backed_jay,Purplish-backed Jay,DIB-10K_47,6768.Purplish-backed Jay,94
+violaceous_jay,Violaceous Jay,DIB-10K_47,6769.Violaceous Jay,357
+azure_jay,Azure Jay,DIB-10K_47,6770.Azure Jay,356
+purplish_jay,Purplish Jay,DIB-10K_47,6771.Purplish Jay,531
+curl_crested_jay,Curl-crested Jay,DIB-10K_47,6772.Curl-crested Jay,605
+tufted_jay,Tufted Jay,DIB-10K_47,6773.Tufted Jay,133
+black_chested_jay,Black-chested Jay,DIB-10K_47,6774.Black-chested Jay,470
+white_tailed_jay,White-tailed Jay,DIB-10K_47,6775.White-tailed Jay,232
+cayenne_jay,Cayenne Jay,DIB-10K_47,6776.Cayenne Jay,55
+azure_naped_jay,Azure-naped Jay,DIB-10K_47,6777.Azure-naped Jay,55
+plush_crested_jay,Plush-crested Jay,DIB-10K_47,6778.Plush-crested Jay,1488
+white_naped_jay,White-naped Jay,DIB-10K_47,6779.White-naped Jay,250
+green_jay,Green Jay,DIB-10K_47,6780.Green Jay,771
+inca_jay,Inca Jay,DIB-10K_47,6781.Inca Jay,2113
+brown_jay,Brown Jay,DIB-10K_47,6782.Brown Jay,916
+black_throated_magpie_jay,Black-throated Magpie-Jay,DIB-10K_47,6783.Black-throated Magpie-Jay,409
+white_throated_magpie_jay,White-throated Magpie-Jay,DIB-10K_47,6784.White-throated Magpie-Jay,1412
+blue_jay,Blue Jay,DIB-10K_47,6785.Blue Jay,2702
+stellers_jay,Steller's Jay,DIB-10K_47,6786.Steller's Jay,2715
+mexican_jay,Mexican Jay,DIB-10K_47,6787.Mexican Jay,1127
+transvolcanic_jay,Transvolcanic Jay,DIB-10K_47,6788.Transvolcanic Jay,407
+unicolored_jay,Unicolored Jay,DIB-10K_47,6789.Unicolored Jay,121
+california_scrub_jay,California Scrub Jay,DIB-10K_47,6790.California Scrub Jay,2548
+woodhouses_scrub_jay,Woodhouse's Scrub Jay,DIB-10K_47,6791.Woodhouse's Scrub Jay,914
+island_scrub_jay,Island Scrub Jay,DIB-10K_47,6792.Island Scrub Jay,443
+florida_scrub_jay,Florida Scrub Jay,DIB-10K_47,6793.Florida Scrub Jay,1875
+pinyon_jay,Pinyon Jay,DIB-10K_47,6794.Pinyon Jay,891
+eurasian_jay,Eurasian Jay,DIB-10K_47,6795.Eurasian Jay,2720
+black_headed_jay,Black-headed Jay,DIB-10K_47,6796.Black-headed Jay,327
+lidths_jay,Lidth's Jay,DIB-10K_47,6797.Lidth's Jay,101
+azure_winged_magpie,Azure-winged Magpie,DIB-10K_47,6798.Azure-winged Magpie,2141
+iberian_magpie,Iberian Magpie,DIB-10K_47,6799.Iberian Magpie,875
+sri_lanka_blue_magpie,Sri Lanka Blue Magpie,DIB-10K_47,6800.Sri Lanka Blue Magpie,418
+taiwan_blue_magpie,Taiwan Blue Magpie,DIB-10K_47,6801.Taiwan Blue Magpie,1413
+yellow_billed_blue_magpie,Yellow-billed Blue Magpie,DIB-10K_47,6802.Yellow-billed Blue Magpie,276
+red_billed_blue_magpie,Red-billed Blue Magpie,DIB-10K_47,6803.Red-billed Blue Magpie,593
+white_winged_magpie,White-winged Magpie,DIB-10K_47,6804.White-winged Magpie,46
+common_green_magpie,Common Green Magpie,DIB-10K_47,6805.Common Green Magpie,576
+indochinese_green_magpie,Indochinese Green Magpie,DIB-10K_47,6806.Indochinese Green Magpie,74
+javan_green_magpie,Javan Green Magpie,DIB-10K_47,6807.Javan Green Magpie,107
+bornean_green_magpie,Bornean Green Magpie,DIB-10K_47,6808.Bornean Green Magpie,125
+rufous_treepie,Rufous Treepie,DIB-10K_47,6809.Rufous Treepie,1564
+sumatran_treepie,Sumatran Treepie,DIB-10K_47,6810.Sumatran Treepie,57
+bornean_treepie,Bornean Treepie,DIB-10K_47,6811.Bornean Treepie,110
+grey_treepie,Grey Treepie,DIB-10K_47,6812.Grey Treepie,947
+white_bellied_treepie,White-bellied Treepie,DIB-10K_47,6813.White-bellied Treepie,196
+collared_treepie,Collared Treepie,DIB-10K_47,6814.Collared Treepie,63
+andaman_treepie,Andaman Treepie,DIB-10K_47,6815.Andaman Treepie,47
+racket_tailed_treepie,Racket-tailed Treepie,DIB-10K_47,6816.Racket-tailed Treepie,458
+hooded_treepie,Hooded Treepie,DIB-10K_47,6817.Hooded Treepie,54
+ratchet_tailed_treepie,Ratchet-tailed Treepie,DIB-10K_47,6818.Ratchet-tailed Treepie,100
+,,DIB-10K_47,,0

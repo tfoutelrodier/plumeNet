@@ -1,0 +1,103 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+steel_blue_whydah,Steel-blue Whydah,DIB-10K_61,9667.Steel-blue Whydah,72
+straw_tailed_whydah,Straw-tailed Whydah,DIB-10K_61,9668.Straw-tailed Whydah,121
+shaft_tailed_whydah,Shaft-tailed Whydah,DIB-10K_61,9669.Shaft-tailed Whydah,346
+long_tailed_paradise_whydah,Long-tailed Paradise Whydah,DIB-10K_61,9670.Long-tailed Paradise Whydah,329
+sahel_paradise_whydah,Sahel Paradise Whydah,DIB-10K_61,9671.Sahel Paradise Whydah,65
+exclamatory_paradise_whydah,Exclamatory Paradise Whydah,DIB-10K_61,9672.Exclamatory Paradise Whydah,74
+togo_paradise_whydah,Togo Paradise Whydah,DIB-10K_61,9673.Togo Paradise Whydah,16
+broad_tailed_paradise_whydah,Broad-tailed Paradise Whydah,DIB-10K_61,9674.Broad-tailed Paradise Whydah,39
+cuckoo_finch,Cuckoo-finch,DIB-10K_61,9675.Cuckoo-finch,100
+olive_warbler,Olive Warbler,DIB-10K_61,9676.Olive Warbler,505
+alpine_accentor,Alpine Accentor,DIB-10K_61,9677.Alpine Accentor,1632
+altai_accentor,Altai Accentor,DIB-10K_61,9678.Altai Accentor,221
+robin_accentor,Robin Accentor,DIB-10K_61,9679.Robin Accentor,224
+rufous_breasted_accentor,Rufous-breasted Accentor,DIB-10K_61,9680.Rufous-breasted Accentor,264
+siberian_accentor,Siberian Accentor,DIB-10K_61,9681.Siberian Accentor,319
+brown_accentor,Brown Accentor,DIB-10K_61,9682.Brown Accentor,329
+raddes_accentor,Radde's Accentor,DIB-10K_61,9683.Radde's Accentor,97
+arabian_accentor,Arabian Accentor,DIB-10K_61,9684.Arabian Accentor,3
+black_throated_accentor,Black-throated Accentor,DIB-10K_61,9685.Black-throated Accentor,259
+kozlovs_accentor,Kozlov's Accentor,DIB-10K_61,9686.Kozlov's Accentor,33
+dunnock,Dunnock,DIB-10K_61,9687.Dunnock,2624
+japanese_accentor,Japanese Accentor,DIB-10K_61,9688.Japanese Accentor,148
+maroon_backed_accentor,Maroon-backed Accentor,DIB-10K_61,9689.Maroon-backed Accentor,116
+forest_wagtail,Forest Wagtail,DIB-10K_61,9690.Forest Wagtail,672
+western_yellow_wagtail,Western Yellow Wagtail,DIB-10K_61,9691.Western Yellow Wagtail,2578
+eastern_yellow_wagtail,Eastern Yellow Wagtail,DIB-10K_61,9692.Eastern Yellow Wagtail,1016
+citrine_wagtail,Citrine Wagtail,DIB-10K_61,9693.Citrine Wagtail,1916
+cape_wagtail,Cape Wagtail,DIB-10K_61,9694.Cape Wagtail,820
+madagascan_wagtail,Madagascan Wagtail,DIB-10K_61,9695.Madagascan Wagtail,206
+grey_wagtail,Grey Wagtail,DIB-10K_61,9696.Grey Wagtail,2508
+mountain_wagtail,Mountain Wagtail,DIB-10K_61,9697.Mountain Wagtail,293
+white_wagtail,White Wagtail,DIB-10K_61,9698.White Wagtail,2912
+african_pied_wagtail,African Pied Wagtail,DIB-10K_61,9699.African Pied Wagtail,1140
+mekong_wagtail,Mekong Wagtail,DIB-10K_61,9700.Mekong Wagtail,84
+japanese_wagtail,Japanese Wagtail,DIB-10K_61,9701.Japanese Wagtail,554
+white_browed_wagtail,White-browed Wagtail,DIB-10K_61,9702.White-browed Wagtail,1130
+golden_pipit,Golden Pipit,DIB-10K_61,9703.Golden Pipit,131
+sharpes_longclaw,Sharpe's Longclaw,DIB-10K_61,9704.Sharpe's Longclaw,81
+abyssinian_longclaw,Abyssinian Longclaw,DIB-10K_61,9705.Abyssinian Longclaw,146
+fülleborns_longclaw,Fülleborn's Longclaw,DIB-10K_61,9706.Fülleborn's Longclaw,17
+cape_longclaw,Cape Longclaw,DIB-10K_61,9707.Cape Longclaw,441
+yellow_throated_longclaw,Yellow-throated Longclaw,DIB-10K_61,9708.Yellow-throated Longclaw,615
+pangani_longclaw,Pangani Longclaw,DIB-10K_61,9709.Pangani Longclaw,112
+rosy_throated_longclaw,Rosy-throated Longclaw,DIB-10K_61,9710.Rosy-throated Longclaw,233
+grimwoods_longclaw,Grimwood's Longclaw,DIB-10K_61,9711.Grimwood's Longclaw,9
+richards_pipit,Richard's Pipit,DIB-10K_61,9712.Richard's Pipit,1004
+paddyfield_pipit,Paddyfield Pipit,DIB-10K_61,9713.Paddyfield Pipit,1889
+australian_pipit,Australian Pipit,DIB-10K_61,9714.Australian Pipit,362
+new_zealand_pipit,New Zealand Pipit,DIB-10K_61,9715.New Zealand Pipit,785
+african_pipit,African Pipit,DIB-10K_61,9716.African Pipit,686
+mountain_pipit,Mountain Pipit,DIB-10K_61,9717.Mountain Pipit,79
+blyths_pipit,Blyth's Pipit,DIB-10K_61,9718.Blyth's Pipit,497
+tawny_pipit,Tawny Pipit,DIB-10K_61,9719.Tawny Pipit,1795
+long_billed_pipit,Long-billed Pipit,DIB-10K_61,9720.Long-billed Pipit,478
+wood_pipit,Wood Pipit,DIB-10K_61,9721.Wood Pipit,43
+buffy_pipit,Buffy Pipit,DIB-10K_61,9722.Buffy Pipit,90
+plain_backed_pipit,Plain-backed Pipit,DIB-10K_61,9723.Plain-backed Pipit,332
+long_legged_pipit,Long-legged Pipit,DIB-10K_61,9724.Long-legged Pipit,74
+meadow_pipit,Meadow Pipit,DIB-10K_61,9725.Meadow Pipit,2678
+tree_pipit,Tree Pipit,DIB-10K_61,9726.Tree Pipit,2654
+olive_backed_pipit,Olive-backed Pipit,DIB-10K_61,9727.Olive-backed Pipit,1702
+pechora_pipit,Pechora Pipit,DIB-10K_61,9728.Pechora Pipit,245
+rosy_pipit,Rosy Pipit,DIB-10K_61,9729.Rosy Pipit,372
+red_throated_pipit,Red-throated Pipit,DIB-10K_61,9730.Red-throated Pipit,1760
+buff_bellied_pipit,Buff-bellied Pipit,DIB-10K_61,9731.Buff-bellied Pipit,2658
+water_pipit,Water Pipit,DIB-10K_61,9732.Water Pipit,2750
+eurasian_rock_pipit,Eurasian Rock Pipit,DIB-10K_61,9733.Eurasian Rock Pipit,2210
+nilgiri_pipit,Nilgiri Pipit,DIB-10K_61,9734.Nilgiri Pipit,182
+upland_pipit,Upland Pipit,DIB-10K_61,9735.Upland Pipit,105
+berthelots_pipit,Berthelot's Pipit,DIB-10K_61,9736.Berthelot's Pipit,1188
+striped_pipit,Striped Pipit,DIB-10K_61,9737.Striped Pipit,106
+african_rock_pipit,African Rock Pipit,DIB-10K_61,9738.African Rock Pipit,57
+short_tailed_pipit,Short-tailed Pipit,DIB-10K_61,9739.Short-tailed Pipit,25
+bushveld_pipit,Bushveld Pipit,DIB-10K_61,9740.Bushveld Pipit,55
+sokoke_pipit,Sokoke Pipit,DIB-10K_61,9741.Sokoke Pipit,20
+malindi_pipit,Malindi Pipit,DIB-10K_61,9742.Malindi Pipit,59
+yellow_breasted_pipit,Yellow-breasted Pipit,DIB-10K_61,9743.Yellow-breasted Pipit,48
+alpine_pipit,Alpine Pipit,DIB-10K_61,9744.Alpine Pipit,22
+spragues_pipit,Sprague's Pipit,DIB-10K_61,9745.Sprague's Pipit,515
+yellowish_pipit,Yellowish Pipit,DIB-10K_61,9746.Yellowish Pipit,458
+peruvian_pipit,Peruvian Pipit,DIB-10K_61,9747.Peruvian Pipit,58
+short_billed_pipit,Short-billed Pipit,DIB-10K_61,9748.Short-billed Pipit,127
+puna_pipit,Puna Pipit,DIB-10K_61,9749.Puna Pipit,1
+pampas_pipit,Pampas Pipit,DIB-10K_61,9750.Pampas Pipit,13
+correndera_pipit,Correndera Pipit,DIB-10K_61,9751.Correndera Pipit,561
+south_georgia_pipit,South Georgia Pipit,DIB-10K_61,9752.South Georgia Pipit,183
+ochre_breasted_pipit,Ochre-breasted Pipit,DIB-10K_61,9753.Ochre-breasted Pipit,124
+hellmayrs_pipit,Hellmayr's Pipit,DIB-10K_61,9754.Hellmayr's Pipit,303
+paramo_pipit,Paramo Pipit,DIB-10K_61,9755.Paramo Pipit,119
+madanga,Madanga,DIB-10K_61,9756.Madanga,10
+sao_tome_shorttail,Sao Tome Shorttail,DIB-10K_61,9757.Sao Tome Shorttail,4
+przevalskis_finch,Przevalski's Finch,DIB-10K_61,9758.Przevalski's Finch,65
+common_chaffinch,Common Chaffinch,DIB-10K_61,9759.Common Chaffinch,2792
+tenerife_blue_chaffinch,Tenerife Blue Chaffinch,DIB-10K_61,9760.Tenerife Blue Chaffinch,693
+gran_canaria_blue_chaffinch,Gran Canaria Blue Chaffinch,DIB-10K_61,9761.Gran Canaria Blue Chaffinch,163
+brambling,Brambling,DIB-10K_61,9762.Brambling,2646
+black_and_yellow_grosbeak,Black-and-yellow Grosbeak,DIB-10K_61,9763.Black-and-yellow Grosbeak,57
+collared_grosbeak,Collared Grosbeak,DIB-10K_61,9764.Collared Grosbeak,92
+spot_winged_grosbeak,Spot-winged Grosbeak,DIB-10K_61,9765.Spot-winged Grosbeak,227
+white_winged_grosbeak,White-winged Grosbeak,DIB-10K_61,9766.White-winged Grosbeak,272
+evening_grosbeak,Evening Grosbeak,DIB-10K_61,9767.Evening Grosbeak,3016
+,,DIB-10K_61,,0

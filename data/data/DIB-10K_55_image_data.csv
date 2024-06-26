@@ -1,0 +1,199 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+patagonian_mockingbird,Patagonian Mockingbird,DIB-10K_55,8501.Patagonian Mockingbird,459
+white_banded_mockingbird,White-banded Mockingbird,DIB-10K_55,8502.White-banded Mockingbird,599
+brown_backed_mockingbird,Brown-backed Mockingbird,DIB-10K_55,8503.Brown-backed Mockingbird,146
+galapagos_mockingbird,Galapagos Mockingbird,DIB-10K_55,8504.Galapagos Mockingbird,818
+floreana_mockingbird,Floreana Mockingbird,DIB-10K_55,8505.Floreana Mockingbird,91
+espanola_mockingbird,Espanola Mockingbird,DIB-10K_55,8506.Espanola Mockingbird,475
+san_cristobal_mockingbird,San Cristobal Mockingbird,DIB-10K_55,8507.San Cristobal Mockingbird,188
+socorro_mockingbird,Socorro Mockingbird,DIB-10K_55,8508.Socorro Mockingbird,59
+sage_thrasher,Sage Thrasher,DIB-10K_55,8509.Sage Thrasher,1396
+brown_thrasher,Brown Thrasher,DIB-10K_55,8510.Brown Thrasher,2575
+long_billed_thrasher,Long-billed Thrasher,DIB-10K_55,8511.Long-billed Thrasher,1219
+cozumel_thrasher,Cozumel Thrasher,DIB-10K_55,8512.Cozumel Thrasher,16
+grey_thrasher,Grey Thrasher,DIB-10K_55,8513.Grey Thrasher,251
+bendires_thrasher,Bendire's Thrasher,DIB-10K_55,8514.Bendire's Thrasher,627
+ocellated_thrasher,Ocellated Thrasher,DIB-10K_55,8515.Ocellated Thrasher,56
+curve_billed_thrasher,Curve-billed Thrasher,DIB-10K_55,8516.Curve-billed Thrasher,2539
+california_thrasher,California Thrasher,DIB-10K_55,8517.California Thrasher,1472
+crissal_thrasher,Crissal Thrasher,DIB-10K_55,8518.Crissal Thrasher,758
+lecontes_thrasher,LeConte's Thrasher,DIB-10K_55,8519.LeConte's Thrasher,475
+white_breasted_thrasher,White-breasted Thrasher,DIB-10K_55,8520.White-breasted Thrasher,82
+blue_mockingbird,Blue Mockingbird,DIB-10K_55,8521.Blue Mockingbird,270
+blue_and_white_mockingbird,Blue-and-white Mockingbird,DIB-10K_55,8522.Blue-and-white Mockingbird,200
+scaly_breasted_thrasher,Scaly-breasted Thrasher,DIB-10K_55,8523.Scaly-breasted Thrasher,154
+pearly_eyed_thrasher,Pearly-eyed Thrasher,DIB-10K_55,8524.Pearly-eyed Thrasher,677
+brown_trembler,Brown Trembler,DIB-10K_55,8525.Brown Trembler,149
+grey_trembler,Grey Trembler,DIB-10K_55,8526.Grey Trembler,127
+metallic_starling,Metallic Starling,DIB-10K_55,8527.Metallic Starling,783
+violet_hooded_starling,Violet-hooded Starling,DIB-10K_55,8528.Violet-hooded Starling,8
+yellow_eyed_starling,Yellow-eyed Starling,DIB-10K_55,8529.Yellow-eyed Starling,18
+singing_starling,Singing Starling,DIB-10K_55,8530.Singing Starling,99
+tanimbar_starling,Tanimbar Starling,DIB-10K_55,8531.Tanimbar Starling,33
+atoll_starling,Atoll Starling,DIB-10K_55,8532.Atoll Starling,18
+rennell_starling,Rennell Starling,DIB-10K_55,8533.Rennell Starling,15
+long_tailed_starling,Long-tailed Starling,DIB-10K_55,8534.Long-tailed Starling,134
+white_eyed_starling,White-eyed Starling,DIB-10K_55,8535.White-eyed Starling,21
+brown_winged_starling,Brown-winged Starling,DIB-10K_55,8536.Brown-winged Starling,39
+makira_starling,Makira Starling,DIB-10K_55,8537.Makira Starling,13
+rusty_winged_starling,Rusty-winged Starling,DIB-10K_55,8538.Rusty-winged Starling,7
+striated_starling,Striated Starling,DIB-10K_55,8539.Striated Starling,81
+tasman_starling,Tasman Starling,DIB-10K_55,8540.Tasman Starling,14
+mountain_starling,Mountain Starling,DIB-10K_55,8541.Mountain Starling,7
+asian_glossy_starling,Asian Glossy Starling,DIB-10K_55,8542.Asian Glossy Starling,1763
+moluccan_starling,Moluccan Starling,DIB-10K_55,8543.Moluccan Starling,64
+short_tailed_starling,Short-tailed Starling,DIB-10K_55,8544.Short-tailed Starling,105
+micronesian_starling,Micronesian Starling,DIB-10K_55,8545.Micronesian Starling,101
+pohnpei_starling,Pohnpei Starling,DIB-10K_55,8546.Pohnpei Starling,9
+polynesian_starling,Polynesian Starling,DIB-10K_55,8547.Polynesian Starling,65
+samoan_starling,Samoan Starling,DIB-10K_55,8548.Samoan Starling,55
+kosrae_starling,Kosrae Starling,DIB-10K_55,8549.Kosrae Starling,13
+mauke_starling,Mauke Starling,DIB-10K_55,8550.Mauke Starling,6
+rarotonga_starling,Rarotonga Starling,DIB-10K_55,8551.Rarotonga Starling,9
+yellow_faced_myna,Yellow-faced Myna,DIB-10K_55,8552.Yellow-faced Myna,289
+long_tailed_myna,Long-tailed Myna,DIB-10K_55,8553.Long-tailed Myna,74
+golden_myna,Golden Myna,DIB-10K_55,8554.Golden Myna,64
+sulawesi_myna,Sulawesi Myna,DIB-10K_55,8555.Sulawesi Myna,50
+helmeted_myna,Helmeted Myna,DIB-10K_55,8556.Helmeted Myna,19
+long_crested_myna,Long-crested Myna,DIB-10K_55,8557.Long-crested Myna,32
+apo_myna,Apo Myna,DIB-10K_55,8558.Apo Myna,72
+coleto,Coleto,DIB-10K_55,8559.Coleto,212
+white_necked_myna,White-necked Myna,DIB-10K_55,8560.White-necked Myna,166
+bare_eyed_myna,Bare-eyed Myna,DIB-10K_55,8561.Bare-eyed Myna,17
+fiery_browed_starling,Fiery-browed Starling,DIB-10K_55,8562.Fiery-browed Starling,63
+grosbeak_starling,Grosbeak Starling,DIB-10K_55,8563.Grosbeak Starling,296
+spot_winged_starling,Spot-winged Starling,DIB-10K_55,8564.Spot-winged Starling,88
+golden_crested_myna,Golden-crested Myna,DIB-10K_55,8565.Golden-crested Myna,208
+sri_lanka_hill_myna,Sri Lanka Hill Myna,DIB-10K_55,8566.Sri Lanka Hill Myna,92
+common_hill_myna,Common Hill Myna,DIB-10K_55,8567.Common Hill Myna,1046
+southern_hill_myna,Southern Hill Myna,DIB-10K_55,8568.Southern Hill Myna,261
+nias_hill_myna,Nias Hill Myna,DIB-10K_55,8569.Nias Hill Myna,37
+enggano_hill_myna,Enggano Hill Myna,DIB-10K_55,8570.Enggano Hill Myna,14
+great_myna,Great Myna,DIB-10K_55,8571.Great Myna,519
+crested_myna,Crested Myna,DIB-10K_55,8572.Crested Myna,1229
+javan_myna,Javan Myna,DIB-10K_55,8573.Javan Myna,1271
+pale_bellied_myna,Pale-bellied Myna,DIB-10K_55,8574.Pale-bellied Myna,55
+jungle_myna,Jungle Myna,DIB-10K_55,8575.Jungle Myna,1251
+collared_myna,Collared Myna,DIB-10K_55,8576.Collared Myna,59
+bank_myna,Bank Myna,DIB-10K_55,8577.Bank Myna,728
+common_myna,Common Myna,DIB-10K_55,8578.Common Myna,2600
+black_winged_starling,Black-winged Starling,DIB-10K_55,8579.Black-winged Starling,102
+vinous_breasted_starling,Vinous-breasted Starling,DIB-10K_55,8580.Vinous-breasted Starling,239
+red_billed_starling,Red-billed Starling,DIB-10K_55,8581.Red-billed Starling,256
+white_cheeked_starling,White-cheeked Starling,DIB-10K_55,8582.White-cheeked Starling,460
+black_collared_starling,Black-collared Starling,DIB-10K_55,8583.Black-collared Starling,649
+pied_myna,Pied Myna,DIB-10K_55,8584.Pied Myna,1072
+daurian_starling,Daurian Starling,DIB-10K_55,8585.Daurian Starling,246
+chestnut_cheeked_starling,Chestnut-cheeked Starling,DIB-10K_55,8586.Chestnut-cheeked Starling,163
+white_shouldered_starling,White-shouldered Starling,DIB-10K_55,8587.White-shouldered Starling,244
+chestnut_tailed_starling,Chestnut-tailed Starling,DIB-10K_55,8588.Chestnut-tailed Starling,1066
+white_headed_starling,White-headed Starling,DIB-10K_55,8589.White-headed Starling,89
+malabar_starling,Malabar Starling,DIB-10K_55,8590.Malabar Starling,328
+brahminy_starling,Brahminy Starling,DIB-10K_55,8591.Brahminy Starling,1251
+white_faced_starling,White-faced Starling,DIB-10K_55,8592.White-faced Starling,44
+bali_myna,Bali Myna,DIB-10K_55,8593.Bali Myna,1496
+hoopoe_starling,Hoopoe Starling,DIB-10K_55,8594.Hoopoe Starling,31
+rodrigues_starling,Rodrigues Starling,DIB-10K_55,8595.Rodrigues Starling,8
+rosy_starling,Rosy Starling,DIB-10K_55,8596.Rosy Starling,1593
+common_starling,Common Starling,DIB-10K_55,8597.Common Starling,2592
+spotless_starling,Spotless Starling,DIB-10K_55,8598.Spotless Starling,2466
+wattled_starling,Wattled Starling,DIB-10K_55,8599.Wattled Starling,677
+black_bellied_starling,Black-bellied Starling,DIB-10K_55,8600.Black-bellied Starling,92
+purple_headed_starling,Purple-headed Starling,DIB-10K_55,8601.Purple-headed Starling,34
+copper_tailed_starling,Copper-tailed Starling,DIB-10K_55,8602.Copper-tailed Starling,28
+cape_starling,Cape Starling,DIB-10K_55,8603.Cape Starling,1152
+greater_blue_eared_starling,Greater Blue-eared Starling,DIB-10K_55,8604.Greater Blue-eared Starling,1293
+lesser_blue_eared_starling,Lesser Blue-eared Starling,DIB-10K_55,8605.Lesser Blue-eared Starling,244
+miombo_blue_eared_starling,Miombo Blue-eared Starling,DIB-10K_55,8606.Miombo Blue-eared Starling,56
+bronze_tailed_starling,Bronze-tailed Starling,DIB-10K_55,8607.Bronze-tailed Starling,146
+splendid_starling,Splendid Starling,DIB-10K_55,8608.Splendid Starling,200
+principe_starling,Principe Starling,DIB-10K_55,8609.Principe Starling,15
+emerald_starling,Emerald Starling,DIB-10K_55,8610.Emerald Starling,239
+purple_starling,Purple Starling,DIB-10K_55,8611.Purple Starling,492
+rüppells_starling,Rüppell's Starling,DIB-10K_55,8612.Rüppell's Starling,407
+long_tailed_glossy_starling,Long-tailed Glossy Starling,DIB-10K_55,8613.Long-tailed Glossy Starling,577
+golden_breasted_starling,Golden-breasted Starling,DIB-10K_55,8614.Golden-breasted Starling,462
+mevess_starling,Meves's Starling,DIB-10K_55,8615.Meves's Starling,364
+burchells_starling,Burchell's Starling,DIB-10K_55,8616.Burchell's Starling,541
+sharp_tailed_starling,Sharp-tailed Starling,DIB-10K_55,8617.Sharp-tailed Starling,42
+superb_starling,Superb Starling,DIB-10K_55,8618.Superb Starling,2384
+hildebrandts_starling,Hildebrandt's Starling,DIB-10K_55,8619.Hildebrandt's Starling,350
+shelleys_starling,Shelley's Starling,DIB-10K_55,8620.Shelley's Starling,89
+chestnut_bellied_starling,Chestnut-bellied Starling,DIB-10K_55,8621.Chestnut-bellied Starling,156
+ashy_starling,Ashy Starling,DIB-10K_55,8622.Ashy Starling,249
+fischers_starling,Fischer's Starling,DIB-10K_55,8623.Fischer's Starling,77
+pied_starling,Pied Starling,DIB-10K_55,8624.Pied Starling,640
+white_crowned_starling,White-crowned Starling,DIB-10K_55,8625.White-crowned Starling,96
+madagascan_starling,Madagascan Starling,DIB-10K_55,8626.Madagascan Starling,70
+violet_backed_starling,Violet-backed Starling,DIB-10K_55,8627.Violet-backed Starling,938
+red_winged_starling,Red-winged Starling,DIB-10K_55,8628.Red-winged Starling,1156
+slender_billed_starling,Slender-billed Starling,DIB-10K_55,8629.Slender-billed Starling,51
+chestnut_winged_starling,Chestnut-winged Starling,DIB-10K_55,8630.Chestnut-winged Starling,60
+wallers_starling,Waller's Starling,DIB-10K_55,8631.Waller's Starling,41
+somali_starling,Somali Starling,DIB-10K_55,8632.Somali Starling,48
+socotra_starling,Socotra Starling,DIB-10K_55,8633.Socotra Starling,23
+tristrams_starling,Tristram's Starling,DIB-10K_55,8634.Tristram's Starling,582
+pale_winged_starling,Pale-winged Starling,DIB-10K_55,8635.Pale-winged Starling,412
+bristle_crowned_starling,Bristle-crowned Starling,DIB-10K_55,8636.Bristle-crowned Starling,103
+white_billed_starling,White-billed Starling,DIB-10K_55,8637.White-billed Starling,106
+neumanns_starling,Neumann's Starling,DIB-10K_55,8638.Neumann's Starling,15
+stuhlmanns_starling,Stuhlmann's Starling,DIB-10K_55,8639.Stuhlmann's Starling,35
+kenricks_starling,Kenrick's Starling,DIB-10K_55,8640.Kenrick's Starling,23
+narrow_tailed_starling,Narrow-tailed Starling,DIB-10K_55,8641.Narrow-tailed Starling,32
+sharpes_starling,Sharpe's Starling,DIB-10K_55,8642.Sharpe's Starling,52
+abbotts_starling,Abbott's Starling,DIB-10K_55,8643.Abbott's Starling,19
+white_collared_starling,White-collared Starling,DIB-10K_55,8644.White-collared Starling,14
+magpie_starling,Magpie Starling,DIB-10K_55,8645.Magpie Starling,58
+babbling_starling,Babbling Starling,DIB-10K_55,8646.Babbling Starling,14
+stripe_headed_rhabdornis,Stripe-headed Rhabdornis,DIB-10K_55,8647.Stripe-headed Rhabdornis,61
+stripe_breasted_rhabdornis,Stripe-breasted Rhabdornis,DIB-10K_55,8648.Stripe-breasted Rhabdornis,38
+grand_rhabdornis,Grand Rhabdornis,DIB-10K_55,8649.Grand Rhabdornis,14
+yellow_billed_oxpecker,Yellow-billed Oxpecker,DIB-10K_55,8650.Yellow-billed Oxpecker,829
+red_billed_oxpecker,Red-billed Oxpecker,DIB-10K_55,8651.Red-billed Oxpecker,479
+red_tailed_ant_thrush,Red-tailed Ant Thrush,DIB-10K_55,8652.Red-tailed Ant Thrush,31
+white_tailed_ant_thrush,White-tailed Ant Thrush,DIB-10K_55,8653.White-tailed Ant Thrush,91
+frasers_rufous_thrush,Fraser's Rufous Thrush,DIB-10K_55,8654.Fraser's Rufous Thrush,41
+finschs_rufous_thrush,Finsch's Rufous Thrush,DIB-10K_55,8655.Finsch's Rufous Thrush,15
+slaty_backed_thrush,Slaty-backed Thrush,DIB-10K_55,8656.Slaty-backed Thrush,133
+buru_thrush,Buru Thrush,DIB-10K_55,8657.Buru Thrush,14
+seram_thrush,Seram Thrush,DIB-10K_55,8658.Seram Thrush,8
+chestnut_capped_thrush,Chestnut-capped Thrush,DIB-10K_55,8659.Chestnut-capped Thrush,47
+enggano_thrush,Enggano Thrush,DIB-10K_55,8660.Enggano Thrush,8
+red_backed_thrush,Red-backed Thrush,DIB-10K_55,8661.Red-backed Thrush,81
+red_and_black_thrush,Red-and-black Thrush,DIB-10K_55,8662.Red-and-black Thrush,11
+chestnut_backed_thrush,Chestnut-backed Thrush,DIB-10K_55,8663.Chestnut-backed Thrush,138
+pied_thrush,Pied Thrush,DIB-10K_55,8664.Pied Thrush,112
+ashy_thrush,Ashy Thrush,DIB-10K_55,8665.Ashy Thrush,136
+orange_sided_thrush,Orange-sided Thrush,DIB-10K_55,8666.Orange-sided Thrush,29
+orange_headed_thrush,Orange-headed Thrush,DIB-10K_55,8667.Orange-headed Thrush,726
+siberian_thrush,Siberian Thrush,DIB-10K_55,8668.Siberian Thrush,248
+abyssinian_ground_thrush,Abyssinian Ground Thrush,DIB-10K_55,8669.Abyssinian Ground Thrush,97
+crossleys_ground_thrush,Crossley's Ground Thrush,DIB-10K_55,8670.Crossley's Ground Thrush,2
+orange_ground_thrush,Orange Ground Thrush,DIB-10K_55,8671.Orange Ground Thrush,64
+oberländers_ground_thrush,Oberländer's Ground Thrush,DIB-10K_55,8672.Oberländer's Ground Thrush,3
+black_eared_ground_thrush,Black-eared Ground Thrush,DIB-10K_55,8673.Black-eared Ground Thrush,4
+grey_ground_thrush,Grey Ground Thrush,DIB-10K_55,8674.Grey Ground Thrush,10
+spotted_ground_thrush,Spotted Ground Thrush,DIB-10K_55,8675.Spotted Ground Thrush,84
+spot_winged_thrush,Spot-winged Thrush,DIB-10K_55,8676.Spot-winged Thrush,135
+geomalia,Geomalia,DIB-10K_55,8677.Geomalia,17
+everetts_thrush,Everett's Thrush,DIB-10K_55,8678.Everett's Thrush,35
+sunda_thrush,Sunda Thrush,DIB-10K_55,8679.Sunda Thrush,61
+alpine_thrush,Alpine Thrush,DIB-10K_55,8680.Alpine Thrush,114
+sichuan_thrush,Sichuan Thrush,DIB-10K_55,8681.Sichuan Thrush,17
+himalayan_thrush,Himalayan Thrush,DIB-10K_55,8682.Himalayan Thrush,57
+long_tailed_thrush,Long-tailed Thrush,DIB-10K_55,8683.Long-tailed Thrush,114
+whites_thrush,White's Thrush,DIB-10K_55,8684.White's Thrush,314
+amami_thrush,Amami Thrush,DIB-10K_55,8685.Amami Thrush,48
+scaly_thrush,Scaly Thrush,DIB-10K_55,8686.Scaly Thrush,713
+bonin_thrush,Bonin Thrush,DIB-10K_55,8687.Bonin Thrush,13
+nilgiri_thrush,Nilgiri Thrush,DIB-10K_55,8688.Nilgiri Thrush,47
+sri_lanka_thrush,Sri Lanka Thrush,DIB-10K_55,8689.Sri Lanka Thrush,59
+fawn_breasted_thrush,Fawn-breasted Thrush,DIB-10K_55,8690.Fawn-breasted Thrush,15
+russet_tailed_thrush,Russet-tailed Thrush,DIB-10K_55,8691.Russet-tailed Thrush,294
+bassian_thrush,Bassian Thrush,DIB-10K_55,8692.Bassian Thrush,696
+black_backed_thrush,Black-backed Thrush,DIB-10K_55,8693.Black-backed Thrush,15
+makira_thrush,Makira Thrush,DIB-10K_55,8694.Makira Thrush,1
+guadalcanal_thrush,Guadalcanal Thrush,DIB-10K_55,8695.Guadalcanal Thrush,3
+long_billed_thrush,Long-billed Thrush,DIB-10K_55,8696.Long-billed Thrush,98
+dark_sided_thrush,Dark-sided Thrush,DIB-10K_55,8697.Dark-sided Thrush,171
+,,DIB-10K_55,,0

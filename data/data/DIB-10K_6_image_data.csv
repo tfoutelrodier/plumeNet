@@ -1,0 +1,155 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+caucasian_grouse,Caucasian Grouse,DIB-10K_6,363.Caucasian Grouse,98
+sage_grouse,Sage Grouse,DIB-10K_6,364.Sage Grouse,1964
+gunnison_grouse,Gunnison Grouse,DIB-10K_6,365.Gunnison Grouse,100
+dusky_grouse,Dusky Grouse,DIB-10K_6,366.Dusky Grouse,1433
+sooty_grouse,Sooty Grouse,DIB-10K_6,367.Sooty Grouse,1321
+sharp_tailed_grouse,Sharp-tailed Grouse,DIB-10K_6,368.Sharp-tailed Grouse,1756
+lesser_prairie_chicken,Lesser Prairie Chicken,DIB-10K_6,369.Lesser Prairie Chicken,941
+greater_prairie_chicken,Greater Prairie Chicken,DIB-10K_6,370.Greater Prairie Chicken,1802
+white_tailed_ptarmigan,White-tailed Ptarmigan,DIB-10K_6,371.White-tailed Ptarmigan,1277
+rock_ptarmigan,Rock Ptarmigan,DIB-10K_6,372.Rock Ptarmigan,2778
+willow_ptarmigan,Willow Ptarmigan,DIB-10K_6,373.Willow Ptarmigan,2737
+snow_partridge,Snow Partridge,DIB-10K_6,374.Snow Partridge,164
+verreauxs_monal_partridge,Verreaux's Monal-Partridge,DIB-10K_6,375.Verreaux's Monal-Partridge,36
+szechenyis_monal_partridge,Szechenyi's Monal-Partridge,DIB-10K_6,376.Szechenyi's Monal-Partridge,29
+caucasian_snowcock,Caucasian Snowcock,DIB-10K_6,377.Caucasian Snowcock,109
+caspian_snowcock,Caspian Snowcock,DIB-10K_6,378.Caspian Snowcock,93
+himalayan_snowcock,Himalayan Snowcock,DIB-10K_6,379.Himalayan Snowcock,191
+tibetan_snowcock,Tibetan Snowcock,DIB-10K_6,380.Tibetan Snowcock,286
+altai_snowcock,Altai Snowcock,DIB-10K_6,381.Altai Snowcock,66
+rock_partridge,Rock Partridge,DIB-10K_6,382.Rock Partridge,469
+chukar_partridge,Chukar Partridge,DIB-10K_6,383.Chukar Partridge,1785
+przevalskis_partridge,Przevalski's Partridge,DIB-10K_6,384.Przevalski's Partridge,27
+philbys_partridge,Philby's Partridge,DIB-10K_6,385.Philby's Partridge,34
+barbary_partridge,Barbary Partridge,DIB-10K_6,386.Barbary Partridge,505
+red_legged_partridge,Red-legged Partridge,DIB-10K_6,387.Red-legged Partridge,2758
+arabian_partridge,Arabian Partridge,DIB-10K_6,388.Arabian Partridge,184
+see_see_partridge,See-see Partridge,DIB-10K_6,389.See-see Partridge,108
+sand_partridge,Sand Partridge,DIB-10K_6,390.Sand Partridge,405
+black_francolin,Black Francolin,DIB-10K_6,391.Black Francolin,763
+painted_francolin,Painted Francolin,DIB-10K_6,392.Painted Francolin,163
+chinese_francolin,Chinese Francolin,DIB-10K_6,393.Chinese Francolin,144
+grey_francolin,Grey Francolin,DIB-10K_6,394.Grey Francolin,1539
+swamp_francolin,Swamp Francolin,DIB-10K_6,395.Swamp Francolin,108
+lathams_francolin,Latham's Francolin,DIB-10K_6,396.Latham's Francolin,13
+coqui_francolin,Coqui Francolin,DIB-10K_6,397.Coqui Francolin,342
+white_throated_francolin,White-throated Francolin,DIB-10K_6,398.White-throated Francolin,49
+schlegels_francolin,Schlegel's Francolin,DIB-10K_6,399.Schlegel's Francolin,20
+ring_necked_francolin,Ring-necked Francolin,DIB-10K_6,400.Ring-necked Francolin,19
+grey_winged_francolin,Grey-winged Francolin,DIB-10K_6,401.Grey-winged Francolin,154
+red_winged_francolin,Red-winged Francolin,DIB-10K_6,402.Red-winged Francolin,98
+finschs_francolin,Finsch's Francolin,DIB-10K_6,403.Finsch's Francolin,7
+shelleys_francolin,Shelley's Francolin,DIB-10K_6,404.Shelley's Francolin,115
+moorland_francolin,Moorland Francolin,DIB-10K_6,405.Moorland Francolin,67
+orange_river_francolin,Orange River Francolin,DIB-10K_6,406.Orange River Francolin,93
+crested_francolin,Crested Francolin,DIB-10K_6,407.Crested Francolin,721
+scaly_francolin,Scaly Francolin,DIB-10K_6,408.Scaly Francolin,80
+ahanta_francolin,Ahanta Francolin,DIB-10K_6,409.Ahanta Francolin,12
+grey_striped_francolin,Grey-striped Francolin,DIB-10K_6,410.Grey-striped Francolin,12
+hildebrandts_francolin,Hildebrandt's Francolin,DIB-10K_6,411.Hildebrandt's Francolin,103
+double_spurred_francolin,Double-spurred Francolin,DIB-10K_6,412.Double-spurred Francolin,134
+heuglins_francolin,Heuglin's Francolin,DIB-10K_6,413.Heuglin's Francolin,50
+clappertons_francolin,Clapperton's Francolin,DIB-10K_6,414.Clapperton's Francolin,82
+harwoods_francolin,Harwood's Francolin,DIB-10K_6,415.Harwood's Francolin,47
+swierstras_francolin,Swierstra's Francolin,DIB-10K_6,416.Swierstra's Francolin,6
+mount_cameroon_francolin,Mount Cameroon Francolin,DIB-10K_6,417.Mount Cameroon Francolin,7
+handsome_francolin,Handsome Francolin,DIB-10K_6,418.Handsome Francolin,64
+jacksons_francolin,Jackson's Francolin,DIB-10K_6,419.Jackson's Francolin,64
+chestnut_naped_francolin,Chestnut-naped Francolin,DIB-10K_6,420.Chestnut-naped Francolin,122
+black_fronted_francolin,Black-fronted Francolin,DIB-10K_6,421.Black-fronted Francolin,26
+djibouti_francolin,Djibouti Francolin,DIB-10K_6,422.Djibouti Francolin,17
+erckels_francolin,Erckel's Francolin,DIB-10K_6,423.Erckel's Francolin,246
+hartlaubs_spurfowl,Hartlaub's Spurfowl,DIB-10K_6,424.Hartlaub's Spurfowl,60
+red_billed_spurfowl,Red-billed Spurfowl,DIB-10K_6,425.Red-billed Spurfowl,449
+cape_spurfowl,Cape Spurfowl,DIB-10K_6,426.Cape Spurfowl,412
+natal_spurfowl,Natal Spurfowl,DIB-10K_6,427.Natal Spurfowl,404
+yellow_necked_spurfowl,Yellow-necked Spurfowl,DIB-10K_6,428.Yellow-necked Spurfowl,471
+grey_breasted_spurfowl,Grey-breasted Spurfowl,DIB-10K_6,429.Grey-breasted Spurfowl,146
+red_necked_spurfowl,Red-necked Spurfowl,DIB-10K_6,430.Red-necked Spurfowl,428
+swainsons_spurfowl,Swainson's Spurfowl,DIB-10K_6,431.Swainson's Spurfowl,467
+grey_partridge,Grey Partridge,DIB-10K_6,432.Grey Partridge,2774
+daurian_partridge,Daurian Partridge,DIB-10K_6,433.Daurian Partridge,162
+tibetan_partridge,Tibetan Partridge,DIB-10K_6,434.Tibetan Partridge,179
+long_billed_partridge,Long-billed Partridge,DIB-10K_6,435.Long-billed Partridge,21
+hoses_partridge,Hose's Partridge,DIB-10K_6,436.Hose's Partridge,5
+madagascan_partridge,Madagascan Partridge,DIB-10K_6,437.Madagascan Partridge,74
+black_partridge,Black Partridge,DIB-10K_6,438.Black Partridge,57
+common_quail,Common Quail,DIB-10K_6,439.Common Quail,851
+japanese_quail,Japanese Quail,DIB-10K_6,440.Japanese Quail,352
+rain_quail,Rain Quail,DIB-10K_6,441.Rain Quail,344
+harlequin_quail,Harlequin Quail,DIB-10K_6,442.Harlequin Quail,266
+stubble_quail,Stubble Quail,DIB-10K_6,443.Stubble Quail,152
+new_zealand_quail,New Zealand Quail,DIB-10K_6,444.New Zealand Quail,37
+brown_quail,Brown Quail,DIB-10K_6,445.Brown Quail,845
+king_quail,King Quail,DIB-10K_6,446.King Quail,249
+blue_quail,Blue Quail,DIB-10K_6,447.Blue Quail,40
+snow_mountain_quail,Snow Mountain Quail,DIB-10K_6,448.Snow Mountain Quail,26
+jungle_bush_quail,Jungle Bush Quail,DIB-10K_6,449.Jungle Bush Quail,388
+rock_bush_quail,Rock Bush Quail,DIB-10K_6,450.Rock Bush Quail,177
+painted_bush_quail,Painted Bush Quail,DIB-10K_6,451.Painted Bush Quail,142
+manipur_bush_quail,Manipur Bush Quail,DIB-10K_6,452.Manipur Bush Quail,32
+himalayan_quail,Himalayan Quail,DIB-10K_6,453.Himalayan Quail,36
+udzungwa_forest_partridge,Udzungwa Forest Partridge,DIB-10K_6,454.Udzungwa Forest Partridge,9
+rubeho_forest_partridge,Rubeho Forest Partridge,DIB-10K_6,455.Rubeho Forest Partridge,3
+hill_partridge,Hill Partridge,DIB-10K_6,456.Hill Partridge,115
+rufous_throated_partridge,Rufous-throated Partridge,DIB-10K_6,457.Rufous-throated Partridge,416
+white_cheeked_partridge,White-cheeked Partridge,DIB-10K_6,458.White-cheeked Partridge,34
+taiwan_partridge,Taiwan Partridge,DIB-10K_6,459.Taiwan Partridge,249
+chestnut_breasted_partridge,Chestnut-breasted Partridge,DIB-10K_6,460.Chestnut-breasted Partridge,26
+bar_backed_partridge,Bar-backed Partridge,DIB-10K_6,461.Bar-backed Partridge,223
+sichuan_partridge,Sichuan Partridge,DIB-10K_6,462.Sichuan Partridge,7
+white_necklaced_partridge,White-necklaced Partridge,DIB-10K_6,463.White-necklaced Partridge,83
+orange_necked_partridge,Orange-necked Partridge,DIB-10K_6,464.Orange-necked Partridge,15
+chestnut_headed_partridge,Chestnut-headed Partridge,DIB-10K_6,465.Chestnut-headed Partridge,23
+siamese_partridge,Siamese Partridge,DIB-10K_6,466.Siamese Partridge,2
+malaysian_partridge,Malaysian Partridge,DIB-10K_6,467.Malaysian Partridge,238
+rolls_partridge,Roll's Partridge,DIB-10K_6,468.Roll's Partridge,6
+sumatran_partridge,Sumatran Partridge,DIB-10K_6,469.Sumatran Partridge,5
+grey_breasted_partridge,Grey-breasted Partridge,DIB-10K_6,470.Grey-breasted Partridge,55
+chestnut_bellied_partridge,Chestnut-bellied Partridge,DIB-10K_6,471.Chestnut-bellied Partridge,71
+red_billed_partridge,Red-billed Partridge,DIB-10K_6,472.Red-billed Partridge,24
+red_breasted_partridge,Red-breasted Partridge,DIB-10K_6,473.Red-breasted Partridge,66
+hainan_partridge,Hainan Partridge,DIB-10K_6,474.Hainan Partridge,14
+chestnut_necklaced_partridge,Chestnut-necklaced Partridge,DIB-10K_6,475.Chestnut-necklaced Partridge,91
+green_legged_partridge,Green-legged Partridge,DIB-10K_6,476.Green-legged Partridge,246
+ferruginous_partridge,Ferruginous Partridge,DIB-10K_6,477.Ferruginous Partridge,285
+crimson_headed_partridge,Crimson-headed Partridge,DIB-10K_6,478.Crimson-headed Partridge,91
+crested_partridge,Crested Partridge,DIB-10K_6,479.Crested Partridge,593
+mountain_bamboo_partridge,Mountain Bamboo Partridge,DIB-10K_6,480.Mountain Bamboo Partridge,407
+chinese_bamboo_partridge,Chinese Bamboo Partridge,DIB-10K_6,481.Chinese Bamboo Partridge,231
+taiwan_bamboo_partridge,Taiwan Bamboo Partridge,DIB-10K_6,482.Taiwan Bamboo Partridge,124
+red_spurfowl,Red Spurfowl,DIB-10K_6,483.Red Spurfowl,259
+painted_spurfowl,Painted Spurfowl,DIB-10K_6,484.Painted Spurfowl,332
+sri_lanka_spurfowl,Sri Lanka Spurfowl,DIB-10K_6,485.Sri Lanka Spurfowl,101
+blood_pheasant,Blood Pheasant,DIB-10K_6,486.Blood Pheasant,435
+western_tragopan,Western Tragopan,DIB-10K_6,487.Western Tragopan,66
+satyr_tragopan,Satyr Tragopan,DIB-10K_6,488.Satyr Tragopan,378
+blyths_tragopan,Blyth's Tragopan,DIB-10K_6,489.Blyth's Tragopan,83
+temmincks_tragopan,Temminck's Tragopan,DIB-10K_6,490.Temminck's Tragopan,513
+cabots_tragopan,Cabot's Tragopan,DIB-10K_6,491.Cabot's Tragopan,232
+koklass_pheasant,Koklass Pheasant,DIB-10K_6,492.Koklass Pheasant,252
+himalayan_monal,Himalayan Monal,DIB-10K_6,493.Himalayan Monal,916
+sclaters_monal,Sclater's Monal,DIB-10K_6,494.Sclater's Monal,51
+chinese_monal,Chinese Monal,DIB-10K_6,495.Chinese Monal,111
+red_junglefowl,Red Junglefowl,DIB-10K_6,496.Red Junglefowl,2378
+grey_junglefowl,Grey Junglefowl,DIB-10K_6,497.Grey Junglefowl,621
+sri_lanka_junglefowl,Sri Lanka Junglefowl,DIB-10K_6,498.Sri Lanka Junglefowl,387
+green_junglefowl,Green Junglefowl,DIB-10K_6,499.Green Junglefowl,409
+kalij_pheasant,Kalij Pheasant,DIB-10K_6,500.Kalij Pheasant,1350
+silver_pheasant,Silver Pheasant,DIB-10K_6,501.Silver Pheasant,1019
+edwardss_pheasant,Edwards's Pheasant,DIB-10K_6,502.Edwards's Pheasant,218
+swinhoes_pheasant,Swinhoe's Pheasant,DIB-10K_6,503.Swinhoe's Pheasant,1042
+salvadoris_pheasant,Salvadori's Pheasant,DIB-10K_6,505.Salvadori's Pheasant,121
+crestless_fireback,Crestless Fireback,DIB-10K_6,506.Crestless Fireback,69
+crested_fireback,Crested Fireback,DIB-10K_6,507.Crested Fireback,566
+siamese_fireback,Siamese Fireback,DIB-10K_6,508.Siamese Fireback,578
+bulwers_pheasant,Bulwer's Pheasant,DIB-10K_6,509.Bulwer's Pheasant,66
+white_eared_pheasant,White Eared Pheasant,DIB-10K_6,510.White Eared Pheasant,272
+tibetan_eared_pheasant,Tibetan Eared Pheasant,DIB-10K_6,511.Tibetan Eared Pheasant,96
+brown_eared_pheasant,Brown Eared Pheasant,DIB-10K_6,512.Brown Eared Pheasant,212
+blue_eared_pheasant,Blue Eared Pheasant,DIB-10K_6,513.Blue Eared Pheasant,282
+cheer_pheasant,Cheer Pheasant,DIB-10K_6,514.Cheer Pheasant,234
+elliots_pheasant,Elliot's Pheasant,DIB-10K_6,515.Elliot's Pheasant,142
+mrs._humes_pheasant,Mrs. Hume's Pheasant,DIB-10K_6,516.Mrs. Hume's Pheasant,468
+,,DIB-10K_6,,0

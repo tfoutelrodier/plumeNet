@@ -1,0 +1,275 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+white_shouldered_fairywren,White-shouldered Fairywren,DIB-10K_44,5804.White-shouldered Fairywren,67
+red_backed_fairywren,Red-backed Fairywren,DIB-10K_44,5805.Red-backed Fairywren,1348
+white_winged_fairywren,White-winged Fairywren,DIB-10K_44,5806.White-winged Fairywren,506
+orange_crowned_fairywren,Orange-crowned Fairywren,DIB-10K_44,5807.Orange-crowned Fairywren,3
+southern_emu_wren,Southern Emu-wren,DIB-10K_44,5808.Southern Emu-wren,447
+mallee_emu_wren,Mallee Emu-wren,DIB-10K_44,5809.Mallee Emu-wren,124
+rufous_crowned_emu_wren,Rufous-crowned Emu-wren,DIB-10K_44,5810.Rufous-crowned Emu-wren,64
+grey_grasswren,Grey Grasswren,DIB-10K_44,5811.Grey Grasswren,38
+black_grasswren,Black Grasswren,DIB-10K_44,5812.Black Grasswren,59
+white_throated_grasswren,White-throated Grasswren,DIB-10K_44,5813.White-throated Grasswren,30
+carpentarian_grasswren,Carpentarian Grasswren,DIB-10K_44,5814.Carpentarian Grasswren,58
+short_tailed_grasswren,Short-tailed Grasswren,DIB-10K_44,5815.Short-tailed Grasswren,74
+striated_grasswren,Striated Grasswren,DIB-10K_44,5816.Striated Grasswren,134
+eyrean_grasswren,Eyrean Grasswren,DIB-10K_44,5817.Eyrean Grasswren,89
+western_grasswren,Western Grasswren,DIB-10K_44,5818.Western Grasswren,124
+thick_billed_grasswren,Thick-billed Grasswren,DIB-10K_44,5819.Thick-billed Grasswren,66
+dusky_grasswren,Dusky Grasswren,DIB-10K_44,5820.Dusky Grasswren,165
+kalkadoon_grasswren,Kalkadoon Grasswren,DIB-10K_44,5821.Kalkadoon Grasswren,81
+black_honeyeater,Black Honeyeater,DIB-10K_44,5822.Black Honeyeater,268
+drab_myzomela,Drab Myzomela,DIB-10K_44,5823.Drab Myzomela,13
+white_chinned_myzomela,White-chinned Myzomela,DIB-10K_44,5824.White-chinned Myzomela,1
+ashy_myzomela,Ashy Myzomela,DIB-10K_44,5825.Ashy Myzomela,18
+ruby_throated_myzomela,Ruby-throated Myzomela,DIB-10K_44,5826.Ruby-throated Myzomela,11
+dusky_myzomela,Dusky Myzomela,DIB-10K_44,5827.Dusky Myzomela,377
+red_myzomela,Red Myzomela,DIB-10K_44,5828.Red Myzomela,19
+papuan_black_myzomela,Papuan Black Myzomela,DIB-10K_44,5829.Papuan Black Myzomela,15
+new_ireland_myzomela,New Ireland Myzomela,DIB-10K_44,5830.New Ireland Myzomela,2
+crimson_hooded_myzomela,Crimson-hooded Myzomela,DIB-10K_44,5831.Crimson-hooded Myzomela,28
+red_headed_myzomela,Red-headed Myzomela,DIB-10K_44,5832.Red-headed Myzomela,215
+sumba_myzomela,Sumba Myzomela,DIB-10K_44,5833.Sumba Myzomela,22
+mountain_myzomela,Mountain Myzomela,DIB-10K_44,5834.Mountain Myzomela,31
+banda_myzomela,Banda Myzomela,DIB-10K_44,5835.Banda Myzomela,13
+sulawesi_myzomela,Sulawesi Myzomela,DIB-10K_44,5836.Sulawesi Myzomela,92
+wakolo_myzomela,Wakolo Myzomela,DIB-10K_44,5837.Wakolo Myzomela,12
+scarlet_myzomela,Scarlet Myzomela,DIB-10K_44,5838.Scarlet Myzomela,967
+new_caledonian_myzomela,New Caledonian Myzomela,DIB-10K_44,5839.New Caledonian Myzomela,40
+cardinal_myzomela,Cardinal Myzomela,DIB-10K_44,5840.Cardinal Myzomela,86
+rotuma_myzomela,Rotuma Myzomela,DIB-10K_44,5841.Rotuma Myzomela,12
+micronesian_myzomela,Micronesian Myzomela,DIB-10K_44,5842.Micronesian Myzomela,131
+sclaters_myzomela,Sclater's Myzomela,DIB-10K_44,5843.Sclater's Myzomela,16
+bismarck_black_myzomela,Bismarck Black Myzomela,DIB-10K_44,5844.Bismarck Black Myzomela,11
+red_capped_myzomela,Red-capped Myzomela,DIB-10K_44,5845.Red-capped Myzomela,12
+crimson_rumped_myzomela,Crimson-rumped Myzomela,DIB-10K_44,5846.Crimson-rumped Myzomela,5
+red_vested_myzomela,Red-vested Myzomela,DIB-10K_44,5847.Red-vested Myzomela,7
+black_headed_myzomela,Black-headed Myzomela,DIB-10K_44,5848.Black-headed Myzomela,7
+sooty_myzomela,Sooty Myzomela,DIB-10K_44,5849.Sooty Myzomela,14
+sulphur_breasted_myzomela,Sulphur-breasted Myzomela,DIB-10K_44,5850.Sulphur-breasted Myzomela,77
+black_bellied_myzomela,Black-bellied Myzomela,DIB-10K_44,5851.Black-bellied Myzomela,8
+black_breasted_myzomela,Black-breasted Myzomela,DIB-10K_44,5852.Black-breasted Myzomela,43
+red_collared_myzomela,Red-collared Myzomela,DIB-10K_44,5853.Red-collared Myzomela,41
+tawny_crowned_honeyeater,Tawny-crowned Honeyeater,DIB-10K_44,5854.Tawny-crowned Honeyeater,224
+green_backed_honeyeater,Green-backed Honeyeater,DIB-10K_44,5855.Green-backed Honeyeater,41
+leaden_honeyeater,Leaden Honeyeater,DIB-10K_44,5856.Leaden Honeyeater,3
+yellowish_streaked_honeyeater,Yellowish-streaked Honeyeater,DIB-10K_44,5857.Yellowish-streaked Honeyeater,6
+rufous_sided_honeyeater,Rufous-sided Honeyeater,DIB-10K_44,5858.Rufous-sided Honeyeater,13
+rufous_backed_honeyeater,Rufous-backed Honeyeater,DIB-10K_44,5859.Rufous-backed Honeyeater,10
+mayrs_honeyeater,Mayr's Honeyeater,DIB-10K_44,5860.Mayr's Honeyeater,1
+grey_streaked_honeyeater,Grey-streaked Honeyeater,DIB-10K_44,5861.Grey-streaked Honeyeater,60
+eastern_spinebill,Eastern Spinebill,DIB-10K_44,5862.Eastern Spinebill,1861
+western_spinebill,Western Spinebill,DIB-10K_44,5863.Western Spinebill,257
+pied_honeyeater,Pied Honeyeater,DIB-10K_44,5864.Pied Honeyeater,212
+tui,Tui,DIB-10K_44,5865.Tui,1961
+new_zealand_bellbird,New Zealand Bellbird,DIB-10K_44,5866.New Zealand Bellbird,1496
+chatham_bellbird,Chatham Bellbird,DIB-10K_44,5867.Chatham Bellbird,6
+plain_honeyeater,Plain Honeyeater,DIB-10K_44,5868.Plain Honeyeater,22
+marbled_honeyeater,Marbled Honeyeater,DIB-10K_44,5869.Marbled Honeyeater,19
+streak_headed_honeyeater,Streak-headed Honeyeater,DIB-10K_44,5870.Streak-headed Honeyeater,29
+banded_honeyeater,Banded Honeyeater,DIB-10K_44,5871.Banded Honeyeater,133
+scaly_crowned_honeyeater,Scaly-crowned Honeyeater,DIB-10K_44,5872.Scaly-crowned Honeyeater,36
+olive_honeyeater,Olive Honeyeater,DIB-10K_44,5873.Olive Honeyeater,48
+indonesian_honeyeater,Indonesian Honeyeater,DIB-10K_44,5874.Indonesian Honeyeater,105
+brown_honeyeater,Brown Honeyeater,DIB-10K_44,5875.Brown Honeyeater,1656
+grey_eared_honeyeater,Grey-eared Honeyeater,DIB-10K_44,5876.Grey-eared Honeyeater,145
+silver_eared_honeyeater,Silver-eared Honeyeater,DIB-10K_44,5877.Silver-eared Honeyeater,25
+scaly_breasted_honeyeater,Scaly-breasted Honeyeater,DIB-10K_44,5878.Scaly-breasted Honeyeater,41
+buru_honeyeater,Buru Honeyeater,DIB-10K_44,5879.Buru Honeyeater,9
+seram_honeyeater,Seram Honeyeater,DIB-10K_44,5880.Seram Honeyeater,11
+flame_eared_honeyeater,Flame-eared Honeyeater,DIB-10K_44,5881.Flame-eared Honeyeater,26
+black_necklaced_honeyeater,Black-necklaced Honeyeater,DIB-10K_44,5882.Black-necklaced Honeyeater,5
+crescent_honeyeater,Crescent Honeyeater,DIB-10K_44,5883.Crescent Honeyeater,347
+new_holland_honeyeater,New Holland Honeyeater,DIB-10K_44,5884.New Holland Honeyeater,2577
+white_cheeked_honeyeater,White-cheeked Honeyeater,DIB-10K_44,5885.White-cheeked Honeyeater,720
+white_streaked_honeyeater,White-streaked Honeyeater,DIB-10K_44,5886.White-streaked Honeyeater,53
+painted_honeyeater,Painted Honeyeater,DIB-10K_44,5887.Painted Honeyeater,275
+striped_honeyeater,Striped Honeyeater,DIB-10K_44,5888.Striped Honeyeater,518
+spotted_honeyeater,Spotted Honeyeater,DIB-10K_44,5889.Spotted Honeyeater,18
+macleays_honeyeater,Macleay's Honeyeater,DIB-10K_44,5890.Macleay's Honeyeater,306
+tawny_breasted_honeyeater,Tawny-breasted Honeyeater,DIB-10K_44,5891.Tawny-breasted Honeyeater,81
+kadavu_honeyeater,Kadavu Honeyeater,DIB-10K_44,5892.Kadavu Honeyeater,35
+meyers_friarbird,Meyer's Friarbird,DIB-10K_44,5893.Meyer's Friarbird,17
+brasss_friarbird,Brass's Friarbird,DIB-10K_44,5894.Brass's Friarbird,1
+little_friarbird,Little Friarbird,DIB-10K_44,5895.Little Friarbird,854
+grey_friarbird,Grey Friarbird,DIB-10K_44,5896.Grey Friarbird,27
+timor_friarbird,Timor Friarbird,DIB-10K_44,5897.Timor Friarbird,29
+dusky_friarbird,Dusky Friarbird,DIB-10K_44,5898.Dusky Friarbird,12
+seram_friarbird,Seram Friarbird,DIB-10K_44,5899.Seram Friarbird,14
+black_faced_friarbird,Black-faced Friarbird,DIB-10K_44,5900.Black-faced Friarbird,27
+tanimbar_friarbird,Tanimbar Friarbird,DIB-10K_44,5901.Tanimbar Friarbird,15
+helmeted_friarbird,Helmeted Friarbird,DIB-10K_44,5902.Helmeted Friarbird,525
+new_guinea_friarbird,New Guinea Friarbird,DIB-10K_44,5903.New Guinea Friarbird,37
+hornbill_friarbird,Hornbill Friarbird,DIB-10K_44,5904.Hornbill Friarbird,95
+new_britain_friarbird,New Britain Friarbird,DIB-10K_44,5905.New Britain Friarbird,17
+new_ireland_friarbird,New Ireland Friarbird,DIB-10K_44,5906.New Ireland Friarbird,1
+manus_friarbird,Manus Friarbird,DIB-10K_44,5907.Manus Friarbird,15
+silver_crowned_friarbird,Silver-crowned Friarbird,DIB-10K_44,5908.Silver-crowned Friarbird,261
+noisy_friarbird,Noisy Friarbird,DIB-10K_44,5909.Noisy Friarbird,1103
+new_caledonian_friarbird,New Caledonian Friarbird,DIB-10K_44,5910.New Caledonian Friarbird,90
+white_streaked_friarbird,White-streaked Friarbird,DIB-10K_44,5911.White-streaked Friarbird,37
+blue_faced_honeyeater,Blue-faced Honeyeater,DIB-10K_44,5912.Blue-faced Honeyeater,2377
+black_chinned_honeyeater,Black-chinned Honeyeater,DIB-10K_44,5913.Black-chinned Honeyeater,248
+strong_billed_honeyeater,Strong-billed Honeyeater,DIB-10K_44,5914.Strong-billed Honeyeater,152
+brown_headed_honeyeater,Brown-headed Honeyeater,DIB-10K_44,5915.Brown-headed Honeyeater,657
+white_throated_honeyeater,White-throated Honeyeater,DIB-10K_44,5916.White-throated Honeyeater,573
+white_naped_honeyeater,White-naped Honeyeater,DIB-10K_44,5917.White-naped Honeyeater,819
+gilberts_honeyeater,Gilbert's Honeyeater,DIB-10K_44,5918.Gilbert's Honeyeater,118
+black_headed_honeyeater,Black-headed Honeyeater,DIB-10K_44,5919.Black-headed Honeyeater,206
+polynesian_wattled_honeyeater,Polynesian Wattled Honeyeater,DIB-10K_44,5920.Polynesian Wattled Honeyeater,88
+fiji_wattled_honeyeater,Fiji Wattled Honeyeater,DIB-10K_44,5921.Fiji Wattled Honeyeater,16
+kikau,Kikau,DIB-10K_44,5922.Kikau,42
+white_eared_honeyeater,White-eared Honeyeater,DIB-10K_44,5923.White-eared Honeyeater,456
+yellow_throated_honeyeater,Yellow-throated Honeyeater,DIB-10K_44,5924.Yellow-throated Honeyeater,171
+gibberbird,Gibberbird,DIB-10K_44,5925.Gibberbird,120
+crimson_chat,Crimson Chat,DIB-10K_44,5926.Crimson Chat,595
+orange_chat,Orange Chat,DIB-10K_44,5927.Orange Chat,282
+yellow_chat,Yellow Chat,DIB-10K_44,5928.Yellow Chat,147
+white_fronted_chat,White-fronted Chat,DIB-10K_44,5929.White-fronted Chat,877
+long_billed_honeyeater,Long-billed Honeyeater,DIB-10K_44,5930.Long-billed Honeyeater,17
+macgregors_honeyeater,MacGregor's Honeyeater,DIB-10K_44,5931.MacGregor's Honeyeater,22
+arfak_honeyeater,Arfak Honeyeater,DIB-10K_44,5932.Arfak Honeyeater,33
+common_smoky_honeyeater,Common Smoky Honeyeater,DIB-10K_44,5933.Common Smoky Honeyeater,138
+wattled_smoky_honeyeater,Wattled Smoky Honeyeater,DIB-10K_44,5934.Wattled Smoky Honeyeater,8
+spangled_honeyeater,Spangled Honeyeater,DIB-10K_44,5935.Spangled Honeyeater,9
+olive_straightbill,Olive Straightbill,DIB-10K_44,5936.Olive Straightbill,6
+tawny_straightbill,Tawny Straightbill,DIB-10K_44,5937.Tawny Straightbill,6
+rufous_banded_honeyeater,Rufous-banded Honeyeater,DIB-10K_44,5938.Rufous-banded Honeyeater,319
+rufous_throated_honeyeater,Rufous-throated Honeyeater,DIB-10K_44,5939.Rufous-throated Honeyeater,276
+grey_honeyeater,Grey Honeyeater,DIB-10K_44,5940.Grey Honeyeater,89
+bar_breasted_honeyeater,Bar-breasted Honeyeater,DIB-10K_44,5941.Bar-breasted Honeyeater,227
+brown_backed_honeyeater,Brown-backed Honeyeater,DIB-10K_44,5942.Brown-backed Honeyeater,269
+spiny_cheeked_honeyeater,Spiny-cheeked Honeyeater,DIB-10K_44,5943.Spiny-cheeked Honeyeater,933
+little_wattlebird,Little Wattlebird,DIB-10K_44,5944.Little Wattlebird,1333
+western_wattlebird,Western Wattlebird,DIB-10K_44,5945.Western Wattlebird,161
+red_wattlebird,Red Wattlebird,DIB-10K_44,5946.Red Wattlebird,1875
+yellow_wattlebird,Yellow Wattlebird,DIB-10K_44,5947.Yellow Wattlebird,213
+regent_honeyeater,Regent Honeyeater,DIB-10K_44,5948.Regent Honeyeater,404
+bridled_honeyeater,Bridled Honeyeater,DIB-10K_44,5949.Bridled Honeyeater,132
+eungella_honeyeater,Eungella Honeyeater,DIB-10K_44,5950.Eungella Honeyeater,57
+yellow_faced_honeyeater,Yellow-faced Honeyeater,DIB-10K_44,5951.Yellow-faced Honeyeater,725
+black_throated_honeyeater,Black-throated Honeyeater,DIB-10K_44,5952.Black-throated Honeyeater,7
+obscure_honeyeater,Obscure Honeyeater,DIB-10K_44,5953.Obscure Honeyeater,12
+yellow_tufted_honeyeater,Yellow-tufted Honeyeater,DIB-10K_44,5954.Yellow-tufted Honeyeater,684
+purple_gaped_honeyeater,Purple-gaped Honeyeater,DIB-10K_44,5955.Purple-gaped Honeyeater,136
+bell_miner,Bell Miner,DIB-10K_44,5956.Bell Miner,744
+noisy_miner,Noisy Miner,DIB-10K_44,5957.Noisy Miner,2776
+yellow_throated_miner,Yellow-throated Miner,DIB-10K_44,5958.Yellow-throated Miner,703
+black_eared_miner,Black-eared Miner,DIB-10K_44,5959.Black-eared Miner,70
+makira_honeyeater,Makira Honeyeater,DIB-10K_44,5960.Makira Honeyeater,6
+sooty_melidectes,Sooty Melidectes,DIB-10K_44,5961.Sooty Melidectes,16
+gilliards_melidectes,Gilliard's Melidectes,DIB-10K_44,5962.Gilliard's Melidectes,1
+short_bearded_melidectes,Short-bearded Melidectes,DIB-10K_44,5963.Short-bearded Melidectes,5
+long_bearded_melidectes,Long-bearded Melidectes,DIB-10K_44,5964.Long-bearded Melidectes,3
+cinnamon_browed_melidectes,Cinnamon-browed Melidectes,DIB-10K_44,5965.Cinnamon-browed Melidectes,11
+vogelkop_melidectes,Vogelkop Melidectes,DIB-10K_44,5966.Vogelkop Melidectes,18
+yellow_browed_melidectes,Yellow-browed Melidectes,DIB-10K_44,5967.Yellow-browed Melidectes,34
+huon_melidectes,Huon Melidectes,DIB-10K_44,5968.Huon Melidectes,2
+belfords_melidectes,Belford's Melidectes,DIB-10K_44,5969.Belford's Melidectes,102
+ornate_melidectes,Ornate Melidectes,DIB-10K_44,5970.Ornate Melidectes,40
+white_fronted_honeyeater,White-fronted Honeyeater,DIB-10K_44,5971.White-fronted Honeyeater,211
+white_gaped_honeyeater,White-gaped Honeyeater,DIB-10K_44,5972.White-gaped Honeyeater,173
+yellow_honeyeater,Yellow Honeyeater,DIB-10K_44,5973.Yellow Honeyeater,211
+varied_honeyeater,Varied Honeyeater,DIB-10K_44,5974.Varied Honeyeater,181
+mangrove_honeyeater,Mangrove Honeyeater,DIB-10K_44,5975.Mangrove Honeyeater,134
+singing_honeyeater,Singing Honeyeater,DIB-10K_44,5976.Singing Honeyeater,627
+yellow_tinted_honeyeater,Yellow-tinted Honeyeater,DIB-10K_44,5977.Yellow-tinted Honeyeater,147
+fuscous_honeyeater,Fuscous Honeyeater,DIB-10K_44,5978.Fuscous Honeyeater,340
+grey_headed_honeyeater,Grey-headed Honeyeater,DIB-10K_44,5979.Grey-headed Honeyeater,125
+grey_fronted_honeyeater,Grey-fronted Honeyeater,DIB-10K_44,5980.Grey-fronted Honeyeater,140
+yellow_plumed_honeyeater,Yellow-plumed Honeyeater,DIB-10K_44,5981.Yellow-plumed Honeyeater,271
+white_plumed_honeyeater,White-plumed Honeyeater,DIB-10K_44,5982.White-plumed Honeyeater,840
+mottle_breasted_honeyeater,Mottle-breasted Honeyeater,DIB-10K_44,5983.Mottle-breasted Honeyeater,1
+forest_honeyeater,Forest Honeyeater,DIB-10K_44,5984.Forest Honeyeater,36
+mountain_honeyeater,Mountain Honeyeater,DIB-10K_44,5985.Mountain Honeyeater,13
+scrub_honeyeater,Scrub Honeyeater,DIB-10K_44,5986.Scrub Honeyeater,27
+mimic_honeyeater,Mimic Honeyeater,DIB-10K_44,5987.Mimic Honeyeater,49
+tagula_honeyeater,Tagula Honeyeater,DIB-10K_44,5988.Tagula Honeyeater,3
+graceful_honeyeater,Graceful Honeyeater,DIB-10K_44,5989.Graceful Honeyeater,163
+elegant_honeyeater,Elegant Honeyeater,DIB-10K_44,5990.Elegant Honeyeater,7
+yellow_gaped_honeyeater,Yellow-gaped Honeyeater,DIB-10K_44,5991.Yellow-gaped Honeyeater,11
+white_lined_honeyeater,White-lined Honeyeater,DIB-10K_44,5992.White-lined Honeyeater,53
+kimberley_honeyeater,Kimberley Honeyeater,DIB-10K_44,5993.Kimberley Honeyeater,19
+streak_breasted_honeyeater,Streak-breasted Honeyeater,DIB-10K_44,5994.Streak-breasted Honeyeater,60
+puff_backed_honeyeater,Puff-backed Honeyeater,DIB-10K_44,5995.Puff-backed Honeyeater,19
+yellow_spotted_honeyeater,Yellow-spotted Honeyeater,DIB-10K_44,5996.Yellow-spotted Honeyeater,252
+lewins_honeyeater,Lewin's Honeyeater,DIB-10K_44,5997.Lewin's Honeyeater,1154
+guadalcanal_honeyeater,Guadalcanal Honeyeater,DIB-10K_44,5998.Guadalcanal Honeyeater,1
+orange_cheeked_honeyeater,Orange-cheeked Honeyeater,DIB-10K_44,5999.Orange-cheeked Honeyeater,19
+yellow_billed_honeyeater,Yellow-billed Honeyeater,DIB-10K_44,6000.Yellow-billed Honeyeater,12
+giant_honeyeater,Giant Honeyeater,DIB-10K_44,6001.Giant Honeyeater,19
+mao,Mao,DIB-10K_44,6002.Mao,40
+crow_honeyeater,Crow Honeyeater,DIB-10K_44,6003.Crow Honeyeater,71
+dark_eared_myza,Dark-eared Myza,DIB-10K_44,6004.Dark-eared Myza,36
+white_eared_myza,White-eared Myza,DIB-10K_44,6005.White-eared Myza,49
+bougainville_honeyeater,Bougainville Honeyeater,DIB-10K_44,6006.Bougainville Honeyeater,4
+barred_honeyeater,Barred Honeyeater,DIB-10K_44,6007.Barred Honeyeater,71
+white_bellied_honeyeater,White-bellied Honeyeater,DIB-10K_44,6008.White-bellied Honeyeater,15
+eastern_bristlebird,Eastern Bristlebird,DIB-10K_44,6009.Eastern Bristlebird,165
+western_bristlebird,Western Bristlebird,DIB-10K_44,6010.Western Bristlebird,70
+rufous_bristlebird,Rufous Bristlebird,DIB-10K_44,6011.Rufous Bristlebird,161
+spotted_pardalote,Spotted Pardalote,DIB-10K_44,6012.Spotted Pardalote,1484
+forty_spotted_pardalote,Forty-spotted Pardalote,DIB-10K_44,6013.Forty-spotted Pardalote,187
+red_browed_pardalote,Red-browed Pardalote,DIB-10K_44,6014.Red-browed Pardalote,115
+striated_pardalote,Striated Pardalote,DIB-10K_44,6015.Striated Pardalote,1732
+goldenface,Goldenface,DIB-10K_44,6016.Goldenface,9
+fernwren,Fernwren,DIB-10K_44,6017.Fernwren,60
+pilotbird,Pilotbird,DIB-10K_44,6018.Pilotbird,158
+scrubtit,Scrubtit,DIB-10K_44,6019.Scrubtit,95
+rockwarbler,Rockwarbler,DIB-10K_44,6020.Rockwarbler,364
+chestnut_rumped_heathwren,Chestnut-rumped Heathwren,DIB-10K_44,6021.Chestnut-rumped Heathwren,118
+shy_heathwren,Shy Heathwren,DIB-10K_44,6022.Shy Heathwren,129
+striated_fieldwren,Striated Fieldwren,DIB-10K_44,6023.Striated Fieldwren,376
+western_fieldwren,Western Fieldwren,DIB-10K_44,6024.Western Fieldwren,45
+rufous_fieldwren,Rufous Fieldwren,DIB-10K_44,6025.Rufous Fieldwren,151
+redthroat,Redthroat,DIB-10K_44,6026.Redthroat,139
+speckled_warbler,Speckled Warbler,DIB-10K_44,6027.Speckled Warbler,375
+rusty_mouse_warbler,Rusty Mouse-warbler,DIB-10K_44,6028.Rusty Mouse-warbler,23
+mountain_mouse_warbler,Mountain Mouse-warbler,DIB-10K_44,6030.Mountain Mouse-warbler,34
+pale_billed_scrubwren,Pale-billed Scrubwren,DIB-10K_44,6031.Pale-billed Scrubwren,12
+papuan_scrubwren,Papuan Scrubwren,DIB-10K_44,6032.Papuan Scrubwren,31
+atherton_scrubwren,Atherton Scrubwren,DIB-10K_44,6033.Atherton Scrubwren,120
+white_browed_scrubwren,White-browed Scrubwren,DIB-10K_44,6034.White-browed Scrubwren,1643
+tasmanian_scrubwren,Tasmanian Scrubwren,DIB-10K_44,6035.Tasmanian Scrubwren,225
+yellow_throated_scrubwren,Yellow-throated Scrubwren,DIB-10K_44,6036.Yellow-throated Scrubwren,345
+large_billed_scrubwren,Large-billed Scrubwren,DIB-10K_44,6037.Large-billed Scrubwren,323
+tropical_scrubwren,Tropical Scrubwren,DIB-10K_44,6038.Tropical Scrubwren,54
+perplexing_scrubwren,Perplexing Scrubwren,DIB-10K_44,6039.Perplexing Scrubwren,2
+large_scrubwren,Large Scrubwren,DIB-10K_44,6040.Large Scrubwren,28
+buff_faced_scrubwren,Buff-faced Scrubwren,DIB-10K_44,6041.Buff-faced Scrubwren,16
+vogelkop_scrubwren,Vogelkop Scrubwren,DIB-10K_44,6042.Vogelkop Scrubwren,19
+grey_green_scrubwren,Grey-green Scrubwren,DIB-10K_44,6043.Grey-green Scrubwren,11
+weebill,Weebill,DIB-10K_44,6044.Weebill,757
+brown_gerygone,Brown Gerygone,DIB-10K_44,6045.Brown Gerygone,428
+grey_gerygone,Grey Gerygone,DIB-10K_44,6046.Grey Gerygone,443
+norfolk_gerygone,Norfolk Gerygone,DIB-10K_44,6047.Norfolk Gerygone,27
+lord_howe_gerygone,Lord Howe Gerygone,DIB-10K_44,6048.Lord Howe Gerygone,9
+chatham_gerygone,Chatham Gerygone,DIB-10K_44,6049.Chatham Gerygone,24
+fan_tailed_gerygone,Fan-tailed Gerygone,DIB-10K_44,6050.Fan-tailed Gerygone,51
+brown_breasted_gerygone,Brown-breasted Gerygone,DIB-10K_44,6051.Brown-breasted Gerygone,33
+golden_bellied_gerygone,Golden-bellied Gerygone,DIB-10K_44,6052.Golden-bellied Gerygone,426
+rufous_sided_gerygone,Rufous-sided Gerygone,DIB-10K_44,6053.Rufous-sided Gerygone,52
+mangrove_gerygone,Mangrove Gerygone,DIB-10K_44,6054.Mangrove Gerygone,256
+plain_gerygone,Plain Gerygone,DIB-10K_44,6055.Plain Gerygone,34
+western_gerygone,Western Gerygone,DIB-10K_44,6056.Western Gerygone,265
+dusky_gerygone,Dusky Gerygone,DIB-10K_44,6057.Dusky Gerygone,42
+large_billed_gerygone,Large-billed Gerygone,DIB-10K_44,6058.Large-billed Gerygone,177
+biak_gerygone,Biak Gerygone,DIB-10K_44,6059.Biak Gerygone,18
+yellow_bellied_gerygone,Yellow-bellied Gerygone,DIB-10K_44,6060.Yellow-bellied Gerygone,33
+green_backed_gerygone,Green-backed Gerygone,DIB-10K_44,6061.Green-backed Gerygone,66
+white_throated_gerygone,White-throated Gerygone,DIB-10K_44,6062.White-throated Gerygone,405
+fairy_gerygone,Fairy Gerygone,DIB-10K_44,6063.Fairy Gerygone,171
+mountain_thornbill,Mountain Thornbill,DIB-10K_44,6064.Mountain Thornbill,71
+brown_thornbill,Brown Thornbill,DIB-10K_44,6065.Brown Thornbill,1404
+inland_thornbill,Inland Thornbill,DIB-10K_44,6066.Inland Thornbill,377
+tasmanian_thornbill,Tasmanian Thornbill,DIB-10K_44,6067.Tasmanian Thornbill,202
+new_guinea_thornbill,New Guinea Thornbill,DIB-10K_44,6068.New Guinea Thornbill,16
+chestnut_rumped_thornbill,Chestnut-rumped Thornbill,DIB-10K_44,6069.Chestnut-rumped Thornbill,341
+buff_rumped_thornbill,Buff-rumped Thornbill,DIB-10K_44,6070.Buff-rumped Thornbill,659
+western_thornbill,Western Thornbill,DIB-10K_44,6071.Western Thornbill,108
+slender_billed_thornbill,Slender-billed Thornbill,DIB-10K_44,6072.Slender-billed Thornbill,85
+yellow_rumped_thornbill,Yellow-rumped Thornbill,DIB-10K_44,6073.Yellow-rumped Thornbill,1378
+yellow_thornbill,Yellow Thornbill,DIB-10K_44,6074.Yellow Thornbill,559
+grey_thornbill,Grey Thornbill,DIB-10K_44,6075.Grey Thornbill,11
+striated_thornbill,Striated Thornbill,DIB-10K_44,6076.Striated Thornbill,748
+slaty_backed_thornbill,Slaty-backed Thornbill,DIB-10K_44,6077.Slaty-backed Thornbill,45
+,,DIB-10K_44,,0

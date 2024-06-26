@@ -1,0 +1,255 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+cuban_martin,Cuban Martin,DIB-10K_51,7362.Cuban Martin,127
+caribbean_martin,Caribbean Martin,DIB-10K_51,7363.Caribbean Martin,254
+sinaloa_martin,Sinaloa Martin,DIB-10K_51,7364.Sinaloa Martin,25
+grey_breasted_martin,Grey-breasted Martin,DIB-10K_51,7365.Grey-breasted Martin,1322
+galapagos_martin,Galapagos Martin,DIB-10K_51,7366.Galapagos Martin,56
+peruvian_martin,Peruvian Martin,DIB-10K_51,7367.Peruvian Martin,50
+southern_martin,Southern Martin,DIB-10K_51,7368.Southern Martin,298
+brown_chested_martin,Brown-chested Martin,DIB-10K_51,7369.Brown-chested Martin,1168
+blue_and_white_swallow,Blue-and-white Swallow,DIB-10K_51,7370.Blue-and-white Swallow,1678
+brown_bellied_swallow,Brown-bellied Swallow,DIB-10K_51,7371.Brown-bellied Swallow,253
+pale_footed_swallow,Pale-footed Swallow,DIB-10K_51,7372.Pale-footed Swallow,42
+black_capped_swallow,Black-capped Swallow,DIB-10K_51,7373.Black-capped Swallow,63
+andean_swallow,Andean Swallow,DIB-10K_51,7374.Andean Swallow,76
+white_banded_swallow,White-banded Swallow,DIB-10K_51,7375.White-banded Swallow,230
+black_collared_swallow,Black-collared Swallow,DIB-10K_51,7376.Black-collared Swallow,74
+white_thighed_swallow,White-thighed Swallow,DIB-10K_51,7377.White-thighed Swallow,126
+northern_rough_winged_swallow,Northern Rough-winged Swallow,DIB-10K_51,7378.Northern Rough-winged Swallow,2674
+southern_rough_winged_swallow,Southern Rough-winged Swallow,DIB-10K_51,7379.Southern Rough-winged Swallow,1300
+tawny_headed_swallow,Tawny-headed Swallow,DIB-10K_51,7380.Tawny-headed Swallow,246
+barn_swallow,Barn Swallow,DIB-10K_51,7381.Barn Swallow,2927
+red_chested_swallow,Red-chested Swallow,DIB-10K_51,7382.Red-chested Swallow,100
+angolan_swallow,Angolan Swallow,DIB-10K_51,7383.Angolan Swallow,123
+pacific_swallow,Pacific Swallow,DIB-10K_51,7384.Pacific Swallow,2305
+hill_swallow,Hill Swallow,DIB-10K_51,7385.Hill Swallow,189
+welcome_swallow,Welcome Swallow,DIB-10K_51,7386.Welcome Swallow,2909
+white_throated_swallow,White-throated Swallow,DIB-10K_51,7387.White-throated Swallow,539
+ethiopian_swallow,Ethiopian Swallow,DIB-10K_51,7388.Ethiopian Swallow,148
+wire_tailed_swallow,Wire-tailed Swallow,DIB-10K_51,7389.Wire-tailed Swallow,1724
+blue_swallow,Blue Swallow,DIB-10K_51,7390.Blue Swallow,616
+white_bibbed_swallow,White-bibbed Swallow,DIB-10K_51,7391.White-bibbed Swallow,95
+pied_winged_swallow,Pied-winged Swallow,DIB-10K_51,7392.Pied-winged Swallow,62
+white_tailed_swallow,White-tailed Swallow,DIB-10K_51,7393.White-tailed Swallow,81
+black_and_rufous_swallow,Black-and-rufous Swallow,DIB-10K_51,7394.Black-and-rufous Swallow,12
+pearl_breasted_swallow,Pearl-breasted Swallow,DIB-10K_51,7395.Pearl-breasted Swallow,120
+eurasian_crag_martin,Eurasian Crag Martin,DIB-10K_51,7396.Eurasian Crag Martin,1702
+pale_crag_martin,Pale Crag Martin,DIB-10K_51,7397.Pale Crag Martin,151
+rock_martin,Rock Martin,DIB-10K_51,7398.Rock Martin,423
+dusky_crag_martin,Dusky Crag Martin,DIB-10K_51,7399.Dusky Crag Martin,279
+common_house_martin,Common House Martin,DIB-10K_51,7400.Common House Martin,2376
+asian_house_martin,Asian House Martin,DIB-10K_51,7401.Asian House Martin,291
+nepal_house_martin,Nepal House Martin,DIB-10K_51,7402.Nepal House Martin,69
+greater_striped_swallow,Greater Striped Swallow,DIB-10K_51,7403.Greater Striped Swallow,390
+lesser_striped_swallow,Lesser Striped Swallow,DIB-10K_51,7404.Lesser Striped Swallow,743
+red_breasted_swallow,Red-breasted Swallow,DIB-10K_51,7405.Red-breasted Swallow,181
+mosque_swallow,Mosque Swallow,DIB-10K_51,7406.Mosque Swallow,151
+red_rumped_swallow,Red-rumped Swallow,DIB-10K_51,7407.Red-rumped Swallow,2331
+sri_lanka_swallow,Sri Lanka Swallow,DIB-10K_51,7408.Sri Lanka Swallow,93
+west_african_swallow,West African Swallow,DIB-10K_51,7409.West African Swallow,55
+striated_swallow,Striated Swallow,DIB-10K_51,7410.Striated Swallow,333
+rufous_bellied_swallow,Rufous-bellied Swallow,DIB-10K_51,7411.Rufous-bellied Swallow,108
+red_throated_cliff_swallow,Red-throated Cliff Swallow,DIB-10K_51,7412.Red-throated Cliff Swallow,20
+preusss_cliff_swallow,Preuss's Cliff Swallow,DIB-10K_51,7413.Preuss's Cliff Swallow,44
+red_sea_cliff_swallow,Red Sea Cliff Swallow,DIB-10K_51,7414.Red Sea Cliff Swallow,11
+south_african_cliff_swallow,South African Cliff Swallow,DIB-10K_51,7415.South African Cliff Swallow,57
+forest_swallow,Forest Swallow,DIB-10K_51,7416.Forest Swallow,13
+streak_throated_swallow,Streak-throated Swallow,DIB-10K_51,7417.Streak-throated Swallow,320
+fairy_martin,Fairy Martin,DIB-10K_51,7418.Fairy Martin,700
+tree_martin,Tree Martin,DIB-10K_51,7419.Tree Martin,722
+american_cliff_swallow,American Cliff Swallow,DIB-10K_51,7420.American Cliff Swallow,1972
+cave_swallow,Cave Swallow,DIB-10K_51,7421.Cave Swallow,992
+chestnut_collared_swallow,Chestnut-collared Swallow,DIB-10K_51,7422.Chestnut-collared Swallow,78
+scaly_breasted_cupwing,Scaly-breasted Cupwing,DIB-10K_51,7423.Scaly-breasted Cupwing,121
+chinese_cupwing,Chinese Cupwing,DIB-10K_51,7424.Chinese Cupwing,15
+taiwan_cupwing,Taiwan Cupwing,DIB-10K_51,7425.Taiwan Cupwing,52
+nepal_cupwing,Nepal Cupwing,DIB-10K_51,7426.Nepal Cupwing,31
+pygmy_cupwing,Pygmy Cupwing,DIB-10K_51,7427.Pygmy Cupwing,391
+moustached_grass_warbler,Moustached Grass Warbler,DIB-10K_51,7428.Moustached Grass Warbler,131
+cape_grassbird,Cape Grassbird,DIB-10K_51,7429.Cape Grassbird,246
+rockrunner,Rockrunner,DIB-10K_51,7430.Rockrunner,124
+yellow_longbill,Yellow Longbill,DIB-10K_51,7431.Yellow Longbill,14
+kemps_longbill,Kemp's Longbill,DIB-10K_51,7432.Kemp's Longbill,2
+grey_longbill,Grey Longbill,DIB-10K_51,7433.Grey Longbill,12
+pulitzers_longbill,Pulitzer's Longbill,DIB-10K_51,7434.Pulitzer's Longbill,11
+kretschmers_longbill,Kretschmer's Longbill,DIB-10K_51,7435.Kretschmer's Longbill,4
+northern_crombec,Northern Crombec,DIB-10K_51,7436.Northern Crombec,133
+red_faced_crombec,Red-faced Crombec,DIB-10K_51,7437.Red-faced Crombec,122
+philippas_crombec,Philippa's Crombec,DIB-10K_51,7438.Philippa's Crombec,4
+long_billed_crombec,Long-billed Crombec,DIB-10K_51,7439.Long-billed Crombec,285
+somali_crombec,Somali Crombec,DIB-10K_51,7440.Somali Crombec,13
+red_capped_crombec,Red-capped Crombec,DIB-10K_51,7441.Red-capped Crombec,18
+green_crombec,Green Crombec,DIB-10K_51,7442.Green Crombec,50
+lemon_bellied_crombec,Lemon-bellied Crombec,DIB-10K_51,7443.Lemon-bellied Crombec,21
+white_browed_crombec,White-browed Crombec,DIB-10K_51,7444.White-browed Crombec,30
+victorins_warbler,Victorin's Warbler,DIB-10K_51,7445.Victorin's Warbler,52
+yellow_bellied_warbler,Yellow-bellied Warbler,DIB-10K_51,7446.Yellow-bellied Warbler,152
+rufous_faced_warbler,Rufous-faced Warbler,DIB-10K_51,7447.Rufous-faced Warbler,307
+black_faced_warbler,Black-faced Warbler,DIB-10K_51,7448.Black-faced Warbler,115
+mountain_tailorbird,Mountain Tailorbird,DIB-10K_51,7449.Mountain Tailorbird,125
+rufous_headed_tailorbird,Rufous-headed Tailorbird,DIB-10K_51,7450.Rufous-headed Tailorbird,23
+broad_billed_warbler,Broad-billed Warbler,DIB-10K_51,7451.Broad-billed Warbler,38
+philippine_bush_warbler,Philippine Bush Warbler,DIB-10K_51,7452.Philippine Bush Warbler,17
+japanese_bush_warbler,Japanese Bush Warbler,DIB-10K_51,7453.Japanese Bush Warbler,302
+manchurian_bush_warbler,Manchurian Bush Warbler,DIB-10K_51,7454.Manchurian Bush Warbler,142
+palau_bush_warbler,Palau Bush Warbler,DIB-10K_51,7455.Palau Bush Warbler,14
+tanimbar_bush_warbler,Tanimbar Bush Warbler,DIB-10K_51,7456.Tanimbar Bush Warbler,13
+shade_bush_warbler,Shade Bush Warbler,DIB-10K_51,7457.Shade Bush Warbler,9
+bougainville_bush_warbler,Bougainville Bush Warbler,DIB-10K_51,7458.Bougainville Bush Warbler,3
+fiji_bush_warbler,Fiji Bush Warbler,DIB-10K_51,7459.Fiji Bush Warbler,34
+brown_flanked_bush_warbler,Brown-flanked Bush Warbler,DIB-10K_51,7460.Brown-flanked Bush Warbler,86
+humes_bush_warbler,Hume's Bush Warbler,DIB-10K_51,7461.Hume's Bush Warbler,24
+yellow_bellied_bush_warbler,Yellow-bellied Bush Warbler,DIB-10K_51,7462.Yellow-bellied Bush Warbler,69
+sunda_bush_warbler,Sunda Bush Warbler,DIB-10K_51,7463.Sunda Bush Warbler,72
+aberrant_bush_warbler,Aberrant Bush Warbler,DIB-10K_51,7464.Aberrant Bush Warbler,84
+grey_bellied_tesia,Grey-bellied Tesia,DIB-10K_51,7465.Grey-bellied Tesia,110
+slaty_bellied_tesia,Slaty-bellied Tesia,DIB-10K_51,7466.Slaty-bellied Tesia,67
+russet_capped_tesia,Russet-capped Tesia,DIB-10K_51,7467.Russet-capped Tesia,14
+javan_tesia,Javan Tesia,DIB-10K_51,7468.Javan Tesia,66
+cettis_warbler,Cetti's Warbler,DIB-10K_51,7469.Cetti's Warbler,1179
+chestnut_crowned_bush_warbler,Chestnut-crowned Bush Warbler,DIB-10K_51,7470.Chestnut-crowned Bush Warbler,24
+grey_sided_bush_warbler,Grey-sided Bush Warbler,DIB-10K_51,7471.Grey-sided Bush Warbler,85
+chestnut_headed_tesia,Chestnut-headed Tesia,DIB-10K_51,7472.Chestnut-headed Tesia,138
+asian_stubtail,Asian Stubtail,DIB-10K_51,7473.Asian Stubtail,203
+bornean_stubtail,Bornean Stubtail,DIB-10K_51,7474.Bornean Stubtail,54
+timor_stubtail,Timor Stubtail,DIB-10K_51,7475.Timor Stubtail,29
+pale_footed_bush_warbler,Pale-footed Bush Warbler,DIB-10K_51,7476.Pale-footed Bush Warbler,10
+neumanns_warbler,Neumann's Warbler,DIB-10K_51,7477.Neumann's Warbler,5
+streaked_scrub_warbler,Streaked Scrub Warbler,DIB-10K_51,7478.Streaked Scrub Warbler,253
+little_yellow_flycatcher,Little Yellow Flycatcher,DIB-10K_51,7479.Little Yellow Flycatcher,20
+chestnut_capped_flycatcher,Chestnut-capped Flycatcher,DIB-10K_51,7480.Chestnut-capped Flycatcher,30
+livingstones_flycatcher,Livingstone's Flycatcher,DIB-10K_51,7481.Livingstone's Flycatcher,18
+grauers_warbler,Grauer's Warbler,DIB-10K_51,7482.Grauer's Warbler,20
+green_hylia,Green Hylia,DIB-10K_51,7483.Green Hylia,36
+tit_hylia,Tit Hylia,DIB-10K_51,7484.Tit Hylia,31
+long_tailed_tit,Long-tailed Tit,DIB-10K_51,7485.Long-tailed Tit,2566
+silver_throated_bushtit,Silver-throated Bushtit,DIB-10K_51,7486.Silver-throated Bushtit,81
+white_cheeked_bushtit,White-cheeked Bushtit,DIB-10K_51,7487.White-cheeked Bushtit,45
+black_throated_bushtit,Black-throated Bushtit,DIB-10K_51,7488.Black-throated Bushtit,870
+white_throated_bushtit,White-throated Bushtit,DIB-10K_51,7489.White-throated Bushtit,20
+rufous_fronted_bushtit,Rufous-fronted Bushtit,DIB-10K_51,7490.Rufous-fronted Bushtit,103
+black_browed_bushtit,Black-browed Bushtit,DIB-10K_51,7491.Black-browed Bushtit,52
+burmese_bushtit,Burmese Bushtit,DIB-10K_51,7492.Burmese Bushtit,16
+sooty_bushtit,Sooty Bushtit,DIB-10K_51,7493.Sooty Bushtit,38
+white_browed_tit_warbler,White-browed Tit-warbler,DIB-10K_51,7494.White-browed Tit-warbler,206
+crested_tit_warbler,Crested Tit-warbler,DIB-10K_51,7495.Crested Tit-warbler,56
+pygmy_bushtit,Pygmy Bushtit,DIB-10K_51,7496.Pygmy Bushtit,56
+american_bushtit,American Bushtit,DIB-10K_51,7497.American Bushtit,2327
+yellow_throated_woodland_warbler,Yellow-throated Woodland Warbler,DIB-10K_51,7498.Yellow-throated Woodland Warbler,47
+lauras_woodland_warbler,Laura's Woodland Warbler,DIB-10K_51,7499.Laura's Woodland Warbler,11
+red_faced_woodland_warbler,Red-faced Woodland Warbler,DIB-10K_51,7500.Red-faced Woodland Warbler,45
+black_capped_woodland_warbler,Black-capped Woodland Warbler,DIB-10K_51,7501.Black-capped Woodland Warbler,17
+uganda_woodland_warbler,Uganda Woodland Warbler,DIB-10K_51,7502.Uganda Woodland Warbler,12
+brown_woodland_warbler,Brown Woodland Warbler,DIB-10K_51,7503.Brown Woodland Warbler,57
+willow_warbler,Willow Warbler,DIB-10K_51,7504.Willow Warbler,2708
+common_chiffchaff,Common Chiffchaff,DIB-10K_51,7505.Common Chiffchaff,2766
+iberian_chiffchaff,Iberian Chiffchaff,DIB-10K_51,7506.Iberian Chiffchaff,658
+canary_islands_chiffchaff,Canary Islands Chiffchaff,DIB-10K_51,7507.Canary Islands Chiffchaff,686
+mountain_chiffchaff,Mountain Chiffchaff,DIB-10K_51,7508.Mountain Chiffchaff,145
+plain_leaf_warbler,Plain Leaf Warbler,DIB-10K_51,7509.Plain Leaf Warbler,70
+western_bonellis_warbler,Western Bonelli's Warbler,DIB-10K_51,7510.Western Bonelli's Warbler,895
+eastern_bonellis_warbler,Eastern Bonelli's Warbler,DIB-10K_51,7511.Eastern Bonelli's Warbler,153
+wood_warbler,Wood Warbler,DIB-10K_51,7512.Wood Warbler,1754
+dusky_warbler,Dusky Warbler,DIB-10K_51,7513.Dusky Warbler,711
+smoky_warbler,Smoky Warbler,DIB-10K_51,7514.Smoky Warbler,54
+tickells_leaf_warbler,Tickell's Leaf Warbler,DIB-10K_51,7515.Tickell's Leaf Warbler,317
+alpine_leaf_warbler,Alpine Leaf Warbler,DIB-10K_51,7516.Alpine Leaf Warbler,46
+buff_throated_warbler,Buff-throated Warbler,DIB-10K_51,7517.Buff-throated Warbler,128
+sulphur_bellied_warbler,Sulphur-bellied Warbler,DIB-10K_51,7518.Sulphur-bellied Warbler,335
+yellow_streaked_warbler,Yellow-streaked Warbler,DIB-10K_51,7519.Yellow-streaked Warbler,70
+raddes_warbler,Radde's Warbler,DIB-10K_51,7520.Radde's Warbler,303
+buff_barred_warbler,Buff-barred Warbler,DIB-10K_51,7521.Buff-barred Warbler,192
+ashy_throated_warbler,Ashy-throated Warbler,DIB-10K_51,7522.Ashy-throated Warbler,197
+gansu_leaf_warbler,Gansu Leaf Warbler,DIB-10K_51,7523.Gansu Leaf Warbler,27
+chinese_leaf_warbler,Chinese Leaf Warbler,DIB-10K_51,7524.Chinese Leaf Warbler,63
+pallass_leaf_warbler,Pallas's Leaf Warbler,DIB-10K_51,7525.Pallas's Leaf Warbler,423
+lemon_rumped_warbler,Lemon-rumped Warbler,DIB-10K_51,7526.Lemon-rumped Warbler,140
+brookss_leaf_warbler,Brooks's Leaf Warbler,DIB-10K_51,7527.Brooks's Leaf Warbler,29
+yellow_browed_warbler,Yellow-browed Warbler,DIB-10K_51,7528.Yellow-browed Warbler,1443
+humes_leaf_warbler,Hume's Leaf Warbler,DIB-10K_51,7529.Hume's Leaf Warbler,511
+arctic_warbler,Arctic Warbler,DIB-10K_51,7530.Arctic Warbler,955
+kamchatka_leaf_warbler,Kamchatka Leaf Warbler,DIB-10K_51,7531.Kamchatka Leaf Warbler,60
+japanese_leaf_warbler,Japanese Leaf Warbler,DIB-10K_51,7532.Japanese Leaf Warbler,60
+green_warbler,Green Warbler,DIB-10K_51,7533.Green Warbler,240
+greenish_warbler,Greenish Warbler,DIB-10K_51,7534.Greenish Warbler,884
+two_barred_warbler,Two-barred Warbler,DIB-10K_51,7535.Two-barred Warbler,146
+pale_legged_leaf_warbler,Pale-legged Leaf Warbler,DIB-10K_51,7536.Pale-legged Leaf Warbler,186
+sakhalin_leaf_warbler,Sakhalin Leaf Warbler,DIB-10K_51,7537.Sakhalin Leaf Warbler,86
+large_billed_leaf_warbler,Large-billed Leaf Warbler,DIB-10K_51,7538.Large-billed Leaf Warbler,161
+tytlers_leaf_warbler,Tytler's Leaf Warbler,DIB-10K_51,7539.Tytler's Leaf Warbler,85
+western_crowned_warbler,Western Crowned Warbler,DIB-10K_51,7540.Western Crowned Warbler,171
+eastern_crowned_warbler,Eastern Crowned Warbler,DIB-10K_51,7541.Eastern Crowned Warbler,356
+ijimas_leaf_warbler,Ijima's Leaf Warbler,DIB-10K_51,7542.Ijima's Leaf Warbler,88
+blyths_leaf_warbler,Blyth's Leaf Warbler,DIB-10K_51,7543.Blyth's Leaf Warbler,166
+claudias_leaf_warbler,Claudia's Leaf Warbler,DIB-10K_51,7544.Claudia's Leaf Warbler,76
+harterts_leaf_warbler,Hartert's Leaf Warbler,DIB-10K_51,7545.Hartert's Leaf Warbler,29
+emei_leaf_warbler,Emei Leaf Warbler,DIB-10K_51,7546.Emei Leaf Warbler,21
+davisons_leaf_warbler,Davison's Leaf Warbler,DIB-10K_51,7547.Davison's Leaf Warbler,47
+klosss_leaf_warbler,Kloss's Leaf Warbler,DIB-10K_51,7548.Kloss's Leaf Warbler,47
+hainan_leaf_warbler,Hainan Leaf Warbler,DIB-10K_51,7549.Hainan Leaf Warbler,42
+sichuan_leaf_warbler,Sichuan Leaf Warbler,DIB-10K_51,7550.Sichuan Leaf Warbler,53
+yellow_vented_warbler,Yellow-vented Warbler,DIB-10K_51,7551.Yellow-vented Warbler,40
+limestone_leaf_warbler,Limestone Leaf Warbler,DIB-10K_51,7552.Limestone Leaf Warbler,28
+sulphur_breasted_warbler,Sulphur-breasted Warbler,DIB-10K_51,7553.Sulphur-breasted Warbler,55
+philippine_leaf_warbler,Philippine Leaf Warbler,DIB-10K_51,7554.Philippine Leaf Warbler,25
+lemon_throated_leaf_warbler,Lemon-throated Leaf Warbler,DIB-10K_51,7555.Lemon-throated Leaf Warbler,13
+mountain_leaf_warbler,Mountain Leaf Warbler,DIB-10K_51,7556.Mountain Leaf Warbler,162
+negros_leaf_warbler,Negros Leaf Warbler,DIB-10K_51,7557.Negros Leaf Warbler,14
+sulawesi_leaf_warbler,Sulawesi Leaf Warbler,DIB-10K_51,7558.Sulawesi Leaf Warbler,30
+timor_leaf_warbler,Timor Leaf Warbler,DIB-10K_51,7559.Timor Leaf Warbler,37
+island_leaf_warbler,Island Leaf Warbler,DIB-10K_51,7560.Island Leaf Warbler,23
+makira_leaf_warbler,Makira Leaf Warbler,DIB-10K_51,7561.Makira Leaf Warbler,11
+kolombangara_leaf_warbler,Kolombangara Leaf Warbler,DIB-10K_51,7562.Kolombangara Leaf Warbler,2
+grey_hooded_warbler,Grey-hooded Warbler,DIB-10K_51,7563.Grey-hooded Warbler,266
+white_spectacled_warbler,White-spectacled Warbler,DIB-10K_51,7564.White-spectacled Warbler,32
+green_crowned_warbler,Green-crowned Warbler,DIB-10K_51,7565.Green-crowned Warbler,25
+grey_crowned_warbler,Grey-crowned Warbler,DIB-10K_51,7566.Grey-crowned Warbler,38
+whistlers_warbler,Whistler's Warbler,DIB-10K_51,7567.Whistler's Warbler,74
+bianchis_warbler,Bianchi's Warbler,DIB-10K_51,7568.Bianchi's Warbler,23
+martenss_warbler,Martens's Warbler,DIB-10K_51,7569.Martens's Warbler,15
+alströms_warbler,Alström's Warbler,DIB-10K_51,7570.Alström's Warbler,28
+grey_cheeked_warbler,Grey-cheeked Warbler,DIB-10K_51,7571.Grey-cheeked Warbler,30
+chestnut_crowned_warbler,Chestnut-crowned Warbler,DIB-10K_51,7572.Chestnut-crowned Warbler,84
+yellow_breasted_warbler,Yellow-breasted Warbler,DIB-10K_51,7573.Yellow-breasted Warbler,47
+sunda_warbler,Sunda Warbler,DIB-10K_51,7574.Sunda Warbler,36
+malagasy_brush_warbler,Malagasy Brush Warbler,DIB-10K_51,7575.Malagasy Brush Warbler,88
+subdesert_brush_warbler,Subdesert Brush Warbler,DIB-10K_51,7576.Subdesert Brush Warbler,73
+anjouan_brush_warbler,Anjouan Brush Warbler,DIB-10K_51,7577.Anjouan Brush Warbler,3
+grand_comoro_brush_warbler,Grand Comoro Brush Warbler,DIB-10K_51,7578.Grand Comoro Brush Warbler,10
+moheli_brush_warbler,Moheli Brush Warbler,DIB-10K_51,7579.Moheli Brush Warbler,6
+aldabra_brush_warbler,Aldabra Brush Warbler,DIB-10K_51,7580.Aldabra Brush Warbler,7
+basra_reed_warbler,Basra Reed Warbler,DIB-10K_51,7581.Basra Reed Warbler,69
+cape_verde_warbler,Cape Verde Warbler,DIB-10K_51,7582.Cape Verde Warbler,87
+greater_swamp_warbler,Greater Swamp Warbler,DIB-10K_51,7583.Greater Swamp Warbler,64
+lesser_swamp_warbler,Lesser Swamp Warbler,DIB-10K_51,7584.Lesser Swamp Warbler,278
+madagascan_swamp_warbler,Madagascan Swamp Warbler,DIB-10K_51,7585.Madagascan Swamp Warbler,97
+seychelles_warbler,Seychelles Warbler,DIB-10K_51,7586.Seychelles Warbler,142
+rodrigues_warbler,Rodrigues Warbler,DIB-10K_51,7587.Rodrigues Warbler,33
+great_reed_warbler,Great Reed Warbler,DIB-10K_51,7588.Great Reed Warbler,2221
+oriental_reed_warbler,Oriental Reed Warbler,DIB-10K_51,7589.Oriental Reed Warbler,572
+clamorous_reed_warbler,Clamorous Reed Warbler,DIB-10K_51,7590.Clamorous Reed Warbler,832
+australian_reed_warbler,Australian Reed Warbler,DIB-10K_51,7591.Australian Reed Warbler,687
+millerbird,Millerbird,DIB-10K_51,7592.Millerbird,58
+nightingale_reed_warbler,Nightingale Reed Warbler,DIB-10K_51,7593.Nightingale Reed Warbler,13
+saipan_reed_warbler,Saipan Reed Warbler,DIB-10K_51,7594.Saipan Reed Warbler,13
+pagan_reed_warbler,Pagan Reed Warbler,DIB-10K_51,7596.Pagan Reed Warbler,2
+mangareva_reed_warbler,Mangareva Reed Warbler,DIB-10K_51,7597.Mangareva Reed Warbler,1
+nauru_reed_warbler,Nauru Reed Warbler,DIB-10K_51,7598.Nauru Reed Warbler,2
+carolinian_reed_warbler,Carolinian Reed Warbler,DIB-10K_51,7599.Carolinian Reed Warbler,39
+bokikokiko,Bokikokiko,DIB-10K_51,7600.Bokikokiko,44
+northern_marquesan_reed_warbler,Northern Marquesan Reed Warbler,DIB-10K_51,7601.Northern Marquesan Reed Warbler,27
+tahiti_reed_warbler,Tahiti Reed Warbler,DIB-10K_51,7602.Tahiti Reed Warbler,18
+moorea_reed_warbler,Moorea Reed Warbler,DIB-10K_51,7603.Moorea Reed Warbler,4
+garretts_reed_warbler,Garrett's Reed Warbler,DIB-10K_51,7604.Garrett's Reed Warbler,1
+southern_marquesan_reed_warbler,Southern Marquesan Reed Warbler,DIB-10K_51,7605.Southern Marquesan Reed Warbler,14
+tuamotu_reed_warbler,Tuamotu Reed Warbler,DIB-10K_51,7606.Tuamotu Reed Warbler,52
+cook_reed_warbler,Cook Reed Warbler,DIB-10K_51,7607.Cook Reed Warbler,9
+rimatara_reed_warbler,Rimatara Reed Warbler,DIB-10K_51,7608.Rimatara Reed Warbler,8
+henderson_reed_warbler,Henderson Reed Warbler,DIB-10K_51,7609.Henderson Reed Warbler,22
+pitcairn_reed_warbler,Pitcairn Reed Warbler,DIB-10K_51,7610.Pitcairn Reed Warbler,34
+black_browed_reed_warbler,Black-browed Reed Warbler,DIB-10K_51,7611.Black-browed Reed Warbler,397
+moustached_warbler,Moustached Warbler,DIB-10K_51,7612.Moustached Warbler,459
+aquatic_warbler,Aquatic Warbler,DIB-10K_51,7613.Aquatic Warbler,413
+sedge_warbler,Sedge Warbler,DIB-10K_51,7614.Sedge Warbler,2524
+speckled_reed_warbler,Speckled Reed Warbler,DIB-10K_51,7615.Speckled Reed Warbler,9
+,,DIB-10K_51,,0

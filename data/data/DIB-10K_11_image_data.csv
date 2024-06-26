@@ -1,0 +1,35 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+lava_heron,Lava Heron,DIB-10K_11,829.Lava Heron,854
+striated_heron,Striated Heron,DIB-10K_11,830.Striated Heron,2947
+squacco_heron,Squacco Heron,DIB-10K_11,831.Squacco Heron,3024
+indian_pond_heron,Indian Pond Heron,DIB-10K_11,832.Indian Pond Heron,2980
+chinese_pond_heron,Chinese Pond Heron,DIB-10K_11,833.Chinese Pond Heron,2014
+javan_pond_heron,Javan Pond Heron,DIB-10K_11,834.Javan Pond Heron,1059
+malagasy_pond_heron,Malagasy Pond Heron,DIB-10K_11,835.Malagasy Pond Heron,184
+rufous_bellied_heron,Rufous-bellied Heron,DIB-10K_11,836.Rufous-bellied Heron,179
+western_cattle_egret,Western Cattle Egret,DIB-10K_11,837.Western Cattle Egret,2456
+eastern_cattle_egret,Eastern Cattle Egret,DIB-10K_11,838.Eastern Cattle Egret,612
+grey_heron,Grey Heron,DIB-10K_11,839.Grey Heron,3146
+great_blue_heron,Great Blue Heron,DIB-10K_11,840.Great Blue Heron,2937
+cocoi_heron,Cocoi Heron,DIB-10K_11,841.Cocoi Heron,2803
+white_necked_heron,White-necked Heron,DIB-10K_11,842.White-necked Heron,1532
+black_headed_heron,Black-headed Heron,DIB-10K_11,843.Black-headed Heron,1568
+humblots_heron,Humblot's Heron,DIB-10K_11,844.Humblot's Heron,145
+white_bellied_heron,White-bellied Heron,DIB-10K_11,845.White-bellied Heron,185
+great_billed_heron,Great-billed Heron,DIB-10K_11,846.Great-billed Heron,629
+goliath_heron,Goliath Heron,DIB-10K_11,847.Goliath Heron,2137
+purple_heron,Purple Heron,DIB-10K_11,848.Purple Heron,2735
+great_egret,Great Egret,DIB-10K_11,849.Great Egret,2992
+intermediate_egret,Intermediate Egret,DIB-10K_11,850.Intermediate Egret,1844
+capped_heron,Capped Heron,DIB-10K_11,851.Capped Heron,1141
+whistling_heron,Whistling Heron,DIB-10K_11,852.Whistling Heron,2388
+pied_heron,Pied Heron,DIB-10K_11,853.Pied Heron,440
+white_faced_heron,White-faced Heron,DIB-10K_11,854.White-faced Heron,2930
+reddish_egret,Reddish Egret,DIB-10K_11,855.Reddish Egret,2674
+black_heron,Black Heron,DIB-10K_11,856.Black Heron,1087
+slaty_egret,Slaty Egret,DIB-10K_11,857.Slaty Egret,185
+tricolored_heron,Tricolored Heron,DIB-10K_11,858.Tricolored Heron,3112
+little_blue_heron,Little Blue Heron,DIB-10K_11,859.Little Blue Heron,3119
+snowy_egret,Snowy Egret,DIB-10K_11,860.Snowy Egret,3095
+little_egret,Little Egret,DIB-10K_11,861.Little Egret,3074
+,,DIB-10K_11,,0

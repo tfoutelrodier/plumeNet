@@ -1,0 +1,151 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+black_billed_magpie,Black-billed Magpie,DIB-10K_48,6820.Black-billed Magpie,2357
+yellow_billed_magpie,Yellow-billed Magpie,DIB-10K_48,6821.Yellow-billed Magpie,672
+stresemanns_bushcrow,Stresemann's Bushcrow,DIB-10K_48,6822.Stresemann's Bushcrow,116
+hendersons_ground_jay,Henderson's Ground Jay,DIB-10K_48,6823.Henderson's Ground Jay,80
+biddulphs_ground_jay,Biddulph's Ground Jay,DIB-10K_48,6824.Biddulph's Ground Jay,45
+panders_ground_jay,Pander's Ground Jay,DIB-10K_48,6825.Pander's Ground Jay,134
+pleskes_ground_jay,Pleske's Ground Jay,DIB-10K_48,6826.Pleske's Ground Jay,29
+clarks_nutcracker,Clark's Nutcracker,DIB-10K_48,6827.Clark's Nutcracker,2035
+spotted_nutcracker,Spotted Nutcracker,DIB-10K_48,6828.Spotted Nutcracker,2334
+large_spotted_nutcracker,Large-spotted Nutcracker,DIB-10K_48,6829.Large-spotted Nutcracker,35
+red_billed_chough,Red-billed Chough,DIB-10K_48,6830.Red-billed Chough,2722
+alpine_chough,Alpine Chough,DIB-10K_48,6831.Alpine Chough,2568
+piapiac,Piapiac,DIB-10K_48,6832.Piapiac,432
+western_jackdaw,Western Jackdaw,DIB-10K_48,6833.Western Jackdaw,4226
+daurian_jackdaw,Daurian Jackdaw,DIB-10K_48,6834.Daurian Jackdaw,287
+house_crow,House Crow,DIB-10K_48,6835.House Crow,2250
+new_caledonian_crow,New Caledonian Crow,DIB-10K_48,6836.New Caledonian Crow,146
+banggai_crow,Banggai Crow,DIB-10K_48,6837.Banggai Crow,34
+slender_billed_crow,Slender-billed Crow,DIB-10K_48,6838.Slender-billed Crow,144
+violet_crow,Violet Crow,DIB-10K_48,6839.Violet Crow,29
+piping_crow,Piping Crow,DIB-10K_48,6840.Piping Crow,29
+flores_crow,Flores Crow,DIB-10K_48,6841.Flores Crow,21
+mariana_crow,Mariana Crow,DIB-10K_48,6842.Mariana Crow,34
+long_billed_crow,Long-billed Crow,DIB-10K_48,6843.Long-billed Crow,49
+white_billed_crow,White-billed Crow,DIB-10K_48,6844.White-billed Crow,155
+bougainville_crow,Bougainville Crow,DIB-10K_48,6845.Bougainville Crow,6
+brown_headed_crow,Brown-headed Crow,DIB-10K_48,6846.Brown-headed Crow,31
+grey_crow,Grey Crow,DIB-10K_48,6847.Grey Crow,99
+cape_crow,Cape Crow,DIB-10K_48,6848.Cape Crow,405
+rook,Rook,DIB-10K_48,6849.Rook,2789
+american_crow,American Crow,DIB-10K_48,6850.American Crow,2611
+northwestern_crow,Northwestern Crow,DIB-10K_48,6851.Northwestern Crow,2027
+tamaulipas_crow,Tamaulipas Crow,DIB-10K_48,6852.Tamaulipas Crow,231
+sinaloa_crow,Sinaloa Crow,DIB-10K_48,6853.Sinaloa Crow,121
+fish_crow,Fish Crow,DIB-10K_48,6854.Fish Crow,1283
+hispaniolan_palm_crow,Hispaniolan Palm Crow,DIB-10K_48,6855.Hispaniolan Palm Crow,126
+cuban_palm_crow,Cuban Palm Crow,DIB-10K_48,6856.Cuban Palm Crow,64
+jamaican_crow,Jamaican Crow,DIB-10K_48,6857.Jamaican Crow,78
+cuban_crow,Cuban Crow,DIB-10K_48,6858.Cuban Crow,159
+white_necked_crow,White-necked Crow,DIB-10K_48,6859.White-necked Crow,151
+hawaiian_crow,Hawaiian Crow,DIB-10K_48,6860.Hawaiian Crow,72
+carrion_crow,Carrion Crow,DIB-10K_48,6861.Carrion Crow,2844
+hooded_crow,Hooded Crow,DIB-10K_48,6862.Hooded Crow,2334
+collared_crow,Collared Crow,DIB-10K_48,6863.Collared Crow,226
+large_billed_crow,Large-billed Crow,DIB-10K_48,6864.Large-billed Crow,2021
+eastern_jungle_crow,Eastern Jungle Crow,DIB-10K_48,6865.Eastern Jungle Crow,67
+indian_jungle_crow,Indian Jungle Crow,DIB-10K_48,6866.Indian Jungle Crow,266
+torresian_crow,Torresian Crow,DIB-10K_48,6867.Torresian Crow,920
+bismarck_crow,Bismarck Crow,DIB-10K_48,6868.Bismarck Crow,17
+little_crow,Little Crow,DIB-10K_48,6869.Little Crow,195
+forest_raven,Forest Raven,DIB-10K_48,6870.Forest Raven,250
+little_raven,Little Raven,DIB-10K_48,6871.Little Raven,875
+australian_raven,Australian Raven,DIB-10K_48,6872.Australian Raven,1695
+pied_crow,Pied Crow,DIB-10K_48,6873.Pied Crow,1851
+brown_necked_raven,Brown-necked Raven,DIB-10K_48,6874.Brown-necked Raven,503
+somali_crow,Somali Crow,DIB-10K_48,6875.Somali Crow,78
+northern_raven,Northern Raven,DIB-10K_48,6876.Northern Raven,2063
+chihuahuan_raven,Chihuahuan Raven,DIB-10K_48,6877.Chihuahuan Raven,714
+fan_tailed_raven,Fan-tailed Raven,DIB-10K_48,6878.Fan-tailed Raven,351
+white_necked_raven,White-necked Raven,DIB-10K_48,6879.White-necked Raven,689
+thick_billed_raven,Thick-billed Raven,DIB-10K_48,6880.Thick-billed Raven,459
+white_winged_chough,White-winged Chough,DIB-10K_48,6881.White-winged Chough,1164
+apostlebird,Apostlebird,DIB-10K_48,6882.Apostlebird,926
+lesser_melampitta,Lesser Melampitta,DIB-10K_48,6883.Lesser Melampitta,19
+greater_melampitta,Greater Melampitta,DIB-10K_48,6884.Greater Melampitta,12
+blue_capped_ifrit,Blue-capped Ifrit,DIB-10K_48,6885.Blue-capped Ifrit,70
+paradise_crow,Paradise-crow,DIB-10K_48,6886.Paradise-crow,79
+glossy_mantled_manucode,Glossy-mantled Manucode,DIB-10K_48,6887.Glossy-mantled Manucode,109
+jobi_manucode,Jobi Manucode,DIB-10K_48,6888.Jobi Manucode,36
+crinkle_collared_manucode,Crinkle-collared Manucode,DIB-10K_48,6889.Crinkle-collared Manucode,73
+curl_crested_manucode,Curl-crested Manucode,DIB-10K_48,6890.Curl-crested Manucode,61
+trumpet_manucode,Trumpet Manucode,DIB-10K_48,6891.Trumpet Manucode,80
+long_tailed_paradigalla,Long-tailed Paradigalla,DIB-10K_48,6892.Long-tailed Paradigalla,62
+short_tailed_paradigalla,Short-tailed Paradigalla,DIB-10K_48,6893.Short-tailed Paradigalla,68
+arfak_astrapia,Arfak Astrapia,DIB-10K_48,6894.Arfak Astrapia,62
+splendid_astrapia,Splendid Astrapia,DIB-10K_48,6895.Splendid Astrapia,84
+ribbon_tailed_astrapia,Ribbon-tailed Astrapia,DIB-10K_48,6896.Ribbon-tailed Astrapia,244
+princess_stephanies_astrapia,Princess Stephanie's Astrapia,DIB-10K_48,6897.Princess Stephanie's Astrapia,51
+huon_astrapia,Huon Astrapia,DIB-10K_48,6898.Huon Astrapia,27
+western_parotia,Western Parotia,DIB-10K_48,6899.Western Parotia,222
+queen_carolas_parotia,Queen Carola's Parotia,DIB-10K_48,6900.Queen Carola's Parotia,15
+bronze_parotia,Bronze Parotia,DIB-10K_48,6901.Bronze Parotia,41
+lawess_parotia,Lawes's Parotia,DIB-10K_48,6902.Lawes's Parotia,29
+eastern_parotia,Eastern Parotia,DIB-10K_48,6903.Eastern Parotia,17
+wahness_parotia,Wahnes's Parotia,DIB-10K_48,6904.Wahnes's Parotia,23
+king_of_saxony_bird_of_paradise,King of Saxony Bird-of-paradise,DIB-10K_48,6905.King of Saxony Bird-of-paradise,139
+greater_lophorina,Greater Lophorina,DIB-10K_48,6906.Greater Lophorina,80
+paradise_riflebird,Paradise Riflebird,DIB-10K_48,6907.Paradise Riflebird,168
+victorias_riflebird,Victoria's Riflebird,DIB-10K_48,6908.Victoria's Riflebird,366
+magnificent_riflebird,Magnificent Riflebird,DIB-10K_48,6909.Magnificent Riflebird,126
+growling_riflebird,Growling Riflebird,DIB-10K_48,6910.Growling Riflebird,16
+black_sicklebill,Black Sicklebill,DIB-10K_48,6911.Black Sicklebill,98
+brown_sicklebill,Brown Sicklebill,DIB-10K_48,6912.Brown Sicklebill,322
+black_billed_sicklebill,Black-billed Sicklebill,DIB-10K_48,6913.Black-billed Sicklebill,63
+pale_billed_sicklebill,Pale-billed Sicklebill,DIB-10K_48,6914.Pale-billed Sicklebill,53
+magnificent_bird_of_paradise,Magnificent Bird-of-paradise,DIB-10K_48,6915.Magnificent Bird-of-paradise,275
+wilsons_bird_of_paradise,Wilson's Bird-of-paradise,DIB-10K_48,6916.Wilson's Bird-of-paradise,245
+king_bird_of_paradise,King Bird-of-paradise,DIB-10K_48,6917.King Bird-of-paradise,261
+standardwing,Standardwing,DIB-10K_48,6918.Standardwing,173
+twelve_wired_bird_of_paradise,Twelve-wired Bird-of-paradise,DIB-10K_48,6919.Twelve-wired Bird-of-paradise,171
+greater_bird_of_paradise,Greater Bird-of-paradise,DIB-10K_48,6920.Greater Bird-of-paradise,272
+raggiana_bird_of_paradise,Raggiana Bird-of-paradise,DIB-10K_48,6921.Raggiana Bird-of-paradise,294
+lesser_bird_of_paradise,Lesser Bird-of-paradise,DIB-10K_48,6922.Lesser Bird-of-paradise,405
+goldies_bird_of_paradise,Goldie's Bird-of-paradise,DIB-10K_48,6923.Goldie's Bird-of-paradise,29
+red_bird_of_paradise,Red Bird-of-paradise,DIB-10K_48,6924.Red Bird-of-paradise,247
+emperor_bird_of_paradise,Emperor Bird-of-paradise,DIB-10K_48,6925.Emperor Bird-of-paradise,56
+blue_bird_of_paradise,Blue Bird-of-paradise,DIB-10K_48,6926.Blue Bird-of-paradise,133
+ashy_robin,Ashy Robin,DIB-10K_48,6927.Ashy Robin,79
+grey_headed_robin,Grey-headed Robin,DIB-10K_48,6928.Grey-headed Robin,267
+black_chinned_robin,Black-chinned Robin,DIB-10K_48,6929.Black-chinned Robin,5
+black_sided_robin,Black-sided Robin,DIB-10K_48,6930.Black-sided Robin,16
+white_browed_robin,White-browed Robin,DIB-10K_48,6931.White-browed Robin,167
+buff_sided_robin,Buff-sided Robin,DIB-10K_48,6932.Buff-sided Robin,154
+banded_yellow_robin,Banded Yellow Robin,DIB-10K_48,6933.Banded Yellow Robin,5
+black_throated_robin,Black-throated Robin,DIB-10K_48,6934.Black-throated Robin,69
+white_winged_robin,White-winged Robin,DIB-10K_48,6935.White-winged Robin,91
+smoky_robin,Smoky Robin,DIB-10K_48,6936.Smoky Robin,16
+slaty_robin,Slaty Robin,DIB-10K_48,6937.Slaty Robin,56
+white_rumped_robin,White-rumped Robin,DIB-10K_48,6938.White-rumped Robin,9
+mangrove_robin,Mangrove Robin,DIB-10K_48,6939.Mangrove Robin,81
+white_faced_robin,White-faced Robin,DIB-10K_48,6940.White-faced Robin,95
+pale_yellow_robin,Pale-yellow Robin,DIB-10K_48,6941.Pale-yellow Robin,482
+eastern_yellow_robin,Eastern Yellow Robin,DIB-10K_48,6942.Eastern Yellow Robin,1836
+western_yellow_robin,Western Yellow Robin,DIB-10K_48,6943.Western Yellow Robin,241
+white_breasted_robin,White-breasted Robin,DIB-10K_48,6944.White-breasted Robin,334
+hooded_robin,Hooded Robin,DIB-10K_48,6945.Hooded Robin,791
+dusky_robin,Dusky Robin,DIB-10K_48,6946.Dusky Robin,279
+green_backed_robin,Green-backed Robin,DIB-10K_48,6947.Green-backed Robin,41
+white_eyed_robin,White-eyed Robin,DIB-10K_48,6948.White-eyed Robin,7
+torrent_flyrobin,Torrent Flyrobin,DIB-10K_48,6949.Torrent Flyrobin,48
+canary_flyrobin,Canary Flyrobin,DIB-10K_48,6950.Canary Flyrobin,33
+yellow_legged_flyrobin,Yellow-legged Flyrobin,DIB-10K_48,6951.Yellow-legged Flyrobin,43
+olive_flyrobin,Olive Flyrobin,DIB-10K_48,6952.Olive Flyrobin,40
+lemon_bellied_flyrobin,Lemon-bellied Flyrobin,DIB-10K_48,6953.Lemon-bellied Flyrobin,571
+yellow_bellied_flyrobin,Yellow-bellied Flyrobin,DIB-10K_48,6954.Yellow-bellied Flyrobin,78
+golden_bellied_flyrobin,Golden-bellied Flyrobin,DIB-10K_48,6955.Golden-bellied Flyrobin,15
+jacky_winter,Jacky Winter,DIB-10K_48,6956.Jacky Winter,1104
+garnet_robin,Garnet Robin,DIB-10K_48,6957.Garnet Robin,16
+rose_robin,Rose Robin,DIB-10K_48,6958.Rose Robin,790
+pink_robin,Pink Robin,DIB-10K_48,6959.Pink Robin,418
+snow_mountain_robin,Snow Mountain Robin,DIB-10K_48,6960.Snow Mountain Robin,12
+mountain_robin,Mountain Robin,DIB-10K_48,6961.Mountain Robin,23
+flame_robin,Flame Robin,DIB-10K_48,6962.Flame Robin,1145
+pacific_robin,Pacific Robin,DIB-10K_48,6963.Pacific Robin,55
+norfolk_robin,Norfolk Robin,DIB-10K_48,6964.Norfolk Robin,363
+scarlet_robin,Scarlet Robin,DIB-10K_48,6965.Scarlet Robin,1650
+red_capped_robin,Red-capped Robin,DIB-10K_48,6966.Red-capped Robin,1652
+tomtit,Tomtit,DIB-10K_48,6967.Tomtit,767
+north_island_robin,North Island Robin,DIB-10K_48,6968.North Island Robin,395
+,,DIB-10K_48,,0

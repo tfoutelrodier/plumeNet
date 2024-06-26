@@ -1,0 +1,47 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+taiga_bean_goose,Taiga Bean Goose,DIB-10K_2,86.Taiga Bean Goose,1510
+pink_footed_goose,Pink-footed Goose,DIB-10K_2,87.Pink-footed Goose,2283
+tundra_bean_goose,Tundra Bean Goose,DIB-10K_2,88.Tundra Bean Goose,808
+greater_white_fronted_goose,Greater White-fronted Goose,DIB-10K_2,89.Greater White-fronted Goose,2613
+lesser_white_fronted_goose,Lesser White-fronted Goose,DIB-10K_2,90.Lesser White-fronted Goose,919
+coscoroba_swan,Coscoroba Swan,DIB-10K_2,91.Coscoroba Swan,2256
+black_swan,Black Swan,DIB-10K_2,92.Black Swan,2924
+black_necked_swan,Black-necked Swan,DIB-10K_2,93.Black-necked Swan,2256
+mute_swan,Mute Swan,DIB-10K_2,94.Mute Swan,2943
+trumpeter_swan,Trumpeter Swan,DIB-10K_2,95.Trumpeter Swan,2953
+tundra_swan,Tundra Swan,DIB-10K_2,96.Tundra Swan,2627
+whooper_swan,Whooper Swan,DIB-10K_2,97.Whooper Swan,2636
+freckled_duck,Freckled Duck,DIB-10K_2,98.Freckled Duck,1204
+blue_duck,Blue Duck,DIB-10K_2,99.Blue Duck,732
+flying_steamer_duck,Flying Steamer Duck,DIB-10K_2,100.Flying Steamer Duck,917
+fuegian_steamer_duck,Fuegian Steamer Duck,DIB-10K_2,101.Fuegian Steamer Duck,817
+falkland_steamer_duck,Falkland Steamer Duck,DIB-10K_2,102.Falkland Steamer Duck,470
+chubut_steamer_duck,Chubut Steamer Duck,DIB-10K_2,103.Chubut Steamer Duck,90
+torrent_duck,Torrent Duck,DIB-10K_2,104.Torrent Duck,1608
+spur_winged_goose,Spur-winged Goose,DIB-10K_2,105.Spur-winged Goose,1107
+comb_duck,Comb Duck,DIB-10K_2,106.Comb Duck,323
+knob_billed_duck,Knob-billed Duck,DIB-10K_2,107.Knob-billed Duck,1456
+blue_winged_goose,Blue-winged Goose,DIB-10K_2,108.Blue-winged Goose,473
+egyptian_goose,Egyptian Goose,DIB-10K_2,109.Egyptian Goose,3467
+mauritius_sheldgoose,Mauritius Sheldgoose,DIB-10K_2,110.Mauritius Sheldgoose,1
+reunion_sheldgoose,Reunion Sheldgoose,DIB-10K_2,111.Reunion Sheldgoose,30
+orinoco_goose,Orinoco Goose,DIB-10K_2,112.Orinoco Goose,761
+andean_goose,Andean Goose,DIB-10K_2,113.Andean Goose,1379
+upland_goose,Upland Goose,DIB-10K_2,114.Upland Goose,2726
+kelp_goose,Kelp Goose,DIB-10K_2,115.Kelp Goose,1211
+ashy_headed_goose,Ashy-headed Goose,DIB-10K_2,116.Ashy-headed Goose,857
+ruddy_headed_goose,Ruddy-headed Goose,DIB-10K_2,117.Ruddy-headed Goose,695
+raja_shelduck,Raja Shelduck,DIB-10K_2,118.Raja Shelduck,492
+common_shelduck,Common Shelduck,DIB-10K_2,119.Common Shelduck,2899
+ruddy_shelduck,Ruddy Shelduck,DIB-10K_2,120.Ruddy Shelduck,3159
+south_african_shelduck,South African Shelduck,DIB-10K_2,121.South African Shelduck,673
+australian_shelduck,Australian Shelduck,DIB-10K_2,122.Australian Shelduck,1330
+paradise_shelduck,Paradise Shelduck,DIB-10K_2,123.Paradise Shelduck,1532
+crested_shelduck,Crested Shelduck,DIB-10K_2,124.Crested Shelduck,27
+pink_eared_duck,Pink-eared Duck,DIB-10K_2,125.Pink-eared Duck,1372
+salvadoris_teal,Salvadori's Teal,DIB-10K_2,126.Salvadori's Teal,40
+muscovy_duck,Muscovy Duck,DIB-10K_2,127.Muscovy Duck,2991
+white_winged_duck,White-winged Duck,DIB-10K_2,128.White-winged Duck,242
+hartlaubs_duck,Hartlaub's Duck,DIB-10K_2,129.Hartlaub's Duck,115
+wood_duck,Wood Duck,DIB-10K_2,130.Wood Duck,2831
+,,DIB-10K_2,,0

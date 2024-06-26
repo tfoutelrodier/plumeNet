@@ -1,0 +1,55 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+maned_duck,Maned Duck,DIB-10K_3,132.Maned Duck,2799
+african_pygmy_goose,African Pygmy Goose,DIB-10K_3,133.African Pygmy Goose,618
+cotton_pygmy_goose,Cotton Pygmy Goose,DIB-10K_3,134.Cotton Pygmy Goose,1094
+green_pygmy_goose,Green Pygmy Goose,DIB-10K_3,135.Green Pygmy Goose,595
+brazilian_teal,Brazilian Teal,DIB-10K_3,136.Brazilian Teal,1706
+ringed_teal,Ringed Teal,DIB-10K_3,137.Ringed Teal,1937
+crested_duck,Crested Duck,DIB-10K_3,138.Crested Duck,1664
+bronze_winged_duck,Bronze-winged Duck,DIB-10K_3,139.Bronze-winged Duck,532
+baikal_teal,Baikal Teal,DIB-10K_3,140.Baikal Teal,292
+garganey,Garganey,DIB-10K_3,141.Garganey,1442
+hottentot_teal,Hottentot Teal,DIB-10K_3,142.Hottentot Teal,332
+puna_teal,Puna Teal,DIB-10K_3,143.Puna Teal,356
+silver_teal,Silver Teal,DIB-10K_3,144.Silver Teal,486
+red_shoveler,Red Shoveler,DIB-10K_3,145.Red Shoveler,460
+cinnamon_teal,Cinnamon Teal,DIB-10K_3,146.Cinnamon Teal,1160
+blue_winged_teal,Blue-winged Teal,DIB-10K_3,147.Blue-winged Teal,1339
+cape_shoveler,Cape Shoveler,DIB-10K_3,148.Cape Shoveler,209
+australasian_shoveler,Australasian Shoveler,DIB-10K_3,149.Australasian Shoveler,765
+northern_shoveler,Northern Shoveler,DIB-10K_3,150.Northern Shoveler,2675
+gadwall,Gadwall,DIB-10K_3,151.Gadwall,2785
+falcated_duck,Falcated Duck,DIB-10K_3,152.Falcated Duck,488
+eurasian_wigeon,Eurasian Wigeon,DIB-10K_3,153.Eurasian Wigeon,1842
+chiloe_wigeon,Chiloe Wigeon,DIB-10K_3,154.Chiloe Wigeon,748
+american_wigeon,American Wigeon,DIB-10K_3,155.American Wigeon,1467
+amsterdam_wigeon,Amsterdam Wigeon,DIB-10K_3,156.Amsterdam Wigeon,2
+african_black_duck,African Black Duck,DIB-10K_3,157.African Black Duck,431
+yellow_billed_duck,Yellow-billed Duck,DIB-10K_3,158.Yellow-billed Duck,1229
+mellers_duck,Meller's Duck,DIB-10K_3,159.Meller's Duck,187
+pacific_black_duck,Pacific Black Duck,DIB-10K_3,160.Pacific Black Duck,3033
+laysan_duck,Laysan Duck,DIB-10K_3,161.Laysan Duck,373
+hawaiian_duck,Hawaiian Duck,DIB-10K_3,162.Hawaiian Duck,360
+philippine_duck,Philippine Duck,DIB-10K_3,163.Philippine Duck,487
+indian_spot_billed_duck,Indian Spot-billed Duck,DIB-10K_3,164.Indian Spot-billed Duck,2696
+eastern_spot_billed_duck,Eastern Spot-billed Duck,DIB-10K_3,165.Eastern Spot-billed Duck,952
+mallard,Mallard,DIB-10K_3,166.Mallard,3038
+mottled_duck,Mottled Duck,DIB-10K_3,167.Mottled Duck,1982
+american_black_duck,American Black Duck,DIB-10K_3,168.American Black Duck,2485
+mexican_duck,Mexican Duck,DIB-10K_3,169.Mexican Duck,811
+white_cheeked_pintail,White-cheeked Pintail,DIB-10K_3,171.White-cheeked Pintail,2346
+red_billed_teal,Red-billed Teal,DIB-10K_3,172.Red-billed Teal,784
+yellow_billed_pintail,Yellow-billed Pintail,DIB-10K_3,173.Yellow-billed Pintail,1842
+eatons_pintail,Eaton's Pintail,DIB-10K_3,174.Eaton's Pintail,28
+northern_pintail,Northern Pintail,DIB-10K_3,175.Northern Pintail,2889
+eurasian_teal,Eurasian Teal,DIB-10K_3,176.Eurasian Teal,2664
+green_winged_teal,Green-winged Teal,DIB-10K_3,177.Green-winged Teal,2030
+yellow_billed_teal,Yellow-billed Teal,DIB-10K_3,178.Yellow-billed Teal,1851
+andean_teal,Andean Teal,DIB-10K_3,179.Andean Teal,463
+sunda_teal,Sunda Teal,DIB-10K_3,180.Sunda Teal,301
+andaman_teal,Andaman Teal,DIB-10K_3,181.Andaman Teal,76
+mascarene_teal,Mascarene Teal,DIB-10K_3,182.Mascarene Teal,3
+grey_teal,Grey Teal,DIB-10K_3,183.Grey Teal,1543
+chestnut_teal,Chestnut Teal,DIB-10K_3,184.Chestnut Teal,1931
+berniers_teal,Bernier's Teal,DIB-10K_3,185.Bernier's Teal,315
+,,DIB-10K_3,,0

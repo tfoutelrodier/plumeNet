@@ -1,0 +1,100 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+malagasy_kingfisher,Malagasy Kingfisher,DIB-10K_33,3329.Malagasy Kingfisher,342
+cerulean_kingfisher,Cerulean Kingfisher,DIB-10K_33,3330.Cerulean Kingfisher,267
+blue_banded_kingfisher,Blue-banded Kingfisher,DIB-10K_33,3331.Blue-banded Kingfisher,316
+shining_blue_kingfisher,Shining-blue Kingfisher,DIB-10K_33,3332.Shining-blue Kingfisher,141
+blue_eared_kingfisher,Blue-eared Kingfisher,DIB-10K_33,3333.Blue-eared Kingfisher,1241
+common_kingfisher,Common Kingfisher,DIB-10K_33,3334.Common Kingfisher,2589
+half_collared_kingfisher,Half-collared Kingfisher,DIB-10K_33,3335.Half-collared Kingfisher,188
+blyths_kingfisher,Blyth's Kingfisher,DIB-10K_33,3336.Blyth's Kingfisher,82
+oriental_dwarf_kingfisher,Oriental Dwarf Kingfisher,DIB-10K_33,3337.Oriental Dwarf Kingfisher,960
+philippine_dwarf_kingfisher,Philippine Dwarf Kingfisher,DIB-10K_33,3338.Philippine Dwarf Kingfisher,43
+sulawesi_dwarf_kingfisher,Sulawesi Dwarf Kingfisher,DIB-10K_33,3339.Sulawesi Dwarf Kingfisher,189
+moluccan_dwarf_kingfisher,Moluccan Dwarf Kingfisher,DIB-10K_33,3340.Moluccan Dwarf Kingfisher,40
+dimorphic_dwarf_kingfisher,Dimorphic Dwarf Kingfisher,DIB-10K_33,3341.Dimorphic Dwarf Kingfisher,25
+sula_dwarf_kingfisher,Sula Dwarf Kingfisher,DIB-10K_33,3342.Sula Dwarf Kingfisher,4
+buru_dwarf_kingfisher,Buru Dwarf Kingfisher,DIB-10K_33,3343.Buru Dwarf Kingfisher,10
+papuan_dwarf_kingfisher,Papuan Dwarf Kingfisher,DIB-10K_33,3344.Papuan Dwarf Kingfisher,16
+manus_dwarf_kingfisher,Manus Dwarf Kingfisher,DIB-10K_33,3345.Manus Dwarf Kingfisher,9
+new_ireland_dwarf_kingfisher,New Ireland Dwarf Kingfisher,DIB-10K_33,3346.New Ireland Dwarf Kingfisher,4
+new_britain_dwarf_kingfisher,New Britain Dwarf Kingfisher,DIB-10K_33,3347.New Britain Dwarf Kingfisher,12
+north_solomons_dwarf_kingfisher,North Solomons Dwarf Kingfisher,DIB-10K_33,3348.North Solomons Dwarf Kingfisher,5
+new_georgia_dwarf_kingfisher,New Georgia Dwarf Kingfisher,DIB-10K_33,3349.New Georgia Dwarf Kingfisher,4
+malaita_dwarf_kingfisher,Malaita Dwarf Kingfisher,DIB-10K_33,3350.Malaita Dwarf Kingfisher,1
+makira_dwarf_kingfisher,Makira Dwarf Kingfisher,DIB-10K_33,3352.Makira Dwarf Kingfisher,4
+indigo_banded_kingfisher,Indigo-banded Kingfisher,DIB-10K_33,3353.Indigo-banded Kingfisher,96
+southern_silvery_kingfisher,Southern Silvery Kingfisher,DIB-10K_33,3354.Southern Silvery Kingfisher,72
+northern_silvery_kingfisher,Northern Silvery Kingfisher,DIB-10K_33,3355.Northern Silvery Kingfisher,25
+azure_kingfisher,Azure Kingfisher,DIB-10K_33,3356.Azure Kingfisher,945
+bismarck_kingfisher,Bismarck Kingfisher,DIB-10K_33,3357.Bismarck Kingfisher,20
+little_kingfisher,Little Kingfisher,DIB-10K_33,3358.Little Kingfisher,251
+american_pygmy_kingfisher,American Pygmy Kingfisher,DIB-10K_33,3359.American Pygmy Kingfisher,1216
+green_and_rufous_kingfisher,Green-and-rufous Kingfisher,DIB-10K_33,3360.Green-and-rufous Kingfisher,386
+green_kingfisher,Green Kingfisher,DIB-10K_33,3361.Green Kingfisher,2439
+amazon_kingfisher,Amazon Kingfisher,DIB-10K_33,3362.Amazon Kingfisher,2320
+crested_kingfisher,Crested Kingfisher,DIB-10K_33,3363.Crested Kingfisher,685
+giant_kingfisher,Giant Kingfisher,DIB-10K_33,3364.Giant Kingfisher,1322
+ringed_kingfisher,Ringed Kingfisher,DIB-10K_33,3365.Ringed Kingfisher,2675
+belted_kingfisher,Belted Kingfisher,DIB-10K_33,3366.Belted Kingfisher,2698
+pied_kingfisher,Pied Kingfisher,DIB-10K_33,3367.Pied Kingfisher,3048
+cuban_tody,Cuban Tody,DIB-10K_33,3368.Cuban Tody,815
+broad_billed_tody,Broad-billed Tody,DIB-10K_33,3369.Broad-billed Tody,694
+narrow_billed_tody,Narrow-billed Tody,DIB-10K_33,3370.Narrow-billed Tody,423
+jamaican_tody,Jamaican Tody,DIB-10K_33,3371.Jamaican Tody,366
+puerto_rican_tody,Puerto Rican Tody,DIB-10K_33,3372.Puerto Rican Tody,637
+tody_motmot,Tody Motmot,DIB-10K_33,3373.Tody Motmot,321
+blue_throated_motmot,Blue-throated Motmot,DIB-10K_33,3374.Blue-throated Motmot,121
+russet_crowned_motmot,Russet-crowned Motmot,DIB-10K_33,3375.Russet-crowned Motmot,458
+blue_capped_motmot,Blue-capped Motmot,DIB-10K_33,3376.Blue-capped Motmot,289
+lessons_motmot,Lesson's Motmot,DIB-10K_33,3377.Lesson's Motmot,730
+whooping_motmot,Whooping Motmot,DIB-10K_33,3378.Whooping Motmot,437
+trinidad_motmot,Trinidad Motmot,DIB-10K_33,3379.Trinidad Motmot,298
+amazonian_motmot,Amazonian Motmot,DIB-10K_33,3380.Amazonian Motmot,1962
+andean_motmot,Andean Motmot,DIB-10K_33,3381.Andean Motmot,1074
+rufous_motmot,Rufous Motmot,DIB-10K_33,3382.Rufous Motmot,962
+rufous_capped_motmot,Rufous-capped Motmot,DIB-10K_33,3383.Rufous-capped Motmot,343
+keel_billed_motmot,Keel-billed Motmot,DIB-10K_33,3384.Keel-billed Motmot,249
+broad_billed_motmot,Broad-billed Motmot,DIB-10K_33,3385.Broad-billed Motmot,1189
+turquoise_browed_motmot,Turquoise-browed Motmot,DIB-10K_33,3386.Turquoise-browed Motmot,1648
+red_bearded_bee_eater,Red-bearded Bee-eater,DIB-10K_33,3387.Red-bearded Bee-eater,634
+blue_bearded_bee_eater,Blue-bearded Bee-eater,DIB-10K_33,3388.Blue-bearded Bee-eater,674
+purple_bearded_bee_eater,Purple-bearded Bee-eater,DIB-10K_33,3389.Purple-bearded Bee-eater,100
+black_headed_bee_eater,Black-headed Bee-eater,DIB-10K_33,3390.Black-headed Bee-eater,33
+blue_headed_bee_eater,Blue-headed Bee-eater,DIB-10K_33,3391.Blue-headed Bee-eater,101
+blue_moustached_bee_eater,Blue-moustached Bee-eater,DIB-10K_33,3392.Blue-moustached Bee-eater,102
+black_bee_eater,Black Bee-eater,DIB-10K_33,3393.Black Bee-eater,240
+swallow_tailed_bee_eater,Swallow-tailed Bee-eater,DIB-10K_33,3394.Swallow-tailed Bee-eater,815
+little_bee_eater,Little Bee-eater,DIB-10K_33,3395.Little Bee-eater,2760
+blue_breasted_bee_eater,Blue-breasted Bee-eater,DIB-10K_33,3396.Blue-breasted Bee-eater,403
+cinnamon_chested_bee_eater,Cinnamon-chested Bee-eater,DIB-10K_33,3397.Cinnamon-chested Bee-eater,490
+red_throated_bee_eater,Red-throated Bee-eater,DIB-10K_33,3398.Red-throated Bee-eater,656
+white_fronted_bee_eater,White-fronted Bee-eater,DIB-10K_33,3399.White-fronted Bee-eater,1896
+somali_bee_eater,Somali Bee-eater,DIB-10K_33,3400.Somali Bee-eater,137
+white_throated_bee_eater,White-throated Bee-eater,DIB-10K_33,3401.White-throated Bee-eater,858
+böhms_bee_eater,Böhm's Bee-eater,DIB-10K_33,3402.Böhm's Bee-eater,150
+green_bee_eater,Green Bee-eater,DIB-10K_33,3403.Green Bee-eater,2906
+blue_cheeked_bee_eater,Blue-cheeked Bee-eater,DIB-10K_33,3404.Blue-cheeked Bee-eater,1457
+olive_bee_eater,Olive Bee-eater,DIB-10K_33,3405.Olive Bee-eater,533
+blue_tailed_bee_eater,Blue-tailed Bee-eater,DIB-10K_33,3406.Blue-tailed Bee-eater,2816
+rainbow_bee_eater,Rainbow Bee-eater,DIB-10K_33,3407.Rainbow Bee-eater,2537
+blue_throated_bee_eater,Blue-throated Bee-eater,DIB-10K_33,3408.Blue-throated Bee-eater,1586
+chestnut_headed_bee_eater,Chestnut-headed Bee-eater,DIB-10K_33,3409.Chestnut-headed Bee-eater,1807
+european_bee_eater,European Bee-eater,DIB-10K_33,3410.European Bee-eater,2829
+rosy_bee_eater,Rosy Bee-eater,DIB-10K_33,3411.Rosy Bee-eater,103
+northern_carmine_bee_eater,Northern Carmine Bee-eater,DIB-10K_33,3412.Northern Carmine Bee-eater,924
+southern_carmine_bee_eater,Southern Carmine Bee-eater,DIB-10K_33,3413.Southern Carmine Bee-eater,1305
+eurasian_hoopoe,Eurasian Hoopoe,DIB-10K_33,3414.Eurasian Hoopoe,2705
+african_hoopoe,African Hoopoe,DIB-10K_33,3415.African Hoopoe,635
+madagascan_hoopoe,Madagascan Hoopoe,DIB-10K_33,3416.Madagascan Hoopoe,244
+st._helena_hoopoe,St. Helena Hoopoe,DIB-10K_33,3417.St. Helena Hoopoe,3
+forest_wood_hoopoe,Forest Wood Hoopoe,DIB-10K_33,3418.Forest Wood Hoopoe,26
+white_headed_wood_hoopoe,White-headed Wood Hoopoe,DIB-10K_33,3419.White-headed Wood Hoopoe,63
+green_wood_hoopoe,Green Wood Hoopoe,DIB-10K_33,3420.Green Wood Hoopoe,901
+black_billed_wood_hoopoe,Black-billed Wood Hoopoe,DIB-10K_33,3421.Black-billed Wood Hoopoe,63
+violet_wood_hoopoe,Violet Wood Hoopoe,DIB-10K_33,3422.Violet Wood Hoopoe,86
+grants_wood_hoopoe,Grant's Wood Hoopoe,DIB-10K_33,3423.Grant's Wood Hoopoe,3
+black_scimitarbill,Black Scimitarbill,DIB-10K_33,3424.Black Scimitarbill,54
+common_scimitarbill,Common Scimitarbill,DIB-10K_33,3425.Common Scimitarbill,253
+abyssinian_scimitarbill,Abyssinian Scimitarbill,DIB-10K_33,3426.Abyssinian Scimitarbill,99
+abyssinian_ground_hornbill,Abyssinian Ground Hornbill,DIB-10K_33,3427.Abyssinian Ground Hornbill,1060
+,,DIB-10K_33,,0

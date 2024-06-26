@@ -1,0 +1,114 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+white_backed_vulture,White-backed Vulture,DIB-10K_14,978.White-backed Vulture,2751
+white_rumped_vulture,White-rumped Vulture,DIB-10K_14,979.White-rumped Vulture,589
+indian_vulture,Indian Vulture,DIB-10K_14,980.Indian Vulture,524
+slender_billed_vulture,Slender-billed Vulture,DIB-10K_14,981.Slender-billed Vulture,164
+rüppells_vulture,Rüppell's Vulture,DIB-10K_14,982.Rüppell's Vulture,547
+himalayan_vulture,Himalayan Vulture,DIB-10K_14,983.Himalayan Vulture,1154
+griffon_vulture,Griffon Vulture,DIB-10K_14,984.Griffon Vulture,2361
+cape_vulture,Cape Vulture,DIB-10K_14,985.Cape Vulture,749
+red_headed_vulture,Red-headed Vulture,DIB-10K_14,986.Red-headed Vulture,515
+white_headed_vulture,White-headed Vulture,DIB-10K_14,987.White-headed Vulture,1035
+cinereous_vulture,Cinereous Vulture,DIB-10K_14,988.Cinereous Vulture,2918
+lappet_faced_vulture,Lappet-faced Vulture,DIB-10K_14,989.Lappet-faced Vulture,1274
+crested_serpent_eagle,Crested Serpent Eagle,DIB-10K_14,990.Crested Serpent Eagle,2336
+great_nicobar_serpent_eagle,Great Nicobar Serpent Eagle,DIB-10K_14,991.Great Nicobar Serpent Eagle,42
+mountain_serpent_eagle,Mountain Serpent Eagle,DIB-10K_14,992.Mountain Serpent Eagle,54
+sulawesi_serpent_eagle,Sulawesi Serpent Eagle,DIB-10K_14,993.Sulawesi Serpent Eagle,78
+philippine_serpent_eagle,Philippine Serpent Eagle,DIB-10K_14,994.Philippine Serpent Eagle,180
+andaman_serpent_eagle,Andaman Serpent Eagle,DIB-10K_14,995.Andaman Serpent Eagle,112
+philippine_eagle,Philippine Eagle,DIB-10K_14,996.Philippine Eagle,506
+short_toed_snake_eagle,Short-toed Snake Eagle,DIB-10K_14,997.Short-toed Snake Eagle,2518
+beaudouins_snake_eagle,Beaudouin's Snake Eagle,DIB-10K_14,998.Beaudouin's Snake Eagle,124
+black_chested_snake_eagle,Black-chested Snake Eagle,DIB-10K_14,999.Black-chested Snake Eagle,723
+brown_snake_eagle,Brown Snake Eagle,DIB-10K_14,1000.Brown Snake Eagle,953
+southern_banded_snake_eagle,Southern Banded Snake Eagle,DIB-10K_14,1001.Southern Banded Snake Eagle,112
+western_banded_snake_eagle,Western Banded Snake Eagle,DIB-10K_14,1002.Western Banded Snake Eagle,238
+congo_serpent_eagle,Congo Serpent Eagle,DIB-10K_14,1003.Congo Serpent Eagle,36
+bateleur,Bateleur,DIB-10K_14,1004.Bateleur,2513
+bat_hawk,Bat Hawk,DIB-10K_14,1005.Bat Hawk,221
+papuan_eagle,Papuan Eagle,DIB-10K_14,1006.Papuan Eagle,65
+crested_eagle,Crested Eagle,DIB-10K_14,1007.Crested Eagle,651
+harpy_eagle,Harpy Eagle,DIB-10K_14,1008.Harpy Eagle,1699
+changeable_hawk_eagle,Changeable Hawk-Eagle,DIB-10K_14,1009.Changeable Hawk-Eagle,1590
+flores_hawk_eagle,Flores Hawk-Eagle,DIB-10K_14,1010.Flores Hawk-Eagle,78
+mountain_hawk_eagle,Mountain Hawk-Eagle,DIB-10K_14,1011.Mountain Hawk-Eagle,312
+legges_hawk_eagle,Legge's Hawk-Eagle,DIB-10K_14,1012.Legge's Hawk-Eagle,67
+blyths_hawk_eagle,Blyth's Hawk-Eagle,DIB-10K_14,1013.Blyth's Hawk-Eagle,142
+javan_hawk_eagle,Javan Hawk-Eagle,DIB-10K_14,1014.Javan Hawk-Eagle,161
+sulawesi_hawk_eagle,Sulawesi Hawk-Eagle,DIB-10K_14,1015.Sulawesi Hawk-Eagle,89
+philippine_hawk_eagle,Philippine Hawk-Eagle,DIB-10K_14,1016.Philippine Hawk-Eagle,97
+pinskers_hawk_eagle,Pinsker's Hawk-Eagle,DIB-10K_14,1017.Pinsker's Hawk-Eagle,22
+wallaces_hawk_eagle,Wallace's Hawk-Eagle,DIB-10K_14,1018.Wallace's Hawk-Eagle,176
+black_hawk_eagle,Black Hawk-Eagle,DIB-10K_14,1019.Black Hawk-Eagle,628
+black_and_white_hawk_eagle,Black-and-white Hawk-Eagle,DIB-10K_14,1020.Black-and-white Hawk-Eagle,328
+ornate_hawk_eagle,Ornate Hawk-Eagle,DIB-10K_14,1021.Ornate Hawk-Eagle,952
+black_and_chestnut_eagle,Black-and-chestnut Eagle,DIB-10K_14,1022.Black-and-chestnut Eagle,297
+crowned_eagle,Crowned Eagle,DIB-10K_14,1023.Crowned Eagle,525
+rufous_bellied_eagle,Rufous-bellied Eagle,DIB-10K_14,1024.Rufous-bellied Eagle,310
+martial_eagle,Martial Eagle,DIB-10K_14,1025.Martial Eagle,1828
+long_crested_eagle,Long-crested Eagle,DIB-10K_14,1026.Long-crested Eagle,1077
+black_eagle,Black Eagle,DIB-10K_14,1027.Black Eagle,233
+lesser_spotted_eagle,Lesser Spotted Eagle,DIB-10K_14,1028.Lesser Spotted Eagle,724
+indian_spotted_eagle,Indian Spotted Eagle,DIB-10K_14,1029.Indian Spotted Eagle,398
+greater_spotted_eagle,Greater Spotted Eagle,DIB-10K_14,1030.Greater Spotted Eagle,1163
+wahlbergs_eagle,Wahlberg's Eagle,DIB-10K_14,1031.Wahlberg's Eagle,342
+booted_eagle,Booted Eagle,DIB-10K_14,1032.Booted Eagle,2188
+little_eagle,Little Eagle,DIB-10K_14,1033.Little Eagle,1034
+pygmy_eagle,Pygmy Eagle,DIB-10K_14,1034.Pygmy Eagle,48
+ayress_hawk_eagle,Ayres's Hawk-Eagle,DIB-10K_14,1035.Ayres's Hawk-Eagle,92
+tawny_eagle,Tawny Eagle,DIB-10K_14,1036.Tawny Eagle,2925
+steppe_eagle,Steppe Eagle,DIB-10K_14,1037.Steppe Eagle,2711
+spanish_imperial_eagle,Spanish Imperial Eagle,DIB-10K_14,1038.Spanish Imperial Eagle,1693
+eastern_imperial_eagle,Eastern Imperial Eagle,DIB-10K_14,1039.Eastern Imperial Eagle,1878
+gurneys_eagle,Gurney's Eagle,DIB-10K_14,1040.Gurney's Eagle,57
+golden_eagle,Golden Eagle,DIB-10K_14,1041.Golden Eagle,2882
+wedge_tailed_eagle,Wedge-tailed Eagle,DIB-10K_14,1042.Wedge-tailed Eagle,2616
+verreauxs_eagle,Verreaux's Eagle,DIB-10K_14,1043.Verreaux's Eagle,567
+cassins_hawk_eagle,Cassin's Hawk-Eagle,DIB-10K_14,1044.Cassin's Hawk-Eagle,59
+bonellis_eagle,Bonelli's Eagle,DIB-10K_14,1045.Bonelli's Eagle,1555
+african_hawk_eagle,African Hawk-Eagle,DIB-10K_14,1046.African Hawk-Eagle,460
+double_toothed_kite,Double-toothed Kite,DIB-10K_14,1047.Double-toothed Kite,849
+rufous_thighed_kite,Rufous-thighed Kite,DIB-10K_14,1048.Rufous-thighed Kite,239
+lizard_buzzard,Lizard Buzzard,DIB-10K_14,1049.Lizard Buzzard,604
+gabar_goshawk,Gabar Goshawk,DIB-10K_14,1050.Gabar Goshawk,528
+dark_chanting_goshawk,Dark Chanting Goshawk,DIB-10K_14,1051.Dark Chanting Goshawk,710
+eastern_chanting_goshawk,Eastern Chanting Goshawk,DIB-10K_14,1052.Eastern Chanting Goshawk,448
+pale_chanting_goshawk,Pale Chanting Goshawk,DIB-10K_14,1053.Pale Chanting Goshawk,1204
+long_tailed_hawk,Long-tailed Hawk,DIB-10K_14,1054.Long-tailed Hawk,61
+chestnut_shouldered_goshawk,Chestnut-shouldered Goshawk,DIB-10K_14,1055.Chestnut-shouldered Goshawk,10
+red_goshawk,Red Goshawk,DIB-10K_14,1056.Red Goshawk,178
+dorias_goshawk,Doria's Goshawk,DIB-10K_14,1057.Doria's Goshawk,7
+tiny_hawk,Tiny Hawk,DIB-10K_14,1058.Tiny Hawk,214
+semicollared_hawk,Semicollared Hawk,DIB-10K_14,1059.Semicollared Hawk,85
+crested_goshawk,Crested Goshawk,DIB-10K_14,1060.Crested Goshawk,1802
+sulawesi_goshawk,Sulawesi Goshawk,DIB-10K_14,1061.Sulawesi Goshawk,56
+grey_bellied_hawk,Grey-bellied Hawk,DIB-10K_14,1062.Grey-bellied Hawk,71
+red_chested_goshawk,Red-chested Goshawk,DIB-10K_14,1063.Red-chested Goshawk,52
+african_goshawk,African Goshawk,DIB-10K_14,1064.African Goshawk,329
+chestnut_flanked_sparrowhawk,Chestnut-flanked Sparrowhawk,DIB-10K_14,1065.Chestnut-flanked Sparrowhawk,15
+shikra,Shikra,DIB-10K_14,1066.Shikra,2389
+nicobar_sparrowhawk,Nicobar Sparrowhawk,DIB-10K_14,1067.Nicobar Sparrowhawk,7
+levant_sparrowhawk,Levant Sparrowhawk,DIB-10K_14,1068.Levant Sparrowhawk,349
+chinese_sparrowhawk,Chinese Sparrowhawk,DIB-10K_14,1069.Chinese Sparrowhawk,614
+francess_sparrowhawk,Frances's Sparrowhawk,DIB-10K_14,1070.Frances's Sparrowhawk,151
+spot_tailed_sparrowhawk,Spot-tailed Sparrowhawk,DIB-10K_14,1071.Spot-tailed Sparrowhawk,39
+grey_goshawk,Grey Goshawk,DIB-10K_14,1072.Grey Goshawk,794
+variable_goshawk,Variable Goshawk,DIB-10K_14,1073.Variable Goshawk,113
+brown_goshawk,Brown Goshawk,DIB-10K_14,1074.Brown Goshawk,1353
+black_mantled_goshawk,Black-mantled Goshawk,DIB-10K_14,1075.Black-mantled Goshawk,20
+pied_goshawk,Pied Goshawk,DIB-10K_14,1076.Pied Goshawk,26
+white_bellied_goshawk,White-bellied Goshawk,DIB-10K_14,1077.White-bellied Goshawk,68
+fiji_goshawk,Fiji Goshawk,DIB-10K_14,1078.Fiji Goshawk,97
+moluccan_goshawk,Moluccan Goshawk,DIB-10K_14,1079.Moluccan Goshawk,15
+slaty_mantled_goshawk,Slaty-mantled Goshawk,DIB-10K_14,1080.Slaty-mantled Goshawk,2
+imitator_goshawk,Imitator Goshawk,DIB-10K_14,1081.Imitator Goshawk,6
+grey_headed_goshawk,Grey-headed Goshawk,DIB-10K_14,1082.Grey-headed Goshawk,52
+new_britain_goshawk,New Britain Goshawk,DIB-10K_14,1083.New Britain Goshawk,10
+red_thighed_sparrowhawk,Red-thighed Sparrowhawk,DIB-10K_14,1084.Red-thighed Sparrowhawk,26
+little_sparrowhawk,Little Sparrowhawk,DIB-10K_14,1085.Little Sparrowhawk,268
+japanese_sparrowhawk,Japanese Sparrowhawk,DIB-10K_14,1086.Japanese Sparrowhawk,883
+besra,Besra,DIB-10K_14,1087.Besra,571
+dwarf_sparrowhawk,Dwarf Sparrowhawk,DIB-10K_14,1088.Dwarf Sparrowhawk,47
+rufous_necked_sparrowhawk,Rufous-necked Sparrowhawk,DIB-10K_14,1089.Rufous-necked Sparrowhawk,17
+,,DIB-10K_14,,0

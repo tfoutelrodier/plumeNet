@@ -1,0 +1,45 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+auckland_teal,Auckland Teal,DIB-10K_4,187.Auckland Teal,181
+campbell_teal,Campbell Teal,DIB-10K_4,188.Campbell Teal,136
+marbled_duck,Marbled Duck,DIB-10K_4,189.Marbled Duck,965
+pink_headed_duck,Pink-headed Duck,DIB-10K_4,190.Pink-headed Duck,81
+red_crested_pochard,Red-crested Pochard,DIB-10K_4,191.Red-crested Pochard,2873
+rosy_billed_pochard,Rosy-billed Pochard,DIB-10K_4,192.Rosy-billed Pochard,1012
+southern_pochard,Southern Pochard,DIB-10K_4,193.Southern Pochard,386
+canvasback,Canvasback,DIB-10K_4,194.Canvasback,2807
+redhead,Redhead,DIB-10K_4,195.Redhead,2767
+common_pochard,Common Pochard,DIB-10K_4,196.Common Pochard,2675
+hardhead,Hardhead,DIB-10K_4,197.Hardhead,1670
+madagascan_pochard,Madagascan Pochard,DIB-10K_4,198.Madagascan Pochard,69
+baers_pochard,Baer's Pochard,DIB-10K_4,199.Baer's Pochard,311
+ferruginous_duck,Ferruginous Duck,DIB-10K_4,200.Ferruginous Duck,2776
+new_zealand_scaup,New Zealand Scaup,DIB-10K_4,201.New Zealand Scaup,1059
+ring_necked_duck,Ring-necked Duck,DIB-10K_4,202.Ring-necked Duck,2712
+tufted_duck,Tufted Duck,DIB-10K_4,203.Tufted Duck,2805
+greater_scaup,Greater Scaup,DIB-10K_4,204.Greater Scaup,2710
+lesser_scaup,Lesser Scaup,DIB-10K_4,205.Lesser Scaup,2783
+stellers_eider,Steller's Eider,DIB-10K_4,206.Steller's Eider,1128
+spectacled_eider,Spectacled Eider,DIB-10K_4,207.Spectacled Eider,737
+king_eider,King Eider,DIB-10K_4,208.King Eider,2530
+common_eider,Common Eider,DIB-10K_4,209.Common Eider,2892
+harlequin_duck,Harlequin Duck,DIB-10K_4,210.Harlequin Duck,2837
+labrador_duck,Labrador Duck,DIB-10K_4,211.Labrador Duck,107
+surf_scoter,Surf Scoter,DIB-10K_4,212.Surf Scoter,2227
+velvet_scoter,Velvet Scoter,DIB-10K_4,213.Velvet Scoter,1757
+white_winged_scoter,White-winged Scoter,DIB-10K_4,214.White-winged Scoter,1173
+common_scoter,Common Scoter,DIB-10K_4,215.Common Scoter,1756
+black_scoter,Black Scoter,DIB-10K_4,216.Black Scoter,1160
+long_tailed_duck,Long-tailed Duck,DIB-10K_4,217.Long-tailed Duck,2804
+bufflehead,Bufflehead,DIB-10K_4,218.Bufflehead,2683
+common_goldeneye,Common Goldeneye,DIB-10K_4,219.Common Goldeneye,2785
+barrows_goldeneye,Barrow's Goldeneye,DIB-10K_4,220.Barrow's Goldeneye,2609
+smew,Smew,DIB-10K_4,221.Smew,2436
+hooded_merganser,Hooded Merganser,DIB-10K_4,222.Hooded Merganser,2723
+new_zealand_merganser,New Zealand Merganser,DIB-10K_4,223.New Zealand Merganser,10
+brazilian_merganser,Brazilian Merganser,DIB-10K_4,224.Brazilian Merganser,232
+common_merganser,Common Merganser,DIB-10K_4,225.Common Merganser,2555
+red_breasted_merganser,Red-breasted Merganser,DIB-10K_4,226.Red-breasted Merganser,2727
+scaly_sided_merganser,Scaly-sided Merganser,DIB-10K_4,227.Scaly-sided Merganser,418
+black_headed_duck,Black-headed Duck,DIB-10K_4,228.Black-headed Duck,300
+masked_duck,Masked Duck,DIB-10K_4,229.Masked Duck,762
+,,DIB-10K_4,,0

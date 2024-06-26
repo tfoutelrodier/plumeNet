@@ -1,0 +1,135 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+white_headed_woodpecker,White-headed Woodpecker,DIB-10K_36,3827.White-headed Woodpecker,581
+rufous_bellied_woodpecker,Rufous-bellied Woodpecker,DIB-10K_36,3828.Rufous-bellied Woodpecker,181
+fulvous_breasted_woodpecker,Fulvous-breasted Woodpecker,DIB-10K_36,3829.Fulvous-breasted Woodpecker,262
+freckle_breasted_woodpecker,Freckle-breasted Woodpecker,DIB-10K_36,3830.Freckle-breasted Woodpecker,124
+stripe_breasted_woodpecker,Stripe-breasted Woodpecker,DIB-10K_36,3831.Stripe-breasted Woodpecker,72
+darjeeling_woodpecker,Darjeeling Woodpecker,DIB-10K_36,3832.Darjeeling Woodpecker,97
+himalayan_woodpecker,Himalayan Woodpecker,DIB-10K_36,3833.Himalayan Woodpecker,179
+sind_woodpecker,Sind Woodpecker,DIB-10K_36,3834.Sind Woodpecker,28
+white_winged_woodpecker,White-winged Woodpecker,DIB-10K_36,3836.White-winged Woodpecker,125
+great_spotted_woodpecker,Great Spotted Woodpecker,DIB-10K_36,3837.Great Spotted Woodpecker,2242
+okinawa_woodpecker,Okinawa Woodpecker,DIB-10K_36,3838.Okinawa Woodpecker,80
+white_backed_woodpecker,White-backed Woodpecker,DIB-10K_36,3839.White-backed Woodpecker,965
+rufous_winged_woodpecker,Rufous-winged Woodpecker,DIB-10K_36,3840.Rufous-winged Woodpecker,229
+stripe_cheeked_woodpecker,Stripe-cheeked Woodpecker,DIB-10K_36,3841.Stripe-cheeked Woodpecker,46
+white_throated_woodpecker,White-throated Woodpecker,DIB-10K_36,3842.White-throated Woodpecker,68
+lita_woodpecker,Lita Woodpecker,DIB-10K_36,3843.Lita Woodpecker,46
+yellow_throated_woodpecker,Yellow-throated Woodpecker,DIB-10K_36,3844.Yellow-throated Woodpecker,198
+golden_green_woodpecker,Golden-green Woodpecker,DIB-10K_36,3845.Golden-green Woodpecker,230
+yellow_browed_woodpecker,Yellow-browed Woodpecker,DIB-10K_36,3846.Yellow-browed Woodpecker,253
+golden_olive_woodpecker,Golden-olive Woodpecker,DIB-10K_36,3847.Golden-olive Woodpecker,1027
+grey_crowned_woodpecker,Grey-crowned Woodpecker,DIB-10K_36,3848.Grey-crowned Woodpecker,69
+bronze_winged_woodpecker,Bronze-winged Woodpecker,DIB-10K_36,3849.Bronze-winged Woodpecker,34
+crimson_mantled_woodpecker,Crimson-mantled Woodpecker,DIB-10K_36,3850.Crimson-mantled Woodpecker,436
+black_necked_woodpecker,Black-necked Woodpecker,DIB-10K_36,3851.Black-necked Woodpecker,120
+spot_breasted_woodpecker,Spot-breasted Woodpecker,DIB-10K_36,3852.Spot-breasted Woodpecker,820
+green_barred_woodpecker,Green-barred Woodpecker,DIB-10K_36,3853.Green-barred Woodpecker,2177
+northern_flicker,Northern Flicker,DIB-10K_36,3854.Northern Flicker,2494
+gilded_flicker,Gilded Flicker,DIB-10K_36,3855.Gilded Flicker,1028
+bermuda_flicker,Bermuda Flicker,DIB-10K_36,3856.Bermuda Flicker,2
+fernandinas_flicker,Fernandina's Flicker,DIB-10K_36,3857.Fernandina's Flicker,289
+chilean_flicker,Chilean Flicker,DIB-10K_36,3858.Chilean Flicker,603
+andean_flicker,Andean Flicker,DIB-10K_36,3859.Andean Flicker,586
+campo_flicker,Campo Flicker,DIB-10K_36,3860.Campo Flicker,2495
+cinnamon_woodpecker,Cinnamon Woodpecker,DIB-10K_36,3861.Cinnamon Woodpecker,321
+waved_woodpecker,Waved Woodpecker,DIB-10K_36,3862.Waved Woodpecker,101
+scaly_breasted_woodpecker,Scaly-breasted Woodpecker,DIB-10K_36,3863.Scaly-breasted Woodpecker,110
+chestnut_colored_woodpecker,Chestnut-colored Woodpecker,DIB-10K_36,3864.Chestnut-colored Woodpecker,473
+chestnut_woodpecker,Chestnut Woodpecker,DIB-10K_36,3865.Chestnut Woodpecker,218
+pale_crested_woodpecker,Pale-crested Woodpecker,DIB-10K_36,3866.Pale-crested Woodpecker,211
+blond_crested_woodpecker,Blond-crested Woodpecker,DIB-10K_36,3867.Blond-crested Woodpecker,710
+ochre_backed_woodpecker,Ochre-backed Woodpecker,DIB-10K_36,3868.Ochre-backed Woodpecker,92
+cream_colored_woodpecker,Cream-colored Woodpecker,DIB-10K_36,3869.Cream-colored Woodpecker,329
+rufous_headed_woodpecker,Rufous-headed Woodpecker,DIB-10K_36,3870.Rufous-headed Woodpecker,82
+kaempfers_woodpecker,Kaempfer's Woodpecker,DIB-10K_36,3871.Kaempfer's Woodpecker,48
+ringed_woodpecker,Ringed Woodpecker,DIB-10K_36,3872.Ringed Woodpecker,122
+helmeted_woodpecker,Helmeted Woodpecker,DIB-10K_36,3873.Helmeted Woodpecker,56
+black_bodied_woodpecker,Black-bodied Woodpecker,DIB-10K_36,3874.Black-bodied Woodpecker,35
+lineated_woodpecker,Lineated Woodpecker,DIB-10K_36,3875.Lineated Woodpecker,1823
+pileated_woodpecker,Pileated Woodpecker,DIB-10K_36,3876.Pileated Woodpecker,2292
+white_bellied_woodpecker,White-bellied Woodpecker,DIB-10K_36,3877.White-bellied Woodpecker,292
+andaman_woodpecker,Andaman Woodpecker,DIB-10K_36,3878.Andaman Woodpecker,66
+black_woodpecker,Black Woodpecker,DIB-10K_36,3879.Black Woodpecker,1738
+powerful_woodpecker,Powerful Woodpecker,DIB-10K_36,3880.Powerful Woodpecker,129
+crimson_bellied_woodpecker,Crimson-bellied Woodpecker,DIB-10K_36,3881.Crimson-bellied Woodpecker,60
+red_necked_woodpecker,Red-necked Woodpecker,DIB-10K_36,3882.Red-necked Woodpecker,167
+robust_woodpecker,Robust Woodpecker,DIB-10K_36,3883.Robust Woodpecker,266
+crimson_crested_woodpecker,Crimson-crested Woodpecker,DIB-10K_36,3884.Crimson-crested Woodpecker,755
+pale_billed_woodpecker,Pale-billed Woodpecker,DIB-10K_36,3885.Pale-billed Woodpecker,854
+guayaquil_woodpecker,Guayaquil Woodpecker,DIB-10K_36,3886.Guayaquil Woodpecker,159
+cream_backed_woodpecker,Cream-backed Woodpecker,DIB-10K_36,3887.Cream-backed Woodpecker,252
+magellanic_woodpecker,Magellanic Woodpecker,DIB-10K_36,3888.Magellanic Woodpecker,869
+ivory_billed_woodpecker,Ivory-billed Woodpecker,DIB-10K_36,3889.Ivory-billed Woodpecker,162
+imperial_woodpecker,Imperial Woodpecker,DIB-10K_36,3890.Imperial Woodpecker,66
+banded_woodpecker,Banded Woodpecker,DIB-10K_36,3891.Banded Woodpecker,337
+checker_throated_woodpecker,Checker-throated Woodpecker,DIB-10K_36,3892.Checker-throated Woodpecker,59
+greater_yellownape,Greater Yellownape,DIB-10K_36,3893.Greater Yellownape,279
+lesser_yellownape,Lesser Yellownape,DIB-10K_36,3894.Lesser Yellownape,390
+crimson_winged_woodpecker,Crimson-winged Woodpecker,DIB-10K_36,3895.Crimson-winged Woodpecker,210
+streak_breasted_woodpecker,Streak-breasted Woodpecker,DIB-10K_36,3896.Streak-breasted Woodpecker,113
+laced_woodpecker,Laced Woodpecker,DIB-10K_36,3897.Laced Woodpecker,727
+streak_throated_woodpecker,Streak-throated Woodpecker,DIB-10K_36,3898.Streak-throated Woodpecker,359
+scaly_bellied_woodpecker,Scaly-bellied Woodpecker,DIB-10K_36,3899.Scaly-bellied Woodpecker,168
+japanese_green_woodpecker,Japanese Green Woodpecker,DIB-10K_36,3900.Japanese Green Woodpecker,130
+european_green_woodpecker,European Green Woodpecker,DIB-10K_36,3901.European Green Woodpecker,2241
+iberian_green_woodpecker,Iberian Green Woodpecker,DIB-10K_36,3902.Iberian Green Woodpecker,355
+levaillants_woodpecker,Levaillant's Woodpecker,DIB-10K_36,3903.Levaillant's Woodpecker,104
+red_collared_woodpecker,Red-collared Woodpecker,DIB-10K_36,3904.Red-collared Woodpecker,13
+black_headed_woodpecker,Black-headed Woodpecker,DIB-10K_36,3905.Black-headed Woodpecker,176
+grey_headed_woodpecker,Grey-headed Woodpecker,DIB-10K_36,3906.Grey-headed Woodpecker,1796
+olive_backed_woodpecker,Olive-backed Woodpecker,DIB-10K_36,3907.Olive-backed Woodpecker,60
+himalayan_flameback,Himalayan Flameback,DIB-10K_36,3908.Himalayan Flameback,83
+common_flameback,Common Flameback,DIB-10K_36,3909.Common Flameback,866
+spot_throated_flameback,Spot-throated Flameback,DIB-10K_36,3910.Spot-throated Flameback,32
+black_rumped_flameback,Black-rumped Flameback,DIB-10K_36,3911.Black-rumped Flameback,1357
+red_backed_flameback,Red-backed Flameback,DIB-10K_36,3912.Red-backed Flameback,47
+buff_spotted_flameback,Buff-spotted Flameback,DIB-10K_36,3913.Buff-spotted Flameback,253
+luzon_flameback,Luzon Flameback,DIB-10K_36,3914.Luzon Flameback,44
+yellow_faced_flameback,Yellow-faced Flameback,DIB-10K_36,3915.Yellow-faced Flameback,25
+red_headed_flameback,Red-headed Flameback,DIB-10K_36,3916.Red-headed Flameback,27
+javan_flameback,Javan Flameback,DIB-10K_36,3917.Javan Flameback,24
+greater_flameback,Greater Flameback,DIB-10K_36,3918.Greater Flameback,252
+crimson_backed_flameback,Crimson-backed Flameback,DIB-10K_36,3919.Crimson-backed Flameback,58
+white_naped_woodpecker,White-naped Woodpecker,DIB-10K_36,3920.White-naped Woodpecker,192
+pale_headed_woodpecker,Pale-headed Woodpecker,DIB-10K_36,3921.Pale-headed Woodpecker,40
+bamboo_woodpecker,Bamboo Woodpecker,DIB-10K_36,3922.Bamboo Woodpecker,40
+maroon_woodpecker,Maroon Woodpecker,DIB-10K_36,3923.Maroon Woodpecker,82
+bay_woodpecker,Bay Woodpecker,DIB-10K_36,3924.Bay Woodpecker,96
+orange_backed_woodpecker,Orange-backed Woodpecker,DIB-10K_36,3925.Orange-backed Woodpecker,146
+rufous_woodpecker,Rufous Woodpecker,DIB-10K_36,3926.Rufous Woodpecker,550
+buff_rumped_woodpecker,Buff-rumped Woodpecker,DIB-10K_36,3927.Buff-rumped Woodpecker,201
+black_and_buff_woodpecker,Black-and-buff Woodpecker,DIB-10K_36,3928.Black-and-buff Woodpecker,76
+buff_necked_woodpecker,Buff-necked Woodpecker,DIB-10K_36,3929.Buff-necked Woodpecker,192
+ashy_woodpecker,Ashy Woodpecker,DIB-10K_36,3930.Ashy Woodpecker,112
+sooty_woodpecker,Sooty Woodpecker,DIB-10K_36,3931.Sooty Woodpecker,58
+great_slaty_woodpecker,Great Slaty Woodpecker,DIB-10K_36,3932.Great Slaty Woodpecker,177
+black_caracara,Black Caracara,DIB-10K_36,3933.Black Caracara,471
+red_throated_caracara,Red-throated Caracara,DIB-10K_36,3934.Red-throated Caracara,364
+carunculated_caracara,Carunculated Caracara,DIB-10K_36,3935.Carunculated Caracara,497
+mountain_caracara,Mountain Caracara,DIB-10K_36,3936.Mountain Caracara,958
+white_throated_caracara,White-throated Caracara,DIB-10K_36,3937.White-throated Caracara,215
+striated_caracara,Striated Caracara,DIB-10K_36,3938.Striated Caracara,1102
+northern_crested_caracara,Northern Crested Caracara,DIB-10K_36,3939.Northern Crested Caracara,2847
+guadalupe_caracara,Guadalupe Caracara,DIB-10K_36,3940.Guadalupe Caracara,12
+southern_crested_caracara,Southern Crested Caracara,DIB-10K_36,3941.Southern Crested Caracara,2323
+yellow_headed_caracara,Yellow-headed Caracara,DIB-10K_36,3942.Yellow-headed Caracara,2768
+chimango_caracara,Chimango Caracara,DIB-10K_36,3943.Chimango Caracara,2796
+laughing_falcon,Laughing Falcon,DIB-10K_36,3944.Laughing Falcon,1581
+barred_forest_falcon,Barred Forest Falcon,DIB-10K_36,3945.Barred Forest Falcon,216
+plumbeous_forest_falcon,Plumbeous Forest Falcon,DIB-10K_36,3946.Plumbeous Forest Falcon,30
+lined_forest_falcon,Lined Forest Falcon,DIB-10K_36,3947.Lined Forest Falcon,69
+cryptic_forest_falcon,Cryptic Forest Falcon,DIB-10K_36,3948.Cryptic Forest Falcon,50
+slaty_backed_forest_falcon,Slaty-backed Forest Falcon,DIB-10K_36,3949.Slaty-backed Forest Falcon,101
+collared_forest_falcon,Collared Forest Falcon,DIB-10K_36,3950.Collared Forest Falcon,335
+buckleys_forest_falcon,Buckley's Forest Falcon,DIB-10K_36,3951.Buckley's Forest Falcon,17
+spot_winged_falconet,Spot-winged Falconet,DIB-10K_36,3952.Spot-winged Falconet,137
+pygmy_falcon,Pygmy Falcon,DIB-10K_36,3953.Pygmy Falcon,761
+white_rumped_falcon,White-rumped Falcon,DIB-10K_36,3954.White-rumped Falcon,163
+collared_falconet,Collared Falconet,DIB-10K_36,3955.Collared Falconet,322
+black_thighed_falconet,Black-thighed Falconet,DIB-10K_36,3956.Black-thighed Falconet,436
+white_fronted_falconet,White-fronted Falconet,DIB-10K_36,3957.White-fronted Falconet,150
+philippine_falconet,Philippine Falconet,DIB-10K_36,3958.Philippine Falconet,120
+pied_falconet,Pied Falconet,DIB-10K_36,3959.Pied Falconet,173
+lesser_kestrel,Lesser Kestrel,DIB-10K_36,3960.Lesser Kestrel,2725
+,,DIB-10K_36,,0

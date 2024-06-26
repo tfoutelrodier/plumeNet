@@ -1,0 +1,71 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+copper_pheasant,Copper Pheasant,DIB-10K_7,518.Copper Pheasant,298
+reevess_pheasant,Reeves's Pheasant,DIB-10K_7,519.Reeves's Pheasant,429
+common_pheasant,Common Pheasant,DIB-10K_7,520.Common Pheasant,2816
+green_pheasant,Green Pheasant,DIB-10K_7,521.Green Pheasant,428
+golden_pheasant,Golden Pheasant,DIB-10K_7,522.Golden Pheasant,2041
+lady_amhersts_pheasant,Lady Amherst's Pheasant,DIB-10K_7,523.Lady Amherst's Pheasant,724
+bronze_tailed_peacock_pheasant,Bronze-tailed Peacock-Pheasant,DIB-10K_7,524.Bronze-tailed Peacock-Pheasant,53
+mountain_peacock_pheasant,Mountain Peacock-Pheasant,DIB-10K_7,525.Mountain Peacock-Pheasant,425
+germains_peacock_pheasant,Germain's Peacock-Pheasant,DIB-10K_7,526.Germain's Peacock-Pheasant,123
+grey_peacock_pheasant,Grey Peacock-Pheasant,DIB-10K_7,527.Grey Peacock-Pheasant,458
+hainan_peacock_pheasant,Hainan Peacock-Pheasant,DIB-10K_7,528.Hainan Peacock-Pheasant,7
+malayan_peacock_pheasant,Malayan Peacock-Pheasant,DIB-10K_7,529.Malayan Peacock-Pheasant,237
+bornean_peacock_pheasant,Bornean Peacock-Pheasant,DIB-10K_7,530.Bornean Peacock-Pheasant,31
+palawan_peacock_pheasant,Palawan Peacock-Pheasant,DIB-10K_7,531.Palawan Peacock-Pheasant,450
+crested_argus,Crested Argus,DIB-10K_7,532.Crested Argus,72
+great_argus,Great Argus,DIB-10K_7,533.Great Argus,625
+indian_peafowl,Indian Peafowl,DIB-10K_7,534.Indian Peafowl,2401
+green_peafowl,Green Peafowl,DIB-10K_7,535.Green Peafowl,980
+congo_peafowl,Congo Peafowl,DIB-10K_7,536.Congo Peafowl,288
+red_throated_loon,Red-throated Loon,DIB-10K_7,537.Red-throated Loon,2837
+black_throated_loon,Black-throated Loon,DIB-10K_7,538.Black-throated Loon,2331
+pacific_loon,Pacific Loon,DIB-10K_7,539.Pacific Loon,1787
+common_loon,Common Loon,DIB-10K_7,540.Common Loon,2692
+yellow_billed_loon,Yellow-billed Loon,DIB-10K_7,541.Yellow-billed Loon,1222
+king_penguin,King Penguin,DIB-10K_7,542.King Penguin,1812
+emperor_penguin,Emperor Penguin,DIB-10K_7,543.Emperor Penguin,1556
+gentoo_penguin,Gentoo Penguin,DIB-10K_7,544.Gentoo Penguin,2423
+adelie_penguin,Adelie Penguin,DIB-10K_7,545.Adelie Penguin,2057
+chinstrap_penguin,Chinstrap Penguin,DIB-10K_7,546.Chinstrap Penguin,1187
+fiordland_penguin,Fiordland Penguin,DIB-10K_7,547.Fiordland Penguin,361
+snares_penguin,Snares Penguin,DIB-10K_7,548.Snares Penguin,242
+erect_crested_penguin,Erect-crested Penguin,DIB-10K_7,549.Erect-crested Penguin,149
+southern_rockhopper_penguin,Southern Rockhopper Penguin,DIB-10K_7,550.Southern Rockhopper Penguin,1788
+northern_rockhopper_penguin,Northern Rockhopper Penguin,DIB-10K_7,551.Northern Rockhopper Penguin,226
+royal_penguin,Royal Penguin,DIB-10K_7,552.Royal Penguin,511
+macaroni_penguin,Macaroni Penguin,DIB-10K_7,553.Macaroni Penguin,849
+yellow_eyed_penguin,Yellow-eyed Penguin,DIB-10K_7,554.Yellow-eyed Penguin,1325
+little_penguin,Little Penguin,DIB-10K_7,555.Little Penguin,1246
+african_penguin,African Penguin,DIB-10K_7,556.African Penguin,2387
+magellanic_penguin,Magellanic Penguin,DIB-10K_7,557.Magellanic Penguin,2259
+humboldt_penguin,Humboldt Penguin,DIB-10K_7,558.Humboldt Penguin,2166
+galapagos_penguin,Galapagos Penguin,DIB-10K_7,559.Galapagos Penguin,1212
+wilsons_storm_petrel,Wilson's Storm Petrel,DIB-10K_7,560.Wilson's Storm Petrel,1420
+elliots_storm_petrel,Elliot's Storm Petrel,DIB-10K_7,561.Elliot's Storm Petrel,526
+pincoya_storm_petrel,Pincoya Storm Petrel,DIB-10K_7,562.Pincoya Storm Petrel,80
+grey_backed_storm_petrel,Grey-backed Storm Petrel,DIB-10K_7,563.Grey-backed Storm Petrel,178
+white_faced_storm_petrel,White-faced Storm Petrel,DIB-10K_7,564.White-faced Storm Petrel,630
+white_bellied_storm_petrel,White-bellied Storm Petrel,DIB-10K_7,565.White-bellied Storm Petrel,134
+black_bellied_storm_petrel,Black-bellied Storm Petrel,DIB-10K_7,566.Black-bellied Storm Petrel,224
+new_zealand_storm_petrel,New Zealand Storm Petrel,DIB-10K_7,567.New Zealand Storm Petrel,184
+polynesian_storm_petrel,Polynesian Storm Petrel,DIB-10K_7,568.Polynesian Storm Petrel,72
+laysan_albatross,Laysan Albatross,DIB-10K_7,569.Laysan Albatross,1957
+black_footed_albatross,Black-footed Albatross,DIB-10K_7,570.Black-footed Albatross,2140
+waved_albatross,Waved Albatross,DIB-10K_7,571.Waved Albatross,1519
+short_tailed_albatross,Short-tailed Albatross,DIB-10K_7,572.Short-tailed Albatross,677
+wandering_albatross,Wandering Albatross,DIB-10K_7,573.Wandering Albatross,2223
+antipodean_albatross,Antipodean Albatross,DIB-10K_7,574.Antipodean Albatross,354
+amsterdam_albatross,Amsterdam Albatross,DIB-10K_7,575.Amsterdam Albatross,65
+tristan_albatross,Tristan Albatross,DIB-10K_7,576.Tristan Albatross,173
+southern_royal_albatross,Southern Royal Albatross,DIB-10K_7,577.Southern Royal Albatross,1398
+northern_royal_albatross,Northern Royal Albatross,DIB-10K_7,578.Northern Royal Albatross,630
+sooty_albatross,Sooty Albatross,DIB-10K_7,579.Sooty Albatross,347
+light_mantled_albatross,Light-mantled Albatross,DIB-10K_7,580.Light-mantled Albatross,562
+black_browed_albatross,Black-browed Albatross,DIB-10K_7,581.Black-browed Albatross,2404
+campbell_albatross,Campbell Albatross,DIB-10K_7,582.Campbell Albatross,463
+shy_albatross,Shy Albatross,DIB-10K_7,583.Shy Albatross,2443
+chatham_albatross,Chatham Albatross,DIB-10K_7,584.Chatham Albatross,239
+salvins_albatross,Salvin's Albatross,DIB-10K_7,585.Salvin's Albatross,769
+grey_headed_albatross,Grey-headed Albatross,DIB-10K_7,586.Grey-headed Albatross,550
+,,DIB-10K_7,,0

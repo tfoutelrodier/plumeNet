@@ -1,0 +1,56 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+iceland_gull,Iceland Gull,DIB-10K_24,1728.Iceland Gull,2938
+european_herring_gull,European Herring Gull,DIB-10K_24,1729.European Herring Gull,2872
+american_herring_gull,American Herring Gull,DIB-10K_24,1730.American Herring Gull,2612
+vega_gull,Vega Gull,DIB-10K_24,1731.Vega Gull,679
+caspian_gull,Caspian Gull,DIB-10K_24,1732.Caspian Gull,2852
+yellow_legged_gull,Yellow-legged Gull,DIB-10K_24,1733.Yellow-legged Gull,3092
+armenian_gull,Armenian Gull,DIB-10K_24,1734.Armenian Gull,436
+slaty_backed_gull,Slaty-backed Gull,DIB-10K_24,1735.Slaty-backed Gull,1410
+lesser_black_backed_gull,Lesser Black-backed Gull,DIB-10K_24,1736.Lesser Black-backed Gull,2798
+gull_billed_tern,Gull-billed Tern,DIB-10K_24,1737.Gull-billed Tern,2189
+caspian_tern,Caspian Tern,DIB-10K_24,1738.Caspian Tern,2695
+royal_tern,Royal Tern,DIB-10K_24,1739.Royal Tern,2774
+greater_crested_tern,Greater Crested Tern,DIB-10K_24,1740.Greater Crested Tern,2554
+lesser_crested_tern,Lesser Crested Tern,DIB-10K_24,1741.Lesser Crested Tern,704
+chinese_crested_tern,Chinese Crested Tern,DIB-10K_24,1742.Chinese Crested Tern,157
+sandwich_tern,Sandwich Tern,DIB-10K_24,1743.Sandwich Tern,2860
+cabots_tern,Cabot's Tern,DIB-10K_24,1744.Cabot's Tern,398
+elegant_tern,Elegant Tern,DIB-10K_24,1745.Elegant Tern,2155
+little_tern,Little Tern,DIB-10K_24,1746.Little Tern,2754
+saunderss_tern,Saunders's Tern,DIB-10K_24,1747.Saunders's Tern,194
+least_tern,Least Tern,DIB-10K_24,1748.Least Tern,2871
+yellow_billed_tern,Yellow-billed Tern,DIB-10K_24,1749.Yellow-billed Tern,439
+peruvian_tern,Peruvian Tern,DIB-10K_24,1750.Peruvian Tern,119
+fairy_tern,Fairy Tern,DIB-10K_24,1751.Fairy Tern,473
+damara_tern,Damara Tern,DIB-10K_24,1752.Damara Tern,161
+aleutian_tern,Aleutian Tern,DIB-10K_24,1753.Aleutian Tern,496
+spectacled_tern,Spectacled Tern,DIB-10K_24,1754.Spectacled Tern,65
+bridled_tern,Bridled Tern,DIB-10K_24,1755.Bridled Tern,1391
+sooty_tern,Sooty Tern,DIB-10K_24,1756.Sooty Tern,1433
+river_tern,River Tern,DIB-10K_24,1757.River Tern,1114
+roseate_tern,Roseate Tern,DIB-10K_24,1758.Roseate Tern,1781
+white_fronted_tern,White-fronted Tern,DIB-10K_24,1759.White-fronted Tern,2366
+black_naped_tern,Black-naped Tern,DIB-10K_24,1760.Black-naped Tern,2228
+south_american_tern,South American Tern,DIB-10K_24,1761.South American Tern,643
+common_tern,Common Tern,DIB-10K_24,1762.Common Tern,3187
+white_cheeked_tern,White-cheeked Tern,DIB-10K_24,1763.White-cheeked Tern,304
+arctic_tern,Arctic Tern,DIB-10K_24,1764.Arctic Tern,3127
+antarctic_tern,Antarctic Tern,DIB-10K_24,1765.Antarctic Tern,708
+kerguelen_tern,Kerguelen Tern,DIB-10K_24,1766.Kerguelen Tern,29
+forsters_tern,Forster's Tern,DIB-10K_24,1767.Forster's Tern,2723
+snowy_crowned_tern,Snowy-crowned Tern,DIB-10K_24,1768.Snowy-crowned Tern,466
+black_bellied_tern,Black-bellied Tern,DIB-10K_24,1769.Black-bellied Tern,226
+black_fronted_tern,Black-fronted Tern,DIB-10K_24,1770.Black-fronted Tern,984
+whiskered_tern,Whiskered Tern,DIB-10K_24,1771.Whiskered Tern,2786
+white_winged_tern,White-winged Tern,DIB-10K_24,1772.White-winged Tern,2207
+black_tern,Black Tern,DIB-10K_24,1773.Black Tern,2839
+large_billed_tern,Large-billed Tern,DIB-10K_24,1774.Large-billed Tern,1337
+inca_tern,Inca Tern,DIB-10K_24,1775.Inca Tern,2600
+chilean_skua,Chilean Skua,DIB-10K_24,1776.Chilean Skua,477
+south_polar_skua,South Polar Skua,DIB-10K_24,1777.South Polar Skua,1421
+brown_skua,Brown Skua,DIB-10K_24,1778.Brown Skua,1174
+great_skua,Great Skua,DIB-10K_24,1779.Great Skua,2390
+pomarine_jaeger,Pomarine Jaeger,DIB-10K_24,1780.Pomarine Jaeger,2287
+parasitic_jaeger,Parasitic Jaeger,DIB-10K_24,1781.Parasitic Jaeger,2828
+,,DIB-10K_24,,0

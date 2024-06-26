@@ -1,0 +1,213 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+purple_needletail,Purple Needletail,DIB-10K_30,2788.Purple Needletail,52
+lesser_antillean_swift,Lesser Antillean Swift,DIB-10K_30,2789.Lesser Antillean Swift,32
+band_rumped_swift,Band-rumped Swift,DIB-10K_30,2790.Band-rumped Swift,57
+costa_rican_swift,Costa Rican Swift,DIB-10K_30,2791.Costa Rican Swift,49
+pale_rumped_swift,Pale-rumped Swift,DIB-10K_30,2792.Pale-rumped Swift,39
+grey_rumped_swift,Grey-rumped Swift,DIB-10K_30,2793.Grey-rumped Swift,88
+vauxs_swift,Vaux's Swift,DIB-10K_30,2794.Vaux's Swift,763
+sicks_swift,Sick's Swift,DIB-10K_30,2795.Sick's Swift,111
+chimney_swift,Chimney Swift,DIB-10K_30,2796.Chimney Swift,523
+chapmans_swift,Chapman's Swift,DIB-10K_30,2797.Chapman's Swift,37
+mato_grosso_swift,Mato Grosso Swift,DIB-10K_30,2798.Mato Grosso Swift,27
+short_tailed_swift,Short-tailed Swift,DIB-10K_30,2799.Short-tailed Swift,141
+white_throated_swift,White-throated Swift,DIB-10K_30,2800.White-throated Swift,710
+white_tipped_swift,White-tipped Swift,DIB-10K_30,2801.White-tipped Swift,63
+andean_swift,Andean Swift,DIB-10K_30,2802.Andean Swift,111
+antillean_palm_swift,Antillean Palm Swift,DIB-10K_30,2803.Antillean Palm Swift,241
+pygmy_palm_swift,Pygmy Palm Swift,DIB-10K_30,2804.Pygmy Palm Swift,3
+neotropical_palm_swift,Neotropical Palm Swift,DIB-10K_30,2805.Neotropical Palm Swift,154
+great_swallow_tailed_swift,Great Swallow-tailed Swift,DIB-10K_30,2806.Great Swallow-tailed Swift,69
+lesser_swallow_tailed_swift,Lesser Swallow-tailed Swift,DIB-10K_30,2807.Lesser Swallow-tailed Swift,116
+african_palm_swift,African Palm Swift,DIB-10K_30,2808.African Palm Swift,233
+asian_palm_swift,Asian Palm Swift,DIB-10K_30,2809.Asian Palm Swift,317
+alpine_swift,Alpine Swift,DIB-10K_30,2810.Alpine Swift,1257
+mottled_swift,Mottled Swift,DIB-10K_30,2811.Mottled Swift,57
+cape_verde_swift,Cape Verde Swift,DIB-10K_30,2812.Cape Verde Swift,72
+common_swift,Common Swift,DIB-10K_30,2813.Common Swift,1195
+plain_swift,Plain Swift,DIB-10K_30,2814.Plain Swift,165
+nyanza_swift,Nyanza Swift,DIB-10K_30,2815.Nyanza Swift,39
+pallid_swift,Pallid Swift,DIB-10K_30,2816.Pallid Swift,1045
+african_black_swift,African Black Swift,DIB-10K_30,2817.African Black Swift,88
+malagasy_black_swift,Malagasy Black Swift,DIB-10K_30,2818.Malagasy Black Swift,19
+fernando_po_swift,Fernando Po Swift,DIB-10K_30,2819.Fernando Po Swift,9
+forbes_watsons_swift,Forbes-Watson's Swift,DIB-10K_30,2820.Forbes-Watson's Swift,37
+bradfields_swift,Bradfield's Swift,DIB-10K_30,2821.Bradfield's Swift,32
+pacific_swift,Pacific Swift,DIB-10K_30,2822.Pacific Swift,458
+salim_alis_swift,Salim Ali's Swift,DIB-10K_30,2823.Salim Ali's Swift,20
+blyths_swift,Blyth's Swift,DIB-10K_30,2824.Blyth's Swift,29
+cooks_swift,Cook's Swift,DIB-10K_30,2825.Cook's Swift,61
+dark_rumped_swift,Dark-rumped Swift,DIB-10K_30,2826.Dark-rumped Swift,22
+little_swift,Little Swift,DIB-10K_30,2827.Little Swift,755
+house_swift,House Swift,DIB-10K_30,2828.House Swift,359
+horus_swift,Horus Swift,DIB-10K_30,2829.Horus Swift,69
+white_rumped_swift,White-rumped Swift,DIB-10K_30,2830.White-rumped Swift,344
+batess_swift,Bates's Swift,DIB-10K_30,2831.Bates's Swift,16
+saw_billed_hermit,Saw-billed Hermit,DIB-10K_30,2832.Saw-billed Hermit,481
+white_tipped_sicklebill,White-tipped Sicklebill,DIB-10K_30,2833.White-tipped Sicklebill,285
+buff_tailed_sicklebill,Buff-tailed Sicklebill,DIB-10K_30,2834.Buff-tailed Sicklebill,77
+hook_billed_hermit,Hook-billed Hermit,DIB-10K_30,2835.Hook-billed Hermit,72
+rufous_breasted_hermit,Rufous-breasted Hermit,DIB-10K_30,2836.Rufous-breasted Hermit,543
+bronzy_hermit,Bronzy Hermit,DIB-10K_30,2837.Bronzy Hermit,93
+band_tailed_barbthroat,Band-tailed Barbthroat,DIB-10K_30,2838.Band-tailed Barbthroat,226
+sooty_barbthroat,Sooty Barbthroat,DIB-10K_30,2839.Sooty Barbthroat,16
+pale_tailed_barbthroat,Pale-tailed Barbthroat,DIB-10K_30,2840.Pale-tailed Barbthroat,77
+broad_tipped_hermit,Broad-tipped Hermit,DIB-10K_30,2841.Broad-tipped Hermit,53
+white_whiskered_hermit,White-whiskered Hermit,DIB-10K_30,2842.White-whiskered Hermit,309
+green_hermit,Green Hermit,DIB-10K_30,2843.Green Hermit,915
+white_bearded_hermit,White-bearded Hermit,DIB-10K_30,2844.White-bearded Hermit,125
+long_billed_hermit,Long-billed Hermit,DIB-10K_30,2845.Long-billed Hermit,618
+mexican_hermit,Mexican Hermit,DIB-10K_30,2846.Mexican Hermit,31
+long_tailed_hermit,Long-tailed Hermit,DIB-10K_30,2847.Long-tailed Hermit,232
+great_billed_hermit,Great-billed Hermit,DIB-10K_30,2848.Great-billed Hermit,165
+tawny_bellied_hermit,Tawny-bellied Hermit,DIB-10K_30,2849.Tawny-bellied Hermit,195
+koepckes_hermit,Koepcke's Hermit,DIB-10K_30,2850.Koepcke's Hermit,109
+needle_billed_hermit,Needle-billed Hermit,DIB-10K_30,2851.Needle-billed Hermit,55
+straight_billed_hermit,Straight-billed Hermit,DIB-10K_30,2852.Straight-billed Hermit,87
+pale_bellied_hermit,Pale-bellied Hermit,DIB-10K_30,2853.Pale-bellied Hermit,175
+scale_throated_hermit,Scale-throated Hermit,DIB-10K_30,2854.Scale-throated Hermit,375
+planalto_hermit,Planalto Hermit,DIB-10K_30,2855.Planalto Hermit,557
+sooty_capped_hermit,Sooty-capped Hermit,DIB-10K_30,2856.Sooty-capped Hermit,115
+buff_bellied_hermit,Buff-bellied Hermit,DIB-10K_30,2857.Buff-bellied Hermit,47
+dusky_throated_hermit,Dusky-throated Hermit,DIB-10K_30,2858.Dusky-throated Hermit,127
+streak_throated_hermit,Streak-throated Hermit,DIB-10K_30,2859.Streak-throated Hermit,41
+little_hermit,Little Hermit,DIB-10K_30,2860.Little Hermit,172
+minute_hermit,Minute Hermit,DIB-10K_30,2861.Minute Hermit,102
+cinnamon_throated_hermit,Cinnamon-throated Hermit,DIB-10K_30,2862.Cinnamon-throated Hermit,30
+reddish_hermit,Reddish Hermit,DIB-10K_30,2863.Reddish Hermit,392
+white_browed_hermit,White-browed Hermit,DIB-10K_30,2864.White-browed Hermit,28
+black_throated_hermit,Black-throated Hermit,DIB-10K_30,2865.Black-throated Hermit,67
+tapajos_hermit,Tapajos Hermit,DIB-10K_30,2866.Tapajos Hermit,14
+stripe_throated_hermit,Stripe-throated Hermit,DIB-10K_30,2867.Stripe-throated Hermit,439
+grey_chinned_hermit,Grey-chinned Hermit,DIB-10K_30,2868.Grey-chinned Hermit,70
+tooth_billed_hummingbird,Tooth-billed Hummingbird,DIB-10K_30,2869.Tooth-billed Hummingbird,63
+green_fronted_lancebill,Green-fronted Lancebill,DIB-10K_30,2870.Green-fronted Lancebill,302
+blue_fronted_lancebill,Blue-fronted Lancebill,DIB-10K_30,2871.Blue-fronted Lancebill,92
+scaly_breasted_hummingbird,Scaly-breasted Hummingbird,DIB-10K_30,2872.Scaly-breasted Hummingbird,571
+curve_winged_sabrewing,Curve-winged Sabrewing,DIB-10K_30,2873.Curve-winged Sabrewing,113
+wedge_tailed_sabrewing,Wedge-tailed Sabrewing,DIB-10K_30,2874.Wedge-tailed Sabrewing,148
+long_tailed_sabrewing,Long-tailed Sabrewing,DIB-10K_30,2875.Long-tailed Sabrewing,44
+grey_breasted_sabrewing,Grey-breasted Sabrewing,DIB-10K_30,2876.Grey-breasted Sabrewing,357
+rufous_sabrewing,Rufous Sabrewing,DIB-10K_30,2877.Rufous Sabrewing,113
+rufous_breasted_sabrewing,Rufous-breasted Sabrewing,DIB-10K_30,2878.Rufous-breasted Sabrewing,31
+violet_sabrewing,Violet Sabrewing,DIB-10K_30,2879.Violet Sabrewing,1644
+white_tailed_sabrewing,White-tailed Sabrewing,DIB-10K_30,2880.White-tailed Sabrewing,212
+lazuline_sabrewing,Lazuline Sabrewing,DIB-10K_30,2881.Lazuline Sabrewing,169
+santa_marta_sabrewing,Santa Marta Sabrewing,DIB-10K_30,2882.Santa Marta Sabrewing,29
+napo_sabrewing,Napo Sabrewing,DIB-10K_30,2883.Napo Sabrewing,129
+buff_breasted_sabrewing,Buff-breasted Sabrewing,DIB-10K_30,2884.Buff-breasted Sabrewing,19
+sombre_hummingbird,Sombre Hummingbird,DIB-10K_30,2885.Sombre Hummingbird,523
+swallow_tailed_hummingbird,Swallow-tailed Hummingbird,DIB-10K_30,2886.Swallow-tailed Hummingbird,2153
+white_necked_jacobin,White-necked Jacobin,DIB-10K_30,2887.White-necked Jacobin,2523
+black_jacobin,Black Jacobin,DIB-10K_30,2888.Black Jacobin,1085
+brown_violetear,Brown Violetear,DIB-10K_30,2889.Brown Violetear,1707
+mexican_violetear,Mexican Violetear,DIB-10K_30,2890.Mexican Violetear,1492
+lesser_violetear,Lesser Violetear,DIB-10K_30,2891.Lesser Violetear,1144
+sparkling_violetear,Sparkling Violetear,DIB-10K_30,2892.Sparkling Violetear,2245
+white_vented_violetear,White-vented Violetear,DIB-10K_30,2893.White-vented Violetear,563
+green_throated_mango,Green-throated Mango,DIB-10K_30,2894.Green-throated Mango,131
+green_breasted_mango,Green-breasted Mango,DIB-10K_30,2895.Green-breasted Mango,1013
+black_throated_mango,Black-throated Mango,DIB-10K_30,2896.Black-throated Mango,2032
+veraguan_mango,Veraguan Mango,DIB-10K_30,2897.Veraguan Mango,99
+antillean_mango,Antillean Mango,DIB-10K_30,2898.Antillean Mango,1078
+green_mango,Green Mango,DIB-10K_30,2899.Green Mango,171
+jamaican_mango,Jamaican Mango,DIB-10K_30,2900.Jamaican Mango,233
+fiery_tailed_awlbill,Fiery-tailed Awlbill,DIB-10K_30,2901.Fiery-tailed Awlbill,51
+crimson_topaz,Crimson Topaz,DIB-10K_30,2902.Crimson Topaz,282
+fiery_topaz,Fiery Topaz,DIB-10K_30,2903.Fiery Topaz,74
+purple_throated_carib,Purple-throated Carib,DIB-10K_30,2904.Purple-throated Carib,572
+green_throated_carib,Green-throated Carib,DIB-10K_30,2905.Green-throated Carib,660
+ruby_topaz_hummingbird,Ruby-topaz Hummingbird,DIB-10K_30,2906.Ruby-topaz Hummingbird,1246
+antillean_crested_hummingbird,Antillean Crested Hummingbird,DIB-10K_30,2907.Antillean Crested Hummingbird,782
+violet_headed_hummingbird,Violet-headed Hummingbird,DIB-10K_30,2908.Violet-headed Hummingbird,692
+green_crowned_plovercrest,Green-crowned Plovercrest,DIB-10K_30,2909.Green-crowned Plovercrest,391
+purple_crowned_plovercrest,Purple-crowned Plovercrest,DIB-10K_30,2910.Purple-crowned Plovercrest,82
+emerald_chinned_hummingbird,Emerald-chinned Hummingbird,DIB-10K_30,2911.Emerald-chinned Hummingbird,123
+tufted_coquette,Tufted Coquette,DIB-10K_30,2912.Tufted Coquette,700
+dot_eared_coquette,Dot-eared Coquette,DIB-10K_30,2913.Dot-eared Coquette,29
+frilled_coquette,Frilled Coquette,DIB-10K_30,2914.Frilled Coquette,480
+short_crested_coquette,Short-crested Coquette,DIB-10K_30,2915.Short-crested Coquette,44
+rufous_crested_coquette,Rufous-crested Coquette,DIB-10K_30,2916.Rufous-crested Coquette,740
+spangled_coquette,Spangled Coquette,DIB-10K_30,2917.Spangled Coquette,134
+festive_coquette,Festive Coquette,DIB-10K_30,2918.Festive Coquette,763
+peacock_coquette,Peacock Coquette,DIB-10K_30,2919.Peacock Coquette,48
+black_crested_coquette,Black-crested Coquette,DIB-10K_30,2920.Black-crested Coquette,508
+white_crested_coquette,White-crested Coquette,DIB-10K_30,2921.White-crested Coquette,215
+wire_crested_thorntail,Wire-crested Thorntail,DIB-10K_30,2922.Wire-crested Thorntail,401
+black_bellied_thorntail,Black-bellied Thorntail,DIB-10K_30,2923.Black-bellied Thorntail,117
+letitias_thorntail,Letitia's Thorntail,DIB-10K_30,2924.Letitia's Thorntail,2
+green_thorntail,Green Thorntail,DIB-10K_30,2925.Green Thorntail,1159
+racket_tailed_coquette,Racket-tailed Coquette,DIB-10K_30,2926.Racket-tailed Coquette,83
+red_billed_streamertail,Red-billed Streamertail,DIB-10K_30,2927.Red-billed Streamertail,467
+black_billed_streamertail,Black-billed Streamertail,DIB-10K_30,2928.Black-billed Streamertail,101
+blue_chinned_sapphire,Blue-chinned Sapphire,DIB-10K_30,2929.Blue-chinned Sapphire,349
+golden_crowned_emerald,Golden-crowned Emerald,DIB-10K_30,2930.Golden-crowned Emerald,95
+cozumel_emerald,Cozumel Emerald,DIB-10K_30,2931.Cozumel Emerald,144
+canivets_emerald,Canivet's Emerald,DIB-10K_30,2932.Canivet's Emerald,538
+garden_emerald,Garden Emerald,DIB-10K_30,2933.Garden Emerald,189
+blue_tailed_emerald,Blue-tailed Emerald,DIB-10K_30,2934.Blue-tailed Emerald,657
+western_emerald,Western Emerald,DIB-10K_30,2935.Western Emerald,560
+red_billed_emerald,Red-billed Emerald,DIB-10K_30,2936.Red-billed Emerald,161
+chiribiquete_emerald,Chiribiquete Emerald,DIB-10K_30,2937.Chiribiquete Emerald,9
+glittering_bellied_emerald,Glittering-bellied Emerald,DIB-10K_30,2938.Glittering-bellied Emerald,1606
+goulds_emerald,Gould's Emerald,DIB-10K_30,2939.Gould's Emerald,2
+braces_emerald,Brace's Emerald,DIB-10K_30,2940.Brace's Emerald,8
+cuban_emerald,Cuban Emerald,DIB-10K_30,2941.Cuban Emerald,929
+hispaniolan_emerald,Hispaniolan Emerald,DIB-10K_30,2942.Hispaniolan Emerald,333
+puerto_rican_emerald,Puerto Rican Emerald,DIB-10K_30,2943.Puerto Rican Emerald,223
+coppery_emerald,Coppery Emerald,DIB-10K_30,2944.Coppery Emerald,37
+narrow_tailed_emerald,Narrow-tailed Emerald,DIB-10K_30,2945.Narrow-tailed Emerald,41
+green_tailed_emerald,Green-tailed Emerald,DIB-10K_30,2946.Green-tailed Emerald,58
+short_tailed_emerald,Short-tailed Emerald,DIB-10K_30,2947.Short-tailed Emerald,74
+fiery_throated_hummingbird,Fiery-throated Hummingbird,DIB-10K_30,2948.Fiery-throated Hummingbird,1312
+white_tailed_emerald,White-tailed Emerald,DIB-10K_30,2949.White-tailed Emerald,130
+coppery_headed_emerald,Coppery-headed Emerald,DIB-10K_30,2950.Coppery-headed Emerald,987
+oaxaca_hummingbird,Oaxaca Hummingbird,DIB-10K_30,2951.Oaxaca Hummingbird,44
+white_tailed_hummingbird,White-tailed Hummingbird,DIB-10K_30,2952.White-tailed Hummingbird,28
+stripe_tailed_hummingbird,Stripe-tailed Hummingbird,DIB-10K_30,2953.Stripe-tailed Hummingbird,564
+black_bellied_hummingbird,Black-bellied Hummingbird,DIB-10K_30,2954.Black-bellied Hummingbird,538
+pirre_hummingbird,Pirre Hummingbird,DIB-10K_30,2955.Pirre Hummingbird,37
+violet_capped_hummingbird,Violet-capped Hummingbird,DIB-10K_30,2956.Violet-capped Hummingbird,91
+dusky_hummingbird,Dusky Hummingbird,DIB-10K_30,2957.Dusky Hummingbird,102
+broad_billed_hummingbird,Broad-billed Hummingbird,DIB-10K_30,2958.Broad-billed Hummingbird,2509
+doubledays_hummingbird,Doubleday's Hummingbird,DIB-10K_30,2959.Doubleday's Hummingbird,83
+blue_headed_hummingbird,Blue-headed Hummingbird,DIB-10K_30,2960.Blue-headed Hummingbird,77
+mexican_woodnymph,Mexican Woodnymph,DIB-10K_30,2961.Mexican Woodnymph,62
+crowned_woodnymph,Crowned Woodnymph,DIB-10K_30,2962.Crowned Woodnymph,1647
+fork_tailed_woodnymph,Fork-tailed Woodnymph,DIB-10K_30,2963.Fork-tailed Woodnymph,1012
+long_tailed_woodnymph,Long-tailed Woodnymph,DIB-10K_30,2964.Long-tailed Woodnymph,89
+violet_capped_woodnymph,Violet-capped Woodnymph,DIB-10K_30,2965.Violet-capped Woodnymph,1616
+violet_bellied_hummingbird,Violet-bellied Hummingbird,DIB-10K_30,2966.Violet-bellied Hummingbird,244
+sapphire_throated_hummingbird,Sapphire-throated Hummingbird,DIB-10K_30,2967.Sapphire-throated Hummingbird,265
+sapphire_bellied_hummingbird,Sapphire-bellied Hummingbird,DIB-10K_30,2968.Sapphire-bellied Hummingbird,96
+shining_green_hummingbird,Shining-green Hummingbird,DIB-10K_30,2969.Shining-green Hummingbird,82
+blue_throated_sapphire,Blue-throated Sapphire,DIB-10K_30,2970.Blue-throated Sapphire,263
+rufous_throated_sapphire,Rufous-throated Sapphire,DIB-10K_30,2971.Rufous-throated Sapphire,128
+white_chinned_sapphire,White-chinned Sapphire,DIB-10K_30,2972.White-chinned Sapphire,428
+gilded_sapphire,Gilded Sapphire,DIB-10K_30,2973.Gilded Sapphire,898
+blue_headed_sapphire,Blue-headed Sapphire,DIB-10K_30,2974.Blue-headed Sapphire,130
+humboldts_sapphire,Humboldt's Sapphire,DIB-10K_30,2975.Humboldt's Sapphire,22
+golden_tailed_sapphire,Golden-tailed Sapphire,DIB-10K_30,2976.Golden-tailed Sapphire,820
+white_throated_hummingbird,White-throated Hummingbird,DIB-10K_30,2977.White-throated Hummingbird,1103
+white_tailed_goldenthroat,White-tailed Goldenthroat,DIB-10K_30,2978.White-tailed Goldenthroat,184
+tepui_goldenthroat,Tepui Goldenthroat,DIB-10K_30,2979.Tepui Goldenthroat,16
+green_tailed_goldenthroat,Green-tailed Goldenthroat,DIB-10K_30,2980.Green-tailed Goldenthroat,152
+buffy_hummingbird,Buffy Hummingbird,DIB-10K_30,2981.Buffy Hummingbird,181
+tumbes_hummingbird,Tumbes Hummingbird,DIB-10K_30,2982.Tumbes Hummingbird,113
+spot_throated_hummingbird,Spot-throated Hummingbird,DIB-10K_30,2983.Spot-throated Hummingbird,95
+olive_spotted_hummingbird,Olive-spotted Hummingbird,DIB-10K_30,2984.Olive-spotted Hummingbird,82
+many_spotted_hummingbird,Many-spotted Hummingbird,DIB-10K_30,2985.Many-spotted Hummingbird,326
+white_bellied_hummingbird,White-bellied Hummingbird,DIB-10K_30,2986.White-bellied Hummingbird,257
+green_and_white_hummingbird,Green-and-white Hummingbird,DIB-10K_30,2987.Green-and-white Hummingbird,166
+cinnamon_hummingbird,Cinnamon Hummingbird,DIB-10K_30,2988.Cinnamon Hummingbird,1030
+buff_bellied_hummingbird,Buff-bellied Hummingbird,DIB-10K_30,2989.Buff-bellied Hummingbird,1122
+rufous_tailed_hummingbird,Rufous-tailed Hummingbird,DIB-10K_30,2990.Rufous-tailed Hummingbird,2681
+chestnut_bellied_hummingbird,Chestnut-bellied Hummingbird,DIB-10K_30,2991.Chestnut-bellied Hummingbird,105
+amazilia_hummingbird,Amazilia Hummingbird,DIB-10K_30,2992.Amazilia Hummingbird,1242
+plain_bellied_emerald,Plain-bellied Emerald,DIB-10K_30,2993.Plain-bellied Emerald,270
+versicolored_emerald,Versicolored Emerald,DIB-10K_30,2994.Versicolored Emerald,708
+white_chested_emerald,White-chested Emerald,DIB-10K_30,2995.White-chested Emerald,377
+andean_emerald,Andean Emerald,DIB-10K_30,2996.Andean Emerald,1221
+white_bellied_emerald,White-bellied Emerald,DIB-10K_30,2997.White-bellied Emerald,322
+azure_crowned_hummingbird,Azure-crowned Hummingbird,DIB-10K_30,2998.Azure-crowned Hummingbird,417
+,,DIB-10K_30,,0

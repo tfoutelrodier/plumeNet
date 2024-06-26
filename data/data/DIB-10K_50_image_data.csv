@@ -1,0 +1,217 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+obbia_lark,Obbia Lark,DIB-10K_50,7144.Obbia Lark,2
+sclaters_lark,Sclater's Lark,DIB-10K_50,7145.Sclater's Lark,22
+starks_lark,Stark's Lark,DIB-10K_50,7146.Stark's Lark,97
+short_tailed_lark,Short-tailed Lark,DIB-10K_50,7147.Short-tailed Lark,75
+masked_lark,Masked Lark,DIB-10K_50,7148.Masked Lark,46
+bothas_lark,Botha's Lark,DIB-10K_50,7149.Botha's Lark,70
+pink_billed_lark,Pink-billed Lark,DIB-10K_50,7150.Pink-billed Lark,92
+white_winged_lark,White-winged Lark,DIB-10K_50,7151.White-winged Lark,92
+raso_lark,Raso Lark,DIB-10K_50,7152.Raso Lark,81
+oriental_skylark,Oriental Skylark,DIB-10K_50,7153.Oriental Skylark,1208
+eurasian_skylark,Eurasian Skylark,DIB-10K_50,7154.Eurasian Skylark,2610
+sykess_lark,Sykes's Lark,DIB-10K_50,7155.Sykes's Lark,313
+sun_lark,Sun Lark,DIB-10K_50,7156.Sun Lark,78
+large_billed_lark,Large-billed Lark,DIB-10K_50,7157.Large-billed Lark,237
+theklas_lark,Thekla's Lark,DIB-10K_50,7158.Thekla's Lark,1610
+crested_lark,Crested Lark,DIB-10K_50,7159.Crested Lark,2786
+malabar_lark,Malabar Lark,DIB-10K_50,7160.Malabar Lark,420
+maghreb_lark,Maghreb Lark,DIB-10K_50,7161.Maghreb Lark,76
+horned_lark,Horned Lark,DIB-10K_50,7162.Horned Lark,2636
+temmincks_lark,Temminck's Lark,DIB-10K_50,7163.Temminck's Lark,282
+humes_short_toed_lark,Hume's Short-toed Lark,DIB-10K_50,7164.Hume's Short-toed Lark,64
+mongolian_short_toed_lark,Mongolian Short-toed Lark,DIB-10K_50,7165.Mongolian Short-toed Lark,156
+blanfords_lark,Blanford's Lark,DIB-10K_50,7167.Blanford's Lark,52
+red_capped_lark,Red-capped Lark,DIB-10K_50,7168.Red-capped Lark,446
+greater_short_toed_lark,Greater Short-toed Lark,DIB-10K_50,7169.Greater Short-toed Lark,1384
+bimaculated_lark,Bimaculated Lark,DIB-10K_50,7170.Bimaculated Lark,295
+calandra_lark,Calandra Lark,DIB-10K_50,7171.Calandra Lark,1093
+black_lark,Black Lark,DIB-10K_50,7172.Black Lark,192
+mongolian_lark,Mongolian Lark,DIB-10K_50,7173.Mongolian Lark,198
+tibetan_lark,Tibetan Lark,DIB-10K_50,7174.Tibetan Lark,110
+duponts_lark,Dupont's Lark,DIB-10K_50,7175.Dupont's Lark,154
+dunns_lark,Dunn's Lark,DIB-10K_50,7176.Dunn's Lark,115
+athi_short_toed_lark,Athi Short-toed Lark,DIB-10K_50,7177.Athi Short-toed Lark,14
+asian_short_toed_lark,Asian Short-toed Lark,DIB-10K_50,7178.Asian Short-toed Lark,53
+somali_short_toed_lark,Somali Short-toed Lark,DIB-10K_50,7179.Somali Short-toed Lark,58
+lesser_short_toed_lark,Lesser Short-toed Lark,DIB-10K_50,7180.Lesser Short-toed Lark,295
+sand_lark,Sand Lark,DIB-10K_50,7181.Sand Lark,192
+crested_finchbill,Crested Finchbill,DIB-10K_50,7182.Crested Finchbill,273
+collared_finchbill,Collared Finchbill,DIB-10K_50,7183.Collared Finchbill,582
+straw_headed_bulbul,Straw-headed Bulbul,DIB-10K_50,7184.Straw-headed Bulbul,422
+striated_bulbul,Striated Bulbul,DIB-10K_50,7185.Striated Bulbul,182
+cream_striped_bulbul,Cream-striped Bulbul,DIB-10K_50,7186.Cream-striped Bulbul,59
+spot_necked_bulbul,Spot-necked Bulbul,DIB-10K_50,7187.Spot-necked Bulbul,33
+black_and_white_bulbul,Black-and-white Bulbul,DIB-10K_50,7188.Black-and-white Bulbul,26
+grey_headed_bulbul,Grey-headed Bulbul,DIB-10K_50,7189.Grey-headed Bulbul,162
+black_headed_bulbul,Black-headed Bulbul,DIB-10K_50,7190.Black-headed Bulbul,715
+andaman_bulbul,Andaman Bulbul,DIB-10K_50,7191.Andaman Bulbul,58
+black_capped_bulbul,Black-capped Bulbul,DIB-10K_50,7192.Black-capped Bulbul,534
+black_crested_bulbul,Black-crested Bulbul,DIB-10K_50,7193.Black-crested Bulbul,751
+ruby_throated_bulbul,Ruby-throated Bulbul,DIB-10K_50,7194.Ruby-throated Bulbul,70
+flame_throated_bulbul,Flame-throated Bulbul,DIB-10K_50,7195.Flame-throated Bulbul,356
+bornean_bulbul,Bornean Bulbul,DIB-10K_50,7196.Bornean Bulbul,52
+scaly_breasted_bulbul,Scaly-breasted Bulbul,DIB-10K_50,7197.Scaly-breasted Bulbul,177
+grey_bellied_bulbul,Grey-bellied Bulbul,DIB-10K_50,7198.Grey-bellied Bulbul,212
+red_whiskered_bulbul,Red-whiskered Bulbul,DIB-10K_50,7199.Red-whiskered Bulbul,2654
+brown_breasted_bulbul,Brown-breasted Bulbul,DIB-10K_50,7200.Brown-breasted Bulbul,241
+light_vented_bulbul,Light-vented Bulbul,DIB-10K_50,7201.Light-vented Bulbul,1914
+styans_bulbul,Styan's Bulbul,DIB-10K_50,7202.Styan's Bulbul,356
+himalayan_bulbul,Himalayan Bulbul,DIB-10K_50,7203.Himalayan Bulbul,1100
+white_eared_bulbul,White-eared Bulbul,DIB-10K_50,7204.White-eared Bulbul,1120
+red_vented_bulbul,Red-vented Bulbul,DIB-10K_50,7205.Red-vented Bulbul,2842
+sooty_headed_bulbul,Sooty-headed Bulbul,DIB-10K_50,7206.Sooty-headed Bulbul,1259
+white_spectacled_bulbul,White-spectacled Bulbul,DIB-10K_50,7207.White-spectacled Bulbul,1123
+african_red_eyed_bulbul,African Red-eyed Bulbul,DIB-10K_50,7208.African Red-eyed Bulbul,744
+cape_bulbul,Cape Bulbul,DIB-10K_50,7209.Cape Bulbul,551
+common_bulbul,Common Bulbul,DIB-10K_50,7210.Common Bulbul,2273
+somali_bulbul,Somali Bulbul,DIB-10K_50,7211.Somali Bulbul,35
+dodsons_bulbul,Dodson's Bulbul,DIB-10K_50,7212.Dodson's Bulbul,71
+dark_capped_bulbul,Dark-capped Bulbul,DIB-10K_50,7213.Dark-capped Bulbul,790
+puff_backed_bulbul,Puff-backed Bulbul,DIB-10K_50,7214.Puff-backed Bulbul,61
+blue_wattled_bulbul,Blue-wattled Bulbul,DIB-10K_50,7215.Blue-wattled Bulbul,8
+yellow_wattled_bulbul,Yellow-wattled Bulbul,DIB-10K_50,7216.Yellow-wattled Bulbul,61
+orange_spotted_bulbul,Orange-spotted Bulbul,DIB-10K_50,7217.Orange-spotted Bulbul,175
+aceh_bulbul,Aceh Bulbul,DIB-10K_50,7218.Aceh Bulbul,13
+stripe_throated_bulbul,Stripe-throated Bulbul,DIB-10K_50,7219.Stripe-throated Bulbul,696
+yellow_throated_bulbul,Yellow-throated Bulbul,DIB-10K_50,7220.Yellow-throated Bulbul,224
+yellow_eared_bulbul,Yellow-eared Bulbul,DIB-10K_50,7221.Yellow-eared Bulbul,239
+flavescent_bulbul,Flavescent Bulbul,DIB-10K_50,7222.Flavescent Bulbul,583
+yellow_vented_bulbul,Yellow-vented Bulbul,DIB-10K_50,7223.Yellow-vented Bulbul,2297
+white_browed_bulbul,White-browed Bulbul,DIB-10K_50,7224.White-browed Bulbul,880
+olive_winged_bulbul,Olive-winged Bulbul,DIB-10K_50,7225.Olive-winged Bulbul,683
+ashy_fronted_bulbul,Ashy-fronted Bulbul,DIB-10K_50,7226.Ashy-fronted Bulbul,44
+ayeyarwady_bulbul,Ayeyarwady Bulbul,DIB-10K_50,7227.Ayeyarwady Bulbul,416
+streak_eared_bulbul,Streak-eared Bulbul,DIB-10K_50,7228.Streak-eared Bulbul,295
+cream_vented_bulbul,Cream-vented Bulbul,DIB-10K_50,7229.Cream-vented Bulbul,372
+asian_red_eyed_bulbul,Asian Red-eyed Bulbul,DIB-10K_50,7230.Asian Red-eyed Bulbul,460
+spectacled_bulbul,Spectacled Bulbul,DIB-10K_50,7231.Spectacled Bulbul,282
+bare_faced_bulbul,Bare-faced Bulbul,DIB-10K_50,7232.Bare-faced Bulbul,18
+shelleys_greenbul,Shelley's Greenbul,DIB-10K_50,7233.Shelley's Greenbul,23
+kakamega_greenbul,Kakamega Greenbul,DIB-10K_50,7234.Kakamega Greenbul,13
+cameroon_greenbul,Cameroon Greenbul,DIB-10K_50,7235.Cameroon Greenbul,16
+western_greenbul,Western Greenbul,DIB-10K_50,7236.Western Greenbul,16
+olive_breasted_greenbul,Olive-breasted Greenbul,DIB-10K_50,7237.Olive-breasted Greenbul,21
+mountain_greenbul,Mountain Greenbul,DIB-10K_50,7238.Mountain Greenbul,49
+uluguru_greenbul,Uluguru Greenbul,DIB-10K_50,7239.Uluguru Greenbul,3
+black_browed_greenbul,Black-browed Greenbul,DIB-10K_50,7240.Black-browed Greenbul,2
+yellow_throated_greenbul,Yellow-throated Greenbul,DIB-10K_50,7241.Yellow-throated Greenbul,16
+stripe_cheeked_greenbul,Stripe-cheeked Greenbul,DIB-10K_50,7242.Stripe-cheeked Greenbul,26
+olive_headed_greenbul,Olive-headed Greenbul,DIB-10K_50,7243.Olive-headed Greenbul,4
+stripe_faced_greenbul,Stripe-faced Greenbul,DIB-10K_50,7244.Stripe-faced Greenbul,7
+slender_billed_greenbul,Slender-billed Greenbul,DIB-10K_50,7245.Slender-billed Greenbul,66
+little_greenbul,Little Greenbul,DIB-10K_50,7246.Little Greenbul,105
+little_grey_greenbul,Little Grey Greenbul,DIB-10K_50,7247.Little Grey Greenbul,34
+ansorges_greenbul,Ansorge's Greenbul,DIB-10K_50,7248.Ansorge's Greenbul,21
+plain_greenbul,Plain Greenbul,DIB-10K_50,7249.Plain Greenbul,32
+yellow_whiskered_greenbul,Yellow-whiskered Greenbul,DIB-10K_50,7250.Yellow-whiskered Greenbul,49
+sombre_greenbul,Sombre Greenbul,DIB-10K_50,7251.Sombre Greenbul,313
+golden_greenbul,Golden Greenbul,DIB-10K_50,7252.Golden Greenbul,19
+honeyguide_greenbul,Honeyguide Greenbul,DIB-10K_50,7253.Honeyguide Greenbul,33
+sjöstedts_greenbul,Sjöstedt's Greenbul,DIB-10K_50,7254.Sjöstedt's Greenbul,8
+spotted_greenbul,Spotted Greenbul,DIB-10K_50,7255.Spotted Greenbul,21
+joyful_greenbul,Joyful Greenbul,DIB-10K_50,7256.Joyful Greenbul,55
+prigogines_greenbul,Prigogine's Greenbul,DIB-10K_50,7257.Prigogine's Greenbul,1
+yellow_bellied_greenbul,Yellow-bellied Greenbul,DIB-10K_50,7258.Yellow-bellied Greenbul,379
+falkensteins_greenbul,Falkenstein's Greenbul,DIB-10K_50,7259.Falkenstein's Greenbul,11
+simple_greenbul,Simple Greenbul,DIB-10K_50,7260.Simple Greenbul,71
+yellow_throated_leaflove,Yellow-throated Leaflove,DIB-10K_50,7261.Yellow-throated Leaflove,75
+swamp_palm_bulbul,Swamp Palm Bulbul,DIB-10K_50,7262.Swamp Palm Bulbul,45
+red_tailed_leaflove,Red-tailed Leaflove,DIB-10K_50,7263.Red-tailed Leaflove,9
+terrestrial_brownbul,Terrestrial Brownbul,DIB-10K_50,7264.Terrestrial Brownbul,150
+northern_brownbul,Northern Brownbul,DIB-10K_50,7265.Northern Brownbul,51
+grey_olive_greenbul,Grey-olive Greenbul,DIB-10K_50,7266.Grey-olive Greenbul,27
+pale_olive_greenbul,Pale-olive Greenbul,DIB-10K_50,7267.Pale-olive Greenbul,7
+toro_olive_greenbul,Toro Olive Greenbul,DIB-10K_50,7269.Toro Olive Greenbul,17
+sassis_olive_greenbul,Sassi's Olive Greenbul,DIB-10K_50,7270.Sassi's Olive Greenbul,1
+fischers_greenbul,Fischer's Greenbul,DIB-10K_50,7271.Fischer's Greenbul,15
+cabaniss_greenbul,Cabanis's Greenbul,DIB-10K_50,7272.Cabanis's Greenbul,31
+placid_greenbul,Placid Greenbul,DIB-10K_50,7273.Placid Greenbul,11
+cameroon_olive_greenbul,Cameroon Olive Greenbul,DIB-10K_50,7274.Cameroon Olive Greenbul,16
+icterine_greenbul,Icterine Greenbul,DIB-10K_50,7275.Icterine Greenbul,17
+xaviers_greenbul,Xavier's Greenbul,DIB-10K_50,7276.Xavier's Greenbul,6
+white_throated_greenbul,White-throated Greenbul,DIB-10K_50,7277.White-throated Greenbul,24
+yellow_streaked_greenbul,Yellow-streaked Greenbul,DIB-10K_50,7278.Yellow-streaked Greenbul,58
+sharpes_greenbul,Sharpe's Greenbul,DIB-10K_50,7279.Sharpe's Greenbul,2
+grey_headed_greenbul,Grey-headed Greenbul,DIB-10K_50,7280.Grey-headed Greenbul,9
+lowland_tiny_greenbul,Lowland Tiny Greenbul,DIB-10K_50,7281.Lowland Tiny Greenbul,7
+montane_tiny_greenbul,Montane Tiny Greenbul,DIB-10K_50,7282.Montane Tiny Greenbul,6
+red_tailed_bristlebill,Red-tailed Bristlebill,DIB-10K_50,7283.Red-tailed Bristlebill,41
+green_tailed_bristlebill,Green-tailed Bristlebill,DIB-10K_50,7284.Green-tailed Bristlebill,8
+yellow_lored_bristlebill,Yellow-lored Bristlebill,DIB-10K_50,7285.Yellow-lored Bristlebill,18
+grey_headed_bristlebill,Grey-headed Bristlebill,DIB-10K_50,7286.Grey-headed Bristlebill,49
+western_bearded_greenbul,Western Bearded Greenbul,DIB-10K_50,7287.Western Bearded Greenbul,20
+eastern_bearded_greenbul,Eastern Bearded Greenbul,DIB-10K_50,7288.Eastern Bearded Greenbul,12
+red_tailed_greenbul,Red-tailed Greenbul,DIB-10K_50,7289.Red-tailed Greenbul,46
+white_bearded_greenbul,White-bearded Greenbul,DIB-10K_50,7290.White-bearded Greenbul,6
+yellow_bearded_greenbul,Yellow-bearded Greenbul,DIB-10K_50,7291.Yellow-bearded Greenbul,16
+finschs_bulbul,Finsch's Bulbul,DIB-10K_50,7292.Finsch's Bulbul,106
+white_throated_bulbul,White-throated Bulbul,DIB-10K_50,7293.White-throated Bulbul,168
+puff_throated_bulbul,Puff-throated Bulbul,DIB-10K_50,7294.Puff-throated Bulbul,207
+ochraceous_bulbul,Ochraceous Bulbul,DIB-10K_50,7295.Ochraceous Bulbul,352
+grey_cheeked_bulbul,Grey-cheeked Bulbul,DIB-10K_50,7296.Grey-cheeked Bulbul,143
+palawan_bulbul,Palawan Bulbul,DIB-10K_50,7297.Palawan Bulbul,27
+yellow_bellied_bulbul,Yellow-bellied Bulbul,DIB-10K_50,7298.Yellow-bellied Bulbul,260
+yellow_browed_bulbul,Yellow-browed Bulbul,DIB-10K_50,7299.Yellow-browed Bulbul,630
+hook_billed_bulbul,Hook-billed Bulbul,DIB-10K_50,7300.Hook-billed Bulbul,37
+hairy_backed_bulbul,Hairy-backed Bulbul,DIB-10K_50,7301.Hairy-backed Bulbul,299
+olive_bulbul,Olive Bulbul,DIB-10K_50,7302.Olive Bulbul,74
+cachar_bulbul,Cachar Bulbul,DIB-10K_50,7303.Cachar Bulbul,3
+grey_eyed_bulbul,Grey-eyed Bulbul,DIB-10K_50,7304.Grey-eyed Bulbul,205
+buff_vented_bulbul,Buff-vented Bulbul,DIB-10K_50,7305.Buff-vented Bulbul,77
+charlottes_bulbul,Charlotte's Bulbul,DIB-10K_50,7306.Charlotte's Bulbul,68
+sulphur_bellied_bulbul,Sulphur-bellied Bulbul,DIB-10K_50,7307.Sulphur-bellied Bulbul,22
+nicobar_bulbul,Nicobar Bulbul,DIB-10K_50,7308.Nicobar Bulbul,9
+mountain_bulbul,Mountain Bulbul,DIB-10K_50,7309.Mountain Bulbul,488
+streaked_bulbul,Streaked Bulbul,DIB-10K_50,7310.Streaked Bulbul,121
+sunda_bulbul,Sunda Bulbul,DIB-10K_50,7311.Sunda Bulbul,52
+seram_golden_bulbul,Seram Golden Bulbul,DIB-10K_50,7312.Seram Golden Bulbul,19
+northern_golden_bulbul,Northern Golden Bulbul,DIB-10K_50,7313.Northern Golden Bulbul,16
+buru_golden_bulbul,Buru Golden Bulbul,DIB-10K_50,7314.Buru Golden Bulbul,14
+ashy_bulbul,Ashy Bulbul,DIB-10K_50,7315.Ashy Bulbul,347
+cinereous_bulbul,Cinereous Bulbul,DIB-10K_50,7316.Cinereous Bulbul,125
+chestnut_bulbul,Chestnut Bulbul,DIB-10K_50,7317.Chestnut Bulbul,149
+seychelles_bulbul,Seychelles Bulbul,DIB-10K_50,7318.Seychelles Bulbul,230
+reunion_bulbul,Reunion Bulbul,DIB-10K_50,7319.Reunion Bulbul,58
+mauritius_bulbul,Mauritius Bulbul,DIB-10K_50,7320.Mauritius Bulbul,94
+malagasy_bulbul,Malagasy Bulbul,DIB-10K_50,7321.Malagasy Bulbul,325
+grand_comoro_bulbul,Grand Comoro Bulbul,DIB-10K_50,7322.Grand Comoro Bulbul,13
+moheli_bulbul,Moheli Bulbul,DIB-10K_50,7323.Moheli Bulbul,5
+black_bulbul,Black Bulbul,DIB-10K_50,7324.Black Bulbul,1477
+square_tailed_bulbul,Square-tailed Bulbul,DIB-10K_50,7325.Square-tailed Bulbul,196
+philippine_bulbul,Philippine Bulbul,DIB-10K_50,7326.Philippine Bulbul,124
+mindoro_bulbul,Mindoro Bulbul,DIB-10K_50,7327.Mindoro Bulbul,35
+visayan_bulbul,Visayan Bulbul,DIB-10K_50,7328.Visayan Bulbul,31
+zamboanga_bulbul,Zamboanga Bulbul,DIB-10K_50,7329.Zamboanga Bulbul,11
+streak_breasted_bulbul,Streak-breasted Bulbul,DIB-10K_50,7330.Streak-breasted Bulbul,21
+yellowish_bulbul,Yellowish Bulbul,DIB-10K_50,7331.Yellowish Bulbul,21
+brown_eared_bulbul,Brown-eared Bulbul,DIB-10K_50,7332.Brown-eared Bulbul,1588
+white_headed_bulbul,White-headed Bulbul,DIB-10K_50,7333.White-headed Bulbul,184
+black_collared_bulbul,Black-collared Bulbul,DIB-10K_50,7334.Black-collared Bulbul,26
+african_river_martin,African River Martin,DIB-10K_50,7335.African River Martin,25
+white_eyed_river_martin,White-eyed River Martin,DIB-10K_50,7336.White-eyed River Martin,9
+square_tailed_saw_wing,Square-tailed Saw-wing,DIB-10K_50,7337.Square-tailed Saw-wing,22
+mountain_saw_wing,Mountain Saw-wing,DIB-10K_50,7338.Mountain Saw-wing,19
+white_headed_saw_wing,White-headed Saw-wing,DIB-10K_50,7339.White-headed Saw-wing,48
+black_saw_wing,Black Saw-wing,DIB-10K_50,7340.Black Saw-wing,124
+fanti_saw_wing,Fanti Saw-wing,DIB-10K_50,7341.Fanti Saw-wing,48
+grey_rumped_swallow,Grey-rumped Swallow,DIB-10K_50,7342.Grey-rumped Swallow,66
+white_backed_swallow,White-backed Swallow,DIB-10K_50,7343.White-backed Swallow,127
+mascarene_martin,Mascarene Martin,DIB-10K_50,7344.Mascarene Martin,158
+brazzas_martin,Brazza's Martin,DIB-10K_50,7345.Brazza's Martin,10
+brown_throated_martin,Brown-throated Martin,DIB-10K_50,7346.Brown-throated Martin,321
+grey_throated_martin,Grey-throated Martin,DIB-10K_50,7347.Grey-throated Martin,230
+congo_martin,Congo Martin,DIB-10K_50,7348.Congo Martin,12
+sand_martin,Sand Martin,DIB-10K_50,7349.Sand Martin,2340
+pale_martin,Pale Martin,DIB-10K_50,7350.Pale Martin,202
+banded_martin,Banded Martin,DIB-10K_50,7351.Banded Martin,189
+tree_swallow,Tree Swallow,DIB-10K_50,7352.Tree Swallow,2803
+mangrove_swallow,Mangrove Swallow,DIB-10K_50,7353.Mangrove Swallow,1119
+tumbes_swallow,Tumbes Swallow,DIB-10K_50,7354.Tumbes Swallow,54
+white_winged_swallow,White-winged Swallow,DIB-10K_50,7355.White-winged Swallow,1322
+white_rumped_swallow,White-rumped Swallow,DIB-10K_50,7356.White-rumped Swallow,767
+chilean_swallow,Chilean Swallow,DIB-10K_50,7357.Chilean Swallow,336
+golden_swallow,Golden Swallow,DIB-10K_50,7358.Golden Swallow,66
+violet_green_swallow,Violet-green Swallow,DIB-10K_50,7359.Violet-green Swallow,2259
+bahama_swallow,Bahama Swallow,DIB-10K_50,7360.Bahama Swallow,76
+,,DIB-10K_50,,0

@@ -1,0 +1,48 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+lesser_flamingo,Lesser Flamingo,DIB-10K_9,733.Lesser Flamingo,1442
+andean_flamingo,Andean Flamingo,DIB-10K_9,734.Andean Flamingo,892
+jamess_flamingo,James's Flamingo,DIB-10K_9,735.James's Flamingo,660
+red_billed_tropicbird,Red-billed Tropicbird,DIB-10K_9,736.Red-billed Tropicbird,1837
+red_tailed_tropicbird,Red-tailed Tropicbird,DIB-10K_9,737.Red-tailed Tropicbird,1306
+white_tailed_tropicbird,White-tailed Tropicbird,DIB-10K_9,738.White-tailed Tropicbird,1662
+wood_stork,Wood Stork,DIB-10K_9,739.Wood Stork,3064
+milky_stork,Milky Stork,DIB-10K_9,740.Milky Stork,934
+yellow_billed_stork,Yellow-billed Stork,DIB-10K_9,741.Yellow-billed Stork,2722
+painted_stork,Painted Stork,DIB-10K_9,742.Painted Stork,3077
+asian_openbill,Asian Openbill,DIB-10K_9,743.Asian Openbill,2763
+african_openbill,African Openbill,DIB-10K_9,744.African Openbill,1343
+black_stork,Black Stork,DIB-10K_9,745.Black Stork,3030
+abdims_stork,Abdim's Stork,DIB-10K_9,746.Abdim's Stork,975
+woolly_necked_stork,Woolly-necked Stork,DIB-10K_9,747.Woolly-necked Stork,1957
+storms_stork,Storm's Stork,DIB-10K_9,748.Storm's Stork,294
+maguari_stork,Maguari Stork,DIB-10K_9,749.Maguari Stork,1141
+white_stork,White Stork,DIB-10K_9,750.White Stork,3205
+oriental_stork,Oriental Stork,DIB-10K_9,751.Oriental Stork,630
+black_necked_stork,Black-necked Stork,DIB-10K_9,752.Black-necked Stork,1764
+saddle_billed_stork,Saddle-billed Stork,DIB-10K_9,753.Saddle-billed Stork,2412
+jabiru,Jabiru,DIB-10K_9,754.Jabiru,2757
+lesser_adjutant,Lesser Adjutant,DIB-10K_9,755.Lesser Adjutant,1549
+greater_adjutant,Greater Adjutant,DIB-10K_9,756.Greater Adjutant,557
+marabou_stork,Marabou Stork,DIB-10K_9,757.Marabou Stork,1689
+african_sacred_ibis,African Sacred Ibis,DIB-10K_9,758.African Sacred Ibis,2956
+malagasy_sacred_ibis,Malagasy Sacred Ibis,DIB-10K_9,759.Malagasy Sacred Ibis,113
+reunion_ibis,Reunion Ibis,DIB-10K_9,760.Reunion Ibis,5
+black_headed_ibis,Black-headed Ibis,DIB-10K_9,761.Black-headed Ibis,1950
+australian_white_ibis,Australian White Ibis,DIB-10K_9,762.Australian White Ibis,2637
+straw_necked_ibis,Straw-necked Ibis,DIB-10K_9,763.Straw-necked Ibis,1903
+red_naped_ibis,Red-naped Ibis,DIB-10K_9,764.Red-naped Ibis,893
+white_shouldered_ibis,White-shouldered Ibis,DIB-10K_9,765.White-shouldered Ibis,129
+giant_ibis,Giant Ibis,DIB-10K_9,766.Giant Ibis,94
+northern_bald_ibis,Northern Bald Ibis,DIB-10K_9,767.Northern Bald Ibis,2295
+southern_bald_ibis,Southern Bald Ibis,DIB-10K_9,768.Southern Bald Ibis,648
+crested_ibis,Crested Ibis,DIB-10K_9,769.Crested Ibis,859
+olive_ibis,Olive Ibis,DIB-10K_9,770.Olive Ibis,45
+sao_tome_ibis,Sao Tome Ibis,DIB-10K_9,771.Sao Tome Ibis,43
+spot_breasted_ibis,Spot-breasted Ibis,DIB-10K_9,772.Spot-breasted Ibis,15
+hadada_ibis,Hadada Ibis,DIB-10K_9,773.Hadada Ibis,2217
+wattled_ibis,Wattled Ibis,DIB-10K_9,774.Wattled Ibis,336
+plumbeous_ibis,Plumbeous Ibis,DIB-10K_9,775.Plumbeous Ibis,934
+buff_necked_ibis,Buff-necked Ibis,DIB-10K_9,776.Buff-necked Ibis,2457
+black_faced_ibis,Black-faced Ibis,DIB-10K_9,777.Black-faced Ibis,1817
+andean_ibis,Andean Ibis,DIB-10K_9,778.Andean Ibis,269
+,,DIB-10K_9,,0

@@ -1,0 +1,96 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+rock_kestrel,Rock Kestrel,DIB-10K_37,3962.Rock Kestrel,301
+malagasy_kestrel,Malagasy Kestrel,DIB-10K_37,3963.Malagasy Kestrel,295
+mauritius_kestrel,Mauritius Kestrel,DIB-10K_37,3964.Mauritius Kestrel,192
+reunion_kestrel,Reunion Kestrel,DIB-10K_37,3965.Reunion Kestrel,5
+seychelles_kestrel,Seychelles Kestrel,DIB-10K_37,3966.Seychelles Kestrel,121
+spotted_kestrel,Spotted Kestrel,DIB-10K_37,3967.Spotted Kestrel,98
+nankeen_kestrel,Nankeen Kestrel,DIB-10K_37,3968.Nankeen Kestrel,2100
+american_kestrel,American Kestrel,DIB-10K_37,3969.American Kestrel,2715
+greater_kestrel,Greater Kestrel,DIB-10K_37,3970.Greater Kestrel,606
+fox_kestrel,Fox Kestrel,DIB-10K_37,3971.Fox Kestrel,93
+grey_kestrel,Grey Kestrel,DIB-10K_37,3972.Grey Kestrel,421
+dickinsons_kestrel,Dickinson's Kestrel,DIB-10K_37,3973.Dickinson's Kestrel,133
+banded_kestrel,Banded Kestrel,DIB-10K_37,3974.Banded Kestrel,106
+red_necked_falcon,Red-necked Falcon,DIB-10K_37,3975.Red-necked Falcon,581
+red_footed_falcon,Red-footed Falcon,DIB-10K_37,3976.Red-footed Falcon,2667
+amur_falcon,Amur Falcon,DIB-10K_37,3977.Amur Falcon,1177
+eleonoras_falcon,Eleonora's Falcon,DIB-10K_37,3978.Eleonora's Falcon,1262
+sooty_falcon,Sooty Falcon,DIB-10K_37,3979.Sooty Falcon,387
+aplomado_falcon,Aplomado Falcon,DIB-10K_37,3980.Aplomado Falcon,1855
+merlin,Merlin,DIB-10K_37,3981.Merlin,2256
+bat_falcon,Bat Falcon,DIB-10K_37,3982.Bat Falcon,1312
+orange_breasted_falcon,Orange-breasted Falcon,DIB-10K_37,3983.Orange-breasted Falcon,414
+eurasian_hobby,Eurasian Hobby,DIB-10K_37,3984.Eurasian Hobby,2475
+african_hobby,African Hobby,DIB-10K_37,3985.African Hobby,96
+oriental_hobby,Oriental Hobby,DIB-10K_37,3986.Oriental Hobby,85
+australian_hobby,Australian Hobby,DIB-10K_37,3987.Australian Hobby,1266
+new_zealand_falcon,New Zealand Falcon,DIB-10K_37,3988.New Zealand Falcon,1530
+brown_falcon,Brown Falcon,DIB-10K_37,3989.Brown Falcon,2159
+grey_falcon,Grey Falcon,DIB-10K_37,3990.Grey Falcon,168
+black_falcon,Black Falcon,DIB-10K_37,3991.Black Falcon,384
+lanner_falcon,Lanner Falcon,DIB-10K_37,3992.Lanner Falcon,1671
+laggar_falcon,Laggar Falcon,DIB-10K_37,3993.Laggar Falcon,486
+saker_falcon,Saker Falcon,DIB-10K_37,3994.Saker Falcon,1781
+gyrfalcon,Gyrfalcon,DIB-10K_37,3995.Gyrfalcon,2607
+prairie_falcon,Prairie Falcon,DIB-10K_37,3996.Prairie Falcon,1758
+peregrine_falcon,Peregrine Falcon,DIB-10K_37,3997.Peregrine Falcon,2678
+taita_falcon,Taita Falcon,DIB-10K_37,3999.Taita Falcon,56
+kakapo,Kakapo,DIB-10K_37,4000.Kakapo,181
+kea,Kea,DIB-10K_37,4001.Kea,2158
+new_zealand_kaka,New Zealand Kaka,DIB-10K_37,4002.New Zealand Kaka,1402
+norfolk_kaka,Norfolk Kaka,DIB-10K_37,4003.Norfolk Kaka,41
+cockatiel,Cockatiel,DIB-10K_37,4004.Cockatiel,2315
+red_tailed_black_cockatoo,Red-tailed Black Cockatoo,DIB-10K_37,4005.Red-tailed Black Cockatoo,1752
+glossy_black_cockatoo,Glossy Black Cockatoo,DIB-10K_37,4006.Glossy Black Cockatoo,416
+yellow_tailed_black_cockatoo,Yellow-tailed Black Cockatoo,DIB-10K_37,4007.Yellow-tailed Black Cockatoo,1814
+baudins_black_cockatoo,Baudin's Black Cockatoo,DIB-10K_37,4008.Baudin's Black Cockatoo,175
+carnabys_black_cockatoo,Carnaby's Black Cockatoo,DIB-10K_37,4009.Carnaby's Black Cockatoo,459
+palm_cockatoo,Palm Cockatoo,DIB-10K_37,4010.Palm Cockatoo,721
+gang_gang_cockatoo,Gang-gang Cockatoo,DIB-10K_37,4011.Gang-gang Cockatoo,1317
+galah,Galah,DIB-10K_37,4012.Galah,2884
+major_mitchells_cockatoo,Major Mitchell's Cockatoo,DIB-10K_37,4013.Major Mitchell's Cockatoo,654
+long_billed_corella,Long-billed Corella,DIB-10K_37,4014.Long-billed Corella,1480
+western_corella,Western Corella,DIB-10K_37,4015.Western Corella,386
+little_corella,Little Corella,DIB-10K_37,4016.Little Corella,2052
+tanimbar_corella,Tanimbar Corella,DIB-10K_37,4017.Tanimbar Corella,311
+solomons_cockatoo,Solomons Cockatoo,DIB-10K_37,4018.Solomons Cockatoo,91
+red_vented_cockatoo,Red-vented Cockatoo,DIB-10K_37,4019.Red-vented Cockatoo,132
+sulphur_crested_cockatoo,Sulphur-crested Cockatoo,DIB-10K_37,4020.Sulphur-crested Cockatoo,2709
+blue_eyed_cockatoo,Blue-eyed Cockatoo,DIB-10K_37,4021.Blue-eyed Cockatoo,126
+yellow_crested_cockatoo,Yellow-crested Cockatoo,DIB-10K_37,4022.Yellow-crested Cockatoo,781
+salmon_crested_cockatoo,Salmon-crested Cockatoo,DIB-10K_37,4023.Salmon-crested Cockatoo,590
+white_cockatoo,White Cockatoo,DIB-10K_37,4024.White Cockatoo,628
+grey_parrot,Grey Parrot,DIB-10K_37,4025.Grey Parrot,1638
+timneh_parrot,Timneh Parrot,DIB-10K_37,4026.Timneh Parrot,80
+red_fronted_parrot,Red-fronted Parrot,DIB-10K_37,4027.Red-fronted Parrot,249
+yellow_fronted_parrot,Yellow-fronted Parrot,DIB-10K_37,4028.Yellow-fronted Parrot,148
+brown_necked_parrot,Brown-necked Parrot,DIB-10K_37,4029.Brown-necked Parrot,136
+cape_parrot,Cape Parrot,DIB-10K_37,4030.Cape Parrot,252
+meyers_parrot,Meyer's Parrot,DIB-10K_37,4031.Meyer's Parrot,495
+rüppells_parrot,Rüppell's Parrot,DIB-10K_37,4032.Rüppell's Parrot,112
+brown_headed_parrot,Brown-headed Parrot,DIB-10K_37,4033.Brown-headed Parrot,358
+niam_niam_parrot,Niam-niam Parrot,DIB-10K_37,4034.Niam-niam Parrot,16
+senegal_parrot,Senegal Parrot,DIB-10K_37,4035.Senegal Parrot,874
+red_bellied_parrot,Red-bellied Parrot,DIB-10K_37,4036.Red-bellied Parrot,375
+lilac_tailed_parrotlet,Lilac-tailed Parrotlet,DIB-10K_37,4037.Lilac-tailed Parrotlet,56
+scarlet_shouldered_parrotlet,Scarlet-shouldered Parrotlet,DIB-10K_37,4038.Scarlet-shouldered Parrotlet,72
+red_fronted_parrotlet,Red-fronted Parrotlet,DIB-10K_37,4039.Red-fronted Parrotlet,19
+blue_fronted_parrotlet,Blue-fronted Parrotlet,DIB-10K_37,4040.Blue-fronted Parrotlet,39
+sapphire_rumped_parrotlet,Sapphire-rumped Parrotlet,DIB-10K_37,4041.Sapphire-rumped Parrotlet,32
+brown_backed_parrotlet,Brown-backed Parrotlet,DIB-10K_37,4042.Brown-backed Parrotlet,44
+golden_tailed_parrotlet,Golden-tailed Parrotlet,DIB-10K_37,4043.Golden-tailed Parrotlet,52
+spot_winged_parrotlet,Spot-winged Parrotlet,DIB-10K_37,4044.Spot-winged Parrotlet,20
+grey_hooded_parakeet,Grey-hooded Parakeet,DIB-10K_37,4045.Grey-hooded Parakeet,157
+mountain_parakeet,Mountain Parakeet,DIB-10K_37,4046.Mountain Parakeet,242
+barred_parakeet,Barred Parakeet,DIB-10K_37,4047.Barred Parakeet,157
+rufous_fronted_parakeet,Rufous-fronted Parakeet,DIB-10K_37,4048.Rufous-fronted Parakeet,100
+andean_parakeet,Andean Parakeet,DIB-10K_37,4049.Andean Parakeet,48
+tepui_parrotlet,Tepui Parrotlet,DIB-10K_37,4050.Tepui Parrotlet,16
+manu_parrotlet,Manu Parrotlet,DIB-10K_37,4051.Manu Parrotlet,19
+monk_parakeet,Monk Parakeet,DIB-10K_37,4052.Monk Parakeet,2598
+cliff_parakeet,Cliff Parakeet,DIB-10K_37,4053.Cliff Parakeet,78
+tui_parakeet,Tui Parakeet,DIB-10K_37,4054.Tui Parakeet,217
+plain_parakeet,Plain Parakeet,DIB-10K_37,4055.Plain Parakeet,1000
+white_winged_parakeet,White-winged Parakeet,DIB-10K_37,4056.White-winged Parakeet,479
+,,DIB-10K_37,,0

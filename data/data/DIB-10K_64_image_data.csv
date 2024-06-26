@@ -1,0 +1,67 @@
+bird_name,bird_name_raw,dataset_part,folder,nb_images
+rufous_collared_sparrow,Rufous-collared Sparrow,DIB-10K_64,10046.Rufous-collared Sparrow,2755
+harriss_sparrow,Harris's Sparrow,DIB-10K_64,10047.Harris's Sparrow,1744
+white_crowned_sparrow,White-crowned Sparrow,DIB-10K_64,10048.White-crowned Sparrow,2767
+white_throated_sparrow,White-throated Sparrow,DIB-10K_64,10049.White-throated Sparrow,2682
+golden_crowned_sparrow,Golden-crowned Sparrow,DIB-10K_64,10050.Golden-crowned Sparrow,2695
+volcano_junco,Volcano Junco,DIB-10K_64,10051.Volcano Junco,349
+dark_eyed_junco,Dark-eyed Junco,DIB-10K_64,10052.Dark-eyed Junco,2751
+guadalupe_junco,Guadalupe Junco,DIB-10K_64,10053.Guadalupe Junco,18
+yellow_eyed_junco,Yellow-eyed Junco,DIB-10K_64,10054.Yellow-eyed Junco,1076
+bairds_junco,Baird's Junco,DIB-10K_64,10055.Baird's Junco,52
+savannah_sparrow,Savannah Sparrow,DIB-10K_64,10056.Savannah Sparrow,2582
+seaside_sparrow,Seaside Sparrow,DIB-10K_64,10057.Seaside Sparrow,1053
+nelsons_sparrow,Nelson's Sparrow,DIB-10K_64,10058.Nelson's Sparrow,1049
+saltmarsh_sparrow,Saltmarsh Sparrow,DIB-10K_64,10059.Saltmarsh Sparrow,844
+lecontes_sparrow,LeConte's Sparrow,DIB-10K_64,10060.LeConte's Sparrow,969
+bairds_sparrow,Baird's Sparrow,DIB-10K_64,10061.Baird's Sparrow,484
+henslows_sparrow,Henslow's Sparrow,DIB-10K_64,10062.Henslow's Sparrow,913
+grasshopper_sparrow,Grasshopper Sparrow,DIB-10K_64,10063.Grasshopper Sparrow,1912
+grassland_sparrow,Grassland Sparrow,DIB-10K_64,10064.Grassland Sparrow,1051
+yellow_browed_sparrow,Yellow-browed Sparrow,DIB-10K_64,10065.Yellow-browed Sparrow,495
+sierra_madre_sparrow,Sierra Madre Sparrow,DIB-10K_64,10066.Sierra Madre Sparrow,94
+american_tree_sparrow,American Tree Sparrow,DIB-10K_64,10067.American Tree Sparrow,1276
+chipping_sparrow,Chipping Sparrow,DIB-10K_64,10068.Chipping Sparrow,2729
+field_sparrow,Field Sparrow,DIB-10K_64,10069.Field Sparrow,1820
+worthens_sparrow,Worthen's Sparrow,DIB-10K_64,10070.Worthen's Sparrow,50
+black_chinned_sparrow,Black-chinned Sparrow,DIB-10K_64,10071.Black-chinned Sparrow,831
+clay_colored_sparrow,Clay-colored Sparrow,DIB-10K_64,10072.Clay-colored Sparrow,1586
+brewers_sparrow,Brewer's Sparrow,DIB-10K_64,10073.Brewer's Sparrow,1227
+vesper_sparrow,Vesper Sparrow,DIB-10K_64,10074.Vesper Sparrow,1997
+lark_sparrow,Lark Sparrow,DIB-10K_64,10075.Lark Sparrow,2671
+five_striped_sparrow,Five-striped Sparrow,DIB-10K_64,10076.Five-striped Sparrow,612
+black_throated_sparrow,Black-throated Sparrow,DIB-10K_64,10077.Black-throated Sparrow,2071
+sagebrush_sparrow,Sagebrush Sparrow,DIB-10K_64,10078.Sagebrush Sparrow,830
+bells_sparrow,Bell's Sparrow,DIB-10K_64,10079.Bell's Sparrow,705
+tumbes_sparrow,Tumbes Sparrow,DIB-10K_64,10080.Tumbes Sparrow,102
+stripe_capped_sparrow,Stripe-capped Sparrow,DIB-10K_64,10081.Stripe-capped Sparrow,129
+stripe_headed_sparrow,Stripe-headed Sparrow,DIB-10K_64,10082.Stripe-headed Sparrow,620
+black_chested_sparrow,Black-chested Sparrow,DIB-10K_64,10083.Black-chested Sparrow,98
+bridled_sparrow,Bridled Sparrow,DIB-10K_64,10084.Bridled Sparrow,92
+cinnamon_tailed_sparrow,Cinnamon-tailed Sparrow,DIB-10K_64,10085.Cinnamon-tailed Sparrow,83
+rufous_winged_sparrow,Rufous-winged Sparrow,DIB-10K_64,10086.Rufous-winged Sparrow,801
+cassins_sparrow,Cassin's Sparrow,DIB-10K_64,10087.Cassin's Sparrow,681
+bachmans_sparrow,Bachman's Sparrow,DIB-10K_64,10088.Bachman's Sparrow,625
+botteris_sparrow,Botteri's Sparrow,DIB-10K_64,10089.Botteri's Sparrow,516
+rufous_crowned_sparrow,Rufous-crowned Sparrow,DIB-10K_64,10090.Rufous-crowned Sparrow,1347
+rusty_sparrow,Rusty Sparrow,DIB-10K_64,10091.Rusty Sparrow,400
+oaxaca_sparrow,Oaxaca Sparrow,DIB-10K_64,10092.Oaxaca Sparrow,44
+zapata_sparrow,Zapata Sparrow,DIB-10K_64,10093.Zapata Sparrow,394
+striped_sparrow,Striped Sparrow,DIB-10K_64,10094.Striped Sparrow,191
+green_tailed_towhee,Green-tailed Towhee,DIB-10K_64,10095.Green-tailed Towhee,1473
+collared_towhee,Collared Towhee,DIB-10K_64,10096.Collared Towhee,91
+spotted_towhee,Spotted Towhee,DIB-10K_64,10097.Spotted Towhee,2552
+eastern_towhee,Eastern Towhee,DIB-10K_64,10098.Eastern Towhee,2622
+bermuda_towhee,Bermuda Towhee,DIB-10K_64,10099.Bermuda Towhee,6
+white_throated_towhee,White-throated Towhee,DIB-10K_64,10100.White-throated Towhee,91
+canyon_towhee,Canyon Towhee,DIB-10K_64,10101.Canyon Towhee,1123
+california_towhee,California Towhee,DIB-10K_64,10102.California Towhee,1829
+aberts_towhee,Abert's Towhee,DIB-10K_64,10103.Abert's Towhee,744
+rusty_crowned_ground_sparrow,Rusty-crowned Ground Sparrow,DIB-10K_64,10104.Rusty-crowned Ground Sparrow,140
+prevosts_ground_sparrow,Prevost's Ground Sparrow,DIB-10K_64,10105.Prevost's Ground Sparrow,170
+cabaniss_ground_sparrow,Cabanis's Ground Sparrow,DIB-10K_64,10106.Cabanis's Ground Sparrow,59
+white_eared_ground_sparrow,White-eared Ground Sparrow,DIB-10K_64,10107.White-eared Ground Sparrow,322
+olive_sparrow,Olive Sparrow,DIB-10K_64,10108.Olive Sparrow,1007
+tocuyo_sparrow,Tocuyo Sparrow,DIB-10K_64,10109.Tocuyo Sparrow,63
+green_backed_sparrow,Green-backed Sparrow,DIB-10K_64,10110.Green-backed Sparrow,126
+,,DIB-10K_64,,0
