@@ -17,14 +17,14 @@ from keras.models import Model
 
 # directiory with all images, one folder per class
 dataset_dir = sys.argv[1] 
-nb_epochs = sys.argv[2]
-batch_size = sys.argv[3]
+nb_epochs = int(sys.argv[2])
+batch_size = int(sys.argv[3])
 output_model_dir = sys.argv[4]
 logs_dir = sys.argv[5]  # main dir where logs should be stored
 
 dataset_name = os.path.basename(dataset_dir)
-logs_folder_name = f'{dataset_name}_{nb_epochs}_{batch_size}'
-model_save_file = os.path.join(output_model_dir, f'{dataset_name}_{nb_epochs}_{batch_size}.keras')
+logs_folder_name = f'{dataset_name}_{str(nb_epochs)}_{str(batch_size)}'
+model_save_file = os.path.join(output_model_dir, f'{dataset_name}_{str(nb_epochs)}_{str(batch_size)}.keras')
 patience = 10
 random_state = 0
 
@@ -65,8 +65,8 @@ print(f"Passed arguments: {sys.argv}")
 
 
 print('Loading datasets traina and rest...')
-ds_train = image_dataset_from_directory(dataset_dir, labels='inferred', image_size=(300, 300), validation_split=0.2, subset="training", seed=random_state)
-ds_test = image_dataset_from_directory(dataset_dir, labels='inferred', image_size=(300, 300), validation_split=0.2, subset="validation", seed=random_state)
+ds_train = image_dataset_from_directory(dataset_dir, labels='inferred', image_size=(300, 300), validation_split=0.2, subset="training", seed=random_state, batch_size=batch_size)
+ds_test = image_dataset_from_directory(dataset_dir, labels='inferred', image_size=(300, 300), validation_split=0.2, subset="validation", seed=random_state, batch_size=batch_size)
 print("Done !")
 
 # Obtenir le nombre de classes à partir de ds
