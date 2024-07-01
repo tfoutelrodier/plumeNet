@@ -24,6 +24,11 @@ LOGS_DIR=${BASE_DIR}/logs
 
 python_version=3.10.12  # python version to install and setup as default
 
+# extract metadata from VM
+VM_NAME=$(curl -H "Metadata-Flavor: Google" "http://metadata.google.internal/computeMetadata/v1/instance/name")
+PROJECT_ID=$(curl -H "Metadata-Flavor: Google" "http://metadata.google.internal/computeMetadata/v1/project/project-id")
+ZONE=$(basename $(curl -H "Metadata-Flavor: Google" "http://metadata.google.internal/computeMetadata/v1/instance/zone"))
+
 
 # Install python and venv
 sudo apt-get update  # may be required
@@ -33,7 +38,6 @@ sudo apt-get update  # may be required
 apt install -y build-essential libssl-dev zlib1g-dev libbz2-dev \
     libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev \
     xz-utils tk-dev libffi-dev liblzma-dev python3-openssl git
-
 
 wget https://www.python.org/ftp/python/${python_version}/Python-${python_version}.tgz
 tar -xf Python-${python_version}.tgz
@@ -69,6 +73,9 @@ compressed_dataset_file=${DATASET_MOUNT_DIR}/${DATASET_NAME}.tgz
 tar -xzf ${compressed_dataset_file} --directory ${DATASET_DIR}
 
 
+# potential requirements for tensorflow to run as efficiently as possible on CPU
+apt -y install nvidia-cudnn gcc g++ make 
+
 # install required packages and softwares
 git clone https://github.com/tfoutelrodier/plumeNet 
 # go to target branch with required scripts
@@ -80,8 +87,15 @@ pip install -r ${SCRIPT_DIR}/requirements.txt
 
 # run model on dataset
 chmod 770 ${SCRIPT_DIR}/train_dataset_25_50.py
-python ${SCRIPT_DIR}/train_dataset_25_50.py ${DATASET_DIR}/${DATASET_NAME} 10 50 ${MODEL_DIR}/${DATASET_NAME} logs
+python ${SCRIPT_DIR}/train_dataset_25_50.py ${DATASET_DIR}/${DATASET_NAME} 10 50 ${MODEL_DIR} ${LOGS_DIR}
 
 
 # save model
 gsutil rsync -r ${MODEL_DIR} gs://${MODEL_BUCKET}
+gcloud compute scp ${MODEL_DIR} ${VM_NAME}:${MODEL_MOUNT_DIR} --project=${PROJECT_ID} --zone=${ZONE}
+
+:/mount-directory
+
+ --project=project-id
+
+ --zone=zone
