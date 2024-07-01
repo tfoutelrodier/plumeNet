@@ -5,6 +5,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import sys
 import pickle
+import logging
+
 from keras.utils import image_dataset_from_directory
 import tensorflow as tf
 from keras.callbacks import EarlyStopping, TensorBoard
@@ -12,17 +14,28 @@ from keras.callbacks import EarlyStopping, TensorBoard
 from keras.layers import Dense, GlobalAveragePooling2D
 from keras.models import Model
 
+
 # directiory with all images, one folder per class
-dataset_name = sys.argv[0] 
+dataset_dir = sys.argv[0] 
 nb_epochs = sys.argv[1]
 batch_size = sys.argv[2]
 output_model_dir = sys.argv[3]
+logs_dir = sys.argv[4]
 
-dataset_dir = dataset_name
+dataset_name = os.path.basename(dataset_dir)
 logs_folder_name = f'{dataset_name}_{nb_epochs}_{batch_size}'
 model_save_file = os.path.join(output_model_dir, f'{dataset_name}_{nb_epochs}_{batch_size}.keras')
 patience = 10
 random_state = 0
+
+# set logging
+logger = logging.getLogger(__name__)
+logging.basicConfig(filename=os.path.join(logs_folder_,), encoding='utf-8', level=logging.DEBUG)
+logger.debug('This message should go to the log file')
+logger.info('So should this')
+logger.warning('And this, too')
+logger.error('And non-ASCII stuff, too, like Øresund and Malmö')
+
 
 
 def create_model() -> 'Model':
@@ -46,6 +59,9 @@ def create_model() -> 'Model':
         layer.trainable = False
 
     return model
+
+
+
 
 
 print('Loading datasets traina and rest...')
