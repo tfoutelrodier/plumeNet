@@ -61,7 +61,7 @@ def create_model() -> 'Model':
     return model
 
 
-
+print(f"Passed arguments: {sys.argv}")
 
 
 print('Loading datasets traina and rest...')
