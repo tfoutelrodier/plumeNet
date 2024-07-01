@@ -16,11 +16,11 @@ from keras.models import Model
 
 
 # directiory with all images, one folder per class
-dataset_dir = sys.argv[0] 
-nb_epochs = sys.argv[1]
-batch_size = sys.argv[2]
-output_model_dir = sys.argv[3]
-logs_dir = sys.argv[4]
+dataset_dir = sys.argv[1] 
+nb_epochs = sys.argv[2]
+batch_size = sys.argv[3]
+output_model_dir = sys.argv[4]
+logs_dir = sys.argv[5]  # main dir where logs should be stored
 
 dataset_name = os.path.basename(dataset_dir)
 logs_folder_name = f'{dataset_name}_{nb_epochs}_{batch_size}'
@@ -86,7 +86,7 @@ model = create_model()
 model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
 callbacks = [EarlyStopping(monitor='val_loss', patience=patience),
-             TensorBoard(log_dir=f'./logs/{logs_folder_name}', histogram_freq=0, write_graph=True, write_images=True)]
+             TensorBoard(log_dir=f'{logs_dir}/{logs_folder_name}', histogram_freq=0, write_graph=True, write_images=True)]
 
 
 # Entraîner le modèle sur votre dataset avec le callback personnalisé
