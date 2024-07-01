@@ -16,11 +16,13 @@ from keras.models import Model
 dataset_name = sys.argv[0] 
 nb_epochs = sys.argv[1]
 batch_size = sys.argv[2]
+output_model_dir = sys.argv[3]
 
 dataset_dir = dataset_name
 logs_folder_name = f'{dataset_name}_{nb_epochs}_{batch_size}'
-model_save_file = f'{dataset_name}_{nb_epochs}_{batch_size}.keras'
+model_save_file = os.path.join(output_model_dir, f'{dataset_name}_{nb_epochs}_{batch_size}.keras')
 patience = 10
+random_state = 0
 
 
 def create_model() -> 'Model':
@@ -46,14 +48,16 @@ def create_model() -> 'Model':
     return model
 
 
-ds_train = image_dataset_from_directory(dataset_dir, labels='inferred', image_size=(300, 300), validation_split=0.2, subset="training", seed=0)
-
-ds_test = image_dataset_from_directory(dataset_dir, labels='inferred', image_size=(300, 300), validation_split=0.2, subset="validation", seed=0)
+print('Loading datasets traina and rest...')
+ds_train = image_dataset_from_directory(dataset_dir, labels='inferred', image_size=(300, 300), validation_split=0.2, subset="training", seed=random_state)
+ds_test = image_dataset_from_directory(dataset_dir, labels='inferred', image_size=(300, 300), validation_split=0.2, subset="validation", seed=random_state)
+print("Done !")
 
 # Obtenir le nombre de classes à partir de ds
 num_classes = len(ds_train.class_names)
 
 # Convertir les étiquettes cibles en vecteurs one-hot
+print('One-hot-encoding')
 ds_train = ds_train.map(lambda x, y: (x, tf.one_hot(y, num_classes)))
 ds_test = ds_test.map(lambda x, y: (x, tf.one_hot(y, num_classes)))
 
