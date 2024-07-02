@@ -67,7 +67,26 @@ ds_test = ds_test.map(lambda x, y: (x, tf.one_hot(y, num_classes)))
 # Run the model
 tf.config.list_physical_devices()
 
-model = create_model(num_classes)
+# model = create_model(num_classes)
+
+# Charger le modèle ResNet50 pré-entraîné avec les poids ImageNet
+base_model = tf.keras.applications.ResNet50V2(weights='imagenet', include_top=False, input_shape=(300, 300, 3))
+
+# Ajouter une couche de pooling global pour réduire la dimensionalité
+x = base_model.output
+x_2 = GlobalAveragePooling2D()(x)
+
+x_3 = Dense(num_classes, activation='relu')(x_2)
+
+# Ajouter une couche dense pour effectuer la classification
+output = Dense(num_classes, activation='softmax')(x_3)
+
+# Créer le modèle final en combinant le modèle de base et les couches supplémentaires
+model = Model(inputs=base_model.input, outputs=output)
+
+# Geler les couches du modèle de base pour éviter de les entraîner
+for layer in base_model.layers:
+    layer.trainable = False
 
 # Compiler le modèle
 logger.info("Compiling model")

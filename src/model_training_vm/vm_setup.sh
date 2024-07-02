@@ -6,7 +6,7 @@
 # main information
 DATASET_NAME="french_bird_db_25_50"
 
-BASE_DIR=$(pwd)  # should be home. It will beak the code if you change it
+BASE_DIR=$HOME  # should be home. It might beak the code if you change it
 
 # Datasets import
 DATASET_BUCKET="french_bird_db_25-50"
