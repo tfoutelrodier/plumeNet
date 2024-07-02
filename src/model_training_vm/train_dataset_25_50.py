@@ -17,14 +17,15 @@ output_model_dir = sys.argv[4]
 logs_dir = sys.argv[5]  # main dir where logs should be stored
 
 dataset_name = os.path.basename(dataset_dir)
-logs_folder_name = f'{dataset_name}_E{str(nb_epochs)}_BS{str(batch_size)}'
+logs_folder_name = f'{dataset_name}_E{str(nb_epochs)}_BS{str(batch_size)}.log'
 model_save_file = os.path.join(output_model_dir, f'{dataset_name}_{str(nb_epochs)}_{str(batch_size)}.keras')
 patience = 10
 random_state = 0
 
 # set logging
+os.mkdir(os.path.join(logs_dir, logs_folder_name))
 logger = logging.getLogger(__name__)
-logging.basicConfig(filename=os.path.join(logs_dir, logs_folder_name), encoding='utf-8', level=logging.DEBUG)
+logging.basicConfig(filename=os.path.join(logs_dir, logs_folder_name, "script_log.log"), encoding='utf-8', level=logging.DEBUG)
 logger.info(f"Passed arguments: {sys.argv}")
 
 
@@ -51,7 +52,7 @@ def create_model(num_classes: int) -> 'Model':
     return model
 
 
-logger.into('Loading datasets traina and rest...')
+logger.info('Loading datasets traina and rest...')
 ds_train = image_dataset_from_directory(dataset_dir, labels='inferred', image_size=(300, 300), validation_split=0.2, subset="training", seed=random_state, batch_size=batch_size)
 ds_test = image_dataset_from_directory(dataset_dir, labels='inferred', image_size=(300, 300), validation_split=0.2, subset="validation", seed=random_state, batch_size=batch_size)
 logger.info("Done !")
@@ -101,5 +102,5 @@ logger.info('training_model')
 history = model.fit(ds_train, epochs=nb_epochs, callbacks=callbacks, validation_data=ds_test)
 
 # save model to pickle
-logger.info(f'saving model into: {model_save_file}')
+logger.info(f'saving model info: {model_save_file}')
 model.save(model_save_file)

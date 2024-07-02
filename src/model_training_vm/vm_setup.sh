@@ -35,7 +35,7 @@ sudo apt-get update  # may be required
 
 # install specific version of python
 # build specific python version from source
-apt install -y build-essential libssl-dev zlib1g-dev libbz2-dev \
+sudo apt install -y build-essential libssl-dev zlib1g-dev libbz2-dev \
     libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev \
     xz-utils tk-dev libffi-dev liblzma-dev python3-openssl git
 
@@ -46,15 +46,15 @@ cd Python-${python_version}
 ./configure --enable-optimizations
 make -j 4  # 4 is CPU number here
 
-make altinstall
+sudo make altinstall
 
 # install pip 
-sudo apt install python3-pip
+sudo apt install -y python3-pip
 
 
 # setup venv from built python version
 cd ${BASE_DIR}
-${BASE_DIR}/Python-${python_version}/python/python -m venv ${VENV_DIR}
+${BASE_DIR}/Python-${python_version}/Python-${python_version}/python -m venv ${VENV_DIR}  || ${BASE_DIR}/Python-${python_version}/python -m venv ${VENV_DIR}
 source .venv/bin/activate 
 
 
