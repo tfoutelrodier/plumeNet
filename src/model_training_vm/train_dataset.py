@@ -22,7 +22,7 @@ logs_dir = sys.argv[5]  # main dir where logs should be stored
 
 dataset_name = os.path.basename(dataset_dir)
 logs_folder_name = f'{dataset_name}_E{str(nb_epochs)}_BS{str(batch_size)}'
-model_save_file = os.path.join(output_model_dir, f'{dataset_name}_{str(nb_epochs)}_{str(batch_size)}.keras')
+model_save_file_basename = os.path.join(output_model_dir, f'{dataset_name}_BS{str(batch_size)}.keras')
 patience = 10
 random_state = 0
 
@@ -109,8 +109,11 @@ callbacks = [EarlyStopping(monitor='val_loss', patience=10),
 
 # Entraîner le modèle sur votre dataset avec le callback personnalisé
 logger.info('training_model')
-history = model.fit(ds_train_preprocessed, epochs=10, callbacks=callbacks, validation_data=ds_test_preprocessed)
+for epoch in range(nb_epochs):
+    logger.info(f"starting epoch {str(epoch)}")
+    model_save_file = model_save_file_basename + f"_epoch{str(epoch)}.keras"
+    history = model.fit(ds_train_preprocessed, epochs=2, callbacks=callbacks, validation_data=ds_test_preprocessed)
 
-# save model to pickle
-logger.info(f'saving model info: {model_save_file}')
-model.save(model_save_file)
+    # save model
+    logger.info(f'saving model info for loop {str(epoch)}: {model_save_file}')
+    model.save(model_save_file)
