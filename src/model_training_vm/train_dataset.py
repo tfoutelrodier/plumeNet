@@ -112,8 +112,11 @@ logger.info('training_model')
 for epoch in range(nb_epochs):
     logger.info(f"starting epoch {str(epoch)}")
     model_save_file = model_save_file_basename + f"_epoch{str(epoch)}.keras"
+    model_weights_save_file = model_save_file_basename + f"_epoch{str(epoch)}_weigths.weights"
+
     history = model.fit(ds_train_preprocessed, epochs=1, callbacks=callbacks, validation_data=ds_test_preprocessed)
 
     # save model
     logger.info(f'saving model info for loop {str(epoch)}: {model_save_file}')
     model.save(model_save_file)
+    model.save_weights(model_weights_save_file, overwrite=True)
