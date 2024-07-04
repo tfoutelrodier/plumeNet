@@ -92,7 +92,7 @@ x_3 = Dropout(0.5)(x_3)
 output = Dense(num_classes, activation='softmax')(x_3)
 
 # Créer le modèle final en combinant le modèle de base et les couches supplémentaires
-model2 = Model(inputs=base_model.input, outputs=output)
+model = Model(inputs=base_model.input, outputs=output)
 
 # Geler les couches du modèle de base pour éviter de les entraîner
 for layer in base_model.layers:
@@ -112,7 +112,7 @@ logger.info('training_model')
 for epoch in range(nb_epochs):
     logger.info(f"starting epoch {str(epoch)}")
     model_save_file = model_save_file_basename + f"_epoch{str(epoch)}.keras"
-    history = model.fit(ds_train_preprocessed, epochs=2, callbacks=callbacks, validation_data=ds_test_preprocessed)
+    history = model.fit(ds_train_preprocessed, epochs=1, callbacks=callbacks, validation_data=ds_test_preprocessed)
 
     # save model
     logger.info(f'saving model info for loop {str(epoch)}: {model_save_file}')

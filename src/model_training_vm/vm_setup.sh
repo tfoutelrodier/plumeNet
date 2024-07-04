@@ -4,12 +4,12 @@
 # load dataset, install required packages, create required folders
 
 # main information
-DATASET_NAME="french_bird_db_400_800"
+DATASET_NAME="french_bird_db_200_400"
 
 BASE_DIR=$HOME  # should be home. It might beak the code if you change it
 
 # Datasets import
-DATASET_BUCKET="french_bird_db"
+DATASET_BUCKET="french_bird_datasets"
 DATASET_MOUNT_DIR="/mnt/dataset"
 DATASET_DIR=${BASE_DIR}/"dataset"
 
@@ -28,6 +28,9 @@ python_version=3.10.12  # python version to install and setup as default
 VM_NAME=$(curl -H "Metadata-Flavor: Google" "http://metadata.google.internal/computeMetadata/v1/instance/name")
 PROJECT_ID=$(curl -H "Metadata-Flavor: Google" "http://metadata.google.internal/computeMetadata/v1/project/project-id")
 ZONE=$(basename $(curl -H "Metadata-Flavor: Google" "http://metadata.google.internal/computeMetadata/v1/instance/zone"))
+
+NB_EPOCHS=40
+BATCH_SIZE=64
 
 
 # Install python and venv
@@ -85,8 +88,8 @@ cd plumeNet && git checkout feat/model_training_vm && cd ${BASE_DIR}
 pip install -r ${SCRIPT_DIR}/requirements.txt
 
 # run model on dataset
-chmod 770 ${SCRIPT_DIR}/train_dataset_25_50.py
-python ${SCRIPT_DIR}/train_dataset_25_50.py ${DATASET_DIR}/${DATASET_NAME} 10 50 ${MODEL_DIR} ${LOGS_DIR}
+chmod 770 ${SCRIPT_DIR}/train_dataset.py
+python ${SCRIPT_DIR}/train_dataset.py ${DATASET_DIR}/${DATASET_NAME} ${NB_EPOCHS} ${BATCH_SIZE} ${MODEL_DIR} ${LOGS_DIR}
 
 
 # save model
